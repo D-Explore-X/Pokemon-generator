@@ -1,0 +1,50 @@
+Random-pokemon-Generator (main folder)
+ subfolders:
+     1.Public (subfolder 1 in main folder)
+         subfolders:
+            a.dex
+               dex contains json files related to region of pokemon as follows
+               all.json
+               alola_usum.json
+ 		alola.json
+		galar.json
+		hisui.json
+		hoenn.json
+		johto.json
+		kalos.json
+		kanto.json
+		paldea.json
+		sinnoh.json
+		sinnoh_pt.json
+		unova.json
+		unova_b2w2.json
+		
+            b.sprites
+               sprites contains images of pokemon in two subfolders as 
+                i.normal
+                   normal images  
+                ii.shiny 
+                    shiny images
+        files in npublic folders are 
+        apple-touch.icon.png
+        favicon-192.png
+        favicon-512.png
+        favicon.ico
+        favicon.svg
+        index.html
+        manifest.webmanifest
+        rss.xml
+        style.css
+     2.src (subfolder 2 in main folder)
+       src contains the typescript files as
+       i.history.ts
+       ii.options.ts
+       iii.pokemon.ts
+       iv.random.ts
+        v.utils.ts
+    main folder contain other file as follows 
+    makefile
+    package-lock.json
+    package.json
+    tsconfig.json
+            
