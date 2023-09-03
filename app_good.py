@@ -1,7 +1,6 @@
-from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask import Flask, render_template, request, jsonify
 import json
 import random
-import os
 
 app = Flask(__name__)
 
@@ -72,35 +71,7 @@ def generate_pokemon():
         num_pokemon = len(eligible_pokemon)
     selected_pokemon = random.sample(eligible_pokemon, num_pokemon)
 
-    # Get sprite URLs for selected Pokémon
-    sprite_urls = []
-    if current_options["sprites"]:
-        sprite_urls = [get_sprite_url(pokemon) for pokemon in selected_pokemon]
-
-    return jsonify({
-        "pokemon": selected_pokemon,
-        "sprite_urls": sprite_urls
-    })
-
-def get_sprite_url(pokemon):
-    sprite_dir = "pokemon_sprites"
-    sprite_type = "normal"
-    sprite_suffix = ""
-    
-    if current_options["sprites"]:
-        sprite_type = "shiny" if "shiny" in current_options else "normal"
-    
-    # Construct the sprite file name based on Pokémon name
-    sprite_filename = f"{pokemon['name'].lower()}{sprite_suffix}.png"
-    
-    # Define the sprite path relative to the "static" folder
-    sprite_path = os.path.join(sprite_dir, sprite_type, sprite_filename)
-    
-    # Construct the URL using Flask's send_from_directory
-    sprite_url = app.config['SITE_URL'] + sprite_path
-    
-    return sprite_url
+    return jsonify(selected_pokemon)
 
 if __name__ == '__main__':
-    app.config['SITE_URL'] = "http://localhost:5000"
     app.run(debug=True)

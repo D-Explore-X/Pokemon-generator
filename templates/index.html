@@ -80,8 +80,45 @@
 
 <footer>
     <p>
-        Pokémon is &copy; Nintendo.</p>
+        Zeshan ALi Shoban . D Explore X</p>
 </footer>
-
+<!-- Add JavaScript to handle the form submission and update results -->
+<script>
+    document.getElementById("controls").addEventListener("submit", function (e) {
+        e.preventDefault(); // Prevent the form from submitting normally
+        const formData = new FormData(this);
+        
+        // Send an AJAX request to Flask to generate Pokémon
+        fetch("/generate", {
+            method: "POST",
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Handle the response and update the results section
+            const resultsSection = document.getElementById("results");
+            resultsSection.innerHTML = ""; // Clear previous results
+            
+            // Iterate through the generated Pokémon and display them
+            data.pokemon.forEach(pokemon => {
+                const resultDiv = document.createElement("div");
+                resultDiv.textContent = JSON.stringify(pokemon);
+                
+                // If sprites option is selected, display the sprite
+                if (data.sprite_urls && data.sprite_urls.length > 0) {
+                    const spriteImg = document.createElement("img");
+                    spriteImg.src = data.sprite_urls.shift();
+                    spriteImg.alt = pokemon.name;
+                    resultDiv.appendChild(spriteImg);
+                }
+                
+                resultsSection.appendChild(resultDiv);
+            });
+        })
+        .catch(error => {
+            console.error("Error:", error);
+        });
+    });
+</script>
 </body>
 </html>
