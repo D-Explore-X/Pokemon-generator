@@ -39,7 +39,6 @@ def options():
     if request.method == 'POST':
         # Load options from the POST request
         options = request.form.to_dict()
-        
         # Update the global options with the new values
         for key, value in options.items():
             if key in current_options:
