@@ -82,13 +82,13 @@
     </div>
     <div class="right-column">
         <section id="results">
-            <!-- Output results here -->
+            <!-- Output results and sprites here -->
         </section>
     </div>
 </div>
 
 <footer>
-    <p>Zeshan Ali @ D explorex </p>
+    <p>Zeshan ALi Shoban . D Explore X</p>
 </footer>
 <!-- Add JavaScript to handle the form submission and update results -->
 <script>
@@ -110,20 +110,9 @@
             // Iterate through the generated Pokémon and display them
             data.pokemon.forEach(pokemon => {
                 const resultDiv = document.createElement("div");
+                resultDiv.textContent = JSON.stringify(pokemon);
                 
-                // Display the Pokémon name
-                const nameElement = document.createElement("p");
-                nameElement.textContent = `Name: ${pokemon.name}`;
-                resultDiv.appendChild(nameElement);
-
-                // If "forms" option is selected, display the form (if available)
-                if (data.forms && data.forms.length > 0) {
-                    const formsElement = document.createElement("p");
-                    formsElement.textContent = `Forms: ${pokemon.forms.join(', ')}`;
-                    resultDiv.appendChild(formsElement);
-                }
-
-                // If "sprites" option is selected, display the sprite
+                // If sprites option is selected, display the sprite
                 if (data.sprite_urls && data.sprite_urls.length > 0) {
                     const spriteImg = document.createElement("img");
                     spriteImg.src = data.sprite_urls.shift();

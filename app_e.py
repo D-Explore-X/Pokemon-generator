@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory
 import json
 import random
 import os
@@ -27,7 +27,7 @@ regions = [
 
 pokemon_data = {}
 for region in regions:
-    with open(os.path.join(data_dir, region), "r") as json_file:
+    with open(data_dir + region, "r") as json_file:
         region_data = json.load(json_file)
         pokemon_data[region.split(".")[0]] = region_data
 
@@ -83,7 +83,7 @@ def generate_pokemon():
     })
 
 def get_sprite_url(pokemon):
-    sprite_dir = "static/pokemon_sprites"
+    sprite_dir = "pokemon_sprites"
     sprite_type = "normal"
     sprite_suffix = ""
     
@@ -97,7 +97,7 @@ def get_sprite_url(pokemon):
     sprite_path = os.path.join(sprite_dir, sprite_type, sprite_filename)
     
     # Construct the URL using Flask's send_from_directory
-    sprite_url = sprite_path
+    sprite_url = app.config['SITE_URL'] + sprite_path
     
     return sprite_url
 
