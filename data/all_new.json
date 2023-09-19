@@ -1,0 +1,218 @@
+[
+	{
+		"id": 1,
+		"name": "Bulbasaur",
+		"isNfe": true,
+		"types": [
+			"grass",
+			"poison"
+		],
+		"desc": "Bulbasaur is a Grass/Poison-type Pokémon known for the plant bulb on its back. It evolves into Ivysaur."
+	},
+	{
+		"id": 2,
+		"name": "Ivysaur",
+		"isNfe": true,
+		"types": [
+			"grass",
+			"poison"
+		],
+		"desc": "Ivysaur is the evolved form of Bulbasaur, and it continues to grow its plant bulb. It eventually evolves into Venusaur."
+	},
+	{
+		"id": 3,
+		"name": "Venusaur",
+		"types": [
+			"grass",
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "Venusaur",
+				"types": [
+					"grass",
+					"poison"
+				]
+			},
+			{
+				"name": "Venusaur Mega",
+				"types": [
+					"grass",
+					"poison"
+				],
+				"spriteSuffix": "mega",
+				"isMega": true
+			},
+			{
+				"name": "Venusaur Gigantamax",
+				"types": [
+					"grass",
+					"poison"
+				],
+				"spriteSuffix": "gigantamax",
+				"isGigantamax": true
+			}
+		],
+		"desc": "Venusaur is a fully evolved Grass/Poison-type Pokémon with a large plant bulb on its back. It can Mega Evolve and Gigantamax to enhance its abilities."
+	},
+	{
+		"id": 4,
+		"name": "Charmander",
+		"isNfe": true,
+		"types": [
+			"fire"
+		],
+		"desc": "Charmander is a Fire-type Pokémon known for the flame at the tip of its tail. It evolves into Charmeleon."
+	},
+	{
+		"id": 5,
+		"name": "Charmeleon",
+		"isNfe": true,
+		"types": [
+			"fire"
+		],
+		"desc": "Charmeleon is the evolved form of Charmander and has a fiery temper. It eventually evolves into Charizard."
+	},
+	{
+		"id": 6,
+		"name": "Charizard",
+		"types": [
+			"fire",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "Charizard",
+				"types": [
+					"fire",
+					"flying"
+				]
+			},
+			{
+				"name": "Charizard Mega X",
+				"types": [
+					"fire",
+					"dragon"
+				],
+				"spriteSuffix": "mega-x",
+				"isMega": true
+			},
+			{
+				"name": "Charizard Mega Y",
+				"types": [
+					"fire",
+					"flying"
+				],
+				"spriteSuffix": "mega-y",
+				"isMega": true
+			},
+			{
+				"name": "Charizard Gigantamax",
+				"types": [
+					"fire",
+					"flying"
+				],
+				"spriteSuffix": "gigantamax",
+				"isGigantamax": true
+			}
+		],
+		"desc": "Charizard is a Fire/Flying-type Pokémon known for its powerful flames. It can Mega Evolve into two different forms or Gigantamax for even more power."
+	},
+	{
+		"id": 7,
+		"name": "Squirtle",
+		"isNfe": true,
+		"types": [
+			"water"
+		],
+		"desc": "Squirtle is a Water-type Pokémon that resembles a small turtle. It is one of the original starter Pokémon and evolves into Wartortle."
+	},
+	{
+		"id": 8,
+		"name": "Wartortle",
+		"isNfe": true,
+		"types": [
+			"water"
+		],
+		"desc": "Wartortle is the evolved form of Squirtle and is known for its powerful water-based attacks. It eventually evolves into Blastoise."
+	},
+	{
+		"id": 9,
+		"name": "Blastoise",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "Blastoise",
+				"types": [
+					"water"
+				]
+			},
+			{
+				"name": "Blastoise Mega",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "mega",
+				"isMega": true
+			},
+			{
+				"name": "Blastoise Gigantamax",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "gigantamax",
+				"isGigantamax": true
+			}
+		],
+		"desc": "Blastoise is a fully evolved Water-type Pokémon with powerful cannons on its shell. It can Mega Evolve and Gigantamax for extra firepower."
+	},
+	{
+		"id": 10,
+		"name": "Caterpie",
+		"isNfe": true,
+		"types": [
+			"bug"
+		],
+		"desc": "Caterpie is a Bug-type Pokémon with a voracious appetite for leaves. It evolves into Metapod."
+	},
+	{
+		"id": 11,
+		"name": "Metapod",
+		"isNfe": true,
+		"types": [
+			"bug"
+		],
+		"desc": "Metapod is the evolved form of Caterpie and is known for its tough shell. It eventually evolves into Butterfree."
+	},
+	{
+		"id": 12,
+		"name": "Butterfree",
+		"types": [
+			"bug",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "Butterfree",
+				"types": [
+					"bug",
+					"flying"
+				]
+			},
+			{
+				"name": "Butterfree Gigantamax",
+				"types": [
+					"bug",
+					"flying"
+				],
+				"spriteSuffix": "
+
+gigantamax",
+				"isGigantamax": true
+			}
+		],
+		"desc": "Butterfree is a Bug/Flying-type Pokémon known for its graceful wings. It can also Gigantamax to become even more majestic."
+	}
+]
