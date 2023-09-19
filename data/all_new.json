@@ -1,218 +1,639 @@
 [
-	{
-		"id": 1,
-		"name": "Bulbasaur",
-		"isNfe": true,
-		"types": [
-			"grass",
-			"poison"
-		],
-		"desc": "Bulbasaur is a Grass/Poison-type Pokémon known for the plant bulb on its back. It evolves into Ivysaur."
-	},
-	{
-		"id": 2,
-		"name": "Ivysaur",
-		"isNfe": true,
-		"types": [
-			"grass",
-			"poison"
-		],
-		"desc": "Ivysaur is the evolved form of Bulbasaur, and it continues to grow its plant bulb. It eventually evolves into Venusaur."
-	},
-	{
-		"id": 3,
-		"name": "Venusaur",
-		"types": [
-			"grass",
-			"poison"
-		],
-		"forms": [
-			{
-				"name": "Venusaur",
-				"types": [
-					"grass",
-					"poison"
-				]
-			},
-			{
-				"name": "Venusaur Mega",
-				"types": [
-					"grass",
-					"poison"
-				],
-				"spriteSuffix": "mega",
-				"isMega": true
-			},
-			{
-				"name": "Venusaur Gigantamax",
-				"types": [
-					"grass",
-					"poison"
-				],
-				"spriteSuffix": "gigantamax",
-				"isGigantamax": true
-			}
-		],
-		"desc": "Venusaur is a fully evolved Grass/Poison-type Pokémon with a large plant bulb on its back. It can Mega Evolve and Gigantamax to enhance its abilities."
-	},
-	{
-		"id": 4,
-		"name": "Charmander",
-		"isNfe": true,
-		"types": [
-			"fire"
-		],
-		"desc": "Charmander is a Fire-type Pokémon known for the flame at the tip of its tail. It evolves into Charmeleon."
-	},
-	{
-		"id": 5,
-		"name": "Charmeleon",
-		"isNfe": true,
-		"types": [
-			"fire"
-		],
-		"desc": "Charmeleon is the evolved form of Charmander and has a fiery temper. It eventually evolves into Charizard."
-	},
-	{
-		"id": 6,
-		"name": "Charizard",
-		"types": [
-			"fire",
-			"flying"
-		],
-		"forms": [
-			{
-				"name": "Charizard",
-				"types": [
-					"fire",
-					"flying"
-				]
-			},
-			{
-				"name": "Charizard Mega X",
-				"types": [
-					"fire",
-					"dragon"
-				],
-				"spriteSuffix": "mega-x",
-				"isMega": true
-			},
-			{
-				"name": "Charizard Mega Y",
-				"types": [
-					"fire",
-					"flying"
-				],
-				"spriteSuffix": "mega-y",
-				"isMega": true
-			},
-			{
-				"name": "Charizard Gigantamax",
-				"types": [
-					"fire",
-					"flying"
-				],
-				"spriteSuffix": "gigantamax",
-				"isGigantamax": true
-			}
-		],
-		"desc": "Charizard is a Fire/Flying-type Pokémon known for its powerful flames. It can Mega Evolve into two different forms or Gigantamax for even more power."
-	},
-	{
-		"id": 7,
-		"name": "Squirtle",
-		"isNfe": true,
-		"types": [
-			"water"
-		],
-		"desc": "Squirtle is a Water-type Pokémon that resembles a small turtle. It is one of the original starter Pokémon and evolves into Wartortle."
-	},
-	{
-		"id": 8,
-		"name": "Wartortle",
-		"isNfe": true,
-		"types": [
-			"water"
-		],
-		"desc": "Wartortle is the evolved form of Squirtle and is known for its powerful water-based attacks. It eventually evolves into Blastoise."
-	},
-	{
-		"id": 9,
-		"name": "Blastoise",
-		"types": [
-			"water"
-		],
-		"forms": [
-			{
-				"name": "Blastoise",
-				"types": [
-					"water"
-				]
-			},
-			{
-				"name": "Blastoise Mega",
-				"types": [
-					"water"
-				],
-				"spriteSuffix": "mega",
-				"isMega": true
-			},
-			{
-				"name": "Blastoise Gigantamax",
-				"types": [
-					"water"
-				],
-				"spriteSuffix": "gigantamax",
-				"isGigantamax": true
-			}
-		],
-		"desc": "Blastoise is a fully evolved Water-type Pokémon with powerful cannons on its shell. It can Mega Evolve and Gigantamax for extra firepower."
-	},
-	{
-		"id": 10,
-		"name": "Caterpie",
-		"isNfe": true,
-		"types": [
-			"bug"
-		],
-		"desc": "Caterpie is a Bug-type Pokémon with a voracious appetite for leaves. It evolves into Metapod."
-	},
-	{
-		"id": 11,
-		"name": "Metapod",
-		"isNfe": true,
-		"types": [
-			"bug"
-		],
-		"desc": "Metapod is the evolved form of Caterpie and is known for its tough shell. It eventually evolves into Butterfree."
-	},
-	{
-		"id": 12,
-		"name": "Butterfree",
-		"types": [
-			"bug",
-			"flying"
-		],
-		"forms": [
-			{
-				"name": "Butterfree",
-				"types": [
-					"bug",
-					"flying"
-				]
-			},
-			{
-				"name": "Butterfree Gigantamax",
-				"types": [
-					"bug",
-					"flying"
-				],
-				"spriteSuffix": "
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Bulbasaur is a dual-type Grass/Poison Pokémon. It's known for the plant bulb on its back."
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Ivysaur is the evolved form of Bulbasaur. It continues to grow the plant on its back."
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "types": ["grass", "poison"],
+        "forms": [
+            {
+                "name": "Venusaur",
+                "types": ["grass", "poison"]
+            },
+            {
+                "name": "Venusaur Mega",
+                "types": ["grass", "poison"],
+                "spriteSuffix": "mega",
+                "isMega": true
+            },
+            {
+                "name": "Venusaur Gigantamax",
+                "types": ["grass", "poison"],
+                "spriteSuffix": "gigantamax",
+                "isGigantamax": true
+            }
+        ],
+        "desc": "Venusaur is a fully evolved Grass/Poison-type Pokémon. It can Mega Evolve and Gigantamax for even greater power."
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "isNfe": true,
+        "types": ["fire"],
+        "desc": "Charmander is a Fire-type Pokémon with a flame at the end of its tail."
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "isNfe": true,
+        "types": ["fire"],
+        "desc": "Charmeleon is the evolved form of Charmander. It has a fiery personality and breathes fire."
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "types": ["fire", "flying"],
+        "forms": [
+            {
+                "name": "Charizard",
+                "types": ["fire", "flying"]
+            },
+            {
+                "name": "Charizard Mega X",
+                "types": ["fire", "dragon"],
+                "spriteSuffix": "mega-x",
+                "isMega": true
+            },
+            {
+                "name": "Charizard Mega Y",
+                "types": ["fire", "flying"],
+                "spriteSuffix": "mega-y",
+                "isMega": true
+            },
+            {
+                "name": "Charizard Gigantamax",
+                "types": ["fire", "flying"],
+                "spriteSuffix": "gigantamax",
+                "isGigantamax": true
+            }
+        ],
+        "desc": "Charizard is a Fire/Flying-type Pokémon. It has multiple forms, including Mega Evolutions and Gigantamax."
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "isNfe": true,
+        "types": ["water"],
+        "desc": "Squirtle is a Water-type Pokémon known for its water cannons on its back."
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "isNfe": true,
+        "types": ["water"],
+        "desc": "Wartortle is the evolved form of Squirtle. It has powerful water-based attacks."
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "types": ["water"],
+        "forms": [
+            {
+                "name": "Blastoise",
+                "types": ["water"]
+            },
+            {
+                "name": "Blastoise Mega",
+                "types": ["water"],
+                "spriteSuffix": "mega",
+                "isMega": true
+            },
+            {
+                "name": "Blastoise Gigantamax",
+                "types": ["water"],
+                "spriteSuffix": "gigantamax",
+                "isGigantamax": true
+            }
+        ],
+        "desc": "Blastoise is a Water-type Pokémon known for its powerful water cannons. It can Mega Evolve and Gigantamax."
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "isNfe": true,
+        "types": ["bug"],
+        "desc": "Caterpie is a Bug-type Pokémon. It's often found munching on leaves."
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "isNfe": true,
+        "types": ["bug"],
+        "desc": "Metapod is the evolved form of Caterpie. It has a tough shell but limited mobility."
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "types": ["bug", "flying"],
+        "forms": [
+            {
+                "name": "Butterfree",
+                "types": ["bug", "flying"]
+            },
+            {
+                "name": "Butterfree Gigantamax",
+                "types": ["bug", "flying"],
+                "spriteSuffix": "gigantamax",
+                "isGigantamax": true
+            }
+        ],
+        "desc": "Butterfree is a Bug/Flying-type Pokémon known for its graceful wings. It can also Gigantamax to become even more majestic."
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "isNfe": true,
+        "types": ["bug", "poison"],
+        "desc": "Weedle is a Bug/Poison-type Pokémon. It's often found in forests and fields."
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "isNfe": true,
+        "types": ["bug", "poison"],
+        "desc": "Kakuna is the evolved form of Weedle. It's in a cocoon-like state and can't move much."
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "types": ["bug", "poison"],
+        "forms": [
+            {
+                "name": "Beedrill",
+                "types": ["bug", "poison"]
+            },
+            {
+                "name": "Beedrill Mega",
+                "types": ["bug", "poison"],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Beedrill is a Bug/Poison-type Pokémon known for its sharp stingers. It can Mega Evolve for increased power."
+    },
+    {
+        "id": 16,
+        "name":
 
-gigantamax",
-				"isGigantamax": true
-			}
-		],
-		"desc": "Butterfree is a Bug/Flying-type Pokémon known for its graceful wings. It can also Gigantamax to become even more majestic."
-	}
+ "Pidgey",
+        "isNfe": true,
+        "types": ["normal", "flying"],
+        "desc": "Pidgey is a Normal/Flying-type Pokémon. It's common and known for its gentle nature."
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "isNfe": true,
+        "types": ["normal", "flying"],
+        "desc": "Pidgeotto is the evolved form of Pidgey. It has strong wings and can fly long distances."
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "types": ["normal", "flying"],
+        "forms": [
+            {
+                "name": "Pidgeot",
+                "types": ["normal", "flying"]
+            },
+            {
+                "name": "Pidgeot Mega",
+                "types": ["normal", "flying"],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Pidgeot is a Normal/Flying-type Pokémon with powerful wings. It can Mega Evolve for increased abilities."
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "isNfe": true,
+        "types": ["normal"],
+        "desc": "Rattata is a Normal-type Pokémon known for its quickness and sharp teeth."
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "types": ["normal"],
+        "desc": "Raticate is a Normal-type Pokémon. It's the evolved form of Rattata."
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "isNfe": true,
+        "types": ["normal", "flying"],
+        "desc": "Spearow is a Normal/Flying-type Pokémon. It's small but has a sharp beak."
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "types": ["normal", "flying"],
+        "desc": "Fearow is a Normal/Flying-type Pokémon. It has a long neck and powerful beak."
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "isNfe": true,
+        "types": ["poison"],
+        "desc": "Ekans is a Poison-type Pokémon known for its coiled body."
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "types": ["poison"],
+        "desc": "Arbok is a Poison-type Pokémon. It's the evolved form of Ekans."
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "isNfe": true,
+        "types": ["electric"],
+        "desc": "Pikachu is an Electric-type Pokémon known for its cuteness and electrical abilities."
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "types": ["electric"],
+        "desc": "Raichu is an Electric-type Pokémon. It's the evolved form of Pikachu."
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "isNfe": true,
+        "types": ["ground"],
+        "desc": "Sandshrew is a Ground-type Pokémon known for its tough skin."
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "types": ["ground"],
+        "desc": "Sandslash is a Ground-type Pokémon. It's the evolved form of Sandshrew."
+    },
+    {
+        "id": 29,
+        "name": "Nidoran♀",
+        "isNfe": true,
+        "types": ["poison"],
+        "desc": "Nidoran♀ is a Poison-type Pokémon known for its cautious nature."
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "isNfe": true,
+        "types": ["poison"],
+        "desc": "Nidorina is the evolved form of Nidoran♀. It's gentle but can be fierce when provoked."
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "types": ["poison", "ground"],
+        "desc": "Nidoqueen is a Poison/Ground-type Pokémon. It's a powerful and nurturing queen."
+    },
+    {
+        "id": 32,
+        "name": "Nidoran♂",
+        "isNfe": true,
+        "types": ["poison"],
+        "desc": "Nidoran♂ is a Poison-type Pokémon known for its pride."
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "isNfe": true,
+        "types": ["poison"],
+        "desc": "Nidorino is the evolved form of Nidoran♂. It's easily angered and very proud."
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "types": ["poison", "ground"],
+        "desc": "Nidoking is a Poison/Ground-type Pokémon known for its strength and ruthlessness."
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "isNfe": true,
+        "types": ["fairy"],
+        "desc": "Clefairy is a Fairy-type Pokémon known for its moon-like appearance."
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "types": ["fairy"],
+        "desc": "Clefable is a Fairy-type Pokémon known for its rare and enchanting presence."
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "isNfe": true,
+        "types": ["fire"],
+        "desc": "Vulpix is a Fire-type Pokémon known for its six orange tails."
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "types": ["fire"],
+        "desc": "Ninetales is a Fire-type Pokémon known for its mystical powers. It's the evolved form of Vulpix."
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "isNfe": true,
+        "types": ["normal", "fairy"],
+        "desc": "Jigglypuff is a Normal/Fairy-type Pokémon known for its lullaby-like singing."
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "types": ["normal", "fairy"],
+        "desc": "Wigglytuff is a Normal/Fairy-type Pokémon. It's the evolved form of Jigglypuff."
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "isNfe": true,
+        "types": ["poison", "flying"],
+        "desc": "Zubat is a Poison/Flying-type Pokémon known for its nocturnal habits."
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "types": ["poison", "flying"],
+        "desc": "Golbat is a Poison/Flying-type Pokémon. It's the evolved form of Zubat."
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Oddish is a Grass/Poison-type Pokémon. It's known for its leaves and vibrant colors."
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Gloom is the evolved form of Oddish. It emits a foul odor."
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "types": ["grass", "poison"],
+        "desc": "Vileplume is a Grass/Poison-type Pokémon. It's known for its large, captivating petals."
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "isNfe": true,
+        "types": ["bug", "grass"],
+        "desc": "Paras is a Bug/Grass-type Pokémon. It's a small, mushroom-like creature."
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "types": ["bug", "grass"],
+        "desc": "Parasect is a Bug/Grass-type Pokémon. It's the evolved form of Paras."
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "isNfe": true,
+        "types": ["bug", "poison"],
+        "desc": "Venonat is a Bug/Poison-type Pokémon known for its large eyes."
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "types": ["bug", "poison"],
+        "desc": "Venomoth is a Bug/Poison-type Pokémon. It's the evolved form of Venonat."
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "isNfe": true,
+        "types": ["ground"],
+        "desc": "Diglett is a Ground-type Pokémon known for its burrowing abilities."
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "types": ["ground"],
+        "desc": "Dugtrio is a Ground-type Pokémon. It's the evolved form of Diglett."
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "isNfe": true,
+        "types": ["normal"],
+        "desc": "Meowth is a Normal-type Pokémon known for its love of coins."
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "types": ["normal"],
+        "desc": "Persian is a Normal-type Pokémon. It's the evolved form of Meowth."
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "isNfe": true,
+        "types": ["water"],
+        "desc": "Psyduck is a Water-type Pokémon known for its constant headaches."
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "types": ["water"],
+        "desc": "Golduck is a Water-type Pokémon. It's the evolved form of Psyduck."
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "isNfe": true,
+        "types": ["fighting"],
+        "desc": "Mankey is a Fighting-type Pokémon known for its short temper."
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "types": ["fighting"],
+        "desc": "Primeape is a Fighting-type Pokémon. It's the evolved form of Mankey."
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "isNfe": true,
+        "types": ["fire"],
+        "desc": "Growlithe is a Fire-type Pokémon known for its loyalty and courage."
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "types": ["fire"],
+        "desc": "Arcanine is a Fire-type Pokémon. It's the evolved form of Growlithe."
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "isNfe": true,
+        "types": ["water"],
+        "desc": "Poliwag is a Water-type Pokémon known for its swirling pattern on its belly."
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "isNfe": true,
+        "types": ["water"],
+        "desc": "Poliwhirl is the evolved form of Poliwag. It has a tadpole-like appearance."
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "types": ["water", "fighting"],
+        "desc": "Poliwrath is a Water/Fighting-type Pokémon. It's the evolved form of Poliwhirl."
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "isNfe": true,
+        "types": ["psychic"],
+        "desc": "Abra is a Psychic-type Pokémon known for its teleportation abilities."
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "isNfe": true,
+        "types": ["psychic"],
+        "desc": "Kadabra is the evolved form of Abra. It's known for its spoon-bending tricks."
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "types": ["psychic"],
+        "forms": [
+            {
+                "name": "Alakazam",
+                "types": ["psychic"]
+            },
+            {
+                "name": "Alakazam Mega",
+                "types": ["psychic"],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Alakazam is a Psychic-type Pokémon known for its high intelligence. It can Mega Evolve for even greater mental abilities."
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "isNfe": true,
+        "types": ["fighting"],
+        "desc": "Machop is a Fighting-type Pokémon known for its powerful muscles."
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "isNfe": true,
+        "types": ["fighting"],
+        "desc": "Machoke is the evolved form of Machop. It's incredibly strong but lacks finesse."
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "types": ["fighting"],
+        "desc": "Machamp is a Fighting-type Pokémon known for its impressive four arms. It's the evolved form of Machoke."
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Bellsprout is a Grass/Poison-type Pokémon. It has a plant-like appearance and a bell-shaped head."
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "isNfe": true,
+        "types": ["grass", "poison"],
+        "desc": "Weepinbell is the evolved form of Bellsprout. It's known for its sharp teeth and vine-like appendages."
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "types": ["grass", "poison"],
+        "desc": "Victreebel is a Grass/Poison-type Pokémon. It's the evolved form of Weepinbell."
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "isNfe": true,
+        "types": ["water", "poison"],
+        "desc": "Tentacool is a Water/Poison-type Pokémon known for its tentacles."
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "types": ["water", "poison"],
+        "desc": "Tentacruel is a Water/Poison-type Pokémon. It's the evolved form of Tentacool."
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "isNfe": true,
+        "types": ["rock", "ground"],
+        "desc": "Geodude is a Rock/Ground-type Pokémon known for its rocky appearance."
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "isNfe": true,
+        "types": ["rock", "ground"],
+        "desc": "Graveler is the evolved form of Geodude. It's known for rolling down mountains."
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "types": ["rock", "ground"],
+        "desc": "Golem is a Rock/Ground-type Pokémon known for its sturdy body. It's the evolved form of Graveler."
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "isNfe": true,
+        "types": ["fire"],
+        "desc": "Ponyta is a Fire-type Pokémon known for its fiery mane."
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "types": ["fire"],
+        "desc": "Rapidash is a Fire-type Pokémon. It's the evolved form of Ponyta and known for its incredible speed."
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "isNfe": true,
+        "types": ["water", "psychic"],
+        "desc": "Slowpoke is a Water/Psychic-type Pokémon known for its slow and absent-minded nature."
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "types": ["water", "psychic"],
+        "desc": "Slowbro is a Water/Psychic-type Pokémon. It's the evolved form of Slowpoke and has a Shellder attached to its tail."
+    }
 ]
