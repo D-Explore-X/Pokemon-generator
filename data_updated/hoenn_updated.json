@@ -1,0 +1,1369 @@
+{
+    "id": 25,
+    "name": "Pikachu",
+    "isNfe": true,
+    "types": ["electric"],
+    "desc": "Pikachu is one of the most iconic Pokémon and is known for its cute and electrifying appearance. It's an Electric type Pokémon that evolves from Pichu and later evolves into Raichu when exposed to a Thunder Stone."
+},
+
+
+    "id": 26,
+    "name": "Raichu",
+    "types": ["electric"],
+    "desc": "Raichu is the evolved form of Pikachu. It retains its Electric type and becomes even more powerful. Unlike Pikachu, Raichu cannot evolve further. It's known for its speed and electrical abilities, capable of generating and discharging high-voltage electricity."
+
+{
+    "id": 27,
+    "name": "Sandshrew",
+    "isNfe": true,
+    "types": ["ground"],
+    "desc": "Sandshrew is a Ground type Pokémon known for its burrowing abilities. It has tough, spiky skin that helps protect it from predators. Sandshrew evolves into Sandslash when exposed to an Ice Stone. Sandslash gains the Ice type in its evolved form, making it a formidable Pokémon with both Ground and Ice attributes."
+},
+{
+    "id": 28,
+    "name": "Sandslash",
+    "types": ["ground"],
+    "desc": "Sandslash is the evolved form of Sandshrew. It is a Ground type Pokémon with sharp quills on its back, which it can launch at enemies. In the Alola region, Sandslash has an Ice and Steel type variant. Sandslash is known for its speed and powerful ground-based moves."
+},
+
+{
+    "id": 37,
+    "name": "Vulpix",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "Vulpix is a Fire type Pokémon with a fox-like appearance. It is known for its six orange tails and its ability to control fire. In the Alola region, Vulpix has an Ice type variant called Alolan Vulpix. Vulpix evolves into Ninetales when exposed to a Fire Stone."
+},
+{
+    "id": 38,
+    "name": "Ninetales",
+    "types": ["fire"],
+    "desc": "Ninetales is a majestic Fire-type Pokémon with nine beautiful tails. It is known for its elegance and mystical aura. Ninetales is said to have the ability to live for a thousand years and is often associated with ancient legends."
+},
+{
+    "id": 39,
+    "name": "Jigglypuff",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Jigglypuff is a cute and round Normal-type Pokémon known for its soothing lullabies. It evolves from Igglybuff when it gains high friendship. Jigglypuff's singing can put anyone who hears it to sleep, and it's often found in forests and meadows."
+},
+{
+    "id": 40,
+    "name": "Wigglytuff",
+    "types": ["normal"],
+    "desc": "Wigglytuff is a gentle and fluffy Normal-type Pokémon. It evolves from Jigglypuff when exposed to a Moon Stone. Despite its cute appearance, Wigglytuff is a powerful and caring protector of its territory and loved ones."
+},
+{
+    "id": 41,
+    "name": "Zubat",
+    "isNfe": true,
+    "types": ["poison", "flying"],
+    "desc": "Zubat is a Poison/Flying-type Pokémon that resembles a bat. It evolves into Golbat starting at level 22. Zubat is known for its ability to navigate in darkness and caves using ultrasonic waves. It's often found in dark places like caves and tunnels."
+},
+{
+    "id": 42,
+    "name": "Golbat",
+    "isNfe": true,
+    "types": ["poison", "flying"],
+    "desc": "Golbat is a Poison/Flying-type Pokémon known for its bat-like appearance and large wings. It evolves from Zubat starting at level 22. Golbat is often found in dark caves and tunnels and is known for its supersonic attacks and maneuverability."
+},
+{
+    "id": 43,
+    "name": "Oddish",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "Oddish is a Grass/Poison-type Pokémon with a radish-like appearance. It evolves into Gloom starting at level 21. Oddish is known for its nocturnal habits, and it emits a sweet fragrance from its leaves to attract prey while hiding in the foliage."
+},
+{
+    "id": 44,
+    "name": "Gloom",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "Gloom is a Grass/Poison-type Pokémon that evolves from Oddish starting at level 21. It is known for its drooping flower, which emits a foul odor. Despite its appearance, Gloom's nectar is used in making herbal medicine."
+},
+{
+    "id": 45,
+    "name": "Vileplume",
+    "types": ["grass", "poison"],
+    "desc": "Vileplume is a Grass/Poison-type Pokémon known for its large, red flower. It is the evolved form of Gloom when exposed to a Leaf Stone. Vileplume's flower releases a sweet and alluring fragrance that can induce drowsiness, making it a sought-after plant in the perfume industry."
+},
+{
+    "id": 54,
+    "name": "Psyduck",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Psyduck is a Water-type Pokémon known for its constant headaches, which trigger its psychic powers. When its headaches become intense, Psyduck can unleash powerful psychic energy. It is often found near bodies of water."
+},
+{
+    "id": 55,
+    "name": "Golduck",
+    "types": ["water"],
+    "desc": "Golduck is a fully evolved Water-type Pokémon that is known for its agility and swimming abilities. It evolves from Psyduck starting at level 33. Golduck's webbed hands and feet make it an excellent swimmer, and it's often seen swimming gracefully in lakes and rivers."
+},
+{
+    "id": 63,
+    "name": "Abra",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Abra is a Psychic-type Pokémon known for its extraordinary teleportation abilities. It often appears to be sleeping and is vulnerable to attacks. Abra evolves into Kadabra starting at level 16."
+},
+{
+    "id": 64,
+    "name": "Kadabra",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Kadabra is a Psychic-type Pokémon that evolves from Abra starting at level 16. It has powerful psychic abilities and is known for bending spoons with its mind. Kadabra's intelligence is exceptional, and it is often seen with a spoon."
+},
+{
+    "id": 65,
+    "name": "Alakazam",
+    "types": ["psychic"],
+    "desc": "Alakazam is a fully evolved Psychic-type Pokémon that evolves from Kadabra when traded. It possesses an incredibly high IQ and has an IQ of over 5,000. Alakazam's psychic powers are immense, and it can remember everything it experiences."
+},
+{
+    "id": 66,
+    "name": "Machop",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "Machop is a Fighting-type Pokémon known for its strong and well-developed muscles. It evolves into Machoke starting at level 28. Machop's training regimen includes lifting Graveler to strengthen its muscles."
+},
+{
+    "id": 67,
+    "name": "Machoke",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "Machoke is a Fighting-type Pokémon that evolves from Machop starting at level 28. It is known for its muscular physique and often works as a laborer or mover. Machoke's belt amplifies its power."
+},
+{
+    "id": 68,
+    "name": "Machamp",
+    "types": ["fighting"],
+    "desc": "Machamp is a fully evolved Fighting-type Pokémon that evolves from Machoke when traded. It possesses incredible strength and four powerful arms. Machamp is capable of moving mountains with ease and is a symbol of power."
+},
+{
+    "id": 72,
+    "name": "Tentacool",
+    "isNfe": true,
+    "types": ["water", "poison"],
+    "desc": "Tentacool is a Water/Poison-type Pokémon known for its jellyfish-like appearance. It drifts in oceans and seas, using its tentacles to capture prey. Tentacool's sting can be painful, so swimmers should be cautious."
+},
+{
+    "id": 73,
+    "name": "Tentacruel",
+    "types": ["water", "poison"],
+    "desc": "Tentacruel is a fully evolved Water/Poison-type Pokémon that evolves from Tentacool starting at level 30. It is larger and more menacing than Tentacool, with longer tentacles. Tentacruel can spray a toxic ink from its mouth as a defense mechanism."
+},
+{
+    "id": 74,
+    "name": "Geodude",
+    "isNfe": true,
+    "types": ["rock", "ground"],
+    "desc": "Geodude is a Rock/Ground-type Pokémon known for its rocky appearance. It evolves into Graveler starting at level 25. Geodude often clings to mountain surfaces and can roll itself into a ball to move around."
+},
+{
+    "id": 75,
+    "name": "Graveler",
+    "isNfe": true,
+    "types": ["rock", "ground"],
+    "desc": "Graveler is a Rock/Ground-type Pokémon that evolves from Geodude starting at level 25. It is known for its sturdy and rugged appearance. Graveler often travels in groups and can cause small earthquakes by rolling downhill."
+},
+{
+    "id": 76,
+    "name": "Golem",
+    "types": ["rock", "ground"],
+    "desc": "Golem is a fully evolved Rock/Ground-type Pokémon that evolves from Graveler when traded. It is incredibly durable and can withstand heavy blows without flinching. Golem is often used for construction and excavation work."
+},
+{
+    "id": 81,
+    "name": "Magnemite",
+    "isNfe": true,
+    "types": ["electric", "steel"],
+    "desc": "Magnemite is an Electric/Steel-type Pokémon known for its ability to generate electromagnetic fields. It uses its magnetic properties to attach itself to metal objects. Magnemite evolves into Magneton starting at level 30."
+},
+{
+    "id": 82,
+    "name": "Magneton",
+    "types": ["electric", "steel"],
+    "desc": "Magneton is a fully evolved Electric/Steel-type Pokémon that evolves from Magnemite starting at level 30. It consists of three Magnemite joined together and is capable of producing strong magnetic forces. Magneton's power is multiplied when it forms a trio."
+},
+{
+    "id": 84,
+    "name": "Doduo",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "Doduo is a Normal/Flying-type Pokémon known for its two heads, which have distinct personalities. It is capable of running at high speeds and is often seen on open plains. Doduo evolves into Dodrio starting at level 31."
+},
+{
+    "id": 85,
+    "name": "Dodrio",
+    "types": ["normal", "flying"],
+    "desc": "Dodrio is a fully evolved Normal/Flying-type Pokémon that evolves from Doduo starting at level 31. It gains an additional head upon evolution, making it a three-headed bird. Dodrio is known for its incredible speed and agility."
+},
+{
+    "id": 88,
+    "name": "Grimer",
+    "isNfe": true,
+    "types": ["poison"],
+    "desc": "Grimer is a Poison-type Pokémon known for its slimy and toxic body. It is often found in polluted areas and sewage. Grimer's body can dissolve any waste it comes into contact with."
+},
+{
+    "id": 89,
+    "name": "Muk",
+    "types": ["poison"],
+    "desc": "Muk is a fully evolved Poison-type Pokémon that evolves from Grimer. It is a massive, amorphous creature made of sludge and toxins. Muk's body can emit foul odors and toxins, making it a hazardous Pokémon to encounter."
+},
+{
+    "id": 100,
+    "name": "Voltorb",
+    "isNfe": true,
+    "types": ["electric"],
+    "desc": "Voltorb is an Electric-type Pokémon that resembles a Poké Ball. It is known for its explosive nature and the ability to self-destruct when threatened. Voltorb's red top can flash and signal impending danger."
+},
+{
+    "id": 101,
+    "name": "Electrode",
+    "types": ["electric"],
+    "desc": "Electrode is a fully evolved Electric-type Pokémon that evolves from Voltorb. It is known for its round shape and the ability to roll at high speeds. Electrode can store massive amounts of electricity and discharge it in a flash."
+},
+{
+    "id": 109,
+    "name": "Koffing",
+    "isNfe": true,
+    "types": ["poison"],
+    "desc": "Koffing is a Poison-type Pokémon known for the gases it emits from the openings on its body. These gases are toxic and can explode when mixed with air. Koffing evolves into Weezing starting at level 35."
+},
+{
+    "id": 110,
+    "name": "Weezing",
+    "types": ["poison"],
+    "desc": "Weezing is a fully evolved Poison-type Pokémon that evolves from Koffing starting at level 35. It has two heads and emits noxious gases that are even more potent than Koffing's. Weezing's body is highly resistant to most toxins."
+},
+{
+    "id": 111,
+    "name": "Rhyhorn",
+    "isNfe": true,
+    "types": ["ground", "rock"],
+    "desc": "Rhyhorn is a Ground/Rock-type Pokémon known for its robust and armored body. It is often used for heavy labor and transportation. Rhyhorn evolves into Rhydon starting at level 42."
+},
+{
+    "id": 112,
+    "name": "Rhydon",
+    "types": ["ground", "rock"],
+    "desc": "Rhydon is a fully evolved Ground/Rock-type Pokémon that evolves from Rhyhorn. It is known for its massive size and strength. Rhydon can easily shatter rocks and boulders with its powerful horn."
+},
+{
+    "id": 116,
+    "name": "Horsea",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Horsea is a Water-type Pokémon known for its seahorse-like appearance. It uses its fin to propel itself through water and can swim gracefully. Horsea evolves into Seadra starting at level 32."
+},
+{
+    "id": 117,
+    "name": "Seadra",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Seadra is a Water-type Pokémon that evolves from Horsea starting at level 32. It is a skilled swimmer and is often found in oceans and rivers. Seadra's fin and tail help it glide through water effortlessly."
+},
+{
+    "id": 118,
+    "name": "Goldeen",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Goldeen is a Water-type Pokémon known for its elegant and graceful swimming. It is often seen in clear lakes and rivers. Goldeen's horn is its most distinctive feature and is used for both defense and attracting mates."
+},
+{
+    "id": 119,
+    "name": "Seaking",
+    "types": ["water"],
+    "desc": "Seaking is a fully evolved Water-type Pokémon that evolves from Goldeen. It is known for its strong and swift swimming abilities. Seaking's horn is believed to be a symbol of power and is highly prized."
+},
+{
+    "id": 120,
+    "name": "Staryu",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Staryu is a Water-type Pokémon known for its star-shaped body. It can regenerate lost limbs, making it highly resilient. Staryu evolves into Starmie when exposed to a Water Stone."
+},
+{
+    "id": 121,
+    "name": "Starmie",
+    "types": ["water", "psychic"],
+    "desc": "Starmie is a Water/Psychic-type Pokémon that evolves from Staryu when exposed to a Water Stone. It has powerful psychic abilities and is capable of emitting bright light from its core. Starmie is a skilled swimmer and can move gracefully in water."
+},
+{
+    "id": 127,
+    "name": "Pinsir",
+    "types": ["bug"],
+    "desc": "Pinsir is a Bug-type Pokémon known for its impressive pincer-like horns. It is a powerful and agile fighter. Pinsir's pincers are strong enough to crush boulders, and it is often used for heavy-duty tasks."
+},
+{
+    "id": 129,
+    "name": "Magikarp",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Magikarp is a Water-type Pokémon known for its almost complete lack of offensive capabilities. However, it has the potential to evolve into Gyarados, a powerful Water/Flying-type Pokémon, when it reaches a high level. Magikarp is often seen leaping out of water in a desperate attempt to improve its jumping ability."
+},
+{
+    "id": 130,
+    "name": "Gyarados",
+    "types": ["water", "flying"],
+    "desc": "Gyarados is a fully evolved Water/Flying-type Pokémon that evolves from Magikarp. It is known for its fierce and aggressive nature. Gyarados is often considered one of the most intimidating Pokémon in the Pokémon world due to its size and power."
+},
+{
+    "id": 152,
+    "name": "Chikorita",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Chikorita is a Grass-type Pokémon known for the leaf on its head, which is capable of releasing soothing aromas. It is one of the three starter Pokémon in the Johto region. Chikorita evolves into Bayleef starting at level 16."
+},
+{
+    "id": 153,
+    "name": "Bayleef",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Bayleef is a Grass-type Pokémon that evolves from Chikorita starting at level 16. It has a large, leafy collar around its neck, which emits a sweet scent. Bayleef is known for its elegance and graceful movements."
+},
+{
+    "id": 154,
+    "name": "Meganium",
+    "types": ["grass"],
+    "desc": "Meganium is a fully evolved Grass-type Pokémon that evolves from Bayleef. It is known for its nurturing and calming presence. Meganium's flower on its neck emits a pleasant fragrance, which can soothe and heal those around it."
+},
+{
+    "id": 155,
+    "name": "Cyndaquil",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "Cyndaquil is a Fire-type Pokémon known for the flames on its back. It is one of the three starter Pokémon in the Johto region. Cyndaquil evolves into Quilava starting at level 14."
+},
+{
+    "id": 156,
+    "name": "Quilava",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "Quilava is a Fire-type Pokémon that evolves from Cyndaquil starting at level 14. It has a fiery mane on its back, which it can flare up to intimidate opponents. Quilava's body is constantly generating heat."
+},
+{
+    "id": 157,
+    "name": "Typhlosion",
+    "types": ["fire"],
+    "desc": "Typhlosion is a fully evolved Fire-type Pokémon that evolves from Quilava. It is known for its erupting flames and explosive power. Typhlosion's back is a blazing inferno, and it can unleash devastating Fire-type attacks."
+},
+{
+    "id": 158,
+    "name": "Totodile",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Totodile is a Water-type Pokémon known for its sharp teeth and powerful jaws. It is one of the three starter Pokémon in the Johto region. Totodile evolves into Croconaw starting at level 18."
+},
+{
+    "id": 159,
+    "name": "Croconaw",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Croconaw is a Water-type Pokémon that evolves from Totodile starting at level 18. It has strong, crushing jaws that can easily break through tough objects. Croconaw's aquatic skills make it an agile swimmer."
+},
+{
+    "id": 160,
+    "name": "Feraligatr",
+    "types": ["water"],
+    "desc": "Feraligatr is a fully evolved Water-type Pokémon that evolves from Croconaw. It is known for its immense physical strength and powerful Water-type attacks. Feraligatr's large jaw can crush rocks and trees with ease."
+},
+{
+    "id": 169,
+    "name": "Crobat",
+    "types": ["poison", "flying"],
+    "desc": "Crobat is a Poison/Flying-type Pokémon known for its swift and agile flight. It is the evolved form of Golbat when leveled up with high friendship. Crobat's keen senses and speed make it an excellent predator in the skies."
+},
+{
+    "id": 170,
+    "name": "Chinchou",
+    "isNfe": true,
+    "types": ["water", "electric"],
+    "desc": "Chinchou is a Water/Electric-type Pokémon known for its bioluminescent antenna. It is often found in deep ocean waters. Chinchou evolves into Lanturn starting at level 27."
+},
+{
+    "id": 171,
+    "name": "Lanturn",
+    "types": ["water", "electric"],
+    "desc": "Lanturn is a fully evolved Water/Electric-type Pokémon that evolves from Chinchou starting at level 27. Its antennae can glow brightly, serving as a beacon in the dark ocean depths. Lanturn's electric abilities allow it to navigate and communicate underwater."
+},
+{
+    "id": 172,
+    "name": "Pichu",
+    "isNfe": true,
+    "types": ["electric"],
+    "desc": "Pichu is an Electric-type Pokémon and is known as the baby form of Pikachu. It is small, cute, and emits electrical sparks from its cheeks when it gets excited. Pichu evolves into Pikachu when it forms a strong bond with its Trainer."
+},
+{
+    "id": 174,
+    "name": "Igglybuff",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Igglybuff is a Normal-type Pokémon and is known for its round, balloon-like appearance. It can inflate its body like a balloon and bounce around. Igglybuff evolves from Jigglypuff when it has a strong friendship with its Trainer."
+},
+{
+    "id": 177,
+    "name": "Natu",
+    "isNfe": true,
+    "types": ["psychic", "flying"],
+    "desc": "Natu is a Psychic/Flying-type Pokémon known for its psychic abilities and connection to the sun. It is said to foretell the future by observing the sun's movements. Natu evolves into Xatu starting at level 25."
+},
+{
+    "id": 178,
+    "name": "Xatu",
+    "types": ["psychic", "flying"],
+    "desc": "Xatu is a fully evolved Psychic/Flying-type Pokémon that evolves from Natu starting at level 25. It is known for its mystical and enigmatic nature. Xatu's ability to see into the future and its unique design make it a mysterious and revered Pokémon."
+},
+{
+    "id": 182,
+    "name": "Bellossom",
+    "types": ["grass"],
+    "desc": "Bellossom is a Grass-type Pokémon known for its graceful and dance-like movements. It is the evolved form of Gloom when exposed to a Sun Stone. Bellossom's elegant dances are said to bring good fortune and clear skies."
+},
+{
+    "id": 183,
+    "name": "Marill",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Marill is a Water-type Pokémon known for its round, blue body and its ability to produce bubbles from its mouth. It is the pre-evolved form of Azumarill. Marill's large, sensitive ears allow it to hear distant sounds."
+},
+{
+    "id": 184,
+    "name": "Azumarill",
+    "types": ["water"],
+    "desc": "Azumarill is a fully evolved Water-type Pokémon that evolves from Marill. It is known for its powerful Aqua Jet and Play Rough moves. Azumarill's round body is highly buoyant, allowing it to bounce on water."
+},
+{
+    "id": 202,
+    "name": "Wobbuffet",
+    "types": ["psychic"],
+    "desc": "Wobbuffet is a Psychic-type Pokémon known for its peculiar and defensive battle style. It prefers to counter enemy attacks rather than initiating them. Wobbuffet's mirrored tail reflects attacks back at its opponents."
+},
+{
+    "id": 203,
+    "name": "Girafarig",
+    "types": ["normal", "psychic"],
+    "desc": "Girafarig is a dual-type Normal/Psychic Pokémon known for its unique appearance with a head on both ends of its body. Its tail head is playful, while its main head is more serious. Girafarig is a herbivore that feeds on leaves."
+},
+{
+    "id": 214,
+    "name": "Heracross",
+    "types": ["bug", "fighting"],
+    "desc": "Heracross is a dual-type Bug/Fighting Pokémon known for its incredible strength and combat abilities. It is often found in forests, where it feeds on tree sap. Heracross's horn can lift many times its own body weight."
+},
+{
+    "id": 218,
+    "name": "Slugma",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "Slugma is a Fire-type Pokémon known for its magma body, which keeps it hot even in cold environments. Slugma moves very slowly, as its body temperature determines its speed. It evolves into Magcargo starting at level 38."
+},
+{
+    "id": 219,
+    "name": "Magcargo",
+    "types": ["fire", "rock"],
+    "desc": "Magcargo is a dual-type Fire/Rock Pokémon that evolves from Slugma. It is literally a living volcano, with a shell made of cooled magma. Magcargo's body temperature is incredibly high, and it can melt almost anything with its intense heat."
+},
+{
+    "id": 222,
+    "name": "Corsola",
+    "types": ["water", "rock"],
+    "desc": "Corsola is a dual-type Water/Rock Pokémon known for its coral-like branches. It can be found in warm seas, where it forms colonies with other Corsola. Corsola's branches are delicate, and they break easily, but they can regenerate quickly."
+},
+{
+    "id": 227,
+    "name": "Skarmory",
+    "types": ["steel", "flying"],
+    "desc": "Skarmory is a dual-type Steel/Flying Pokémon known for its steel-plated wings and incredible speed. It is often seen soaring high in the sky. Skarmory's sharp feathers are used as weapons to defend itself and its territory."
+},
+{
+    "id": 230,
+    "name": "Kingdra",
+    "types": ["water", "dragon"],
+    "desc": "Kingdra is a dual-type Water/Dragon Pokémon known for its majestic appearance and powerful Water/Dragon-type attacks. It evolves from Seadra when traded while holding a Dragon Scale. Kingdra is often associated with sea legends and myths."
+},
+{
+    "id": 231,
+    "name": "Phanpy",
+    "isNfe": true,
+    "types": ["ground"],
+    "desc": "Phanpy is a Ground-type Pokémon known for its long trunk and strong tusks. It is the pre-evolved form of Donphan. Phanpy uses its trunk to dig and store food, and it can release sand clouds as a defense mechanism."
+},
+{
+    "id": 232,
+    "name": "Donphan",
+    "types": ["ground"],
+    "desc": "Donphan is a fully evolved Ground-type Pokémon that evolves from Phanpy. It is known for its tough and rugged appearance. Donphan can curl its body into a ball and roll at high speeds, crushing obstacles in its path."
+},
+{
+    "id": 252,
+    "name": "Treecko",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Treecko is a Grass-type Pokémon known for its agility and tree-climbing skills. It is the starter Pokémon of the Hoenn region. Treecko's tail acts like a third hand and helps it maintain balance in the trees."
+},
+{
+    "id": 253,
+    "name": "Grovyle",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Grovyle is a Grass-type Pokémon known for its speed and dexterity. It is the evolved form of Treecko and is the second stage of its evolutionary line. Grovyle uses its leaves as weapons and can run swiftly through the forest."
+},
+{
+    "id": 254,
+    "name": "Sceptile",
+    "types": ["grass"],
+    "desc": "Sceptile is a fully evolved Grass-type Pokémon that evolves from Grovyle. It is known for its incredible speed and agility. Sceptile's tail contains seeds that it fires like bullets at its opponents."
+},
+{
+    "id": 255,
+    "name": "Torchic",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "Torchic is a Fire-type Pokémon and one of the starter Pokémon in the Hoenn region. It is known for its small, chick-like appearance. Torchic has a flame sac in its belly, which allows it to produce fire and launch Ember attacks."
+},
+{
+    "id": 256,
+    "name": "Combusken",
+    "isNfe": true,
+    "types": ["fire", "fighting"],
+    "desc": "Combusken is a dual-type Fire/Fighting Pokémon that evolves from Torchic starting at level 16. It is known for its fiery kicks and fighting prowess. Combusken's powerful legs can send it soaring into the sky."
+},
+{
+    "id": 257,
+    "name": "Blaziken",
+    "types": ["fire", "fighting"],
+    "desc": "Blaziken is a fully evolved Fire/Fighting-type Pokémon that evolves from Combusken. It is recognized by its fiery mane and powerful legs. Blaziken is known for its incredible speed and strength in battle."
+},
+{
+    "id": 258,
+    "name": "Mudkip",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Mudkip is a Water-type Pokémon known for its love of water and its ability to create small, controlled mudslides. It evolves into Marshtomp starting at level 16."
+},
+{
+    "id": 259,
+    "name": "Marshtomp",
+    "isNfe": true,
+    "types": ["water", "ground"],
+    "desc": "Marshtomp is a dual-type Water/Ground Pokémon that evolves from Mudkip starting at level 16. It is known for its amphibious nature, allowing it to live both in water and on land. Marshtomp can create mud to shield itself from attacks."
+},
+{
+    "id": 260,
+    "name": "Swampert",
+    "types": ["water", "ground"],
+    "desc": "Swampert is a fully evolved Water/Ground-type Pokémon that evolves from Marshtomp. It is recognized by its muscular build and powerful limbs. Swampert is known for its ability to create powerful tsunamis and its strong sense of leadership."
+},
+{
+    "id": 261,
+    "name": "Poochyena",
+    "isNfe": true,
+    "types": ["dark"],
+    "desc": "Poochyena is a Dark-type Pokémon known for its sharp fangs and fierce demeanor. It often travels and hunts in packs. Poochyena evolves into Mightyena starting at level 18."
+},
+{
+    "id": 262,
+    "name": "Mightyena",
+    "types": ["dark"],
+    "desc": "Mightyena is a fully evolved Dark-type Pokémon that evolves from Poochyena. It is recognized by its large mane and intimidating appearance. Mightyena is known for its keen senses and ability to lead packs of Poochyena."
+},
+{
+    "id": 263,
+    "name": "Zigzagoon",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Zigzagoon is a Normal-type Pokémon known for its zigzagging running pattern. It is often seen scavenging for food and trinkets. Zigzagoon evolves into Linoone starting at level 20."
+},
+{
+    "id": 264,
+    "name": "Linoone",
+    "types": ["normal"],
+    "desc": "Linoone is a fully evolved Normal-type Pokémon that evolves from Zigzagoon. It is known for its incredible speed and agility, which it uses for both hunting and escaping from predators. Linoone has a distinctive dark stripe pattern on its back."
+},
+{
+    "id": 265,
+    "name": "Wurmple",
+    "isNfe": true,
+    "types": ["bug"],
+    "desc": "Wurmple is a Bug-type Pokémon known for its silken thread-producing organs. It is often used as bait by other Pokémon. Wurmple evolves into either Silcoon or Cascoon starting at level 7, depending on various factors."
+},
+{
+    "id": 266,
+    "name": "Silcoon",
+    "isNfe": true,
+    "types": ["bug"],
+    "desc": "Silcoon is a Bug-type Pokémon that evolves from Wurmple. It is known for its cocoon-like appearance and protective silk covering. Silcoon evolves into Beautifly starting at level 10."
+},
+{
+    "id": 267,
+    "name": "Beautifly",
+    "types": ["bug", "flying"],
+    "desc": "Beautifly is a dual-type Bug/Flying Pokémon that evolves from Silcoon. It is known for its vibrant and beautiful wings, which it uses to pollinate flowers. Beautifly is often found in lush, flowery fields."
+},
+{
+    "id": 268,
+    "name": "Cascoon",
+    "isNfe": true,
+    "types": ["bug"],
+    "desc": "Cascoon is a Bug-type Pokémon that evolves from Wurmple. It is known for its cocoon-like appearance and protective silk covering. Cascoon evolves into Dustox starting at level 10."
+},
+{
+    "id": 269,
+    "name": "Dustox",
+    "types": ["bug", "poison"],
+    "desc": "Dustox is a dual-type Bug/Poison Pokémon that evolves from Cascoon. It is known for the powdery scales on its wings, which can cause various status conditions. Dustox is often found in forests and meadows."
+},
+{
+    "id": 270,
+    "name": "Lotad",
+    "isNfe": true,
+    "types": ["water", "grass"],
+    "desc": "Lotad is a dual-type Water/Grass Pokémon known for its lily pad-like appearance. It is often seen floating on water and basking in sunlight. Lotad evolves into Lombre starting at level 14."
+},
+{
+    "id": 271,
+    "name": "Lombre",
+    "isNfe": true,
+    "types": ["water", "grass"],
+    "desc": "Lombre is a dual-type Water/Grass Pokémon that evolves from Lotad. It is known for its playful and mischievous nature. Lombre often dances in the rain, and its lily pad becomes a large leafy hat."
+},
+{
+    "id": 272,
+    "name": "Ludicolo",
+    "types": ["water", "grass"],
+    "desc": "Ludicolo is a dual-type Water/Grass Pokémon that evolves from Lombre when exposed to a Water Stone. It is known for its carefree and joyful dancing, even in the rain. Ludicolo's lily pad hat is an integral part of its appearance."
+},
+{
+    "id": 273,
+    "name": "Seedot",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Seedot is a Grass-type Pokémon known for its acorn-like appearance. It attaches itself to a tree branch and remains still to avoid being noticed. Seedot evolves into Nuzleaf starting at level 14."
+},
+{
+    "id": 274,
+    "name": "Nuzleaf",
+    "isNfe": true,
+    "types": ["grass", "dark"],
+    "desc": "Nuzleaf is a dual-type Grass/Dark Pokémon that evolves from Seedot. It is known for its mischievous and cunning personality. Nuzleaf is often seen playing a leaf flute to create soothing melodies."
+},
+{
+    "id": 275,
+    "name": "Shiftry",
+    "types": ["grass", "dark"],
+    "desc": "Shiftry is a dual-type Grass/Dark Pokémon that evolves from Nuzleaf when exposed to a Leaf Stone. It is known for its sinister and eerie appearance. Shiftry is often associated with the power to control the winds."
+},
+{
+    "id": 276,
+    "name": "Taillow",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "Taillow is a dual-type Normal/Flying Pokémon known for its small size and swift flight. It is a highly energetic and agile bird Pokémon. Taillow evolves into Swellow starting at level 22."
+},
+{
+    "id": 277,
+    "name": "Swellow",
+    "types": ["normal", "flying"],
+    "desc": "Swellow is a dual-type Normal/Flying Pokémon that evolves from Taillow. It is recognized by its streamlined body and exceptional speed. Swellow is often seen performing aerial acrobatics in the sky."
+},
+{
+    "id": 278,
+    "name": "Wingull",
+    "isNfe": true,
+    "types": ["water", "flying"],
+    "desc": "Wingull is a dual-type Water/Flying Pokémon known for its seagull-like appearance. It is often found near bodies of water and has the ability to predict changes in the weather. Wingull evolves into Pelipper starting at level 25."
+},
+{
+    "id": 279,
+    "name": "Pelipper",
+    "types": ["water", "flying"],
+    "desc": "Pelipper is a dual-type Water/Flying Pokémon that evolves from Wingull. It is known for its large bill, which can carry prey or deliver messages. Pelipper is often seen flying over the sea and diving to catch fish."
+},
+{
+    "id": 280,
+    "name": "Ralts",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Ralts is a Psychic-type Pokémon known for its sensitive and empathetic nature. It can sense the emotions of people and Pokémon. Ralts evolves into Kirlia starting at level 20."
+},
+{
+    "id": 281,
+    "name": "Kirlia",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Kirlia is a Psychic-type Pokémon that evolves from Ralts starting at level 20. It is known for its graceful movements and the psychic powers it uses to create a calming aura. Kirlia can further evolve into Gardevoir."
+},
+{
+    "id": 282,
+    "name": "Gardevoir",
+    "types": ["psychic"],
+    "desc": "Gardevoir is a fully evolved Psychic-type Pokémon that evolves from Kirlia. It is known for its elegant appearance and the psychic powers it possesses. Gardevoir is often seen protecting and caring for its Trainer."
+},
+{
+    "id": 283,
+    "name": "Surskit",
+    "isNfe": true,
+    "types": ["bug", "water"],
+    "desc": "Surskit is a dual-type Bug/Water Pokémon known for its aquatic and graceful appearance. It skates on the surface of water using its feet. Surskit evolves into Masquerain starting at level 22."
+},
+{
+    "id": 284,
+    "name": "Masquerain",
+    "types": ["bug", "flying"],
+    "desc": "Masquerain is a dual-type Bug/Flying Pokémon that evolves from Surskit. It is known for its beautiful and colorful wings, which it uses to intimidate predators. Masquerain is often found near bodies of water."
+},
+{
+    "id": 285,
+    "name": "Shroomish",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Shroomish is a Grass-type Pokémon known for its mushroom-like appearance. It has the ability to release spores that induce sleep in opponents. Shroomish evolves into Breloom starting at level 23."
+},
+{
+    "id": 286,
+    "name": "Breloom",
+    "types": ["grass", "fighting"],
+    "desc": "Breloom is a dual-type Grass/Fighting Pokémon that evolves from Shroomish. It is known for its powerful punches and kicks, which it uses in combat. Breloom's unique combination of types makes it a formidable opponent."
+},
+{
+    "id": 287,
+    "name": "Slakoth",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Slakoth is a Normal-type Pokémon known for its lazy and sluggish nature. It spends most of its time sleeping and rarely moves. Slakoth evolves into Vigoroth starting at level 18."
+},
+{
+    "id": 288,
+    "name": "Vigoroth",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Vigoroth is a Normal-type Pokémon that evolves from Slakoth starting at level 18. It is known for its boundless energy and constant restlessness. Vigoroth rarely sleeps and is always on the move."
+},
+{
+    "id": 289,
+    "name": "Slaking",
+    "types": ["normal"],
+    "desc": "Slaking is a fully evolved Normal-type Pokémon that evolves from Vigoroth. It is known for its immense strength and power. Slaking's strength is matched only by its laziness, as it often spends entire days resting."
+},
+{
+    "id": 290,
+    "name": "Nincada",
+    "isNfe": true,
+    "types": ["bug", "ground"],
+    "desc": "Nincada is a dual-type Bug/Ground Pokémon known for its ability to burrow underground. It lives in caves and often digs tunnels. Nincada can evolve into Ninjask starting at level 20, but it also has a unique evolution method that results in Shedinja."
+},
+{
+    "id": 291,
+    "name": "Ninjask",
+    "types": ["bug", "flying"],
+    "desc": "Ninjask is a dual-type Bug/Flying Pokémon that evolves from Nincada. It is known for its incredible speed and agility, which allow it to move so quickly that it leaves an afterimage. Ninjask is often associated with ninja-like qualities."
+},
+{
+    "id": 292,
+    "name": "Shedinja",
+    "types": ["bug", "ghost"],
+    "desc": "Shedinja is a unique Bug/Ghost-type Pokémon that evolves from Nincada. It is known for its strange appearance, resembling a floating, hollow shell. Shedinja has the ability Wonder Guard, which makes it immune to most attacks."
+},
+{
+    "id": 293,
+    "name": "Whismur",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Whismur is a Normal-type Pokémon known for its timid and cautious nature. It is easily startled and tends to cry loudly when frightened. Whismur evolves into Loudred starting at level 20."
+},
+{
+    "id": 294,
+    "name": "Loudred",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Loudred is a Normal-type Pokémon that evolves from Whismur. It is known for its powerful voice and the ability to generate deafening sounds. Loudred's cries can be heard from miles away."
+},
+{
+    "id": 295,
+    "name": "Exploud",
+    "types": ["normal"],
+    "desc": "Exploud is a fully evolved Normal-type Pokémon that evolves from Loudred. It is recognized by its enormous mouth and the ability to emit deafening cries. Exploud's roars can cause seismic vibrations."
+},
+{
+    "id": 296,
+    "name": "Makuhita",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "Makuhita is a Fighting-type Pokémon known for its dedication to training. It often engages in intense physical exercises to build its strength. Makuhita evolves into Hariyama starting at level 24."
+},
+{
+    "id": 297,
+    "name": "Hariyama",
+    "types": ["fighting"],
+    "desc": "Hariyama is a fully evolved Fighting-type Pokémon that evolves from Makuhita. It is recognized by its immense size and muscular build. Hariyama is known for its sumo wrestling-like battles and its calm demeanor."
+},
+{
+    "id": 298,
+    "name": "Azurill",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Azurill is a Normal-type Pokémon known for its round, ball-like appearance. It is often seen bouncing on its tail. Azurill evolves into Marill when leveled up with high friendship."
+},
+{
+    "id": 299,
+    "name": "Nosepass",
+    "types": ["rock"],
+    "desc": "Nosepass is a Rock-type Pokémon known for its distinctive appearance, featuring a large, magnetic nose. It can use its magnetic powers to navigate and communicate with other Nosepass. Nosepass can evolve into Probopass when leveled up in certain magnetic fields."
+},
+{
+    "id": 300,
+    "name": "Skitty",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "Skitty is a Normal-type Pokémon known for its cute and playful nature. It is often seen chasing its tail and playing with various objects. Skitty evolves into Delcatty when exposed to a Moon Stone."
+},
+{
+    "id": 301,
+    "name": "Delcatty",
+    "types": ["normal"],
+    "desc": "Delcatty is a Normal-type Pokémon that evolves from Skitty when exposed to a Moon Stone. It is known for its graceful and elegant demeanor. Delcatty is often sought after for its beauty and charm."
+},
+{
+    "id": 302,
+    "name": "Sableye",
+    "types": ["dark", "ghost"],
+    "desc": "Sableye is a dual-type Dark/Ghost Pokémon known for its mischievous and stealthy behavior. It is recognized by its large, gem-like eyes, which it uses to see in the dark. Sableye is often associated with gemstones and caves."
+},
+{
+    "id": 303,
+    "name": "Mawile",
+    "types": ["steel"],
+    "desc": "Mawile is a Steel-type Pokémon known for its unique appearance featuring a pair of huge jaws. Despite its cute exterior, Mawile has powerful steel jaws that it uses in battle. It is known for its tenacity and determination."
+},
+{
+    "id": 304,
+    "name": "Aron",
+    "isNfe": true,
+    "types": ["steel", "rock"],
+    "desc": "Aron is a dual-type Steel/Rock Pokémon known for its extremely tough and durable body. It often lives in mountains and caves. Aron evolves into Lairon starting at level 32."
+},
+{
+    "id": 305,
+    "name": "Lairon",
+    "isNfe": true,
+    "types": ["steel", "rock"],
+    "desc": "Lairon is a dual-type Steel/Rock Pokémon that evolves from Aron. It has a hard, iron body and is known for its resistance to physical attacks. Lairon evolves into Aggron starting at level 42."
+},
+{
+    "id": 306,
+    "name": "Aggron",
+    "types": ["steel", "rock"],
+    "desc": "Aggron is a dual-type Steel/Rock Pokémon that evolves from Lairon. It is known for its incredible strength and defensive capabilities. Aggron's tough armor makes it nearly impervious to harm."
+},
+{
+    "id": 307,
+    "name": "Meditite",
+    "isNfe": true,
+    "types": ["fighting", "psychic"],
+    "desc": "Meditite is a dual-type Fighting/Psychic Pokémon known for its meditation and focus. It trains its mind and body for battle. Meditite evolves into Medicham starting at level 37."
+},
+{
+    "id": 308,
+    "name": "Medicham",
+    "types": ["fighting", "psychic"],
+    "desc": "Medicham is a dual-type Fighting/Psychic Pokémon that evolves from Meditite. It continues to train both its physical and mental strength. Medicham is known for its disciplined and balanced approach to combat."
+},
+{
+    "id": 309,
+    "name": "Electrike",
+    "isNfe": true,
+    "types": ["electric"],
+    "desc": "Electrike is an Electric-type Pokémon known for its speed and agility. It generates electricity while running and can release powerful electric shocks. Electrike evolves into Manectric starting at level 26."
+},
+{
+    "id": 310,
+    "name": "Manectric",
+    "types": ["electric"],
+    "desc": "Manectric is an Electric-type Pokémon that evolves from Electrike. It is known for its electrical mane, which stands on end when it's charged with electricity. Manectric can generate strong electric fields."
+},
+{
+    "id": 311,
+    "name": "Plusle",
+    "types": ["electric"],
+    "desc": "Plusle is an Electric-type Pokémon known for its cheerful and positive demeanor. It has the ability to create and share positive energy with others. Plusle is often seen working in pairs with Minun."
+},
+{
+    "id": 312,
+    "name": "Minun",
+    "types": ["electric"],
+    "desc": "Minun is an Electric-type Pokémon known for its friendly and cooperative nature. It can generate electric energy and share it with others, providing a sense of unity and teamwork. Minun often pairs up with Plusle."
+},
+{
+    "id": 313,
+    "name": "Volbeat",
+    "types": ["bug"],
+    "desc": "Volbeat is a Bug-type Pokémon known for its ability to create light patterns using the patterns on its body. It communicates and attracts mates with these patterns. Volbeat is often found in dark areas and forests."
+},
+{
+    "id": 314,
+    "name": "Illumise",
+    "types": ["bug"],
+    "desc": "Illumise is a Bug-type Pokémon known for its graceful and elegant flight patterns. It releases a sweet aroma that attracts Volbeat. Illumise and Volbeat are often seen together during their mating season."
+},
+{
+    "id": 315,
+    "name": "Roselia",
+    "types": ["grass", "poison"],
+    "desc": "Roselia is a dual-type Grass/Poison Pokémon known for its beautiful and fragrant flowers. It uses its roses to deliver toxic thorns to its opponents. Roselia is often found in gardens and grassy areas."
+},
+{
+    "id": 316,
+    "name": "Gulpin",
+    "isNfe": true,
+    "types": ["poison"],
+    "desc": "Gulpin is a Poison-type Pokémon known for its voracious appetite. It can swallow almost anything and often surprises trainers with what it finds in its stomach. Gulpin evolves into Swalot starting at level 26."
+},
+{
+    "id": 317,
+    "name": "Swalot",
+    "types": ["poison"],
+    "desc": "Swalot is a Poison-type Pokémon that evolves from Gulpin. It has a large, expandable stomach that can digest almost any kind of garbage. Swalot is often used to clean up polluted areas."
+},
+{
+    "id": 318,
+    "name": "Carvanha",
+    "isNfe": true,
+    "types": ["water", "dark"],
+    "desc": "Carvanha is a dual-type Water/Dark Pokémon known for its sharp fangs and aggressive nature. It often travels in schools and is a fearsome predator in the water. Carvanha evolves into Sharpedo starting at level 30."
+},
+{
+    "id": 319,
+    "name": "Sharpedo",
+    "types": ["water", "dark"],
+    "desc": "Sharpedo is a dual-type Water/Dark Pokémon that evolves from Carvanha. It is known for its incredible speed and the ability to slice through the water like a torpedo. Sharpedo is a formidable hunter in the ocean."
+},
+{
+    "id": 320,
+    "name": "Wailmer",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Wailmer is a Water-type Pokémon known for its enormous size and gentle disposition. It is one of the largest known Pokémon. Wailmer evolves into Wailord starting at level 40."
+},
+{
+    "id": 321,
+    "name": "Wailord",
+    "types": ["water"],
+    "desc": "Wailord is a Water-type Pokémon that evolves from Wailmer. It is the largest known Pokémon, capable of reaching enormous sizes. Despite its massive appearance, Wailord is known for its calm and peaceful nature."
+},
+{
+    "id": 322,
+    "name": "Numel",
+    "isNfe": true,
+    "types": ["fire", "ground"],
+    "desc": "Numel is a dual-type Fire/Ground Pokémon known for its ability to generate heat within its body. It often lives in volcanic areas. Numel evolves into Camerupt starting at level 33."
+},
+{
+    "id": 323,
+    "name": "Camerupt",
+    "types": ["fire", "ground"],
+    "desc": "Camerupt is a dual-type Fire/Ground Pokémon that evolves from Numel. It has volcanoes on its back that can erupt when it's angered. Camerupt is known for its fiery temper and destructive power."
+},
+{
+    "id": 324,
+    "name": "Torkoal",
+    "types": ["fire"],
+    "desc": "Torkoal is a Fire-type Pokémon known for the smoke it emits from the holes in its shell. It has a slow but steady nature and is often associated with longevity and resilience. Torkoal can live for hundreds of years."
+},
+{
+    "id": 325,
+    "name": "Spoink",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Spoink is a Psychic-type Pokémon known for bouncing on its spring-like tail. It must keep bouncing to keep its heart beating. Spoink evolves into Grumpig starting at level 32."
+},
+{
+    "id": 326,
+    "name": "Grumpig",
+    "types": ["psychic"],
+    "desc": "Grumpig is a Psychic-type Pokémon that evolves from Spoink. It is known for its intelligence and psychic abilities. Grumpig's pearls on its body amplify its psychic power, allowing it to control its opponents' minds."
+},
+{
+    "id": 327,
+    "name": "Spinda",
+    "types": ["normal"],
+    "desc": "Spinda is a Normal-type Pokémon known for its unique and dizzying appearance. It has various spot patterns on its face, and no two Spinda look exactly alike. Spinda often appears to be in a perpetual state of dizziness."
+},
+{
+    "id": 328,
+    "name": "Trapinch",
+    "isNfe": true,
+    "types": ["ground"],
+    "desc": "Trapinch is a Ground-type Pokémon known for its powerful jaws and digging abilities. It creates large pits in the ground to trap prey. Trapinch evolves into Vibrava starting at level 35."
+},
+{
+    "id": 329,
+    "name": "Vibrava",
+    "isNfe": true,
+    "types": ["ground", "dragon"],
+    "desc": "Vibrava is a dual-type Ground/Dragon Pokémon that evolves from Trapinch. It can fly using its wing-like appendages and generates ultrasonic waves. Vibrava evolves into Flygon starting at level 45."
+},
+{
+    "id": 330,
+    "name": "Flygon",
+    "types": ["ground", "dragon"],
+    "desc": "Flygon is a dual-type Ground/Dragon Pokémon that evolves from Vibrava. It is known for its ability to whip up sandstorms in the desert. Flygon is a fast and agile flier and a capable ground-based fighter."
+},
+{
+    "id": 331,
+    "name": "Cacnea",
+    "isNfe": true,
+    "types": ["grass"],
+    "desc": "Cacnea is a Grass-type Pokémon known for its desert-dwelling nature. It has a thorny and prickly body, making it difficult to approach. Cacnea evolves into Cacturne starting at level 32."
+},
+{
+    "id": 332,
+    "name": "Cacturne",
+    "types": ["grass", "dark"],
+    "desc": "Cacturne is a dual-type Grass/Dark Pokémon that evolves from Cacnea. It is known for its nocturnal habits and eerie appearance. Cacturne often stands still in the desert, waiting for unsuspecting prey."
+},
+{
+    "id": 333,
+    "name": "Swablu",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "Swablu is a dual-type Normal/Flying Pokémon known for its cotton-like wings and cloud-like appearance. Its wings are soft and fluffy, making it a popular choice for crafting materials. Swablu evolves into Altaria starting at level 35."
+},
+{
+    "id": 334,
+    "name": "Altaria",
+    "types": ["dragon", "flying"],
+    "desc": "Altaria is a dual-type Dragon/Flying Pokémon that evolves from Swablu. It is known for its beautiful singing voice and serene nature. Altaria is often seen gliding gracefully through the sky."
+},
+{
+    "id": 335,
+    "name": "Zangoose",
+    "types": ["normal"],
+    "desc": "Zangoose is a Normal-type Pokémon known for its ferocious rivalry with Seviper. It has sharp claws and a powerful slashing attack. Zangoose is known for its tenacity and determination to defeat its nemesis."
+},
+{
+    "id": 336,
+    "name": "Seviper",
+    "types": ["poison"],
+    "desc": "Seviper is a Poison-type Pokémon known for its bitter feud with Zangoose. It has a venomous tail and is a cunning and strategic fighter. Seviper's rivalry with Zangoose is legendary in the Pokémon world."
+},
+{
+    "id": 337,
+    "name": "Lunatone",
+    "types": ["rock", "psychic"],
+    "desc": "Lunatone is a dual-type Rock/Psychic Pokémon known for its connection to the moon. It is often found near meteor crash sites and has mysterious powers. Lunatone's appearance changes with the phases of the moon."
+},
+{
+    "id": 338,
+    "name": "Solrock",
+    "types": ["rock", "psychic"],
+    "desc": "Solrock is a dual-type Rock/Psychic Pokémon known for its connection to the sun. It generates intense heat and light from its body. Solrock's appearance changes with the position of the sun in the sky."
+},
+{
+    "id": 339,
+    "name": "Barboach",
+    "isNfe": true,
+    "types": ["water", "ground"],
+    "desc": "Barboach is a dual-type Water/Ground Pokémon known for its burrowing habits. It lives in muddy water and is skilled at digging tunnels. Barboach evolves into Whiscash starting at level 30."
+},
+{
+    "id": 340,
+    "name": "Whiscash",
+    "types": ["water", "ground"],
+    "desc": "Whiscash is a dual-type Water/Ground Pokémon that evolves from Barboach. It is known for causing earthquakes when it swims rapidly in rivers and ponds. Whiscash is often considered a guardian of water bodies."
+},
+{
+    "id": 341,
+    "name": "Corphish",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Corphish is a Water-type Pokémon known for its tough and durable exoskeleton. It is a skilled swimmer and can live in both freshwater and saltwater environments. Corphish evolves into Crawdaunt starting at level 30."
+},
+{
+    "id": 342,
+    "name": "Crawdaunt",
+    "types": ["water", "dark"],
+    "desc": "Crawdaunt is a dual-type Water/Dark Pokémon that evolves from Corphish. It is known for its aggressive and territorial nature. Crawdaunt's powerful claws can crush almost anything, and it's a formidable opponent in battle."
+},
+{
+    "id": 343,
+    "name": "Baltoy",
+    "isNfe": true,
+    "types": ["ground", "psychic"],
+    "desc": "Baltoy is a dual-type Ground/Psychic Pokémon known for its spinning movements. It levitates and rotates to move around and communicate. Baltoy evolves into Claydol starting at level 36."
+},
+{
+    "id": 344,
+    "name": "Claydol",
+    "types": ["ground", "psychic"],
+    "desc": "Claydol is a dual-type Ground/Psychic Pokémon that evolves from Baltoy. It is often associated with ancient civilizations and mysterious ruins. Claydol has psychic powers and can manipulate objects with its mind."
+},
+{
+    "id": 345,
+    "name": "Lileep",
+    "isNfe": true,
+    "types": ["rock", "grass"],
+    "desc": "Lileep is a dual-type Rock/Grass Pokémon known for its plant-like appearance. It is believed to be extinct but was revived from a fossil. Lileep evolves into Cradily starting at level 40."
+},
+{
+    "id": 346,
+    "name": "Cradily",
+    "types": ["rock", "grass"],
+    "desc": "Cradily is a dual-type Rock/Grass Pokémon that evolves from Lileep. It has tentacle-like appendages and is known for its filter-feeding habits. Cradily is often found in ancient seabeds and underwater caves."
+},
+{
+    "id": 347,
+    "name": "Anorith",
+    "isNfe": true,
+    "types": ["rock", "bug"],
+    "desc": "Anorith is a dual-type Rock/Bug Pokémon known for its prehistoric origins. It was revived from a fossil and is often associated with ancient oceans. Anorith evolves into Armaldo starting at level 40."
+},
+{
+    "id": 348,
+    "name": "Armaldo",
+    "types": ["rock", "bug"],
+    "desc": "Armaldo is a dual-type Rock/Bug Pokémon that evolves from Anorith. It has sharp claws and a tough exoskeleton. Armaldo is known for its hunting and scavenging abilities and is often seen near the coast."
+},
+{
+    "id": 349,
+    "name": "Feebas",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "Feebas is a Water-type Pokémon known for its unattractive appearance. Despite its looks, Feebas has the potential to evolve into the beautiful Milotic when it receives enough care and beauty-enhancing items."
+},
+{
+    "id": 350,
+    "name": "Milotic",
+    "types": ["water"],
+    "desc": "Milotic is a Water-type Pokémon known for its stunning beauty and elegance. It evolves from Feebas when it is exposed to a Prism Scale and has high Beauty in contests. Milotic is often considered one of the most beautiful Pokémon."
+},
+{
+    "id": 351,
+    "name": "Castform",
+    "types": ["normal"],
+    "desc": "Castform is a Normal-type Pokémon known for its ability to change its form and type based on the weather. In its Normal Form, it has a cloud-like appearance. Castform's form changes to match sunny, rainy, or snowy weather."
+},
+{
+    "id": 352,
+    "name": "Kecleon",
+    "types": ["normal"],
+    "desc": "Kecleon is a Normal-type Pokémon known for its unique ability, Color Change. When attacked, Kecleon changes its type to match the type of the move used against it. This adaptability makes Kecleon an unpredictable opponent."
+},
+{
+    "id": 353,
+    "name": "Shuppet",
+    "isNfe": true,
+    "types": ["ghost"],
+    "desc": "Shuppet is a Ghost-type Pokémon known for its mischievous nature. It is said to feed on negative emotions and fears. Shuppet evolves into Banette when exposed to a Dusk Stone."
+},
+{
+    "id": 354,
+    "name": "Banette",
+    "types": ["ghost"],
+    "desc": "Banette is a Ghost-type Pokémon that evolves from Shuppet when exposed to a Dusk Stone. It is known for its grudge against the plush doll that it used to be. Banette seeks to exact revenge on the child who discarded it."
+},
+{
+    "id": 355,
+    "name": "Duskull",
+    "isNfe": true,
+    "types": ["ghost"],
+    "desc": "Duskull is a Ghost-type Pokémon known for its glowing red eye sockets. It is said to wander in search of lost souls to guide to the afterlife. Duskull evolves into Dusclops when traded holding a Reaper Cloth."
+},
+{
+    "id": 356,
+    "name": "Dusclops",
+    "types": ["ghost"],
+    "desc": "Dusclops is a Ghost-type Pokémon that evolves from Duskull when traded while holding a Reaper Cloth. It is known for its ability to create and manipulate small black holes. Dusclops is said to absorb anything that enters its body."
+},
+{
+    "id": 357,
+    "name": "Tropius",
+    "types": ["grass", "flying"],
+    "desc": "Tropius is a dual-type Grass/Flying Pokémon known for the tropical fruit it grows on its neck. It can fly with the leaves on its back and is often seen as a symbol of abundance and prosperity in the Pokémon world."
+},
+{
+    "id": 358,
+    "name": "Chimecho",
+    "types": ["psychic"],
+    "desc": "Chimecho is a Psychic-type Pokémon known for its soothing chime-like cries. It is said to bring happiness and good fortune to those who hear its melodies. Chimecho can be found in high, quiet places."
+},
+{
+    "id": 359,
+    "name": "Absol",
+    "types": ["dark"],
+    "desc": "Absol is a Dark-type Pokémon known for its ability to sense natural disasters before they occur. It often appears before calamities strike, leading to superstitions about it bringing disaster. Absol is a vigilant protector of the environment."
+},
+{
+    "id": 360,
+    "name": "Wynaut",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "Wynaut is a Psychic-type Pokémon known for its playful and curious nature. It is the pre-evolved form of Wobbuffet. Wynaut is full of energy and often bounces around joyfully."
+},
+{
+    "id": 361,
+    "name": "Snorunt",
+    "isNfe": true,
+    "types": ["ice"],
+    "desc": "Snorunt is an Ice-type Pokémon known for its love of cold climates. It is often seen in snowy areas. Snorunt evolves into Glalie starting at level 42."
+},
+{
+    "id": 362,
+    "name": "Glalie",
+    "types": ["ice"],
+    "desc": "Glalie is an Ice-type Pokémon that evolves from Snorunt starting at level 42. It is known for its ability to freeze its breath into ice particles and use them as weapons. Glalie's icy body can withstand extremely low temperatures."
+},
+{
+    "id": 363,
+    "name": "Spheal",
+    "isNfe": true,
+    "types": ["ice", "water"],
+    "desc": "Spheal is a dual-type Ice/Water Pokémon known for its round body and playful nature. It is often found sliding on ice and playing in the snow. Spheal evolves into Sealeo starting at level 32."
+},
+
+    "id": 364,
+    "name": "Sealeo",
+    "isNfe": true,
+    "types": ["ice", "water"],
+    "desc
+    [
+        {
+            "id": 368,
+            "name": "Gorebyss",
+            "types": ["Water"],
+            "description": "Gorebyss is a Water-type Pokémon known for its elegant and graceful appearance. It evolves from Clamperl when traded while holding a Deep Sea Tooth. This Pokémon has a long, tube-like mouth that it uses to swallow prey whole."
+        },
+        {
+            "id": 369,
+            "name": "Relicanth",
+            "types": ["Water", "Rock"],
+            "description": "Relicanth is a rare Water and Rock-type Pokémon that resembles a prehistoric fish. It has been around since ancient times and is often considered a living fossil. Its sturdy body allows it to withstand the intense pressures of the ocean's depths."
+        },
+        {
+            "id": 370,
+            "name": "Luvdisc",
+            "types": ["Water"],
+            "description": "Luvdisc is a Water-type Pokémon known for its heart-shaped body. It is often associated with love and romance and is sometimes given as a gift to express affection. Luvdisc is known for its agility and graceful swimming."
+        },
+        {
+            "id": 371,
+            "name": "Bagon",
+            "types": ["Dragon"],
+            "description": "Bagon is a Dragon-type Pokémon that has a strong desire to someday fly. It dreams of soaring through the sky and spends its time practicing by headbutting rocks. It is the first stage in its evolutionary line."
+        },
+        {
+            "id": 372,
+            "name": "Shelgon",
+            "types": ["Dragon"],
+            "description": "Shelgon is a Dragon-type Pokémon that is the evolved form of Bagon. It wraps its body in a hard shell, which provides excellent protection. It remains in this stage until it matures and eventually evolves into Salamence."
+        },
+        {
+            "id": 373,
+            "name": "Salamence",
+            "types": ["Dragon", "Flying"],
+            "description": "Salamence is a powerful Dragon and Flying-type Pokémon known for its fearsome appearance. It evolves from Shelgon and is known for its incredible speed and strength. It can fly at high speeds and is a formidable aerial opponent."
+        },
+        {
+            "id": 374,
+            "name": "Beldum",
+            "types": ["Steel", "Psychic"],
+            "description": "Beldum is a unique Steel and Psychic-type Pokémon with a magnetic body. It has a single eye and is known for its tough exterior. Beldum's evolutionary line is notable for having the fewest weaknesses of any Pokémon type combination."
+        },
+        {
+            "id": 375,
+            "name": "Metang",
+            "types": ["Steel", "Psychic"],
+            "description": "Metang is the evolved form of Beldum and retains its Steel and Psychic typing. It has two brains, one in each of its two metallic claws. This Pokémon is highly intelligent and possesses powerful psychic abilities."
+        },
+        {
+            "id": 376,
+            "name": "Metagross",
+            "types": ["Steel", "Psychic"],
+            "description": "Metagross is the final evolution of Beldum and Metang. It is a massive and imposing Pokémon with four metallic legs and immense strength. Its intelligence and strategic thinking make it a formidable battler."
+        },
+        {
+            "id": 377,
+            "name": "Regirock",
+            "types": ["Rock"],
+            "description": "Regirock is a Legendary Pokémon known for its immense physical strength and durability. It is said to have been created by the Earth's crust and has a body made of extremely tough rocks. It is one of the three Legendary titans of Hoenn."
+        },
+        {
+            "id": 378,
+            "name": "Regice",
+            "types": ["Ice"],
+            "description": "Regice is a Legendary Pokémon associated with ice and cold. It is said to have been created during an ice age and has an icy body that is nearly impossible to melt. It is one of the three Legendary titans of Hoenn."
+        },
+        {
+            "id": 379,
+            "name": "Registeel",
+            "types": ["Steel"],
+            "description": "Registeel is a Legendary Pokémon known for its metallic body and extreme durability. It is said to have been created by an ancient civilization and can withstand powerful attacks. It is one of the three Legendary titans of Hoenn."
+        },
+        {
+            "id": 380,
+            "name": "Latias",
+            "types": ["Dragon", "Psychic"],
+            "description": "Latias is a Legendary Pokémon that resembles a dragon and possesses psychic abilities. It is highly intelligent and has a gentle nature. Latias is known for its ability to communicate telepathically with humans and other Pokémon."
+        },
+        [
+            {
+              "id": 381,
+              "name": "Latios",
+              "types": ["dragon", "psychic"],
+              "isLegendary": true
+            },
+            {
+              "id": 382,
+              "name": "Kyogre",
+              "types": ["water"],
+              "isLegendary": true
+            },
+            {
+              "id": 383,
+              "name": "Groudon",
+              "types": ["ground"],
+              "isLegendary": true
+            },
+            {
+              "id": 384,
+              "name": "Rayquaza",
+              "types": ["dragon", "flying"],
+              "isLegendary": true
+            },
+            {
+              "id": 385,
+              "name": "Jirachi",
+              "types": ["steel", "psychic"],
+              "isLegendary": true
+            },
+            {
+              "id": 386,
+              "name": "Deoxys",
+              "types": ["psychic"],
+              "forms": [
+                {
+                  "name": "Deoxys",
+                  "types": ["psychic"]
+                },
+                {
+                  "name": "Deoxys Attack",
+                  "types": ["psychic"],
+                  "spriteSuffix": "attack"
+                },
+                {
+                  "name": "Deoxys Defense",
+                  "types": ["psychic"],
+                  "spriteSuffix": "defense"
+                },
+                {
+                  "name": "Deoxys Speed",
+                  "types": ["psychic"],
+                  "spriteSuffix": "speed"
+                }
+              ],
+              "isLegendary": true
+            }
+
+
+
