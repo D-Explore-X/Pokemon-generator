@@ -100,7 +100,6 @@
 		],
 		"desc": "A powerful fire and flying-type Pokémon with both Mega X and Mega Y forms."
 	},
-    [
 	{
 		"id": 7,
 		"name": "Squirtle",
@@ -292,7 +291,6 @@
 		],
 		"desc": "A snake-like Pokémon known for its coiled body and venomous bite."
 	},
-    [
 	{
 		"id": 24,
 		"name": "Arbok",
@@ -1534,12 +1532,6 @@
 		"types": ["normal"],
 		"desc": "A normal-type Pokémon with the unique ability to learn and mimic the moves of other Pokémon."
 	},
-
-
-
-
-
-[
 	{
 		"id": 238,
 		"name": "Smoochum",
@@ -1702,7 +1694,6 @@
 		"types": ["bug", "flying"],
 		"desc": "A bug and flying-type Pokémon known for its beautiful appearance and graceful flight."
 	},
-    [
 	{
 		"id": 290,
 		"name": "Nincada",
@@ -1850,7 +1841,6 @@
 		],
 		"desc": "A steel and rock-type Pokémon known for its massive size and formidable strength. Its mega-evolution enhances its defensive abilities."
 	},
-    [
 	{
 		"id": 307,
 		"name": "Meditite",
@@ -2053,7 +2043,6 @@
 		],
 		"desc": "A dual-type dragon and flying Pokémon known for its graceful appearance and the ability to mega-evolve."
 	},
-    [
 	{
 		"id": 335,
 		"name": "Zangoose",
@@ -2243,7 +2232,7 @@
 		"types": ["normal", "flying"],
 		"desc": "A dual-type normal and flying Pokémon that evolves from Starly."
 	},
-    [
+    
 	{
 		"id": 398,
 		"name": "Staraptor",
@@ -2385,7 +2374,7 @@
 		"types": ["dark", "flying"],
 		"desc": "Honchkrow is a Dark/Flying-type Pokémon known for its ominous appearance and leadership of a gang of Murkrow. It is a symbol of bad luck in some cultures."
 	},
-    [
+    
 	{
 		"id": 433,
 		"name": "Chingling",
@@ -2517,7 +2506,7 @@
 			}
 		]
 	},
-    [
+    
 	{
 		"id": 451,
 		"name": "Skorupi",
@@ -2704,7 +2693,7 @@
 			}
 		]
 	},
-    [
+    
   {
     "id": 504,
     "name": "Patrat",
@@ -2892,7 +2881,7 @@
       }
     ]
   },
-  [
+  
   {
     "id": 551,
     "name": "Sandile",
@@ -3122,7 +3111,7 @@
   "types": ["dragon"],
   "desc": "Axew is a Dragon type Pokémon known for its strong tusks."
 },
-[
+
   {
     "id": 611,
     "name": "Fraxure",
@@ -3371,7 +3360,7 @@
   "types": ["fire", "normal"],
   "desc": "Litleo is a Fire and Normal type Pokémon known for its fierce roar."
 },
-[
+
   {
     "id": 668,
     "name": "Pyroar",
@@ -3609,9 +3598,8 @@
       }
     ],
     "desc": "Meowstic is the evolved form of Espurr. It's a Psychic-type Pokémon with heightened psychic abilities."
-  }
-]
-[
+  },
+
   {
     "id": 679,
     "name": "Honedge",
@@ -3976,5 +3964,5 @@
     "desc": "Hoopa is a Mythical Psychic/Ghost-type Pokémon with the ability to change forms."
   }
 
-
-    
+	]
+	]]]]]]    
