@@ -1,0 +1,1774 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "isNfe": true,
+      "types": ["grass", "poison"],
+      "desc": "A dual-type Grass/Poison Pokémon. It is the first Pokémon in the National Pokédex."
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "isNfe": true,
+      "types": ["grass", "poison"],
+      "desc": "The evolved form of Bulbasaur. It is capable of using moves like Vine Whip and Leech Seed."
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "types": ["grass", "poison"],
+      "desc": "The final evolved form of Bulbasaur. It has a large flower on its back that releases a sweet scent."
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "isNfe": true,
+      "types": ["fire"],
+      "desc": "A Fire-type Pokémon known for its flame-tipped tail. It evolves into Charmeleon."
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "isNfe": true,
+      "types": ["fire"],
+      "desc": "The evolved form of Charmander. It is more aggressive and has a burning tail."
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "types": ["fire", "flying"],
+      "desc": "The final evolved form of Charmander. It is a powerful Fire/Flying-type Pokémon."
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "isNfe": true,
+      "types": ["water"],
+      "desc": "A Water-type Pokémon that resembles a turtle. It evolves into Wartortle."
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "isNfe": true,
+      "types": ["water"],
+      "desc": "The evolved form of Squirtle. It has more developed aquatic abilities."
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "types": ["water"],
+      "desc": "The final evolved form of Squirtle. It is a Water-type Pokémon with powerful water cannons on its back."
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "isNfe": true,
+      "types": ["bug"],
+      "desc": "A Bug-type Pokémon with a voracious appetite for leaves. It evolves into Metapod."
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "isNfe": true,
+      "types": ["bug"],
+      "desc": "The evolved form of Caterpie. It has a hard shell and is primarily known for its defensive capabilities."
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "types": ["bug", "flying"],
+      "desc": "The final evolved form of Caterpie. It is known for its graceful and colorful appearance."
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "isNfe": true,
+      "types": ["bug", "poison"],
+      "desc": "A Bug/Poison-type Pokémon. It evolves into Kakuna and is known for its sharp stingers."
+    },
+
+        {
+          "id": 14,
+          "name": "Kakuna",
+          "isNfe": true,
+          "types": ["bug", "poison"],
+          "desc": "The evolved form of Weedle. It is known for its hard cocoon shell and limited moveset."
+        },
+        {
+          "id": 15,
+          "name": "Beedrill",
+          "types": ["bug", "poison"],
+          "desc": "The final evolved form of Weedle. It has large stingers on its forelegs for protection."
+        },
+        {
+          "id": 16,
+          "name": "Pidgey",
+          "isNfe": true,
+          "types": ["normal", "flying"],
+          "desc": "A common bird Pokémon. It is known for its gentle nature and often found in grassy areas."
+        },
+        {
+          "id": 17,
+          "name": "Pidgeotto",
+          "isNfe": true,
+          "types": ["normal", "flying"],
+          "desc": "The evolved form of Pidgey. It is a skilled flyer and hunter."
+        },
+        {
+          "id": 18,
+          "name": "Pidgeot",
+          "types": ["normal", "flying"],
+          "desc": "The final evolved form of Pidgey. It has powerful wings and is capable of flying at high speeds."
+        },
+        {
+          "id": 19,
+          "name": "Rattata",
+          "isNfe": true,
+          "types": ["normal"],
+          "desc": "A small and common Pokémon. It is known for its sharp teeth and love for scavenging."
+        },
+        {
+          "id": 20,
+          "name": "Raticate",
+          "types": ["normal"],
+          "desc": "The final evolved form of Rattata. It is a swift runner and adept at biting."
+        },
+        {
+          "id": 21,
+          "name": "Spearow",
+          "isNfe": true,
+          "types": ["normal", "flying"],
+          "desc": "A bird Pokémon that hunts for insects. It is known for its keen eyesight."
+        },
+        {
+          "id": 22,
+          "name": "Fearow",
+          "types": ["normal", "flying"],
+          "desc": "The final evolved form of Spearow. It has a long beak for catching prey."
+        },
+        {
+          "id": 23,
+          "name": "Ekans",
+          "isNfe": true,
+          "types": ["poison"],
+          "desc": "A snake Pokémon known for its serpentine body. It can be found in grassy areas."
+        },
+        {
+          "id": 24,
+          "name": "Arbok",
+          "types": ["poison"],
+          "desc": "The final evolved form of Ekans. It has a menacing hood pattern on its neck."
+        },
+        {
+          "id": 25,
+          "name": "Pikachu",
+          "isNfe": true,
+          "types": ["electric"],
+          "desc": "An Electric-type Pokémon known for its lightning bolt-shaped tail. It is the mascot of the Pokémon franchise."
+        },
+        [
+            {
+              "id": 26,
+              "name": "Raichu",
+              "types": ["electric"],
+              "desc": "The evolved form of Pikachu. It is known for its speed and electrical abilities."
+            },
+            {
+              "id": 27,
+              "name": "Sandshrew",
+              "isNfe": true,
+              "types": ["ground"],
+              "desc": "A small, ground-type Pokémon known for its tough skin and burrowing abilities."
+            },
+            {
+              "id": 28,
+              "name": "Sandslash",
+              "types": ["ground"],
+              "desc": "The final evolved form of Sandshrew. It has sharp claws and rolls into a ball for defense."
+            },
+            {
+              "id": 29,
+              "name": "Nidoran ♀",
+              "isNfe": true,
+              "types": ["poison"],
+              "desc": "A female Nidoran Pokémon known for its gentle nature and sharp, toxic spines."
+            },
+            {
+              "id": 30,
+              "name": "Nidorina",
+              "isNfe": true,
+              "types": ["poison"],
+              "desc": "The evolved form of Nidoran ♀. It is cautious and prefers peaceful environments."
+            },
+            {
+              "id": 31,
+              "name": "Nidoqueen",
+              "types": ["poison", "ground"],
+              "desc": "The final evolved form of Nidoran ♀. It is a powerful and imposing Pokémon."
+            },
+            {
+              "id": 32,
+              "name": "Nidoran ♂",
+              "isNfe": true,
+              "types": ["poison"],
+              "desc": "A male Nidoran Pokémon known for its aggressive nature and potent venom."
+            },
+            {
+              "id": 33,
+              "name": "Nidorino",
+              "isNfe": true,
+              "types": ["poison"],
+              "desc": "The evolved form of Nidoran ♂. It is quick to anger and always ready to battle."
+            },
+            {
+              "id": 34,
+              "name": "Nidoking",
+              "types": ["poison", "ground"],
+              "desc": "The final evolved form of Nidorino. It is a formidable and fearless Pokémon."
+            },
+            {
+              "id": 35,
+              "name": "Clefairy",
+              "isNfe": true,
+              "types": ["normal"],
+              "desc": "A fairy-like Pokémon known for its moonlit dances and fondness for the moon."
+            },
+            {
+              "id": 36,
+              "name": "Clefable",
+              "types": ["normal"],
+              "desc": "The evolved form of Clefairy. It is said to bring good fortune to those who see it."
+            },
+            {
+              "id": 37,
+              "name": "Vulpix",
+              "isNfe": true,
+              "types": ["fire"],
+              "desc": "A fox-like Pokémon known for its six orange tails and fire-based abilities."
+            },
+            {
+              "id": 38,
+              "name": "Ninetales",
+              "types": ["fire"],
+              "desc": "The final evolved form of Vulpix. It is said to have mystical and supernatural powers."
+            },
+            {
+              "id": 39,
+              "name": "Jigglypuff",
+              "isNfe": true,
+              "types": ["normal"],
+              "desc": "A balloon-like Pokémon known for its soothing lullabies and ability to put others to sleep."
+            },
+            {
+              "id": 40,
+              "name": "Wigglytuff",
+              "types": ["normal"],
+              "desc": "The evolved form of Jigglypuff. It has a large, round body and a kind disposition."
+            },
+            {
+              "id": 41,
+              "name": "Zubat",
+              "isNfe": true,
+              "types": ["poison", "flying"],
+              "desc": "A bat Pokémon known for its sharp fangs and ability to echolocate in the dark."
+            },
+            {
+              "id": 42,
+              "name": "Golbat",
+              "isNfe": true,
+              "types": ["poison", "flying"],
+              "desc": "The evolved form of Zubat. It has a massive wingspan and is a formidable flyer."
+            },
+            {
+              "id": 43,
+              "name": "Oddish",
+              "isNfe": true,
+              "types": ["grass", "poison"],
+              "desc": "A plant Pokémon known for its blue leaves and nocturnal behavior."
+            },
+            {
+              "id": 44,
+              "name": "Gloom",
+              "isNfe": true,
+              "types": ["grass", "poison"],
+              "desc": "The evolved form of Oddish. It emits a foul odor and is often found in gloomy places."
+            },
+            {
+              "id": 45,
+              "name": "Vileplume",
+              "types": ["grass", "poison"],
+              "desc": "The final evolved form of Gloom. It releases a sweet fragrance from its petals."
+            },
+            {
+              "id": 46,
+              "name": "Paras",
+              "isNfe": true,
+              "types": ["bug", "grass"],
+              "desc": "A mushroom Pokémon. It forms a mutualistic relationship with the mushroom on its back."
+            },
+            {
+              "id": 47,
+              "name": "Parasect",
+              "types": ["bug", "grass"],
+              "desc": "The evolved form of Paras. The mushroom on its back grows larger and controls it."
+            },
+            {
+              "id": 48,
+              "name": "Venonat",
+              "isNfe": true,
+              "types": ["bug", "poison"],
+              "desc": "A bug Pokémon known for its large eyes, which are sensitive to light and movement."
+            },
+            {
+              "id": 49,
+              "name": "Venomoth",
+              "types": ["bug", "poison"],
+              "desc": "The final evolved form of Venonat. It releases poisonous scales when threatened."
+            },
+            [
+                {
+                  "id": 50,
+                  "name": "Diglett",
+                  "isNfe": true,
+                  "types": ["ground"],
+                  "desc": "A burrowing Pokémon known for its underground lifestyle and sensitivity to vibrations."
+                },
+                {
+                  "id": 51,
+                  "name": "Dugtrio",
+                  "types": ["ground"],
+                  "desc": "The evolved form of Diglett. It consists of three Digletts and is a skilled digger."
+                },
+                {
+                  "id": 52,
+                  "name": "Meowth",
+                  "isNfe": true,
+                  "types": ["normal"],
+                  "desc": "A cat-like Pokémon known for its love of coins and its ability to use Pay Day."
+                },
+                {
+                  "id": 53,
+                  "name": "Persian",
+                  "types": ["normal"],
+                  "desc": "The evolved form of Meowth. It is elegant and graceful in its movements."
+                },
+                {
+                  "id": 54,
+                  "name": "Psyduck",
+                  "isNfe": true,
+                  "types": ["water"],
+                  "desc": "A water-type Pokémon known for its chronic headaches that trigger psychic powers."
+                },
+                {
+                  "id": 55,
+                  "name": "Golduck",
+                  "types": ["water"],
+                  "desc": "The evolved form of Psyduck. It is a strong swimmer and has formidable psychic abilities."
+                },
+                {
+                  "id": 56,
+                  "name": "Mankey",
+                  "isNfe": true,
+                  "types": ["fighting"],
+                  "desc": "A monkey Pokémon known for its short temper and fiery fighting spirit."
+                },
+                {
+                  "id": 57,
+                  "name": "Primeape",
+                  "types": ["fighting"],
+                  "desc": "The evolved form of Mankey. It is always ready for a battle and can become uncontrollable."
+                },
+                {
+                  "id": 58,
+                  "name": "Growlithe",
+                  "isNfe": true,
+                  "types": ["fire"],
+                  "desc": "A loyal and brave dog Pokémon known for its fiery mane and protective nature."
+                },
+                {
+                  "id": 59,
+                  "name": "Arcanine",
+                  "types": ["fire"],
+                  "desc": "The evolved form of Growlithe. It is a legendary and majestic fire-type Pokémon."
+                },
+                {
+                  "id": 60,
+                  "name": "Poliwag",
+                  "isNfe": true,
+                  "types": ["water"],
+                  "desc": "A tadpole Pokémon known for its spiral pattern on its belly and swift swimming."
+                },
+                {
+                  "id": 61,
+                  "name": "Poliwhirl",
+                  "isNfe": true,
+                  "types": ["water"],
+                  "desc": "The evolved form of Poliwag. It is skilled at swimming and uses its long arms to catch prey."
+                },
+                {
+                  "id": 62,
+                  "name": "Poliwrath",
+                  "types": ["water", "fighting"],
+                  "desc": "The final evolved form of Poliwhirl. It is a powerful swimmer and skilled fighter."
+                },
+                {
+                  "id": 63,
+                  "name": "Abra",
+                  "isNfe": true,
+                  "types": ["psychic"],
+                  "desc": "A psychic Pokémon known for its ability to teleport away from danger."
+                },
+                {
+                  "id": 64,
+                  "name": "Kadabra",
+                  "isNfe": true,
+                  "types": ["psychic"],
+                  "desc": "The evolved form of Abra. It wields a spoon and has strong psychic powers."
+                },
+                {
+                  "id": 65,
+                  "name": "Alakazam",
+                  "types": ["psychic"],
+                  "desc": "The final evolved form of Kadabra. It has an IQ of over 5,000 and formidable psychic abilities."
+                },
+                [
+                    {
+                      "id": 66,
+                      "name": "Machop",
+                      "isNfe": true,
+                      "types": ["fighting"],
+                      "desc": "A muscular Pokémon that trains rigorously to gain strength and become a formidable fighter."
+                    },
+                    {
+                      "id": 67,
+                      "name": "Machoke",
+                      "isNfe": true,
+                      "types": ["fighting"],
+                      "desc": "The evolved form of Machop. It has even more impressive muscles and physical power."
+                    },
+                    {
+                      "id": 68,
+                      "name": "Machamp",
+                      "types": ["fighting"],
+                      "desc": "The final evolved form of Machop. It is known for its incredible strength and multiple arms."
+                    },
+                    {
+                      "id": 69,
+                      "name": "Bellsprout",
+                      "isNfe": true,
+                      "types": ["grass", "poison"],
+                      "desc": "A plant Pokémon with a large mouth at the end of its stalk. It ensnares prey with its vines."
+                    },
+                    {
+                      "id": 70,
+                      "name": "Weepinbell",
+                      "isNfe": true,
+                      "types": ["grass", "poison"],
+                      "desc": "The evolved form of Bellsprout. It has a bell-shaped body and digests prey in its mouth."
+                    },
+                    {
+                      "id": 71,
+                      "name": "Victreebel",
+                      "types": ["grass", "poison"],
+                      "desc": "The final evolved form of Bellsprout. It lures prey with its sweet aroma and devours them whole."
+                    },
+                    {
+                      "id": 72,
+                      "name": "Tentacool",
+                      "isNfe": true,
+                      "types": ["water", "poison"],
+                      "desc": "A jellyfish Pokémon known for its tentacles, which it uses to capture and sting prey."
+                    },
+                    {
+                      "id": 73,
+                      "name": "Tentacruel",
+                      "types": ["water", "poison"],
+                      "desc": "The evolved form of Tentacool. It has even longer and more powerful tentacles."
+                    },
+                    {
+                      "id": 74,
+                      "name": "Geodude",
+                      "isNfe": true,
+                      "types": ["rock", "ground"],
+                      "desc": "A rock Pokémon with arms. It rolls down mountains, smashing everything in its path."
+                    },
+                    {
+                      "id": 75,
+                      "name": "Graveler",
+                      "isNfe": true,
+                      "types": ["rock", "ground"],
+                      "desc": "The evolved form of Geodude. It travels in groups and triggers rockfalls."
+                    },
+                    {
+                      "id": 76,
+                      "name": "Golem",
+                      "types": ["rock", "ground"],
+                      "desc": "The final evolved form of Geodude. It is known for its impenetrable rock body."
+                    },
+                    {
+                      "id": 77,
+                      "name": "Ponyta",
+                      "isNfe": true,
+                      "types": ["fire"],
+                      "desc": "A horse Pokémon with a fiery mane. It is known for its incredible speed and agility."
+                    },
+                    {
+                      "id": 78,
+                      "name": "Rapidash",
+                      "types": ["fire"],
+                      "desc": "The evolved form of Ponyta. It can run as fast as a meteor and has fiery hooves."
+                    },
+                    {
+                      "id": 79,
+                      "name": "Slowpoke",
+                      "isNfe": true,
+                      "types": ["water", "psychic"],
+                      "desc": "A slow-moving Pokémon known for its dreamy and absent-minded nature."
+                    },
+                    {
+                      "id": 80,
+                      "name": "Slowbro",
+                      "types": ["water", "psychic"],
+                      "desc": "The evolved form of Slowpoke. It has a sheltering Shellder attached to its tail."
+                    },
+                    {
+                      "id": 81,
+                      "name": "Magnemite",
+                      "isNfe": true,
+                      "types": ["electric", "steel"],
+                      "desc": "A magnet Pokémon that floats using electromagnetic waves. It can join together to form larger Magnemite."
+                    },
+                    {
+                      "id": 82,
+                      "name": "Magneton",
+                      "types": ["electric", "steel"],
+                      "desc": "The evolved form of Magnemite. It generates strong magnetic forces and is often seen in power plants."
+                    },
+                    {
+                      "id": 83,
+                      "name": "Farfetch'd",
+                      "types": ["normal", "flying"],
+                      "desc": "A wild duck Pokémon that carries a leek stalk. It is a skilled swordsman."
+                    },
+                    {
+                      "id": 84,
+                      "name": "Doduo",
+                      "isNfe": true,
+                      "types": ["normal", "flying"],
+                      "desc": "A two-headed bird Pokémon known for its fast running and ability to fly short distances."
+                    },
+                    {
+                      "id": 85,
+                      "name": "Dodrio",
+                      "types": ["normal", "flying"],
+                      "desc": "The evolved form of Doduo. It has three heads and is an excellent runner."
+                    },
+                    {
+                      "id": 86,
+                      "name": "Seel",
+                      "isNfe": true,
+                      "types": ["water"],
+                      "desc": "A sea lion Pokémon that can swim gracefully and is often seen sunbathing on beaches."
+                    },
+                    {
+                      "id": 87,
+                      "name": "Dewgong",
+                      "types": ["water", "ice"],
+                      "desc": "The evolved form of Seel. It has strong tusks and excels at swimming in cold waters."
+                    },
+                    {
+                      "id": 88,
+                      "name": "Grimer",
+                      "isNfe": true,
+                      "types": ["poison"],
+                      "desc": "A sludge Pokémon made of toxic substances. It gives off a horrendous stench."
+                    },
+                    {
+                      "id": 89,
+                      "name": "Muk",
+                      "types": ["poison"],
+                      "desc": "The evolved form of Grimer. It is larger and more toxic, with an appetite for waste."
+                    },
+                    {
+                      "id": 90,
+                      "name": "Shellder",
+                      "isNfe": true,
+                      "types": ["water"],
+                      "desc": "A bivalve Pokémon with a protective shell. It can clamp onto prey with its sharp tongue."
+                    },
+                    {
+                      "id": 91,
+                      "name": "Cloyster",
+                      "types": ["water", "ice"],
+                      "desc": "The evolved form of Shellder. It has a highly durable shell and powerful defensive capabilities."
+                    },
+                    {
+                      "id": 92,
+                      "name": "Gastly",
+                      "isNfe": true,
+                      "types": ["ghost", "poison"],
+                      "desc": "A ghost Pokémon composed of toxic gases. It can render opponents unconscious."
+                    },
+                    {
+                      "id": 93,
+                      "name": "Haunter",
+                      "isNfe": true,
+                      "types": ["ghost", "poison"],
+                      "desc": "The evolved form of Gastly. It is mischievous and enjoys frightening people."
+                    },
+                    {
+                      "id": 94,
+                      "name": "Gengar",
+                      "types": ["ghost", "poison"],
+                      "desc": "The final evolved form of Gastly. It is a shadowy and sinister Pokémon."
+                    },
+                    {
+                      "id": 95,
+                      "name": "Onix",
+                      "isNfe": true,
+                      "types": ["rock", "ground"],
+                      "desc": "A serpentine Pokémon that tunnels underground. It is known for its immense size and strength."
+                    },
+                    {
+                      "id": 96,
+                      "name": "Drowzee",
+                      "isNfe": true,
+                      "types": ["psychic"],
+                      "desc": "A psychic Pokémon that uses its pendulum-like arm to hypnotize and control others."
+                    },
+                    {
+                      "id": 97,
+                      "name": "Hypno",
+                      "types": ["psychic"],
+                      "desc": "The evolved form of Drowzee. It is known for its powerful hypnotic abilities."
+                    },
+                    {
+                      "id": 98,
+                      "name": "Krabby",
+                      "isNfe": true,
+                      "types": ["water"],
+                      "desc": "A crab Pokémon with a fiery temperament. It is quick to anger and snap with its pincers."
+                    },
+                    {
+                      "id": 99,
+                      "name": "Kingler",
+                      "types": ["water"],
+                      "desc": "The evolved form of Krabby. It has incredibly strong and large pincers."
+                    },
+                    {
+                      "id": 100,
+                      "name": "Voltorb",
+                      "isNfe": true,
+                      "types": ["electric"],
+                      "desc": "A spherical Pokémon that resembles a Poké Ball. It can explode with powerful electrical energy."
+                    },
+                    [
+                        {
+                          "id": 101,
+                          "name": "Electrode",
+                          "types": ["electric"],
+                          "desc": "A round Pokémon that stores electrical energy. It can explode if agitated or if its electric charge overflows."
+                        },
+                        {
+                          "id": 102,
+                          "name": "Exeggcute",
+                          "isNfe": true,
+                          "types": ["grass", "psychic"],
+                          "desc": "A group of small eggs that communicate telepathically. They evolve into Exeggutor when given a Leaf Stone."
+                        },
+                        {
+                          "id": 103,
+                          "name": "Exeggutor",
+                          "types": ["grass", "psychic"],
+                          "desc": "The evolved form of Exeggcute. It has a long neck with three heads and is known for its psychic abilities."
+                        },
+                        {
+                          "id": 104,
+                          "name": "Cubone",
+                          "isNfe": true,
+                          "types": ["ground"],
+                          "desc": "A Pokémon that wears a skull helmet. It is said to be mourning its deceased mother."
+                        },
+                        {
+                          "id": 105,
+                          "name": "Marowak",
+                          "types": ["ground"],
+                          "desc": "The evolved form of Cubone. It wields a bone as a weapon and performs a dance to summon rain."
+                        },
+                        {
+                          "id": 106,
+                          "name": "Hitmonlee",
+                          "types": ["fighting"],
+                          "desc": "A kicking Pokémon with powerful legs. It is a master of martial arts and specializes in kicks."
+                        },
+                        {
+                          "id": 107,
+                          "name": "Hitmonchan",
+                          "types": ["fighting"],
+                          "desc": "A punching Pokémon that excels in punching techniques. It is known for its speed and agility."
+                        },
+                        {
+                          "id": 108,
+                          "name": "Lickitung",
+                          "types": ["normal"],
+                          "desc": "A Pokémon with an exceptionally long tongue. It uses its tongue to catch insects and gather food."
+                        },
+                        {
+                          "id": 109,
+                          "name": "Koffing",
+                          "isNfe": true,
+                          "types": ["poison"],
+                          "desc": "A gas Pokémon that emits toxic gases. It has a skull and crossbones pattern on its body."
+                        },
+                        {
+                          "id": 110,
+                          "name": "Weezing",
+                          "types": ["poison"],
+                          "desc": "The evolved form of Koffing. It has two heads and releases even more toxic fumes."
+                        },
+                        {
+                          "id": 111,
+                          "name": "Rhyhorn",
+                          "isNfe": true,
+                          "types": ["ground", "rock"],
+                          "desc": "A powerful Pokémon with a horn that can pierce rocks. It is known for its charging attacks."
+                        },
+                        {
+                          "id": 112,
+                          "name": "Rhydon",
+                          "types": ["ground", "rock"],
+                          "desc": "The evolved form of Rhyhorn. It has a drill-like horn and is incredibly strong."
+                        },
+                        {
+                          "id": 113,
+                          "name": "Chansey",
+                          "isNfe": true,
+                          "types": ["normal"],
+                          "desc": "A caring Pokémon that brings happiness to others. It is known for its exceptional egg-warming skills."
+                        },
+                        {
+                          "id": 114,
+                          "name": "Tangela",
+                          "types": ["grass"],
+                          "desc": "A vine Pokémon that hides its body within a tangle of vines. It moves stealthily in the grass."
+                        },
+                        {
+                          "id": 115,
+                          "name": "Kangaskhan",
+                          "types": ["normal"],
+                          "desc": "A maternal Pokémon that carries a baby Kangaskhan in its pouch. It is fiercely protective."
+                        },
+                        {
+                          "id": 116,
+                          "name": "Horsea",
+                          "isNfe": true,
+                          "types": ["water"],
+                          "desc": "A small, aquatic Pokémon that uses its fin to swim gracefully. It is known for its beauty."
+                        },
+                        {
+                          "id": 117,
+                          "name": "Seadra",
+                          "isNfe": true,
+                          "types": ["water"],
+                          "desc": "The evolved form of Horsea. It has sharp spines on its body and is a skilled swimmer."
+                        },
+                        {
+                          "id": 118,
+                          "name": "Goldeen",
+                          "isNfe": true,
+                          "types": ["water"],
+                          "desc": "A graceful, fish Pokémon with a beautiful tail fin. It swims elegantly in water."
+                        },
+                        {
+                          "id": 119,
+                          "name": "Seaking",
+                          "types": ["water"],
+                          "desc": "The final evolved form of Goldeen. It is known for its horn, which is said to bring rain."
+                        },
+                        {
+                          "id": 120,
+                          "name": "Staryu",
+                          "isNfe": true,
+                          "types": ["water"],
+                          "desc": "A star-shaped Pokémon that regenerates lost limbs. It is said to come from the stars."
+                        },
+                        {
+                          "id": 121,
+                          "name": "Starmie",
+                          "types": ["water", "psychic"],
+                          "desc": "The evolved form of Staryu. It has a core that emits psychic energy and can levitate."
+                        },
+                        {
+                          "id": 122,
+                          "name": "Mr. Mime",
+                          "types": ["psychic"],
+                          "desc": "A pantomime Pokémon that mimics human gestures. It creates invisible walls using its powers."
+                        },
+                        {
+                          "id": 123,
+                          "name": "Scyther",
+                          "isNfe": true,
+                          "types": ["bug", "flying"],
+                          "desc": "A fast-flying Pokémon with scythe-like blades for arms. It is a skilled predator."
+                        },
+                        {
+                          "id": 124,
+                          "name": "Jynx",
+                          "types": ["ice", "psychic"],
+                          "desc": "A Pokémon that uses its graceful movements to mesmerize and then kiss its prey to death."
+                        },
+                        {
+                          "id": 125,
+                          "name": "Electabuzz",
+                          "types": ["electric"],
+                          "desc": "A Pokémon that emits strong electrical currents. It is known for its speed and agility."
+                        },
+                        {
+                          "id": 126,
+                          "name": "Magmar",
+                          "types": ["fire"],
+                          "desc": "A fire-spewing Pokémon that lives in volcanic craters. It is known for its intense heat."
+                        },
+                        {
+                          "id": 127,
+                          "name": "Pinsir",
+                          "types": ["bug"],
+                          "desc": "A formidable Pokémon with large pincers. It is known for its powerful grip."
+                        },
+                        {
+                          "id": 128,
+                          "name": "Tauros",
+                          "types": ["normal"],
+                          "desc": "A wild and untamed Pokémon known for its aggressive nature. It is a symbol of strength."
+                        },
+                        {
+                          "id": 129,
+                          "name": "Magikarp",
+                          "isNfe": true,
+                          "types": ["water"],
+                          "desc": "A weak and helpless Pokémon that can splash around. It evolves into Gyarados."
+                        },
+                        {
+                          "id": 130,
+                          "name": "Gyarados",
+                          "types": ["water", "flying"],
+                          "desc": "The evolved form of Magikarp. It is a powerful and ferocious sea serpent."
+                        },
+                        [
+                            {
+                              "id": 131,
+                              "name": "Lapras",
+                              "types": ["water", "ice"],
+                              "desc": "A gentle giant of the sea, Lapras is known for its beautiful singing and its ability to carry people on its back across bodies of water."
+                            },
+                            {
+                              "id": 132,
+                              "name": "Ditto",
+                              "types": ["normal"],
+                              "desc": "Ditto is a unique Pokémon that can transform into any other Pokémon it sees. It has a friendly and adaptable nature."
+                            },
+                            {
+                              "id": 133,
+                              "name": "Eevee",
+                              "isNfe": true,
+                              "types": ["normal"],
+                              "desc": "Eevee is a versatile Pokémon with the potential to evolve into various forms, depending on its environment and friendships."
+                            },
+                            {
+                              "id": 134,
+                              "name": "Vaporeon",
+                              "types": ["water"],
+                              "desc": "Vaporeon is a Water-type Pokémon known for its graceful aquatic movements and its ability to manipulate water."
+                            },
+                            {
+                              "id": 135,
+                              "name": "Jolteon",
+                              "types": ["electric"],
+                              "desc": "Jolteon is an Electric-type Pokémon with sharp spines on its body, capable of discharging powerful electrical shocks."
+                            },
+                            {
+                              "id": 136,
+                              "name": "Flareon",
+                              "types": ["fire"],
+                              "desc": "Flareon is a Fire-type Pokémon that can produce intense flames from its body, making it a fearsome opponent in battle."
+                            },
+                            {
+                              "id": 137,
+                              "name": "Porygon",
+                              "isNfe": true,
+                              "types": ["normal"],
+                              "desc": "Porygon is a virtual Pokémon created by humans. It can move freely in cyberspace and has a unique geometric appearance."
+                            },
+                            {
+                              "id": 138,
+                              "name": "Omanyte",
+                              "isNfe": true,
+                              "types": ["rock", "water"],
+                              "desc": "Omanyte is an ancient Water/Rock-type Pokémon that existed millions of years ago. It has a distinctive spiral shell."
+                            },
+                            {
+                              "id": 139,
+                              "name": "Omastar",
+                              "types": ["rock", "water"],
+                              "desc": "Omastar is the evolved form of Omanyte. It was a powerful predator in ancient seas, known for its sharp tentacles."
+                            },
+                            {
+                              "id": 140,
+                              "name": "Kabuto",
+                              "isNfe": true,
+                              "types": ["rock", "water"],
+                              "desc": "Kabuto is a resurrected Pokémon from ancient times. It has a hard shell and is adapted to life in water."
+                            },
+                            {
+                              "id": 141,
+                              "name": "Kabutops",
+                              "types": ["rock", "water"],
+                              "desc": "Kabutops is the evolved form of Kabuto. It is a swift and deadly predator with scythe-like arms."
+                            },
+                            {
+                              "id": 142,
+                              "name": "Aerodactyl",
+                              "types": ["rock", "flying"],
+                              "desc": "Aerodactyl is a prehistoric Pokémon known for its impressive wingspan and its ability to soar through the skies."
+                            },
+                            {
+                              "id": 143,
+                              "name": "Snorlax",
+                              "types": ["normal"],
+                              "desc": "Snorlax is a massive and sleepy Pokémon that spends most of its time resting. It has an insatiable appetite."
+                            },
+                            {
+                              "id": 144,
+                              "name": "Articuno",
+                              "types": ["ice", "flying"],
+                              "isLegendary": true,
+                              "desc": "Articuno is a legendary bird Pokémon known for its association with icy winds and its graceful appearance."
+                            },
+                            {
+                              "id": 145,
+                              "name": "Zapdos",
+                              "types": ["electric", "flying"],
+                              "isLegendary": true,
+                              "desc": "Zapdos is a legendary bird Pokémon that harnesses the power of electricity. It can create lightning storms."
+                            },
+                            {
+                              "id": 146,
+                              "name": "Moltres",
+                              "types": ["fire", "flying"],
+                              "isLegendary": true,
+                              "desc": "Moltres is a legendary bird Pokémon that is said to be born from volcanic eruptions. It radiates intense heat."
+                            },
+                            {
+                              "id": 147,
+                              "name": "Dratini",
+                              "isNfe": true,
+                              "types": ["dragon"],
+                              "desc": "Dratini is a Dragon-type Pokémon that is often found near bodies of water. It has a gentle and playful nature."
+                            },
+                            {
+                              "id": 148,
+                              "name": "Dragonair",
+                              "isNfe": true,
+                              "types": ["dragon"],
+                              "desc": "Dragonair is the evolved form of Dratini. It is a serpentine Dragon-type Pokémon known for its elegance."
+                            },
+                            {
+                              "id": 149,
+                              "name": "Dragonite",
+                              "types": ["dragon", "flying"],
+                              "desc": "Dragonite is a powerful Dragon/Flying-type Pokémon. Despite its size, it is known for its kindness and helpfulness."
+                            },
+                            {
+                              "id": 150,
+                              "name": "Mewtwo",
+                              "types": ["psychic"],
+                              "isLegendary": true,
+                              "desc": "Mewtwo is a legendary Psychic-type Pokémon with incredible psychic powers. It is highly intelligent and formidable."
+                            },
+                            [
+                                {
+                                  "id": 151,
+                                  "name": "Mew",
+                                  "types": ["psychic"],
+                                  "isLegendary": true,
+                                  "desc": "Mew is a mysterious and legendary Psychic-type Pokémon known for its ability to learn any move. It is said to contain the DNA of all Pokémon."
+                                },
+                                {
+                                  "id": 152,
+                                  "name": "Chikorita",
+                                  "isNfe": true,
+                                  "types": ["grass"],
+                                  "desc": "Chikorita is a Grass-type Pokémon with a cheerful and friendly disposition. It often emits a pleasant aroma from the leaves on its neck."
+                                },
+                                {
+                                  "id": 153,
+                                  "name": "Bayleef",
+                                  "isNfe": true,
+                                  "types": ["grass"],
+                                  "desc": "Bayleef is the evolved form of Chikorita. It has large and leafy appendages on its neck, which it uses to sense its surroundings."
+                                },
+                                {
+                                  "id": 154,
+                                  "name": "Meganium",
+                                  "types": ["grass"],
+                                  "desc": "Meganium is the final evolution of Chikorita. It is known for its soothing and healing powers, which it uses to calm and aid others."
+                                },
+                                {
+                                  "id": 155,
+                                  "name": "Cyndaquil",
+                                  "isNfe": true,
+                                  "types": ["fire"],
+                                  "desc": "Cyndaquil is a Fire-type Pokémon with a timid and defensive nature. It can release flames from its back when threatened."
+                                },
+                                {
+                                  "id": 156,
+                                  "name": "Quilava",
+                                  "isNfe": true,
+                                  "types": ["fire"],
+                                  "desc": "Quilava is the evolved form of Cyndaquil. It has a fiery personality and is known for its strong and agile movements."
+                                },
+                                {
+                                  "id": 157,
+                                  "name": "Typhlosion",
+                                  "types": ["fire"],
+                                  "desc": "Typhlosion is the final evolution of Cyndaquil. It possesses immense firepower and can create explosions with its fiery eruptions."
+                                },
+                                {
+                                  "id": 158,
+                                  "name": "Totodile",
+                                  "isNfe": true,
+                                  "types": ["water"],
+                                  "desc": "Totodile is a Water-type Pokémon with a playful and energetic demeanor. It has powerful jaws and enjoys chomping on things."
+                                },
+                                {
+                                  "id": 159,
+                                  "name": "Croconaw",
+                                  "isNfe": true,
+                                  "types": ["water"],
+                                  "desc": "Croconaw is the evolved form of Totodile. It is an adept swimmer and can catch prey with its sharp teeth while submerged."
+                                },
+                                {
+                                  "id": 160,
+                                  "name": "Feraligatr",
+                                  "types": ["water"],
+                                  "desc": "Feraligatr is the final evolution of Totodile. It is a formidable Water-type Pokémon with powerful jaws and a fierce temperament."
+                                },
+                                {
+                                  "id": 161,
+                                  "name": "Sentret",
+                                  "isNfe": true,
+                                  "types": ["normal"],
+                                  "desc": "Sentret is a Normal-type Pokémon known for its curious and vigilant nature. It stands on its tail to get a better view of its surroundings."
+                                },
+                                {
+                                  "id": 162,
+                                  "name": "Furret",
+                                  "types": ["normal"],
+                                  "desc": "Furret is the evolved form of Sentret. It has a long and flexible body that allows it to chase prey through tunnels and burrows."
+                                },
+                                {
+                                  "id": 163,
+                                  "name": "Hoothoot",
+                                  "isNfe": true,
+                                  "types": ["normal", "flying"],
+                                  "desc": "Hoothoot is a Normal/Flying-type Pokémon with a built-in internal clock. It hoots at precise intervals and is known for its punctuality."
+                                },
+                                {
+                                  "id": 164,
+                                  "name": "Noctowl",
+                                  "types": ["normal", "flying"],
+                                  "desc": "Noctowl is the evolved form of Hoothoot. It possesses exceptional night vision and can silently glide through the darkness to catch prey."
+                                },
+                                {
+                                  "id": 165,
+                                  "name": "Ledyba",
+                                  "isNfe": true,
+                                  "types": ["bug", "flying"],
+                                  "desc": "Ledyba is a Bug/Flying-type Pokémon known for its red and black coloration. It is often seen in gardens and fields."
+                                },
+                                {
+                                  "id": 166,
+                                  "name": "Ledian",
+                                  "types": ["bug", "flying"],
+                                  "desc": "Ledian is the evolved form of Ledyba. It is a graceful and agile flyer that uses its starry patterns to dazzle opponents."
+                                },
+                                {
+                                  "id": 167,
+                                  "name": "Spinarak",
+                                  "isNfe": true,
+                                  "types": ["bug", "poison"],
+                                  "desc": "Spinarak is a Bug/Poison-type Pokémon known for its silk-spinning abilities. It creates intricate webs to ensnare prey."
+                                },
+                                {
+                                  "id": 168,
+                                  "name": "Ariados",
+                                  "types": ["bug", "poison"],
+                                  "desc": "Ariados is the evolved form of Spinarak. It is a cunning and venomous predator that lurks in dark corners."
+                                },
+                                {
+                                  "id": 169,
+                                  "name": "Crobat",
+                                  "types": ["poison", "flying"],
+                                  "desc": "Crobat is the final evolution of Zubat. It is a Poison/Flying-type Pokémon known for its speed and agility during flight."
+                                },
+                                {
+                                  "id": 170,
+                                  "name": "Chinchou",
+                                  "isNfe": true,
+                                  "types": ["water", "electric"],
+                                  "desc": "Chinchou is a Water/Electric-type Pokémon that inhabits the ocean floor. It has glowing antennae to attract prey."
+                                },
+                                {
+                                  "id": 171,
+                                  "name": "Lanturn",
+                                  "types": ["water", "electric"],
+                                  "desc": "Lanturn is the evolved form of Chinchou. It uses its bright light to communicate with others and navigate in the dark depths."
+                                },
+                                {
+                                  "id": 172,
+                                  "name": "Pichu",
+                                  "isNfe": true,
+                                  "types": ["electric"],
+                                  "desc": "Pichu is the baby form of Pikachu. It is small and cute but can release small electric shocks when startled."
+                                },
+                                {
+                                  "id": 173,
+                                  "name": "Cleffa",
+                                  "isNfe": true,
+                                  "types": ["normal"],
+                                  "desc": "Cleffa is a Fairy-type Pokémon known for its star-shaped appearance. It is said to bring joy and happiness to those it encounters."
+                                },
+                                {
+                                  "id": 174,
+                                  "name": "Igglybuff",
+                                  "isNfe": true,
+                                  "types": ["normal"],
+                                  "desc": "Igglybuff is a Normal/Fairy-type Pokémon that loves to sing. Its melodies have a soothing effect on both Pokémon and people."
+                                },
+                                {
+                                  "id": 175,
+                                  "name": "Togepi",
+                                  "isNfe": true,
+                                  "types": ["normal"],
+                                  "desc": "Togepi is known for the eggshell it wears on its head. It spreads joy and happiness to those who care for it."
+                                },
+                                {
+                                  "id": 176,
+                                  "name": "Togetic",
+                                  "types": ["normal", "flying"],
+                                  "desc": "Togetic is the evolved form of Togepi. It is a kind-hearted and friendly Pokémon that spreads love and happiness."
+                                },
+                                {
+                                  "id": 177,
+                                  "name": "Natu",
+                                  "isNfe": true,
+                                  "types": ["psychic", "flying"],
+                                  "desc": "Natu is a Psychic/Flying-type Pokémon known for its peculiar and mystical behavior. It can see the future by looking at the sun and moon."
+                                },
+                                {
+                                  "id": 178,
+                                  "name": "Xatu",
+                                  "types": ["psychic", "flying"],
+                                  "desc": "Xatu is the evolved form of Natu. It is a mystical and enigmatic Pokémon that stands still and gazes at the sun for extended periods."
+                                },
+                                {
+                                  "id": 179,
+                                  "name": "Mareep",
+                                  "isNfe": true,
+                                  "types": ["electric"],
+                                  "desc": "Mareep is an Electric-type Pokémon covered in fluffy wool. It stores electricity in its fleece and can produce bright flashes of light."
+                                },
+                                {
+                                  "id": 180,
+                                  "name": "Flaaffy",
+                                  "isNfe": true,
+                                  "types": ["electric"],
+                                  "desc": "Flaaffy is the evolved form of Mareep. Its wool continues to grow, and it becomes more proficient at generating electrical power."
+                                },
+                                {
+                                  "id": 181,
+                                  "name": "Ampharos",
+                                  "types": ["electric"],
+                                  "desc": "Ampharos is the final evolution of Mareep. It has a regal appearance and can use its long tail to emit powerful light."
+                                },
+                                {
+                                  "id": 182,
+                                  "name": "Bellossom",
+                                  "types": ["grass"],
+                                  "desc": "Bellossom is the evolved form of Gloom when exposed to a Sun Stone. It dances gracefully in the moonlight and emits a sweet fragrance."
+                                },
+                                {
+                                  "id": 183,
+                                  "name": "Marill",
+                                  "isNfe": true,
+                                  "types": ["water"],
+                                  "desc": "Marill is a Water-type Pokémon with a water-filled tail ball. It is known for its playful and joyful nature."
+                                },
+                                {
+                                  "id": 184,
+                                  "name": "Azumarill",
+                                  "types": ["water"],
+                                  "desc": "Azumarill is the evolved form of Marill. It is a Water-type Pokémon that can use its flexible ears as a flotation device in the water."
+                                },
+                                {
+                                  "id": 185,
+                                  "name": "Sudowoodo",
+                                  "types": ["rock"],
+                                  "desc": "Sudowoodo is known for its disguise as a tree. Despite its appearance, it is actually a Rock-type Pokémon that dislikes water."
+                                },
+                                {
+                                  "id": 186,
+                                  "name": "Politoed",
+                                  "types": ["water"],
+                                  "desc": "Politoed is the evolved form of Poliwhirl when exposed to a King's Rock. It has the ability to summon rain and is said to bring good fortune."
+                                },
+                                {
+                                  "id": 187,
+                                  "name": "Hoppip",
+                                  "isNfe": true,
+                                  "types": ["grass", "flying"],
+                                  "desc": "Hoppip is a Grass/Flying-type Pokémon known for its lightweight and airy body. It can be carried away by even the gentlest breeze."
+                                },
+                                {
+                                  "id": 188,
+                                  "name": "Skiploom",
+                                  "isNfe": true,
+                                  "types": ["grass", "flying"],
+                                  "desc": "Skiploom is the evolved form of Hoppip. It floats in the air and spreads its cotton-like seeds to travel with the wind."
+                                },
+                                {
+                                  "id": 189,
+                                  "name": "Jumpluff",
+                                  "types": ["grass", "flying"],
+                                  "desc": "Jumpluff is the final evolution of Hoppip. It can travel long distances by riding the wind currents using its cottony fluff."
+                                },
+                                {
+                                  "id": 190,
+                                  "name": "Aipom",
+                                  "types": ["normal"],
+                                  "desc": "Aipom is a Normal-type Pokémon known for its dexterity and prehensile tail. It uses its tail to swing from tree branches."
+                                },
+                                {
+                                  "id": 191,
+                                  "name": "Sunkern",
+                                  "isNfe": true,
+                                  "types": ["grass"],
+                                  "desc": "Sunkern is a Grass-type Pokémon that relies on sunlight to grow and become stronger. It is often seen basking in the sun."
+                                },
+                                {
+                                  "id": 192,
+                                  "name": "Sunflora",
+                                  "types": ["grass"],
+                                  "desc": "Sunflora is the evolved form of Sunkern when exposed to a Sun Stone. It is known for its radiant appearance and affinity for sunlight."
+                                },
+                                {
+                                  "id": 193,
+                                  "name": "Yanma",
+                                  "types": ["bug", "flying"],
+                                  "desc": "Yanma is a Bug/Flying-type Pokémon known for its incredible speed and agility in flight. Its large eyes provide excellent vision."
+                                },
+                                {
+                                  "id": 194,
+                                  "name": "Wooper",
+                                  "isNfe": true,
+                                  "types": ["water", "ground"],
+                                  "desc": "Wooper is a Water/Ground-type Pokémon that lives near water bodies. It has a carefree and cheerful disposition."
+                                },
+                                {
+                                  "id": 195,
+                                  "name": "Quagsire",
+                                  "types": ["water", "ground"],
+                                  "desc": "Quagsire is the evolved form of Wooper. It is a Water/Ground-type Pokémon known for its carefree attitude and love of swimming."
+                                },
+                                {
+                                  "id": 196,
+                                  "name": "Espeon",
+                                  "types": ["psychic"],
+                                  "desc": "Espeon is one of the evolved forms of Eevee when exposed to high friendship during the daytime. It has powerful psychic abilities."
+                                },
+                                {
+                                  "id": 197,
+                                  "name": "Umbreon",
+                                  "types": ["dark"],
+                                  "desc": "Umbreon is one of the evolved forms of Eevee when exposed to high friendship during the nighttime. It is a Dark-type Pokémon known for its mysterious aura."
+                                },
+                                {
+                                  "id": 198,
+                                  "name": "Murkrow",
+                                  "types": ["dark", "flying"],
+                                  "desc": "Murkrow is a Dark/Flying-type Pokémon known for its mischievous behavior. It is often associated with superstitions and omens."
+                                },
+                                {
+                                  "id": 199,
+                                  "name": "Slowking",
+                                  "types": ["water", "psychic"],
+                                  "desc": "Slowking is the evolved form of Slowpoke when a Shellder bites its head. It has heightened intelligence and psychic powers."
+                                },
+                                {
+                                  "id": 200,
+                                  "name": "Misdreavus",
+                                  "types": ["ghost"],
+                                  "desc": "Misdreavus is a Ghost-type Pokémon known for its mischievous pranks and eerie cries. It enjoys playing tricks on unsuspecting travelers."
+                                },
+                                {
+                                    "id": 201,
+                                    "name": "Unown",
+                                    "types": ["Psychic"],
+                                    "forms": [
+                                      {
+                                        "name": "Unown A",
+                                        "types": ["Psychic"],
+                                        "desc": "A form of Unown representing the letter A."
+                                      },
+                                      {
+                                        "name": "Unown B",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "b",
+                                        "desc": "A form of Unown representing the letter B."
+                                      },
+                                      {
+                                        "name": "Unown C",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "c",
+                                        "desc": "A form of Unown representing the letter C."
+                                      },
+                                      {
+                                        "name": "Unown D",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "d",
+                                        "desc": "A form of Unown representing the letter D."
+                                      },
+                                      {
+                                        "name": "Unown E",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "e",
+                                        "desc": "A form of Unown representing the letter E."
+                                      },
+                                      {
+                                        "name": "Unown F",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "f",
+                                        "desc": "A form of Unown representing the letter F."
+                                      },
+                                      {
+                                        "name": "Unown G",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "g",
+                                        "desc": "A form of Unown representing the letter G."
+                                      },
+                                      {
+                                        "name": "Unown H",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "h",
+                                        "desc": "A form of Unown representing the letter H."
+                                      },
+                                      {
+                                        "name": "Unown I",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "i",
+                                        "desc": "A form of Unown representing the letter I."
+                                      },
+                                      {
+                                        "name": "Unown J",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "j",
+                                        "desc": "A form of Unown representing the letter J."
+                                      },
+                                      {
+                                        "name": "Unown M",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "m",
+                                        "desc": "A form of Unown representing the letter M."
+                                      },
+                                      {
+                                        "name": "Unown K",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "k",
+                                        "desc": "A form of Unown representing the letter K."
+                                      },
+                                      {
+                                        "name": "Unown L",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "l",
+                                        "desc": "A form of Unown representing the letter L."
+                                      },
+                                      {
+                                        "name": "Unown N",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "n",
+                                        "desc": "A form of Unown representing the letter N."
+                                      },
+                                      {
+                                        "name": "Unown O",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "o",
+                                        "desc": "A form of Unown representing the letter O."
+                                      },
+                                      {
+                                        "name": "Unown P",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "p",
+                                        "desc": "A form of Unown representing the letter P."
+                                      },
+                                      {
+                                        "name": "Unown Q",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "q",
+                                        "desc": "A form of Unown representing the letter Q."
+                                      },
+                                      {
+                                        "name": "Unown R",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "r",
+                                        "desc": "A form of Unown representing the letter R."
+                                      },
+                                      {
+                                        "name": "Unown S",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "s",
+                                        "desc": "A form of Unown representing the letter S."
+                                      },
+                                      {
+                                        "name": "Unown T",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "t",
+                                        "desc": "A form of Unown representing the letter T."
+                                      },
+                                      {
+                                        "name": "Unown U",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "u",
+                                        "desc": "A form of Unown representing the letter U."
+                                      },
+                                      {
+                                        "name": "Unown V",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "v",
+                                        "desc": "A form of Unown representing the letter V."
+                                      },
+                                      {
+                                        "name": "Unown W",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "w",
+                                        "desc": "A form of Unown representing the letter W."
+                                      },
+                                      {
+                                        "name": "Unown X",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "x",
+                                        "desc": "A form of Unown representing the letter X."
+                                      },
+                                      {
+                                        "name": "Unown Y",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "y",
+                                        "desc": "A form of Unown representing the letter Y."
+                                      },
+                                      {
+                                        "name": "Unown Z",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "z",
+                                        "desc": "A form of Unown representing the letter Z."
+                                      },
+                                      {
+                                        "name": "Unown !",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "exclamation",
+                                        "desc": "A form of Unown representing an exclamation mark."
+                                      },
+                                      {
+                                        "name": "Unown ?",
+                                        "types": ["Psychic"],
+                                        "spriteSuffix": "question",
+                                        "desc": "A form of Unown representing a question mark."
+                                      },
+                                      [
+                                        {
+                                          "id": 202,
+                                          "name": "Wobbuffet",
+                                          "types": ["Psychic"]
+                                        },
+                                        {
+                                          "id": 203,
+                                          "name": "Girafarig",
+                                          "types": ["Normal", "Psychic"]
+                                        },
+                                        {
+                                          "id": 204,
+                                          "name": "Pineco",
+                                          "isNfe": true,
+                                          "types": ["Bug"]
+                                        },
+                                        {
+                                          "id": 205,
+                                          "name": "Forretress",
+                                          "types": ["Bug", "Steel"]
+                                        },
+                                        {
+                                          "id": 206,
+                                          "name": "Dunsparce",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 207,
+                                          "name": "Gligar",
+                                          "types": ["Ground", "Flying"]
+                                        },
+                                        {
+                                          "id": 208,
+                                          "name": "Steelix",
+                                          "types": ["Steel", "Ground"]
+                                        },
+                                        {
+                                          "id": 209,
+                                          "name": "Snubbull",
+                                          "isNfe": true,
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 210,
+                                          "name": "Granbull",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 211,
+                                          "name": "Qwilfish",
+                                          "types": ["Water", "Poison"]
+                                        },
+                                        {
+                                          "id": 212,
+                                          "name": "Scizor",
+                                          "types": ["Bug", "Steel"]
+                                        },
+                                        {
+                                          "id": 213,
+                                          "name": "Shuckle",
+                                          "types": ["Bug", "Rock"]
+                                        },
+                                        {
+                                          "id": 214,
+                                          "name": "Heracross",
+                                          "types": ["Bug", "Fighting"]
+                                        },
+                                        {
+                                          "id": 215,
+                                          "name": "Sneasel",
+                                          "types": ["Dark", "Ice"]
+                                        },
+                                        {
+                                          "id": 216,
+                                          "name": "Teddiursa",
+                                          "isNfe": true,
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 217,
+                                          "name": "Ursaring",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 218,
+                                          "name": "Slugma",
+                                          "isNfe": true,
+                                          "types": ["Fire"]
+                                        },
+                                        {
+                                          "id": 219,
+                                          "name": "Magcargo",
+                                          "types": ["Fire", "Rock"]
+                                        },
+                                        {
+                                          "id": 220,
+                                          "name": "Swinub",
+                                          "isNfe": true,
+                                          "types": ["Ice", "Ground"]
+                                        },
+                                        {
+                                          "id": 221,
+                                          "name": "Piloswine",
+                                          "types": ["Ice", "Ground"]
+                                        },
+                                        {
+                                          "id": 222,
+                                          "name": "Corsola",
+                                          "types": ["Water", "Rock"]
+                                        },
+                                        {
+                                          "id": 223,
+                                          "name": "Remoraid",
+                                          "isNfe": true,
+                                          "types": ["Water"]
+                                        },
+                                        {
+                                          "id": 224,
+                                          "name": "Octillery",
+                                          "types": ["Water"]
+                                        },
+                                        {
+                                          "id": 225,
+                                          "name": "Delibird",
+                                          "types": ["Ice", "Flying"]
+                                        },
+                                        {
+                                          "id": 226,
+                                          "name": "Mantine",
+                                          "types": ["Water", "Flying"]
+                                        },
+                                        {
+                                          "id": 227,
+                                          "name": "Skarmory",
+                                          "types": ["Steel", "Flying"]
+                                        },
+                                        {
+                                          "id": 228,
+                                          "name": "Houndour",
+                                          "isNfe": true,
+                                          "types": ["Dark", "Fire"]
+                                        },
+                                        {
+                                          "id": 229,
+                                          "name": "Houndoom",
+                                          "types": ["Dark", "Fire"]
+                                        },
+                                        {
+                                          "id": 230,
+                                          "name": "Kingdra",
+                                          "types": ["Water", "Dragon"]
+                                        },
+                                        {
+                                          "id": 231,
+                                          "name": "Phanpy",
+                                          "isNfe": true,
+                                          "types": ["Ground"]
+                                        },
+                                        {
+                                          "id": 232,
+                                          "name": "Donphan",
+                                          "types": ["Ground"]
+                                        },
+                                        {
+                                          "id": 233,
+                                          "name": "Porygon2",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 234,
+                                          "name": "Stantler",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 235,
+                                          "name": "Smeargle",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 236,
+                                          "name": "Tyrogue",
+                                          "isNfe": true,
+                                          "types": ["Fighting"]
+                                        },
+                                        {
+                                          "id": 237,
+                                          "name": "Hitmontop",
+                                          "types": ["Fighting"]
+                                        },
+                                        {
+                                          "id": 238,
+                                          "name": "Smoochum",
+                                          "isNfe": true,
+                                          "types": ["Ice", "Psychic"]
+                                        },
+                                        {
+                                          "id": 239,
+                                          "name": "Elekid",
+                                          "isNfe": true,
+                                          "types": ["Electric"]
+                                        },
+                                        {
+                                          "id": 240,
+                                          "name": "Magby",
+                                          "isNfe": true,
+                                          "types": ["Fire"]
+                                        },
+                                        {
+                                          "id": 241,
+                                          "name": "Miltank",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 242,
+                                          "name": "Blissey",
+                                          "types": ["Normal"]
+                                        },
+                                        {
+                                          "id": 243,
+                                          "name": "Raikou",
+                                          "types": ["Electric"],
+                                          "isLegendary": true
+                                        },
+                                        {
+                                          "id": 244,
+                                          "name": "Entei",
+                                          "types": ["Fire"],
+                                          "isLegendary": true
+                                        },
+                                        {
+                                          "id": 245,
+                                          "name": "Suicune",
+                                          "types": ["Water"],
+                                          "isLegendary": true
+                                        },
+                                        {
+                                          "id": 246,
+                                          "name": "Larvitar",
+                                          "isNfe": true,
+                                          "types": ["Rock", "Ground"]
+                                        },
+                                        {
+                                          "id": 247,
+                                          "name": "Pupitar",
+                                          "isNfe": true,
+                                          "types": ["Rock", "Ground"]
+                                        },
+                                        {
+                                          "id": 248,
+                                          "name": "Tyranitar",
+                                          "types": ["Rock", "Dark"]
+                                        },
+                                        {
+                                          "id": 249,
+                                          "name": "Lugia",
+                                          "types": ["Psychic", "Flying"],
+                                          "isLegendary": true
+                                        },
+                                        {
+                                          "id": 250,
+                                          "name": "Ho-oh",
+                                          "types": ["Fire", "Flying"],
+                                          "isLegendary": true
+                                        },
+                                        {
+                                          "id": 251,
+                                          "name": "Celebi",
+                                          "types": ["Psychic", "Grass"],
+                                          "isLegendary": true
+                                        }
+                                      ]
+                                      
+                                  
+                              
+                              
+
+                          
+                          
+                      
+                  
+                  
+              
+              
+          
+          
+      
+      
+  
+  

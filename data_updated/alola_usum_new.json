@@ -1,0 +1,2130 @@
+[
+    {
+        "id": 722,
+        "name": "Rowlet",
+        "isNfe": true,
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "desc": "Rowlet is an unevolved Pokémon with grass and flying typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 723,
+        "name": "Dartrix",
+        "isNfe": true,
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "desc": "Dartrix is an unevolved Pokémon with grass and flying typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 724,
+        "name": "Decidueye",
+        "types": [
+            "grass",
+            "ghost"
+        ],
+        "desc": "Decidueye is a fully evolved Pokémon with grass and ghost typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 725,
+        "name": "Litten",
+        "isNfe": true,
+        "types": [
+            "fire"
+        ],
+        "desc": "Litten is an unevolved Pokémon with fire typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 726,
+        "name": "Torracat",
+        "isNfe": true,
+        "types": [
+            "fire"
+        ],
+        "desc": "Torracat is an unevolved Pokémon with fire typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 727,
+        "name": "Incineroar",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "desc": "Incineroar is a fully evolved Pokémon with fire and dark typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 728,
+        "name": "Popplio",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Popplio is an unevolved Pokémon with water typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 729,
+        "name": "Brionne",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Brionne is an unevolved Pokémon with water typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 730,
+        "name": "Primarina",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "desc": "Primarina is a fully evolved Pokémon with water and fairy typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 731,
+        "name": "Pikipek",
+        "isNfe": true,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "desc": "Pikipek is an unevolved Pokémon with normal and flying typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 732,
+        "name": "Trumbeak",
+        "isNfe": true,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "desc": "Trumbeak is an unevolved Pokémon with normal and flying typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 733,
+        "name": "Toucannon",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "desc": "Toucannon is a fully evolved Pokémon with normal and flying typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 734,
+        "name": "Yungoos",
+        "isNfe": true,
+        "types": [
+            "normal"
+        ],
+        "desc": "Yungoos is an unevolved Pokémon with normal typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 735,
+        "name": "Gumshoos",
+        "types": [
+            "normal"
+        ],
+        "desc": "Gumshoos is a fully evolved Pokémon with normal typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 736,
+        "name": "Grubbin",
+        "isNfe": true,
+        "types": [
+            "bug"
+        ],
+        "desc": "Grubbin is an unevolved Pokémon with bug typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 737,
+        "name": "Charjabug",
+        "isNfe": true,
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "desc": "Charjabug is an unevolved Pokémon with bug and electric typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 738,
+        "name": "Vikavolt",
+        "types": [
+            "bug",
+            "electric"
+        ],
+        "desc": "Vikavolt is a fully evolved Pokémon with bug and electric typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 739,
+        "name": "Crabrawler",
+        "isNfe": true,
+        "types": [
+            "fighting"
+        ],
+        "desc": "Crabrawler is an unevolved Pokémon with fighting typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 740,
+        "name": "Crabominable",
+        "types": [
+            "fighting",
+            "ice"
+        ],
+        "desc": "Crabominable is a fully evolved Pokémon with fighting and ice typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 741,
+        "name": "Oricorio",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "forms": [
+            {
+                "name": "Oricorio",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "desc": "Oricorio is a Pokémon with fire and flying typing. It has various abilities and is strong against certain types but weak to others."
+            },
+            {
+                "name": "Oricorio",
+                "types": [
+                    "electric",
+                    "flying"
+                ],
+                "spriteSuffix": "pom-pom",
+                "desc": "Oricorio (Pom-Pom Style) is a Pokémon with electric and flying typing. It has various abilities and is strong against certain types but weak to others."
+            },
+            {
+                "name": "Oricorio",
+                "types": [
+                    "psychic",
+                    "flying"
+                ],
+                "spriteSuffix": "pau",
+                "desc": "Oricorio (Pau Style) is a Pokémon with psychic and flying typing. It has various abilities and is strong against certain types but weak to others."
+            },
+            {
+                "name": "Oricorio",
+                "types": [
+                    "ghost",
+                    "flying"
+                ],
+                "spriteSuffix": "sensu",
+                "desc": "Oricorio (Sensu Style) is a Pokémon with ghost and flying typing. It has various abilities and is strong against certain types but weak to others."
+            }
+        ]
+    },
+    {
+        "id": 742,
+        "name": "Cutiefly",
+        "isNfe": true,
+        "types": [
+            "bug",
+            "fairy"
+        ],
+        "desc": "Cutiefly is an unevolved Pokémon with bug and fairy typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 743,
+        "name": "Ribombee",
+        "types": [
+            "bug",
+            "fairy"
+        ],
+        "desc": "Ribombee is a fully evolved Pokémon with bug and fairy typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 744,
+        "name": "Rockruff",
+        "isNfe": true,
+        "types": [
+            "rock"
+        ],
+        "desc": "Rockruff is an unevolved Pokémon with rock typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 745,
+        "name": "Lycanroc",
+        "types": [
+            "rock"
+        ],
+        "forms": [
+            {
+                "name": "Lycanroc",
+                "types": [
+                    "rock"
+                ],
+                "spriteSuffix": "dusk",
+                "desc": "Lycanroc (Dusk Form) is a Pokémon with rock typing. It has various abilities and is strong against certain types but weak to others."
+            },
+            {
+                "name": "Lycanroc",
+                "types": [
+                    "rock"
+                ],
+                "desc": "Lycanroc is a Pokémon with rock typing. It has various abilities and is strong against certain types but weak to others."
+            },
+            {
+                "name": "Lycanroc",
+                "types": [
+                    "rock"
+                ],
+                "spriteSuffix": "midnight",
+                "desc": "Lycanroc (Midnight Form) is a Pokémon with rock typing. It has various abilities and is strong against certain types but weak to others."
+            }
+        ]
+    },
+    {
+        "id": 746,
+        "name": "Wishiwashi",
+        "types": [
+            "water"
+        ],
+        "forms": [
+            {
+                "name": "Wishiwashi School",
+                "types": [
+                    "water"
+                ],
+                "spriteSuffix": "school",
+                "desc": "Wishiwashi School Form is a unique transformation of Wishiwashi. In this form, it gains increased stats and becomes a formidable force in battle."
+            },
+            {
+                "name": "Wishiwashi",
+                "types": [
+                    "water"
+                ],
+                "desc": "Wishiwashi Solo Form is the default form of Wishiwashi. It is much weaker on its own compared to its School Form."
+            }
+        ]
+    },
+    {
+        "id": 747,
+        "name": "Mareanie",
+        "isNfe": true,
+        "types": [
+            "poison",
+            "water"
+        ],
+        "desc": "Mareanie is an unevolved Pokémon with poison and water typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 748,
+        "name": "Toxapex",
+        "types": [
+            "poison",
+            "water"
+        ],
+        "desc": "Toxapex is a fully evolved Pokémon with poison and water typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 749,
+        "name": "Mudbray",
+        "isNfe": true,
+        "types": [
+            "ground"
+        ],
+        "desc": "Mudbray is an unevolved Pokémon with ground typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 750,
+        "name": "Mudsdale",
+        "types": [
+            "ground"
+        ],
+        "desc": "Mudsdale is a fully evolved Pokémon with ground typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 751,
+        "name": "Dewpider",
+        "isNfe": true,
+        "types": [
+            "water",
+            "bug"
+        ],
+        "desc": "Dewpider is an unevolved Pokémon with water and bug typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 752,
+        "name": "Araquanid",
+        "types": [
+            "water",
+            "bug"
+        ],
+        "desc": "Araquanid is a fully evolved Pokémon with water and bug typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 753,
+        "name": "Fomantis",
+        "isNfe": true,
+        "types": [
+            "grass"
+        ],
+        "desc": "Fomantis is an unevolved Pokémon with grass typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 754,
+        "name": "Lurantis",
+        "types": [
+            "grass"
+        ],
+        "desc": "Lurantis is a fully evolved Pokémon with grass typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 755,
+        "name": "Morelull",
+        "isNfe": true,
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "desc": "Morelull is an unevolved Pokémon with grass and fairy typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 756,
+        "name": "Shiinotic",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "desc": "Shiinotic is a fully evolved Pokémon with grass and fairy typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 757,
+        "name": "Salandit",
+        "isNfe": true,
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "desc": "Salandit is an unevolved Pokémon with poison and fire typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 758,
+        "name": "Salazzle",
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "desc": "Salazzle is a fully evolved Pokémon with poison and fire typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 759,
+        "name": "Stufful",
+        "isNfe": true,
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "desc": "Stufful is an unevolved Pokémon with normal and fighting typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 760,
+        "name": "Bewear",
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "desc": "Bewear is a fully evolved Pokémon with normal and fighting typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 761,
+        "name": "Bounsweet",
+        "isNfe": true,
+        "types": [
+            "grass"
+        ],
+        "desc": "Bounsweet is an unevolved Pokémon with grass typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 762,
+        "name": "Steenee",
+        "isNfe": true,
+        "types": [
+            "grass"
+        ],
+        "desc": "Steenee is an unevolved Pokémon with grass typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 763,
+        "name": "Tsareena",
+        "types": [
+            "grass"
+        ],
+        "desc": "Tsareena is a fully evolved Pokémon with grass typing. It has various abilities and is strong against certain types but weak to others."
+    },
+    {
+        "id": 764,
+        "name": "Comfey",
+        "types": [
+            "fairy"
+        ],
+        "desc": "Comfey is a Fairy-type Pokémon known for its healing abilities. It is often seen carrying around flower garlands and offering them to others as a sign of affection and healing."
+    },
+    {
+        "id": 765,
+        "name": "Oranguru",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "desc": "Oranguru is a dual-type Normal and Psychic Pokémon known for its wisdom and intellect. It is often seen holding a fan of leaves, which it uses to communicate and make strategic decisions."
+    },
+    {
+        "id": 766,
+        "name": "Passimian",
+        "types": [
+            "fighting"
+        ],
+        "desc": "Passimian is a Fighting-type Pokémon known for its strong teamwork and athleticism. It is often seen playing a game similar to rugby with its fellow Passimian to build camaraderie."
+    },
+    {
+        "id": 767,
+        "name": "Wimpod",
+        "isNfe": true,
+        "types": [
+            "bug",
+            "water"
+        ],
+        "desc": "Wimpod is an unevolved Pokémon with Bug and Water typing. It is known for its timid and cautious nature, often fleeing from danger by using its quick swimming abilities."
+    },
+    {
+        "id": 768,
+        "name": "Golisopod",
+        "types": [
+            "bug",
+            "water"
+        ],
+        "desc": "Golisopod is a fully evolved Pokémon with Bug and Water typing. It is a formidable and protective fighter that can switch out of battle to heal its wounds."
+    },
+    {
+        "id": 769,
+        "name": "Sandygast",
+        "isNfe": true,
+        "types": [
+            "ghost",
+            "ground"
+        ],
+        "desc": "Sandygast is an unevolved Pokémon with Ghost and Ground typing. It is known for its eerie appearance and the ability to possess sand to create its body."
+    },
+    {
+        "id": 770,
+        "name": "Palossand",
+        "types": [
+            "ghost",
+            "ground"
+        ],
+        "desc": "Palossand is a fully evolved Pokémon with Ghost and Ground typing. It constructs elaborate sandcastles to lure and trap prey, making it a cunning predator."
+    },
+    {
+        "id": 771,
+        "name": "Pyukumuku",
+        "types": [
+            "water"
+        ],
+        "desc": "Pyukumuku is a Water-type Pokémon with a unique appearance. It has the ability to expel its organs as a defense mechanism, making it a resilient and hardy creature."
+    },
+    {
+        "id": 772,
+        "name": "Type: Null",
+        "isNfe": true,
+        "types": [
+            "normal"
+        ],
+        "isLegendary": true,
+        "desc": "Type: Null is a Legendary Pokémon known for its adaptability. It was artificially created to possess multiple forms, each with a different elemental typing."
+    },
+    {
+        "id": 773,
+        "name": "Silvally",
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Silvally",
+                "types": [
+                    "bug"
+                ],
+                "spriteSuffix": "bug"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "dark"
+                ],
+                "spriteSuffix": "dark"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "dragon"
+                ],
+                "spriteSuffix": "dragon"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "electric"
+                ],
+                "spriteSuffix": "electric"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "fairy"
+                ],
+                "spriteSuffix": "fairy"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "fighting"
+                ],
+                "spriteSuffix": "fighting"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "fire"
+                ],
+                "spriteSuffix": "fire"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "flying"
+                ],
+                "spriteSuffix": "flying"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "ghost"
+                ],
+                "spriteSuffix": "ghost"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "grass"
+                ],
+                "spriteSuffix": "grass"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "ground"
+                ],
+                "spriteSuffix": "ground"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "ice"
+                ],
+                "spriteSuffix": "ice"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "poison"
+                ],
+                "spriteSuffix": "poison"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "psychic"
+                ],
+                "spriteSuffix": "psychic"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "rock"
+                ],
+                "spriteSuffix": "rock"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "steel"
+                ],
+                "spriteSuffix": "steel"
+            },
+            {
+                "name": "Silvally",
+                "types": [
+                    "water"
+                ],
+                "spriteSuffix": "water"
+            }
+        ],
+        "isLegendary": true,
+        "desc": "Silvally is a Legendary Pokémon known for its versatility. It can change its type by holding special memory items, making it a valuable asset in battles."
+    },
+    {
+        "id": 774,
+        "name": "Minior",
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "forms": [
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "blue"
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "green"
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "indigo"
+            },
+            {
+                "name": "Minior",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "meteor"
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "orange"
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ]
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "violet"
+            },
+            {
+                "name": "Minior Core",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "spriteSuffix": "yellow"
+            }
+        ],
+        "desc": "Minior is a unique Rock/Flying-type Pokémon that hides inside a protective meteor-like shell. It can change its core color and form as it takes damage in battle."
+    },
+    {
+        "id": 775,
+        "name": "Komala",
+        "types": [
+            "normal"
+        ],
+        "desc": "Komala is a Normal-type Pokémon known for its constant slumber. It clings to a log pillow and rarely wakes up, even in battle, as it can perform moves while sleeping."
+    },
+    {
+        "id": 776,
+        "name": "Turtonator",
+        "types": [
+            "fire",
+            "dragon"
+        ],
+        "desc": "Turtonator is a dual-type Fire and Dragon Pokémon known for its explosive personality. It has a shell covered in explosive spines and can launch devastating fire attacks."
+    },
+    {
+        "id": 777,
+        "name": "Togedemaru",
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "desc": "Togedemaru is a dual-type Electric and Steel Pokémon recognized for its cute appearance and defensive capabilities. It can curl into a spiky ball for protection."
+    },
+    {
+        "id": 778,
+        "name": "Mimikyu",
+        "types": [
+            "ghost",
+            "fairy"
+        ],
+        "desc": "Mimikyu is a unique Ghost and Fairy-type Pokémon that disguises itself to avoid being seen. It wears a Pikachu costume but is shy and craves friendship."
+    },
+    {
+        "id": 779,
+        "name": "Bruxish",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "desc": "Bruxish is a Water and Psychic-type Pokémon known for its vibrant colors and peculiar appearance. It has a strong jaw and uses psychic powers to disorient prey."
+    },
+    {
+        "id": 780,
+        "name": "Drampa",
+        "types": [
+            "normal",
+            "dragon"
+        ],
+        "desc": "Drampa is a dual-type Normal and Dragon Pokémon that resembles a friendly dragon. It can emit soothing winds and has a protective nature toward children."
+    },
+    {
+        "id": 781,
+        "name": "Dhelmise",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "desc": "Dhelmise is a unique Pokémon that resembles an anchor covered in seaweed. It is known for its eerie appearance and ghostly abilities. Dhelmise is a Grass and Ghost type Pokémon."
+    },
+    {
+        "id": 782,
+        "name": "Jangmo-o",
+        "isNfe": true,
+        "types": [
+            "dragon"
+        ],
+        "desc": "Jangmo-o is a small and timid Dragon type Pokémon. It is often found in mountainous areas and is known for its strong will to become stronger. Jangmo-o is the first stage of its evolutionary line."
+    },
+    {
+        "id": 783,
+        "name": "Hakamo-o",
+        "isNfe": true,
+        "types": [
+            "dragon",
+            "fighting"
+        ],
+        "desc": "Hakamo-o is the evolved form of Jangmo-o. It gains the Fighting type in addition to Dragon type as it matures. Hakamo-o is known for its skill in martial arts and is a formidable fighter."
+    },
+    {
+        "id": 784,
+        "name": "Kommo-o",
+        "types": [
+            "dragon",
+            "fighting"
+        ],
+        "desc": "Kommo-o is the final evolution of Jangmo-o and Hakamo-o. It is a powerful Dragon and Fighting type Pokémon known for its impressive defensive scales. Kommo-o's signature move is the Clanging Scales attack."
+    },
+    {
+        "id": 785,
+        "name": "Tapu Koko",
+        "types": [
+            "electric",
+            "fairy"
+        ],
+        "isLegendary": true,
+        "desc": "Tapu Koko is one of the guardian deities of the Alola region and is a Legendary Pokémon. It is an Electric and Fairy type, known for its incredible speed and agility. Tapu Koko is a symbol of protection in Alola."
+    },
+    {
+        "id": 786,
+        "name": "Tapu Lele",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "isLegendary": true,
+        "desc": "Tapu Lele is another guardian deity of the Alola region and is a Legendary Pokémon. It is a Psychic and Fairy type, known for its mystical powers and the ability to create illusions."
+    },
+    {
+        "id": 787,
+        "name": "Tapu Bulu",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "isLegendary": true,
+        "desc": "Tapu Bulu is one of the guardian deities of the Alola region and is a Legendary Pokémon. It is a Grass and Fairy type, known for its control over nature and its protective nature."
+    },
+    {
+        "id": 788,
+        "name": "Tapu Fini",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "isLegendary": true,
+        "desc": "Tapu Fini is a guardian deity of the Alola region and is a Legendary Pokémon. It is a Water and Fairy type, known for its control over water and its ability to cleanse and purify."
+    },
+    {
+        "id": 789,
+        "name": "Cosmog",
+        "isNfe": true,
+        "types": [
+            "psychic"
+        ],
+        "isLegendary": true,
+        "desc": "Cosmog is a unique Legendary Pokémon that has the power to create and manipulate dimensions. It is a Psychic type and is often associated with the creation of new worlds."
+    },
+    {
+        "id": 790,
+        "name": "Cosmoem",
+        "isNfe": true,
+        "types": [
+            "psychic"
+        ],
+        "isLegendary": true,
+        "desc": "Cosmoem is the evolved form of Cosmog and retains its Psychic type. It has incredible defensive capabilities and can withstand attacks while it prepares for its next evolution."
+    },
+    {
+        "id": 791,
+        "name": "Solgaleo",
+        "types": [
+            "psychic",
+            "steel"
+        ],
+        "isLegendary": true,
+        "desc": "Solgaleo is a Legendary Pokémon known as the 'Beast that Devours the Sun.' It is a Psychic and Steel type with incredible strength and the ability to radiate intense heat and light."
+    },
+    {
+        "id": 792,
+        "name": "Lunala",
+        "types": [
+            "psychic",
+            "ghost"
+        ],
+        "isLegendary": true,
+        "desc": "Lunala is a Legendary Pokémon known as the 'Beast that Calls the Moon.' It is a Psychic and Ghost type with the ability to control and manipulate moonlight."
+    },
+    {
+        "id": 793,
+        "name": "Nihilego",
+        "types": [
+            "rock",
+            "poison"
+        ],
+        "desc": "Nihilego is an Ultra Beast known for its otherworldly appearance and mysterious origin. It is a Rock and Poison type and is often associated with the void and unknown dimensions."
+    },
+    {
+        "id": 794,
+        "name": "Buzzwole",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "desc": "Buzzwole is an Ultra Beast with a muscular and imposing physique. It is a Bug and Fighting type Pokémon, known for its incredible strength and power."
+    },
+    {
+        "id": 795,
+        "name": "Pheromosa",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "desc": "Pheromosa is an Ultra Beast known for its grace and agility. It is a Bug and Fighting type Pokémon, and its movements are said to be as beautiful as a dance."
+    },
+    {
+        "id": 796,
+        "name": "Xurkitree",
+        "types": [
+            "electric"
+        ],
+        "desc": "Xurkitree is an Ultra Beast resembling a network of electrical wires. It is an Electric type Pokémon known for its electrical powers and ability to generate energy."
+    },
+    {
+        "id": 797,
+        "name": "Celesteela",
+        "types": [
+            "steel",
+            "flying"
+        ],
+        "desc": "Celesteela is an Ultra Beast resembling a majestic rocket ship. It is a Steel and Flying type Pokémon with the ability to launch itself into the sky using powerful jets."
+    },
+    {
+        "id": 798,
+        "name": "Kartana",
+        "types": [
+            "grass",
+            "steel"
+        ],
+        "desc": "Kartana is an Ultra Beast known for its sharp and paper-like body. It is a Grass and Steel type Pokémon, and its signature move, Leaf Blade, is incredibly sharp."
+    },
+    {
+        "id": 799,
+        "name": "Guzzlord",
+        "types": [
+            "dark",
+            "dragon"
+        ],
+        "desc": "Guzzlord is an Ultra Beast known for its insatiable appetite. It is a Dark and Dragon type Pokémon, and its hunger is said to be endless."
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "types": [
+            "psychic"
+        ],
+        "forms": [
+            {
+                "name": "Necrozma",
+                "types": [
+                    "psychic"
+                ]
+            },
+            {
+                "name": "Dawn Wings Necrozma",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ],
+                "spriteSuffix": "dawnwings"
+            },
+            {
+                "name": "Dusk Mane Necrozma",
+                "types": [
+                    "psychic",
+                    "steel"
+                ],
+                "spriteSuffix": "duskmane"
+            },
+            {
+                "name": "Ultra Necrozma",
+                "types": [
+                    "psychic",
+                    "dragon"
+                ],
+                "spriteSuffix": "ultra"
+            }
+        ],
+        "isLegendary": true,
+        "desc": "Necrozma is a Legendary Pokémon that can take on different forms by fusing with other Legendary Pokémon. Its base form is Psychic type, but it can become Dawn Wings Necrozma, Dusk Mane Necrozma, or Ultra Necrozma with unique typings."
+    },
+    {
+        "id": 801,
+        "name": "Magearna",
+        "types": [
+            "steel",
+            "fairy"
+        ],
+        "isLegendary": true,
+        "desc": "Magearna is a Legendary Pokémon known for its mechanical and fairy-like appearance. It is a Steel and Fairy type Pokémon, often associated with advanced technology and elegance."
+    },
+    {
+        "id": 802,
+        "name": "Marshadow",
+        "types": [
+            "fighting",
+            "ghost"
+        ],
+        "isLegendary": true,
+        "desc": "Marshadow is a mysterious and Legendary Pokémon that can conceal itself in shadows. It is a Fighting and Ghost type, known for its stealthy and agile movements."
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "isNfe": true,
+        "types": [
+            "bug"
+        ],
+        "desc": "Caterpie is a small and worm-like Pokémon with a voracious appetite for leaves. It is a Bug type Pokémon and is often one of the first Pokémon encountered by new Trainers."
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "isNfe": true,
+        "types": [
+            "bug"
+        ],
+        "desc": "Metapod is the evolved form of Caterpie. It is known for its protective cocoon-like shell. Metapod is a Bug type Pokémon that focuses on defense rather than offense."
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "desc": "Butterfree is the final evolution of Caterpie and Metapod. It is a graceful Bug and Flying type Pokémon known for its colorful wings and the ability to release powdery scales."
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "isNfe": true,
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Rattata",
+                "isNfe": true,
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Rattata Alola",
+                "isNfe": true,
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Rattata is a small and swift Normal type Pokémon known for its quick movements. It has an Alolan form with the additional Dark type, giving it a unique twist in the Alola region."
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Raticate",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Raticate Alola",
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Raticate is the evolved form of Rattata. It is a Normal type Pokémon known for its sharp teeth and strong biting capabilities. It also has an Alolan form with the Dark type."
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "isNfe": true,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "desc": "Spearow is a small and aggressive Normal and Flying type Pokémon. It is known for its sharp beak and quick strikes. Spearow often travels in flocks."
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "desc": "Fearow is the evolved form of Spearow. It is a large and fast-flying Pokémon known for its long neck and sharp beak. Fearow is a Normal and Flying type."
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "isNfe": true,
+        "types": [
+            "electric"
+        ],
+        "forms": [
+            {
+                "name": "Pikachu",
+                "isNfe": true,
+                "types": [
+                    "electric"
+                ]
+            },
+            {
+                "name": "Pikachu",
+                "isNfe": true,
+                "types": [
+                    "electric"
+                ],
+                "spriteSuffix": "hat"
+            }
+        ],
+        "desc": "Pikachu is one of the most iconic and beloved Pokémon. It is an Electric type known for its lightning bolt-shaped tail. Pikachu has a special form wearing different hats for various occasions."
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "types": [
+            "electric"
+        ],
+        "forms": [
+            {
+                "name": "Raichu",
+                "types": [
+                    "electric"
+                ]
+            },
+            {
+                "name": "Raichu Alola",
+                "types": [
+                    "electric",
+                    "psychic"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Raichu is the evolved form of Pikachu. It is an Electric type Pokémon known for its speed and electrical abilities. In the Alola region, it has an Alolan form with the additional Psychic type."
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "isNfe": true,
+        "types": [
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Sandshrew",
+                "isNfe": true,
+                "types": [
+                    "ground"
+                ]
+            },
+            {
+                "name": "Sandshrew Alola",
+                "isNfe": true,
+                "types": [
+                    "ice",
+                    "steel"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Sandshrew is a Ground type Pokémon known for its tough skin and burrowing abilities. In the Alola region, it has an Alolan form with the Ice and Steel types, adapting to the cold climate."
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "types": [
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Sandslash",
+                "types": [
+                    "ground"
+                ]
+            },
+            {
+                "name": "Sandslash Alola",
+                "types": [
+                    "ice",
+                    "steel"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Sandslash is the evolved form of Sandshrew. It is a Ground type Pokémon known for its sharp spines and digging abilities. In the Alola region, it has an Alolan form with the Ice and Steel types."
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "isNfe": true,
+        "types": [
+            "fairy"
+        ],
+        "desc": "Clefairy is a Fairy type Pokémon known for its cute appearance and affinity for the moon. It is often associated with the moon's mystical powers and is a common sight in fairy tales."
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "types": [
+            "fairy"
+        ],
+        "desc": "Clefable is the evolved form of Clefairy. It is a Fairy type Pokémon known for its graceful and elegant demeanor. Clefable is said to bring good fortune to those who encounter it."
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "isNfe": true,
+        "types": [
+            "fire"
+        ],
+        "forms": [
+            {
+                "name": "Vulpix",
+                "isNfe": true,
+                "types": [
+                    "fire"
+                ]
+            },
+            {
+                "name": "Vulpix Alola",
+                "isNfe": true,
+                "types": [
+                    "ice"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Vulpix is a Fox Pokémon known for its beautiful and icy Alolan form. It is a Fire type with a majestic appearance, and its Alolan variant has the Ice type, perfectly suited to snowy environments."
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "types": [
+            "fire"
+        ],
+        "forms": [
+            {
+                "name": "Ninetales",
+                "types": [
+                    "fire"
+                ]
+            },
+            {
+                "name": "Ninetales Alola",
+                "types": [
+                    "ice",
+                    "fairy"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Ninetales is the evolved form of Vulpix. It is a Fire type Pokémon known for its mystical and elegant appearance. In the Alola region, it has an Alolan form with the Ice and Fairy types."
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "isNfe": true,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "desc": "Jigglypuff is a cute and round Pokémon known for its soothing lullabies. It is a Normal and Fairy type and is often seen in performances where it can put others to sleep with its singing."
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "desc": "Wigglytuff is the evolved form of Jigglypuff. It is a Normal and Fairy type Pokémon known for its fluffy and friendly demeanor. Despite its cute appearance, it can be a powerful battler."
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "isNfe": true,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "desc": "Zubat is a Bat Pokémon known for its nocturnal habits and echolocation. It is a Poison and Flying type and can be found in caves and dark places."
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "isNfe": true,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "desc": "Golbat is the evolved form of Zubat. It is a Poison and Flying type Pokémon known for its large wings and sharp fangs. Golbat is often associated with haunting and spooky locations."
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "isNfe": true,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "desc": "Paras is a unique Pokémon with mushrooms growing on its back. It is a Bug and Grass type and is known for its symbiotic relationship with the mushrooms, which can be used in various ways."
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "desc": "Parasect is the evolved form of Paras. It is a Bug and Grass type Pokémon, and the mushrooms on its back fully take over its body. Parasect is often found in damp forested areas."
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "isNfe": true,
+        "types": [
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Diglett",
+                "isNfe": true,
+                "types": [
+                    "ground"
+                ]
+            },
+            {
+                "name": "Diglett Alola",
+                "isNfe": true,
+                "types": [
+                    "ground",
+                    "steel"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Diglett is a small and mole-like Pokémon known for its burrowing abilities. It is a Ground type and can have an Alolan form with the additional Steel type."
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "types": [
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Dugtrio",
+                "types": [
+                    "ground"
+                ]
+            },
+            {
+                "name": "Dugtrio Alola",
+                "types": [
+                    "ground",
+                    "steel"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Dugtrio is the evolved form of Diglett. It is a trio of small mole-like Pokémon that work together. Dugtrio is a Ground type and can have an Alolan form with the Steel type."
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "isNfe": true,
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Meowth",
+                "isNfe": true,
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Meowth Alola",
+                "isNfe": true,
+                "types": [
+                    "dark"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Meowth is a cat-like Pokémon known for its love of shiny objects. It is a Normal type and is often associated with fortune and wealth. Meowth has an Alolan form with the Dark type."
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Persian",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Persian Alola",
+                "types": [
+                    "dark"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Persian is the evolved form of Meowth. It is a Normal type Pokémon known for its elegance and grace. In the Alola region, it has an Alolan form with the Dark type."
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Psyduck is a Water type Pokémon known for its perpetual headache, which intensifies when it uses its Psychic powers. It is often found near bodies of water."
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "types": [
+            "water"
+        ],
+        "desc": "Golduck is the evolved form of Psyduck. It is a Water type Pokémon known for its strong swimming abilities and psychic powers. Golduck is often seen in aquatic environments."
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "isNfe": true,
+        "types": [
+            "fighting"
+        ],
+        "desc": "Mankey is a small and aggressive Fighting type Pokémon known for its short temper and powerful punches. It is often found in mountainous regions."
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "types": [
+            "fighting"
+        ],
+        "desc": "Primeape is the evolved form of Mankey. It is a Fighting type Pokémon known for its fiery temperament and the ability to unleash powerful physical attacks when angered."
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "types": [
+            "fighting"
+        ],
+        "desc": "Primeape is a Fighting-type Pokémon known for its fierce and aggressive nature. It becomes even more enraged in battle."
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "isNfe": true,
+        "types": [
+            "fire"
+        ],
+        "desc": "Growlithe is a Fire-type Pokémon that resembles a puppy. It is known for its loyalty and strong sense of smell."
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "types": [
+            "fire"
+        ],
+        "desc": "Arcanine is a majestic Fire-type Pokémon often referred to as the 'Legendary Pokémon.' It is known for its speed and bravery."
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Poliwag is a Water-type Pokémon with a distinctive swirl pattern on its belly. It is often seen swimming in freshwater ponds."
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Poliwhirl is the evolved form of Poliwag. It has developed stronger swimming skills and is known for its agility in the water."
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "desc": "Poliwrath is a Water/Fighting-type Pokémon with powerful muscles. It is a skilled swimmer and fighter."
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "isNfe": true,
+        "types": [
+            "psychic"
+        ],
+        "desc": "Abra is a Psychic-type Pokémon known for its psychic abilities. It is said to sleep for most of the day to conserve energy."
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "isNfe": true,
+        "types": [
+            "psychic"
+        ],
+        "desc": "Kadabra is the evolved form of Abra. It possesses formidable psychic powers and is known for its use of spoons."
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "types": [
+            "psychic"
+        ],
+        "forms": [
+            {
+                "name": "Alakazam",
+                "types": [
+                    "psychic"
+                ]
+            },
+            {
+                "name": "Alakazam Mega",
+                "types": [
+                    "psychic"
+                ],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Alakazam is a Psychic-type Pokémon with an extremely high IQ. Its Mega Evolution further enhances its psychic abilities."
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "isNfe": true,
+        "types": [
+            "fighting"
+        ],
+        "desc": "Machop is a Fighting-type Pokémon known for its impressive physical strength. It trains tirelessly to become stronger."
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "isNfe": true,
+        "types": [
+            "fighting"
+        ],
+        "desc": "Machoke is the evolved form of Machop. It has even greater physical power and is often seen helping with heavy labor."
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "types": [
+            "fighting"
+        ],
+        "desc": "Machamp is the final evolution of Machop. It is known for its incredible strength and the ability to punch at lightning-fast speeds."
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "isNfe": true,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "desc": "Tentacool is a Water/Poison-type Pokémon that dwells in oceans. Its tentacles are equipped with toxic stingers."
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "types": [
+            "water",
+            "poison"
+        ],
+        "desc": "Tentacruel is the evolved form of Tentacool. It has even longer and more powerful tentacles that it uses to catch prey."
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "isNfe": true,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Geodude",
+                "isNfe": true,
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            },
+            {
+                "name": "Geodude Alola",
+                "isNfe": true,
+                "types": [
+                    "rock",
+                    "electric"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Geodude is a dual-type Rock/Ground Pokémon. The Alolan form of Geodude has an additional Electric typing."
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "isNfe": true,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Graveler",
+                "isNfe": true,
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            },
+            {
+                "name": "Graveler Alola",
+                "isNfe": true,
+                "types": [
+                    "rock",
+                    "electric"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Graveler is an evolved form of Geodude. It retains its dual Rock/Ground typing. The Alolan form has an additional Electric typing."
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Golem",
+                "types": [
+                    "rock",
+                    "ground"
+                ]
+            },
+            {
+                "name": "Golem Alola",
+                "types": [
+                    "rock",
+                    "electric"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Golem is the final evolution of Geodude. It is known for its immense strength and the ability to roll at high speeds."
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "isNfe": true,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "desc": "Slowpoke is a Water/Psychic-type Pokémon known for its relaxed and unhurried nature. It often daydreams by the water's edge."
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "forms": [
+            {
+                "name": "Slowbro",
+                "types": [
+                    "water",
+                    "psychic"
+                ]
+            },
+            {
+                "name": "Slowbro Mega",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Slowbro is known for its remarkable defensive capabilities. Its Mega Evolution enhances its psychic powers, allowing it to use telekinesis."
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "isNfe": true,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "desc": "Magnemite is a dual-type Electric/Steel Pokémon. It is known for its magnetic properties and the ability to generate powerful electromagnetic fields."
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "isNfe": true,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "desc": "Magneton is an evolved form of Magnemite. It retains its Electric/Steel typing and has a strong attraction to metal objects."
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "isNfe": true,
+        "types": [
+            "poison"
+        ],
+        "forms": [
+            {
+                "name": "Grimer",
+                "isNfe": true,
+                "types": [
+                    "poison"
+                ]
+            },
+            {
+                "name": "Grimer Alola",
+                "isNfe": true,
+                "types": [
+                    "poison",
+                    "dark"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Grimer is a Poison-type Pokémon known for its slimy appearance. The Alolan form of Grimer has a unique Poison/Dark typing."
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "types": [
+            "poison"
+        ],
+        "forms": [
+            {
+                "name": "Muk",
+                "types": [
+                    "poison"
+                ]
+            },
+            {
+                "name": "Muk Alola",
+                "types": [
+                    "poison",
+                    "dark"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Muk is a Poison-type Pokémon that evolves from Grimer. The Alolan form of Muk has a distinct Poison/Dark typing."
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Shellder is a Water-type Pokémon known for its bivalve shell. It evolves into Cloyster when exposed to a Water Stone."
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "types": [
+            "water",
+            "ice"
+        ],
+        "desc": "Cloyster is a Water/Ice-type Pokémon that evolves from Shellder. Its shell is extremely hard and durable, providing excellent protection."
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "isNfe": true,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "desc": "Gastly is a Ghost/Poison-type Pokémon. It is known for its ability to phase through walls and its toxic gas."
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "isNfe": true,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "desc": "Haunter is the evolved form of Gastly. It retains its Ghost/Poison typing and is known for its mischievous nature."
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "forms": [
+            {
+                "name": "Gengar",
+                "types": [
+                    "ghost",
+                    "poison"
+                ]
+            },
+            {
+                "name": "Gengar Mega",
+                "types": [
+                    "ghost",
+                    "poison"
+                ],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Gengar is a Ghost/Poison-type Pokémon known for its sinister appearance. Its Mega Evolution enhances its power and speed."
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "isNfe": true,
+        "types": [
+            "psychic"
+        ],
+        "desc": "Drowzee is a Psychic-type Pokémon known for its sleep-inducing abilities. It is often associated with dreams and nightmares."
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "types": [
+            "psychic"
+        ],
+        "desc": "Hypno is the evolved form of Drowzee. It is a Psychic-type Pokémon with powerful hypnotic powers."
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "types": [
+            "psychic"
+        ],
+        "desc": "Hypno is a Psychic-type Pokémon known for its hypnotic abilities. It uses its pendulum-like tail to induce deep sleep in others."
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "isNfe": true,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "desc": "Exeggcute is a Grass/Psychic-type Pokémon that resembles a cluster of eggs. It has telepathic abilities and communicates with others."
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "forms": [
+            {
+                "name": "Exeggutor",
+                "types": [
+                    "grass",
+                    "psychic"
+                ]
+            },
+            {
+                "name": "Exeggutor Alola",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Exeggutor is a Grass/Psychic-type Pokémon known for its tall and towering appearance. The Alolan form has a Dragon typing."
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "isNfe": true,
+        "types": [
+            "ground"
+        ],
+        "desc": "Cubone is a Ground-type Pokémon that wears the skull of its deceased mother as a helmet. It is known for its melancholic nature."
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "types": [
+            "ground"
+        ],
+        "forms": [
+            {
+                "name": "Marowak",
+                "types": [
+                    "ground"
+                ]
+            },
+            {
+                "name": "Marowak Alola",
+                "types": [
+                    "fire",
+                    "ghost"
+                ],
+                "spriteSuffix": "alola"
+            }
+        ],
+        "desc": "Marowak is a Ground-type Pokémon and the evolved form of Cubone. The Alolan form has Fire/Ghost typings."
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "isNfe": true,
+        "types": [
+            "normal"
+        ],
+        "desc": "Chansey is a Normal-type Pokémon known for its incredible egg-shaped pouch. It is a kind and caring Pokémon."
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "types": [
+            "normal"
+        ],
+        "forms": [
+            {
+                "name": "Kangaskhan",
+                "types": [
+                    "normal"
+                ]
+            },
+            {
+                "name": "Kangaskhan Mega",
+                "types": [
+                    "normal"
+                ],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Kangaskhan is a Normal-type Pokémon that carries its baby in a pouch. Its Mega Evolution enhances its parental instincts and power."
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Goldeen is a Water-type Pokémon known for its graceful swimming. Its dorsal fin is said to be a symbol of beauty."
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "types": [
+            "water"
+        ],
+        "desc": "Seaking is a Water-type Pokémon with a distinctive horn on its head. It is known for its agility and swift swimming."
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Staryu is a Water-type Pokémon that resembles a starfish. Its core emits a bright and powerful light."
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "desc": "Starmie is a Water/Psychic-type Pokémon known for its mysterious and extraterrestrial origins. It is a powerful Psychic-type."
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "isNfe": true,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "desc": "Scyther is a Bug/Flying-type Pokémon known for its speed and sharp scythes for hands. It is a skilled predator."
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "isNfe": true,
+        "types": [
+            "electric"
+        ],
+        "desc": "Electabuzz is an Electric-type Pokémon known for its electrical abilities. It emits strong electric discharges when excited."
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "isNfe": true,
+        "types": [
+            "fire"
+        ],
+        "desc": "Magmar is a Fire-type Pokémon known for its fiery body. It often resides near active volcanoes."
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "types": [
+            "bug"
+        ],
+        "forms": [
+            {
+                "name": "Pinsir",
+                "types": [
+                    "bug"
+                ]
+            },
+            {
+                "name": "Pinsir Mega",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "spriteSuffix": "mega",
+                "isMega": true
+            }
+        ],
+        "desc": "Pinsir is a Bug-type Pokémon known for its powerful pincers. Its Mega Evolution gains a Flying typing and increased strength."
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "types": [
+            "normal"
+        ],
+        "desc": "Tauros is a Normal-type Pokémon known for its wild and untamed nature. It is often seen charging and rampaging."
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "isNfe": true,
+        "types": [
+            "water"
+        ],
+        "desc": "Magikarp is a Water-type Pokémon known for its feeble and floppy appearance. It evolves into the powerful Gyarados."
+    }
+]

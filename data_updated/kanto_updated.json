@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "A dual-type Grass/Poison Pokémon. It's known for the plant bulb on its back."
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "The evolved form of Bulbasaur. Its bulb has grown into a plant."
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "types": ["grass", "poison"],
+    "desc": "The final evolution of Bulbasaur. A large and powerful Grass/Poison type."
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "A Fire-type Pokémon with a flame at the tip of its tail."
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "The evolved form of Charmander. A Fire-type with a fiery attitude."
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "types": ["fire", "flying"],
+    "desc": "The final evolution of Charmander. A powerful Fire/Flying type."
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water-type Pokémon. Known for its water-filled shell."
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "The evolved form of Squirtle. A Water-type with impressive defenses."
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "types": ["water"],
+    "desc": "The final evolution of Squirtle. A Water-type with powerful water cannons."
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "isNfe": true,
+    "types": ["bug"],
+    "desc": "A Bug-type Pokémon. Known for its silk-producing capabilities."
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "isNfe": true,
+    "types": ["bug"],
+    "desc": "The evolved form of Caterpie. It's in a hardened cocoon-like state."
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "types": ["bug", "flying"],
+    "desc": "The final evolution of Caterpie. A graceful Bug/Flying type."
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "isNfe": true,
+    "types": ["bug", "poison"],
+    "desc": "A Bug/Poison type. Known for its sharp stinger."
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "isNfe": true,
+    "types": ["bug", "poison"],
+    "desc": "The evolved form of Weedle. It's in a hardened cocoon-like state."
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "types": ["bug", "poison"],
+    "desc": "The final evolution of Weedle. A menacing Bug/Poison type."
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "A Normal/Flying type. Often found in grassy areas."
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "The evolved form of Pidgey. A swift and agile flyer."
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "types": ["normal", "flying"],
+    "desc": "The final evolution of Pidgey. A majestic Normal/Flying type."
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "A Normal type. Known for its sharp incisors."
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "types": ["normal"],
+    "desc": "The evolved form of Rattata. A swift and cunning Normal type."
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "A Normal/Flying type. Quick and agile in flight."
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Known for its elegant and aloof demeanor."
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Often suffers from intense headaches."
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "types": ["water"],
+    "desc": "The evolved form of Psyduck. A graceful Water type."
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "A Fighting type Pokémon. Quick to anger and very energetic."
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "types": ["fighting"],
+    "desc": "The evolved form of Mankey. Fiercely aggressive and strong."
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "A Fire type Pokémon. Known for its loyalty and courage."
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "types": ["fire"],
+    "desc": "The evolved form of Growlithe. Majestic and powerful Fire type."
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Has a swirl pattern on its belly."
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "The evolved form of Poliwag. Known for its tadpole appearance."
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "types": ["water", "fighting"],
+    "desc": "The evolved form of Poliwhirl. A Water/Fighting type known for its strength."
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "A Psychic type Pokémon. Has strong psychic abilities but low stamina."
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "The evolved form of Abra. Wields a silver spoon and has heightened psychic powers."
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "types": ["psychic"],
+    "desc": "The final evolution of Abra. A genius Psychic type with an IQ of 5000."
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "A Fighting type Pokémon. Gains strength as it trains and evolves."
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "isNfe": true,
+    "types": ["fighting"],
+    "desc": "The evolved form of Machop. Often seen flexing its impressive muscles."
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "types": ["fighting"],
+    "desc": "The final evolution of Machop. Boasts incredible strength and multiple arms."
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "A Grass/Poison type Pokémon. Has a plant-like appearance."
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "isNfe": true,
+    "types": ["grass", "poison"],
+    "desc": "The evolved form of Bellsprout. Has a large, gaping mouth."
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "types": ["grass", "poison"],
+    "desc": "The final evolution of Weepinbell. A carnivorous plant Pokémon."
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "isNfe": true,
+    "types": ["water", "poison"],
+    "desc": "A Water/Poison type Pokémon. Known for its tentacle stingers."
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "types": ["water", "poison"],
+    "desc": "The evolved form of Tentacool. Has a large number of tentacles."
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "isNfe": true,
+    "types": ["rock", "ground"],
+    "desc": "A Rock/Ground type Pokémon. Often found in mountainous areas."
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "isNfe": true,
+    "types": ["rock", "ground"],
+    "desc": "The evolved form of Geodude. Has four arms and is prone to rolling."
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "types": ["rock", "ground"],
+    "desc": "The final evolution of Geodude. Extremely tough and powerful."
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "isNfe": true,
+    "types": ["fire"],
+    "desc": "A Fire type Pokémon. Known for its fiery mane and speed."
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "types": ["fire"],
+    "desc": "The evolved form of Ponyta. A majestic Fire type with blazing speed."
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "isNfe": true,
+    "types": ["water", "psychic"],
+    "desc": "A Water/Psychic type Pokémon. Known for its slow and absent-minded nature."
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "types": ["water", "psychic"],
+    "desc": "The evolved form of Slowpoke. Gains increased psychic powers."
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "isNfe": true,
+    "types": ["electric", "steel"],
+    "desc": "An Electric/Steel type Pokémon. Magnetically attracted to metal objects."
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "types": ["electric", "steel"],
+    "desc": "The evolved form of Magnemite. Composed of multiple Magnemite units."
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "types": ["normal", "flying"],
+    "desc": "A Normal/Flying type Pokémon. Rare and known for carrying a leek."
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "isNfe": true,
+    "types": ["normal", "flying"],
+    "desc": "A Normal/Flying type Pokémon. Has two heads and runs at high speeds."
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "types": ["normal", "flying"],
+    "desc": "The evolved form of Doduo. Known for its three heads and agility."
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Often seen basking on icebergs."
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "types": ["water", "ice"],
+    "desc": "The evolved form of Seel. Resides in cold seas and has excellent swimming skills."
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "isNfe": true,
+    "types": ["poison"],
+    "desc": "A Poison type Pokémon. Appears slimy and is known for its stench."
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "types": ["poison"],
+    "desc": "The evolved form of Grimer. Highly toxic and emits noxious gases."
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Resembles a bivalve shell."
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "types": ["water", "ice"],
+    "desc": "The evolved form of Shellder. Has a hard, protective shell."
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "isNfe": true,
+    "types": ["ghost", "poison"],
+    "desc": "A Ghost/Poison type Pokémon. Appears as a shadowy, gaseous figure."
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "isNfe": true,
+    "types": ["ghost", "poison"],
+    "desc": "The evolved form of Gastly. Enjoys playing pranks on people."
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "types": ["ghost", "poison"],
+    "desc": "The final evolution of Gastly. A mischievous and powerful Ghost type."
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "types": ["rock", "ground"],
+    "desc": "A Rock/Ground type Pokémon. Known for its massive size and burrowing abilities."
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "isNfe": true,
+    "types": ["psychic"],
+    "desc": "A Psychic type Pokémon. Induces sleep in others with its pendulum."
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "types": ["psychic"],
+    "desc": "The evolved form of Drowzee. Has a pocket watch for hypnotic abilities."
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Known for its large, powerful pincers."
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "types": ["water"],
+    "desc": "The evolved form of Krabby. Possesses enormous and strong claws."
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "isNfe": true,
+    "types": ["electric"],
+    "desc": "An Electric type Pokémon. Resembles a Poké Ball and can explode."
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "types": ["electric"],
+    "desc": "The evolved form of Voltorb. Known for its explosive tendencies."
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "isNfe": true,
+    "types": ["grass", "psychic"],
+    "desc": "A Grass/Psychic type Pokémon. Composed of multiple eggs."
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "types": ["grass", "psychic"],
+    "desc": "The evolved form of Exeggcute. Has a tall and slender appearance."
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "isNfe": true,
+    "types": ["ground"],
+    "desc": "A Ground type Pokémon. Wears the skull of its deceased mother."
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "types": ["ground"],
+    "desc": "The evolved form of Cubone. A skilled user of the bone it carries."
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "types": ["fighting"],
+    "desc": "A Fighting type Pokémon. Known for its powerful kicking techniques."
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "types": ["fighting"],
+    "desc": "A Fighting type Pokémon. Throws punches at the speed of sound."
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Has a long, stretchy tongue."
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "isNfe": true,
+    "types": ["poison"],
+    "desc": "A Poison type Pokémon. Emits toxic gases and floats in the air."
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "types": ["poison"],
+    "desc": "The evolved form of Koffing. Known for its dual-headed appearance."
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "isNfe": true,
+    "types": ["ground", "rock"],
+    "desc": "A Ground/Rock type Pokémon. Covered in rocky armor."
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "types": ["ground", "rock"],
+    "desc": "The evolved form of Rhyhorn. A powerful and imposing Pokémon."
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Known for its incredible egg-bearing pouch."
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "types": ["grass"],
+    "desc": "A Grass type Pokémon. Covered in tangled vines."
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Protects its young in its pouch."
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Known for its seahorse-like appearance."
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "types": ["water"],
+    "desc": "The evolved form of Horsea. A formidable Water type."
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Has a golden body and is skilled at leaping."
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "types": ["water"],
+    "desc": "The evolved form of Goldeen. Known for its powerful horn."
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Resembles a star-shaped jewel."
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "types": ["water", "psychic"],
+    "desc": "The evolved form of Staryu. Possesses powerful psychic abilities."
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "types": ["psychic"],
+    "desc": "A Psychic type Pokémon. Known for its miming and barrier abilities."
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "types": ["bug", "flying"],
+    "desc": "A Bug/Flying type Pokémon. Has scythe-like blades for hands."
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "types": ["ice", "psychic"],
+    "desc": "An Ice/Psychic type Pokémon. Uses seductive dancing in battle."
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "types": ["electric"],
+    "desc": "An Electric type Pokémon. Stores electricity in its body."
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "types": ["fire"],
+    "desc": "A Fire type Pokémon. Emits intense flames and heat."
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "types": ["bug"],
+    "desc": "A Bug type Pokémon. Known for its powerful pincers."
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Highly aggressive and difficult to tame."
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "isNfe": true,
+    "types": ["water"],
+    "desc": "A Water type Pokémon. Considered one of the weakest Pokémon."
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "types": ["water", "flying"],
+    "desc": "The evolved form of Magikarp. A fearsome Water/Flying type."
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "types": ["water", "ice"],
+    "desc": "A Water/Ice type Pokémon. Known for its serene and gentle nature."
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Can transform into any other Pokémon."
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "isNfe": true,
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Known for its many evolution possibilities."
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "types": ["water"],
+    "desc": "One of Eevee's evolved forms. Possesses water-based powers."
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "types": ["electric"],
+    "desc": "One of Eevee's evolved forms. Emits electrical sparks."
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "types": ["fire"],
+    "desc": "One of Eevee's evolved forms. Has fiery fur and attacks."
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Composed of computer data."
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "isNfe": true,
+    "types": ["rock", "water"],
+    "desc": "A Rock/Water type Pokémon. Resembles a prehistoric mollusk."
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "types": ["rock", "water"],
+    "desc": "The evolved form of Omanyte. Possesses a spiral shell."
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "isNfe": true,
+    "types": ["rock", "water"],
+    "desc": "A Rock/Water type Pokémon. Resembles a prehistoric arthropod."
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "types": ["rock", "water"],
+    "desc": "The evolved form of Kabuto. Known for its blade-like arms."
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "types": ["rock", "flying"],
+    "desc": "A Rock/Flying type Pokémon. Resembles a prehistoric reptile."
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "types": ["normal"],
+    "desc": "A Normal type Pokémon. Enormous and known for blocking paths."
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "types": ["ice", "flying"],
+    "isLegendary": true,
+    "desc": "A Legendary Ice/Flying type Pokémon. Known for its icy wings."
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "types": ["electric", "flying"],
+    "isLegendary": true,
+    "desc": "A Legendary Electric/Flying type Pokémon. Emits powerful electricity."
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "types": ["fire", "flying"],
+    "isLegendary": true,
+    "desc": "A Legendary Fire/Flying type Pokémon. Produces intense flames."
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "isNfe": true,
+    "types": ["dragon"],
+    "desc": "A Dragon type Pokémon. Known for its serpentine body."
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "isNfe": true,
+    "types": ["dragon"],
+    "desc": "The evolved form of Dratini. Possesses mystical powers."
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "types": ["dragon", "flying"],
+    "desc": "The final evolution of Dratini. A powerful Dragon/Flying type."
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "types": ["psychic"],
+    "isLegendary": true,
+    "desc": "A Legendary Psychic type Pokémon. One of the most powerful."
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "types": ["psychic"],
+    "isLegendary": true,
+    "desc": "A Mythical Psychic type Pokémon. Said to contain the DNA of all Pokémon."
+  }
+]
+
+
+
+
+
+
