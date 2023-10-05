@@ -1351,7 +1351,7 @@
     "name": "Crustle",
     "types": ["bug", "rock"],
     "desc": "Crustle is a Bug/Rock type Pokémon."
-  },[
+  },
   {
     "id": 559,
     "name": "Scraggy",
@@ -1522,7 +1522,6 @@
     "types": ["ice"],
     "desc": "Vanilluxe is an Ice type Pokémon."
   },
-  [
   {
     "id": 585,
     "name": "Deerling",
@@ -1659,7 +1658,6 @@
       }
     ]
   },
-  [
   {
     "id": 594,
     "name": "Alomomola",
