@@ -1707,8 +1707,7 @@
                                     "steel"
                                 ],
                                 "desc": "Probopass is a Rock and Steel type Pokémon."
-                            }
-                            [
+                            },
                                 {
                                     "id": 100,
                                     "name": "Voltorb",
@@ -1994,7 +1993,6 @@
                                         ],
                                         "desc": "Braviary is known as the Hero of the Skies and is a symbol of strength and freedom."
                                     },
-                                    [
                                         {
                                             "id": 905,
                                             "name": "Enamorus",
