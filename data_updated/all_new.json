@@ -4737,5 +4737,322 @@
             "Ground"
         ],
         "description": "Garchomp is a Dragon and Ground-type Pokémon. It is the evolved form of Gabite and is known for its incredible speed and power. Garchomp has a Mega Evolution form with added Dragon-type."
-    }
+    },
+    {
+        "id": 446,
+        "name": "Munchlax",
+        "isNfe": true,
+        "types": [
+            "Normal"
+        ],
+        "description": "Munchlax is a Normal-type Pokémon. It is the baby form of Snorlax and is known for its insatiable appetite. Munchlax is often seen eating and sleeping."
+    },
+    {
+        "id": 447,
+        "name": "Riolu",
+        "isNfe": true,
+        "types": [
+            "Fighting"
+        ],
+        "description": "Riolu is a Fighting-type Pokémon. It is the baby form of Lucario and is known for its determination and strong sense of justice. Riolu evolves into Lucario."
+    },
+    {
+        "id": 448,
+        "name": "Lucario",
+        "types": [
+            "Fighting",
+            "Steel"
+        ],
+        "description": "Lucario is a Fighting and Steel-type Pokémon. It is known for its aura-sensing abilities and mastery of martial arts. Lucario has a Mega Evolution form with increased power."
+    },
+    {
+        "id": 449,
+        "name": "Hippopotas",
+        "isNfe": true,
+        "types": [
+            "Ground"
+        ],
+        "description": "Hippopotas is a Ground-type Pokémon. It is known for its ability to create sandstorms and bury itself in the sand. Hippopotas evolves into Hippowdon."
+    },
+    {
+        "id": 450,
+        "name": "Hippowdon",
+        "types": [
+            "Ground"
+        ],
+        "description": "Hippowdon is the evolved form of Hippopotas. It is a Ground-type Pokémon known for its massive size and the ability to control sandstorms in the desert."
+    },
+    {
+        "id": 451,
+        "name": "Skorupi",
+        "isNfe": true,
+        "types": [
+            "Poison",
+            "Bug"
+        ],
+        "description": "Skorupi is a Poison and Bug-type Pokémon. It is known for its scorpion-like appearance and the ability to use its tail for defense and striking. Skorupi evolves into Drapion."
+    },
+    {
+        "id": 452,
+        "name": "Drapion",
+        "types": [
+            "Poison",
+            "Dark"
+        ],
+        "description": "Drapion is the evolved form of Skorupi. It is a Poison and Dark-type Pokémon known for its powerful stinger and ability to move silently in the dark. Drapion is often used by Team Galactic."
+    },
+    {
+        "id": 453,
+        "name": "Croagunk",
+        "isNfe": true,
+        "types": [
+            "Poison",
+            "Fighting"
+        ],
+        "description": "Croagunk is a Poison and Fighting-type Pokémon. It is known for secreting toxic sweat and using poison-based attacks. Croagunk evolves into Toxicroak."
+    },
+    {
+        "id": 454,
+        "name": "Toxicroak",
+        "types": [
+            "Poison",
+            "Fighting"
+        ],
+        "description": "Toxicroak is the evolved form of Croagunk. It is a Poison and Fighting-type Pokémon known for its deadly punches and kicks infused with poison. Toxicroak is highly agile in battle."
+    },
+    {
+        "id": 455,
+        "name": "Carnivine",
+        "types": [
+            "Grass"
+        ],
+        "description": "Carnivine is a Grass-type Pokémon. It is known for its carnivorous plant-like appearance and the ability to ensnare prey with its vines. Carnivine is often found in wetlands and swamps."
+    },
+    {
+        "id": 456,
+        "name": "Finneon",
+        "isNfe": true,
+        "types": [
+            "Water"
+        ],
+        "description": "Finneon is a Water-type Pokémon. It is known for its elegant swimming patterns and the light it emits from its tail fin. Finneon evolves into Lumineon."
+    },
+    {
+        "id": 457,
+        "name": "Lumineon",
+        "types": [
+            "Water"
+        ],
+        "description": "Lumineon is the evolved form of Finneon. It is a Water-type Pokémon known for its graceful swimming and the ability to create beautiful patterns with its fins."
+    },
+    {
+        "id": 458,
+        "name": "Mantyke",
+        "isNfe": true,
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "description": "Mantyke is a Water and Flying-type Pokémon. It is known for its gentle nature and the habit of carrying Remoraid on its underside. Mantyke evolves into Mantine."
+    },
+    {
+        "id": 459,
+        "name": "Snover",
+        "isNfe": true,
+        "types": [
+            "Grass",
+            "Ice"
+        ],
+        "description": "Snover is a Grass and Ice-type Pokémon. It is known for its snowy appearance and the ability to summon hailstorms. Snover evolves into Abomasnow."
+    },
+    {
+        "id": 460,
+        "name": "Abomasnow",
+        "types": [
+            "Grass",
+            "Ice"
+        ],
+        "description": "Abomasnow is the evolved form of Snover. It is a Grass and Ice-type Pokémon known for its large, tree-like appearance and the ability to create blizzards. Abomasnow has a Mega Evolution form."
+    },
+    {
+        "id": 461,
+        "name": "Weavile",
+        "types": [
+            "Dark",
+            "Ice"
+        ],
+        "description": "Weavile is a Dark and Ice-type Pokémon. It is known for its agility and sharp claws, which it uses to hunt prey. Weavile is often found in cold, mountainous regions."
+    },
+    {
+        "id": 462,
+        "name": "Magnezone",
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "description": "Magnezone is an Electric and Steel-type Pokémon. It is known for its magnetic properties and the ability to generate strong electromagnetic fields. Magnezone is the evolved form of Magneton."
+    },
+    {
+        "id": 463,
+        "name": "Lickilicky",
+        "types": [
+            "Normal"
+        ],
+        "description": "Lickilicky is a Normal-type Pokémon. It is known for its long, stretchable tongue, which it uses to catch prey and groom itself. Lickilicky is the evolved form of Lickitung."
+    },
+    {
+        "id": 464,
+        "name": "Rhyperior",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "description": "Rhyperior is the evolved form of Rhydon. It is a Ground and Rock-type Pokémon known for its incredible strength and the ability to cause earthquakes by stomping the ground."
+    },
+    {
+        "id": 465,
+        "name": "Tangrowth",
+        "types": [
+            "Grass"
+        ],
+        "description": "Tangrowth is the evolved form of Tangela. It is a Grass-type Pokémon known for its long, vine-like arms and the ability to ensnare opponents. Tangrowth is often found in dense forests."
+    },
+    {
+        "id": 466,
+        "name": "Electivire",
+        "types": [
+            "Electric"
+        ],
+        "description": "Electivire is the evolved form of Electabuzz. It is an Electric-type Pokémon known for its speed and the ability to generate powerful electric shocks from its body."
+    },
+    {
+        "id": 467,
+        "name": "Magmortar",
+        "types": [
+            "Fire"
+        ],
+        "description": "Magmortar is the evolved form of Magmar. It is a Fire-type Pokémon known for its cannons that shoot superheated flames. Magmortar is often used by trainers in battles."
+    },
+    {
+        "id": 468,
+        "name": "Togekiss",
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "description": "Togekiss is the evolved form of Togetic. It is a Fairy and Flying-type Pokémon known for its kind and loving nature. Togekiss is often associated with spreading happiness and joy."
+    },
+    {
+        "id": 469,
+        "name": "Yanmega",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "description": "Yanmega is the evolved form of Yanma. It is a Bug and Flying-type Pokémon known for its incredible speed and the ability to create powerful shockwaves with its wings."
+    },
+    {
+        "id": 470,
+        "name": "Leafeon",
+        "types": [
+            "Grass"
+        ],
+        "description": "Leafeon is one of Eevee's evolution forms. It is a Grass-type Pokémon known for its affinity with nature and the ability to manipulate leaves. Leafeon evolves from Eevee when exposed to a Leaf Stone."
+    },
+    {
+        "id": 471,
+        "name": "Glaceon",
+        "types": [
+            "Ice"
+        ],
+        "description": "Glaceon is one of Eevee's evolution forms. It is an Ice-type Pokémon known for its icy body and the ability to create intense cold. Glaceon evolves from Eevee when exposed to an Ice Stone."
+    },
+    {
+        "id": 472,
+        "name": "Gliscor",
+        "types": [
+            "Ground",
+            "Flying"
+        ],
+        "description": "Gliscor is the evolved form of Gligar. It is a Ground and Flying-type Pokémon known for its impressive flying skills and the ability to glide silently through the night."
+    },
+    {
+        "id": 473,
+        "name": "Mamoswine",
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "description": "Mamoswine is the evolved form of Piloswine. It is an Ice and Ground-type Pokémon known for its size and power. Mamoswine is often used as a mount in snowy regions."
+    },
+    {
+        "id": 474,
+        "name": "Porygon-Z",
+        "types": [
+            "Normal"
+        ],
+        "description": "Porygon-Z is the final form of Porygon. It is a Normal-type Pokémon known for its digital appearance and the ability to move freely in cyberspace. Porygon-Z is often used for data analysis and research."
+    },
+    {
+        "id": 475,
+        "name": "Gallade",
+        "types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "description": "Gallade is a Psychic and Fighting-type Pokémon. It is known for its chivalrous nature and the ability to sense the emotions of others. Gallade has a Mega Evolution form."
+    },
+        {
+          "id": 476,
+          "name": "Probopass",
+          "types": ["Rock", "Steel"],
+          "description": "Probopass is a Rock and Steel-type Pokémon. It is known for its magnetic abilities and the peculiar appearance of its nose. Probopass is the evolved form of Nosepass."
+        },
+        {
+          "id": 477,
+          "name": "Dusknoir",
+          "types": ["Ghost"],
+          "description": "Dusknoir is the evolved form of Dusclops. It is a Ghost-type Pokémon known for its ability to guide spirits to the afterlife. Dusknoir is often seen in haunted places."
+        },
+        {
+          "id": 478,
+          "name": "Froslass",
+          "types": ["Ice", "Ghost"],
+          "description": "Froslass is the evolved form of Snorunt. It is an Ice and Ghost-type Pokémon known for its icy beauty and the ability to freeze its prey. Froslass is often found in snowy areas."
+        },
+        {
+          "id": 479,
+          "name": "Rotom",
+          "types": ["Electric", "Ghost"],
+          "description": "Rotom is an Electric and Ghost-type Pokémon known for its ability to possess and control various appliances. It has multiple forms, each with its own unique typing:"
+        },
+        {
+          "id": 480,
+          "name": "Uxie",
+          "types": ["Psychic"],
+          "isLegendary": true,
+          "description": "Uxie is a Legendary Psychic-type Pokémon. It is known for its wisdom and the ability to erase the memories of those who see its eyes. Uxie is one of the members of the Lake Guardians trio."
+        },
+        {
+          "id": 481,
+          "name": "Mesprit",
+          "types": ["Psychic"],
+          "isLegendary": true,
+          "description": "Mesprit is a Legendary Psychic-type Pokémon. It is known for its emotion-related powers and the ability to impart emotions to others. Mesprit is one of the members of the Lake Guardians trio."
+        },
+        {
+          "id": 482,
+          "name": "Azelf",
+          "types": ["Psychic"],
+          "isLegendary": true,
+          "description": "Azelf is a Legendary Psychic-type Pokémon. It is known for its willpower and the ability to awaken the spirit. Azelf is one of the members of the Lake Guardians trio."
+        },
+        {
+          "id": 483,
+          "name": "Dialga",
+          "types": ["Steel", "Dragon"],
+          "isLegendary": true,
+          "description": "Dialga is a Legendary Steel and Dragon-type Pokémon. It is said to control time and is associated with the creation of the Pokémon world. Dialga has an Origin Form."
+        },
+      
 ]

@@ -3,921 +3,1277 @@
     "id": 19,
     "name": "Rattata",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Rattata is a Normal-type Pokémon known for its quickness and agility."
   },
   {
     "id": 20,
     "name": "Raticate",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Raticate is a Normal-type Pokémon that is the evolved form of Rattata."
   },
   {
     "id": 27,
     "name": "Sandshrew",
     "isNfe": true,
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "desc": "Sandshrew is a Ground-type Pokémon known for its tough, sand-covered hide."
   },
   {
     "id": 28,
     "name": "Sandslash",
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "desc": "Sandslash is a Ground-type Pokémon that is the evolved form of Sandshrew."
   },
   {
     "id": 35,
     "name": "Clefairy",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Clefairy is a Normal-type Pokémon known for its cuteness and fondness for the moon."
   },
   {
     "id": 36,
     "name": "Clefable",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Clefable is a Normal-type Pokémon that is the evolved form of Clefairy."
   },
   {
     "id": 37,
     "name": "Vulpix",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Vulpix is a Fire-type Pokémon known for its six orange tails and fiery abilities."
   },
   {
     "id": 38,
     "name": "Ninetales",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Ninetales is a Fire-type Pokémon that is the evolved form of Vulpix. It has nine elegant tails."
   },
   {
     "id": 39,
     "name": "Jigglypuff",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Jigglypuff is a Normal-type Pokémon known for its soothing lullabies and ability to put others to sleep."
   },
   {
     "id": 40,
     "name": "Wigglytuff",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Wigglytuff is a Normal-type Pokémon that is the evolved form of Jigglypuff."
   },
   {
     "id": 41,
     "name": "Zubat",
     "isNfe": true,
-    "types": ["poison", "flying"],
+    "types": [
+      "poison",
+      "flying"
+    ],
     "desc": "Zubat is a Poison/Flying-type Pokémon known for its nocturnal habits and echolocation."
   },
   {
     "id": 42,
     "name": "Golbat",
     "isNfe": true,
-    "types": ["poison", "flying"],
+    "types": [
+      "poison",
+      "flying"
+    ],
     "desc": "Golbat is a Poison/Flying-type Pokémon that is the evolved form of Zubat."
   },
   {
     "id": 54,
     "name": "Psyduck",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Psyduck is a Water-type Pokémon known for its constant headaches and mysterious psychic powers."
   },
   {
     "id": 55,
     "name": "Golduck",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Golduck is a Water-type Pokémon that is the evolved form of Psyduck."
   },
   {
     "id": 58,
     "name": "Growlithe",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Growlithe is a Fire-type Pokémon known for its loyalty and fierce protection of its trainer."
   },
   {
     "id": 59,
     "name": "Arcanine",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Arcanine is a Fire-type Pokémon that is the evolved form of Growlithe. It is known for its speed and courage."
   },
   {
     "id": 81,
     "name": "Magnemite",
     "isNfe": true,
-    "types": ["electric", "steel"],
+    "types": [
+      "electric",
+      "steel"
+    ],
     "desc": "Magnemite is an Electric/Steel-type Pokémon known for its magnetic properties and ability to generate electricity."
   },
   {
     "id": 82,
     "name": "Magneton",
     "isNfe": true,
-    "types": ["electric", "steel"],
+    "types": [
+      "electric",
+      "steel"
+    ],
     "desc": "Magneton is an Electric/Steel-type Pokémon that is the evolved form of Magnemite."
   },
   {
     "id": 86,
     "name": "Seel",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Seel is a Water-type Pokémon known for its graceful swimming and playful nature."
   },
   {
     "id": 87,
     "name": "Dewgong",
-    "types": ["water", "ice"],
+    "types": [
+      "water",
+      "ice"
+    ],
     "desc": "Dewgong is a Water/Ice-type Pokémon that is the evolved form of Seel. It is skilled in both swimming and ice moves."
   },
   {
     "id": 88,
     "name": "Grimer",
     "isNfe": true,
-    "types": ["poison"],
+    "types": [
+      "poison"
+    ],
     "desc": "Grimer is a Poison-type Pokémon known for its sludgy appearance and foul odor."
   },
   {
     "id": 89,
     "name": "Muk",
-    "types": ["poison"],
+    "types": [
+      "poison"
+    ],
     "desc": "Muk is a Poison-type Pokémon that is the evolved form of Grimer. It is made up of toxic sludge."
   },
   {
     "id": 95,
     "name": "Onix",
     "isNfe": true,
-    "types": ["rock", "ground"],
+    "types": [
+      "rock",
+      "ground"
+    ],
     "desc": "Onix is a Rock/Ground-type Pokémon known for its massive size and burrowing abilities."
   },
   {
     "id": 108,
     "name": "Lickitung",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Lickitung is a Normal-type Pokémon known for its long tongue and the ability to learn various licking moves."
   },
-  [
   {
     "id": 109,
     "name": "Koffing",
     "isNfe": true,
-    "types": ["poison"]
+    "types": [
+      "poison"
+    ]
   },
   {
     "id": 110,
     "name": "Weezing",
-    "types": ["poison"]
+    "types": [
+      "poison"
+    ]
   },
   {
     "id": 114,
     "name": "Tangela",
     "isNfe": true,
-    "types": ["grass"]
+    "types": [
+      "grass"
+    ]
   },
   {
     "id": 120,
     "name": "Staryu",
     "isNfe": true,
-    "types": ["water"]
+    "types": [
+      "water"
+    ]
   },
   {
     "id": 121,
     "name": "Starmie",
-    "types": ["water", "psychic"]
+    "types": [
+      "water",
+      "psychic"
+    ]
   },
   {
     "id": 125,
     "name": "Electabuzz",
     "isNfe": true,
-    "types": ["electric"]
+    "types": [
+      "electric"
+    ]
   },
   {
     "id": 126,
     "name": "Magmar",
     "isNfe": true,
-    "types": ["fire"]
+    "types": [
+      "fire"
+    ]
   },
   {
     "id": 127,
     "name": "Pinsir",
-    "types": ["bug"]
+    "types": [
+      "bug"
+    ]
   },
   {
     "id": 131,
     "name": "Lapras",
-    "types": ["water", "ice"]
+    "types": [
+      "water",
+      "ice"
+    ]
   },
   {
     "id": 132,
     "name": "Ditto",
-    "types": ["normal"]
+    "types": [
+      "normal"
+    ]
   },
   {
     "id": 133,
     "name": "Eevee",
     "isNfe": true,
-    "types": ["normal"]
+    "types": [
+      "normal"
+    ]
   },
   {
     "id": 134,
     "name": "Vaporeon",
-    "types": ["water"]
+    "types": [
+      "water"
+    ]
   },
   {
     "id": 135,
     "name": "Jolteon",
-    "types": ["electric"]
+    "types": [
+      "electric"
+    ]
   },
   {
     "id": 136,
     "name": "Flareon",
-    "types": ["fire"]
+    "types": [
+      "fire"
+    ]
   },
   {
     "id": 169,
     "name": "Crobat",
-    "types": ["poison", "flying"]
+    "types": [
+      "poison",
+      "flying"
+    ]
   },
   {
     "id": 173,
     "name": "Cleffa",
     "isNfe": true,
-    "types": ["normal"]
+    "types": [
+      "normal"
+    ]
   },
   {
     "id": 174,
     "name": "Igglybuff",
     "isNfe": true,
-    "types": ["normal"]
+    "types": [
+      "normal"
+    ]
   },
   {
     "id": 179,
     "name": "Mareep",
     "isNfe": true,
-    "types": ["electric"]
+    "types": [
+      "electric"
+    ]
   },
   {
     "id": 180,
     "name": "Flaaffy",
     "isNfe": true,
-    "types": ["electric"]
+    "types": [
+      "electric"
+    ]
   },
   {
     "id": 181,
     "name": "Ampharos",
-    "types": ["electric"]
+    "types": [
+      "electric"
+    ]
   },
   {
     "id": 183,
     "name": "Marill",
     "isNfe": true,
-    "types": ["water"]
+    "types": [
+      "water"
+    ]
   },
   {
     "id": 184,
     "name": "Azumarill",
-    "types": ["water"]
+    "types": [
+      "water"
+    ]
   },
   {
     "id": 191,
     "name": "Sunkern",
     "isNfe": true,
-    "types": ["grass"]
+    "types": [
+      "grass"
+    ]
   },
   {
     "id": 192,
     "name": "Sunflora",
-    "types": ["grass"]
+    "types": [
+      "grass"
+    ]
   },
   {
     "id": 193,
     "name": "Yanma",
     "isNfe": true,
-    "types": ["bug", "flying"]
+    "types": [
+      "bug",
+      "flying"
+    ]
   },
   {
     "id": 196,
     "name": "Espeon",
-    "types": ["psychic"]
+    "types": [
+      "psychic"
+    ]
   },
   {
     "id": 197,
     "name": "Umbreon",
-    "types": ["dark"]
+    "types": [
+      "dark"
+    ]
   },
   {
     "id": 206,
     "name": "Dunsparce",
-    "types": ["normal"]
+    "types": [
+      "normal"
+    ]
   },
   {
     "id": 207,
     "name": "Gligar",
     "isNfe": true,
-    "types": ["ground", "flying"]
+    "types": [
+      "ground",
+      "flying"
+    ]
   },
-  [
   {
     "id": 208,
     "name": "Steelix",
-    "types": ["steel", "ground"],
+    "types": [
+      "steel",
+      "ground"
+    ],
     "desc": "Steelix is a Steel/Ground type Pokémon."
   },
   {
     "id": 213,
     "name": "Shuckle",
-    "types": ["bug", "rock"],
+    "types": [
+      "bug",
+      "rock"
+    ],
     "desc": "Shuckle is a Bug/Rock type Pokémon."
   },
   {
     "id": 214,
     "name": "Heracross",
-    "types": ["bug", "fighting"],
+    "types": [
+      "bug",
+      "fighting"
+    ],
     "desc": "Heracross is a Bug/Fighting type Pokémon."
   },
   {
     "id": 215,
     "name": "Sneasel",
     "isNfe": true,
-    "types": ["dark", "ice"],
+    "types": [
+      "dark",
+      "ice"
+    ],
     "desc": "Sneasel is a Dark/Ice type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 220,
     "name": "Swinub",
     "isNfe": true,
-    "types": ["ice", "ground"],
+    "types": [
+      "ice",
+      "ground"
+    ],
     "desc": "Swinub is an Ice/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 221,
     "name": "Piloswine",
     "isNfe": true,
-    "types": ["ice", "ground"],
+    "types": [
+      "ice",
+      "ground"
+    ],
     "desc": "Piloswine is an Ice/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 222,
     "name": "Corsola",
-    "types": ["water", "rock"],
+    "types": [
+      "water",
+      "rock"
+    ],
     "desc": "Corsola is a Water/Rock type Pokémon."
   },
   {
     "id": 223,
     "name": "Remoraid",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Remoraid is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 224,
     "name": "Octillery",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Octillery is a Water type Pokémon."
   },
   {
     "id": 225,
     "name": "Delibird",
-    "types": ["ice", "flying"],
+    "types": [
+      "ice",
+      "flying"
+    ],
     "desc": "Delibird is an Ice/Flying type Pokémon."
   },
   {
     "id": 226,
     "name": "Mantine",
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Mantine is a Water/Flying type Pokémon."
   },
   {
     "id": 227,
     "name": "Skarmory",
-    "types": ["steel", "flying"],
+    "types": [
+      "steel",
+      "flying"
+    ],
     "desc": "Skarmory is a Steel/Flying type Pokémon."
   },
   {
     "id": 239,
     "name": "Elekid",
     "isNfe": true,
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Elekid is an Electric type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 240,
     "name": "Magby",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Magby is a Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 246,
     "name": "Larvitar",
     "isNfe": true,
-    "types": ["rock", "ground"],
+    "types": [
+      "rock",
+      "ground"
+    ],
     "desc": "Larvitar is a Rock/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 247,
     "name": "Pupitar",
     "isNfe": true,
-    "types": ["rock", "ground"],
+    "types": [
+      "rock",
+      "ground"
+    ],
     "desc": "Pupitar is a Rock/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 248,
     "name": "Tyranitar",
-    "types": ["rock", "dark"],
+    "types": [
+      "rock",
+      "dark"
+    ],
     "desc": "Tyranitar is a Rock/Dark type Pokémon."
   },
   {
     "id": 278,
     "name": "Wingull",
     "isNfe": true,
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Wingull is a Water/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 279,
     "name": "Pelipper",
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Pelipper is a Water/Flying type Pokémon."
   },
   {
     "id": 287,
     "name": "Slakoth",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Slakoth is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 288,
     "name": "Vigoroth",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Vigoroth is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 289,
     "name": "Slaking",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Slaking is a Normal type Pokémon."
   },
   {
     "id": 298,
     "name": "Azurill",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Azurill is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 299,
     "name": "Nosepass",
     "isNfe": true,
-    "types": ["rock"],
+    "types": [
+      "rock"
+    ],
     "desc": "Nosepass is a Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 300,
     "name": "Skitty",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Skitty is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 301,
     "name": "Delcatty",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Delcatty is a Normal type Pokémon."
   },
   {
     "id": 304,
     "name": "Aron",
     "isNfe": true,
-    "types": ["steel", "rock"],
+    "types": [
+      "steel",
+      "rock"
+    ],
     "desc": "Aron is a Steel/Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 305,
     "name": "Lairon",
     "isNfe": true,
-    "types": ["steel", "rock"],
+    "types": [
+      "steel",
+      "rock"
+    ],
     "desc": "Lairon is a Steel/Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 306,
     "name": "Aggron",
-    "types": ["steel", "rock"],
+    "types": [
+      "steel",
+      "rock"
+    ],
     "desc": "Aggron is a Steel/Rock type Pokémon."
   },
   {
     "id": 315,
     "name": "Roselia",
     "isNfe": true,
-    "types": ["grass", "poison"],
+    "types": [
+      "grass",
+      "poison"
+    ],
     "desc": "Roselia is a Grass/Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 320,
     "name": "Wailmer",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Wailmer is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 321,
     "name": "Wailord",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Wailord is a Water type Pokémon."
   },
   {
     "id": 322,
     "name": "Numel",
     "isNfe": true,
-    "types": ["fire", "ground"],
+    "types": [
+      "fire",
+      "ground"
+    ],
     "desc": "Numel is a Fire/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 323,
     "name": "Camerupt",
-    "types": ["fire", "ground"],
+    "types": [
+      "fire",
+      "ground"
+    ],
     "desc": "Camerupt is a Fire/Ground type Pokémon."
   },
   {
     "id": 325,
     "name": "Spoink",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Spoink is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 326,
     "name": "Grumpig",
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Grumpig is a Psychic type Pokémon."
   },
   {
     "id": 328,
     "name": "Trapinch",
     "isNfe": true,
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "desc": "Trapinch is a Ground type Pokémon and is not fully evolved (NFE)."
   },
-  [
   {
     "id": 329,
     "name": "Vibrava",
     "isNfe": true,
-    "types": ["ground", "dragon"],
+    "types": [
+      "ground",
+      "dragon"
+    ],
     "desc": "Vibrava is a Ground/Dragon type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 330,
     "name": "Flygon",
-    "types": ["ground", "dragon"],
+    "types": [
+      "ground",
+      "dragon"
+    ],
     "desc": "Flygon is a Ground/Dragon type Pokémon."
   },
   {
     "id": 333,
     "name": "Swablu",
     "isNfe": true,
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Swablu is a Normal/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 334,
     "name": "Altaria",
-    "types": ["dragon", "flying"],
+    "types": [
+      "dragon",
+      "flying"
+    ],
     "desc": "Altaria is a Dragon/Flying type Pokémon."
   },
   {
     "id": 335,
     "name": "Zangoose",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Zangoose is a Normal type Pokémon."
   },
   {
     "id": 336,
     "name": "Seviper",
-    "types": ["poison"],
+    "types": [
+      "poison"
+    ],
     "desc": "Seviper is a Poison type Pokémon."
   },
   {
     "id": 337,
     "name": "Lunatone",
-    "types": ["rock", "psychic"],
+    "types": [
+      "rock",
+      "psychic"
+    ],
     "desc": "Lunatone is a Rock/Psychic type Pokémon."
   },
   {
     "id": 338,
     "name": "Solrock",
-    "types": ["rock", "psychic"],
+    "types": [
+      "rock",
+      "psychic"
+    ],
     "desc": "Solrock is a Rock/Psychic type Pokémon."
   },
   {
     "id": 341,
     "name": "Corphish",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Corphish is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 342,
     "name": "Crawdaunt",
-    "types": ["water", "dark"],
+    "types": [
+      "water",
+      "dark"
+    ],
     "desc": "Crawdaunt is a Water/Dark type Pokémon."
   },
   {
     "id": 343,
     "name": "Baltoy",
     "isNfe": true,
-    "types": ["ground", "psychic"],
+    "types": [
+      "ground",
+      "psychic"
+    ],
     "desc": "Baltoy is a Ground/Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 344,
     "name": "Claydol",
-    "types": ["ground", "psychic"],
+    "types": [
+      "ground",
+      "psychic"
+    ],
     "desc": "Claydol is a Ground/Psychic type Pokémon."
   },
   {
     "id": 351,
     "name": "Castform",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Castform is a Normal type Pokémon with different forms based on weather conditions."
   },
   {
     "id": 353,
     "name": "Shuppet",
     "isNfe": true,
-    "types": ["ghost"],
+    "types": [
+      "ghost"
+    ],
     "desc": "Shuppet is a Ghost type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 354,
     "name": "Banette",
-    "types": ["ghost"],
+    "types": [
+      "ghost"
+    ],
     "desc": "Banette is a Ghost type Pokémon."
   },
   {
     "id": 357,
     "name": "Tropius",
-    "types": ["grass", "flying"],
+    "types": [
+      "grass",
+      "flying"
+    ],
     "desc": "Tropius is a Grass/Flying type Pokémon."
   },
   {
     "id": 359,
     "name": "Absol",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "desc": "Absol is a Dark type Pokémon."
   },
   {
     "id": 363,
     "name": "Spheal",
     "isNfe": true,
-    "types": ["ice", "water"],
+    "types": [
+      "ice",
+      "water"
+    ],
     "desc": "Spheal is an Ice/Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 364,
     "name": "Sealeo",
     "isNfe": true,
-    "types": ["ice", "water"],
+    "types": [
+      "ice",
+      "water"
+    ],
     "desc": "Sealeo is an Ice/Water type Pokémon and is not fully evolved (NFE)."
   },
-  [
   {
     "id": 365,
     "name": "Walrein",
-    "types": ["ice", "water"],
+    "types": [
+      "ice",
+      "water"
+    ],
     "desc": "Walrein is an Ice/Water type Pokémon."
   },
   {
     "id": 374,
     "name": "Beldum",
     "isNfe": true,
-    "types": ["steel", "psychic"],
+    "types": [
+      "steel",
+      "psychic"
+    ],
     "desc": "Beldum is a Steel/Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 375,
     "name": "Metang",
     "isNfe": true,
-    "types": ["steel", "psychic"],
+    "types": [
+      "steel",
+      "psychic"
+    ],
     "desc": "Metang is a Steel/Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 376,
     "name": "Metagross",
-    "types": ["steel", "psychic"],
+    "types": [
+      "steel",
+      "psychic"
+    ],
     "desc": "Metagross is a Steel/Psychic type Pokémon."
   },
   {
     "id": 406,
     "name": "Budew",
     "isNfe": true,
-    "types": ["grass", "poison"],
+    "types": [
+      "grass",
+      "poison"
+    ],
     "desc": "Budew is a Grass/Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 407,
     "name": "Roserade",
-    "types": ["grass", "poison"],
+    "types": [
+      "grass",
+      "poison"
+    ],
     "desc": "Roserade is a Grass/Poison type Pokémon."
   },
   {
     "id": 415,
     "name": "Combee",
     "isNfe": true,
-    "types": ["bug", "flying"],
+    "types": [
+      "bug",
+      "flying"
+    ],
     "desc": "Combee is a Bug/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 416,
     "name": "Vespiquen",
-    "types": ["bug", "flying"],
+    "types": [
+      "bug",
+      "flying"
+    ],
     "desc": "Vespiquen is a Bug/Flying type Pokémon."
   },
   {
     "id": 418,
     "name": "Buizel",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Buizel is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 419,
     "name": "Floatzel",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Floatzel is a Water type Pokémon."
   },
   {
     "id": 425,
     "name": "Drifloon",
     "isNfe": true,
-    "types": ["ghost", "flying"],
+    "types": [
+      "ghost",
+      "flying"
+    ],
     "desc": "Drifloon is a Ghost/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 426,
     "name": "Drifblim",
-    "types": ["ghost", "flying"],
+    "types": [
+      "ghost",
+      "flying"
+    ],
     "desc": "Drifblim is a Ghost/Flying type Pokémon."
   },
   {
     "id": 427,
     "name": "Buneary",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Buneary is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 428,
     "name": "Lopunny",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Lopunny is a Normal type Pokémon."
   },
   {
     "id": 436,
     "name": "Bronzor",
     "isNfe": true,
-    "types": ["steel", "psychic"],
+    "types": [
+      "steel",
+      "psychic"
+    ],
     "desc": "Bronzor is a Steel/Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 437,
     "name": "Bronzong",
-    "types": ["steel", "psychic"],
+    "types": [
+      "steel",
+      "psychic"
+    ],
     "desc": "Bronzong is a Steel/Psychic type Pokémon."
   },
   {
     "id": 447,
     "name": "Riolu",
     "isNfe": true,
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Riolu is a Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 448,
     "name": "Lucario",
-    "types": ["fighting", "steel"],
+    "types": [
+      "fighting",
+      "steel"
+    ],
     "desc": "Lucario is a Fighting/Steel type Pokémon."
   },
   {
     "id": 451,
     "name": "Skorupi",
     "isNfe": true,
-    "types": ["poison", "bug"],
+    "types": [
+      "poison",
+      "bug"
+    ],
     "desc": "Skorupi is a Poison/Bug type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 452,
     "name": "Drapion",
-    "types": ["poison", "dark"],
+    "types": [
+      "poison",
+      "dark"
+    ],
     "desc": "Drapion is a Poison/Dark type Pokémon."
   },
   {
     "id": 453,
     "name": "Croagunk",
     "isNfe": true,
-    "types": ["poison", "fighting"],
+    "types": [
+      "poison",
+      "fighting"
+    ],
     "desc": "Croagunk is a Poison/Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 454,
     "name": "Toxicroak",
-    "types": ["poison", "fighting"],
+    "types": [
+      "poison",
+      "fighting"
+    ],
     "desc": "Toxicroak is a Poison/Fighting type Pokémon."
   },
-  [
   {
     "id": 455,
     "name": "Carnivine",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Carnivine is a Grass type Pokémon."
   },
   {
     "id": 458,
     "name": "Mantyke",
     "isNfe": true,
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Mantyke is a Water/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 461,
     "name": "Weavile",
-    "types": ["dark", "ice"],
+    "types": [
+      "dark",
+      "ice"
+    ],
     "desc": "Weavile is a Dark/Ice type Pokémon."
   },
   {
     "id": 462,
     "name": "Magnezone",
-    "types": ["electric", "steel"],
+    "types": [
+      "electric",
+      "steel"
+    ],
     "desc": "Magnezone is an Electric/Steel type Pokémon."
   },
   {
     "id": 463,
     "name": "Lickilicky",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Lickilicky is a Normal type Pokémon."
   },
   {
     "id": 465,
     "name": "Tangrowth",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Tangrowth is a Grass type Pokémon."
   },
   {
     "id": 466,
     "name": "Electivire",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Electivire is an Electric type Pokémon."
   },
   {
     "id": 467,
     "name": "Magmortar",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Magmortar is a Fire type Pokémon."
   },
   {
     "id": 469,
     "name": "Yanmega",
-    "types": ["bug", "flying"],
+    "types": [
+      "bug",
+      "flying"
+    ],
     "desc": "Yanmega is a Bug/Flying type Pokémon."
   },
   {
     "id": 470,
     "name": "Leafeon",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Leafeon is a Grass type Pokémon."
   },
   {
     "id": 471,
     "name": "Glaceon",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Glaceon is an Ice type Pokémon."
   },
   {
     "id": 472,
     "name": "Gliscor",
-    "types": ["ground", "flying"],
+    "types": [
+      "ground",
+      "flying"
+    ],
     "desc": "Gliscor is a Ground/Flying type Pokémon."
   },
   {
     "id": 473,
     "name": "Mamoswine",
-    "types": ["ice", "ground"],
+    "types": [
+      "ice",
+      "ground"
+    ],
     "desc": "Mamoswine is an Ice/Ground type Pokémon."
   },
   {
     "id": 476,
     "name": "Probopass",
-    "types": ["rock", "steel"],
+    "types": [
+      "rock",
+      "steel"
+    ],
     "desc": "Probopass is a Rock/Steel type Pokémon."
   },
   {
     "id": 494,
     "name": "Victini",
-    "types": ["psychic", "fire"],
+    "types": [
+      "psychic",
+      "fire"
+    ],
     "isLegendary": true,
     "desc": "Victini is a Legendary Psychic/Fire type Pokémon."
   },
@@ -925,376 +1281,507 @@
     "id": 495,
     "name": "Snivy",
     "isNfe": true,
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Snivy is a Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 496,
     "name": "Servine",
     "isNfe": true,
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Servine is a Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 497,
     "name": "Serperior",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Serperior is a Grass type Pokémon."
   },
   {
     "id": 498,
     "name": "Tepig",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Tepig is a Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 499,
     "name": "Pignite",
     "isNfe": true,
-    "types": ["fire", "fighting"],
+    "types": [
+      "fire",
+      "fighting"
+    ],
     "desc": "Pignite is a Fire/Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 500,
     "name": "Emboar",
-    "types": ["fire", "fighting"],
+    "types": [
+      "fire",
+      "fighting"
+    ],
     "desc": "Emboar is a Fire/Fighting type Pokémon."
   },
   {
     "id": 501,
     "name": "Oshawott",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Oshawott is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 502,
     "name": "Dewott",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Dewott is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 503,
     "name": "Samurott",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Samurott is a Water type Pokémon."
   },
   {
     "id": 504,
     "name": "Patrat",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Patrat is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 505,
     "name": "Watchog",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Watchog is a Normal type Pokémon."
   },
   {
     "id": 506,
     "name": "Lillipup",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Lillipup is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 507,
     "name": "Herdier",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Herdier is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 508,
     "name": "Stoutland",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Stoutland is a Normal type Pokémon."
   },
   {
     "id": 509,
     "name": "Purrloin",
     "isNfe": true,
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "desc": "Purrloin is a Dark type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 510,
     "name": "Liepard",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "desc": "Liepard is a Dark type Pokémon."
   },
   {
     "id": 511,
     "name": "Pansage",
     "isNfe": true,
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Pansage is a Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 512,
     "name": "Simisage",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Simisage is a Grass type Pokémon."
   },
   {
     "id": 513,
     "name": "Pansear",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Pansear is a Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 514,
     "name": "Simisear",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Simisear is a Fire type Pokémon."
   },
-  [
   {
     "id": 515,
     "name": "Panpour",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Panpour is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 516,
     "name": "Simipour",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Simipour is a Water type Pokémon."
   },
   {
     "id": 517,
     "name": "Munna",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Munna is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 518,
     "name": "Musharna",
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Musharna is a Psychic type Pokémon."
   },
   {
     "id": 519,
     "name": "Pidove",
     "isNfe": true,
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Pidove is a Normal/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 520,
     "name": "Tranquill",
     "isNfe": true,
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Tranquill is a Normal/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 521,
     "name": "Unfezant",
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Unfezant is a Normal/Flying type Pokémon."
   },
   {
     "id": 522,
     "name": "Blitzle",
     "isNfe": true,
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Blitzle is an Electric type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 523,
     "name": "Zebstrika",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Zebstrika is an Electric type Pokémon."
   },
   {
     "id": 524,
     "name": "Roggenrola",
     "isNfe": true,
-    "types": ["rock"],
+    "types": [
+      "rock"
+    ],
     "desc": "Roggenrola is a Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 525,
     "name": "Boldore",
     "isNfe": true,
-    "types": ["rock"],
+    "types": [
+      "rock"
+    ],
     "desc": "Boldore is a Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 526,
     "name": "Gigalith",
-    "types": ["rock"],
+    "types": [
+      "rock"
+    ],
     "desc": "Gigalith is a Rock type Pokémon."
   },
   {
     "id": 527,
     "name": "Woobat",
     "isNfe": true,
-    "types": ["psychic", "flying"],
+    "types": [
+      "psychic",
+      "flying"
+    ],
     "desc": "Woobat is a Psychic/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 528,
     "name": "Swoobat",
-    "types": ["psychic", "flying"],
+    "types": [
+      "psychic",
+      "flying"
+    ],
     "desc": "Swoobat is a Psychic/Flying type Pokémon."
   },
   {
     "id": 529,
     "name": "Drilbur",
     "isNfe": true,
-    "types": ["ground"],
+    "types": [
+      "ground"
+    ],
     "desc": "Drilbur is a Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 530,
     "name": "Excadrill",
-    "types": ["ground", "steel"],
+    "types": [
+      "ground",
+      "steel"
+    ],
     "desc": "Excadrill is a Ground/Steel type Pokémon."
   },
   {
     "id": 531,
     "name": "Audino",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Audino is a Normal type Pokémon."
   },
   {
     "id": 532,
     "name": "Timburr",
     "isNfe": true,
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Timburr is a Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 533,
     "name": "Gurdurr",
     "isNfe": true,
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Gurdurr is a Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 534,
     "name": "Conkeldurr",
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Conkeldurr is a Fighting type Pokémon."
   },
   {
     "id": 535,
     "name": "Tympole",
     "isNfe": true,
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Tympole is a Water type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 536,
     "name": "Palpitoad",
     "isNfe": true,
-    "types": ["water", "ground"],
+    "types": [
+      "water",
+      "ground"
+    ],
     "desc": "Palpitoad is a Water/Ground type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 537,
     "name": "Seismitoad",
-    "types": ["water", "ground"],
+    "types": [
+      "water",
+      "ground"
+    ],
     "desc": "Seismitoad is a Water/Ground type Pokémon."
   },
   {
     "id": 538,
     "name": "Throh",
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Throh is a Fighting type Pokémon."
   },
   {
     "id": 539,
     "name": "Sawk",
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Sawk is a Fighting type Pokémon."
   },
   {
     "id": 540,
     "name": "Sewaddle",
     "isNfe": true,
-    "types": ["bug", "grass"],
+    "types": [
+      "bug",
+      "grass"
+    ],
     "desc": "Sewaddle is a Bug/Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 541,
     "name": "Swadloon",
     "isNfe": true,
-    "types": ["bug", "grass"],
+    "types": [
+      "bug",
+      "grass"
+    ],
     "desc": "Swadloon is a Bug/Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 542,
     "name": "Leavanny",
-    "types": ["bug", "grass"],
+    "types": [
+      "bug",
+      "grass"
+    ],
     "desc": "Leavanny is a Bug/Grass type Pokémon."
   },
   {
     "id": 543,
     "name": "Venipede",
     "isNfe": true,
-    "types": ["bug", "poison"],
+    "types": [
+      "bug",
+      "poison"
+    ],
     "desc": "Venipede is a Bug/Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 544,
     "name": "Whirlipede",
     "isNfe": true,
-    "types": ["bug", "poison"],
+    "types": [
+      "bug",
+      "poison"
+    ],
     "desc": "Whirlipede is a Bug/Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 545,
     "name": "Scolipede",
-    "types": ["bug", "poison"],
+    "types": [
+      "bug",
+      "poison"
+    ],
     "desc": "Scolipede is a Bug/Poison type Pokémon."
   },
   {
     "id": 546,
     "name": "Cottonee",
     "isNfe": true,
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Cottonee is a Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 547,
     "name": "Whimsicott",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Whimsicott is a Grass type Pokémon."
   },
   {
     "id": 548,
     "name": "Petilil",
     "isNfe": true,
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Petilil is a Grass type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 549,
     "name": "Lilligant",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Lilligant is a Grass type Pokémon."
   },
   {
     "id": 550,
     "name": "Basculin",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "forms": [
       {
         "name": "Basculin",
-        "types": ["water"]
+        "types": [
+          "water"
+        ]
       },
       {
         "name": "Basculin",
-        "types": ["water"],
+        "types": [
+          "water"
+        ],
         "spriteSuffix": "bluestriped"
       }
     ],
@@ -1304,254 +1791,351 @@
     "id": 551,
     "name": "Sandile",
     "isNfe": true,
-    "types": ["ground", "dark"],
+    "types": [
+      "ground",
+      "dark"
+    ],
     "desc": "Sandile is a Ground/Dark type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 552,
     "name": "Krokorok",
     "isNfe": true,
-    "types": ["ground", "dark"],
+    "types": [
+      "ground",
+      "dark"
+    ],
     "desc": "Krokorok is a Ground/Dark type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 553,
     "name": "Krookodile",
-    "types": ["ground", "dark"],
+    "types": [
+      "ground",
+      "dark"
+    ],
     "desc": "Krookodile is a Ground/Dark type Pokémon."
   },
   {
     "id": 554,
     "name": "Darumaka",
     "isNfe": true,
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Darumaka is a Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 555,
     "name": "Darmanitan",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Darmanitan is a Fire type Pokémon."
   },
   {
     "id": 556,
     "name": "Maractus",
-    "types": ["grass"],
+    "types": [
+      "grass"
+    ],
     "desc": "Maractus is a Grass type Pokémon."
   },
   {
     "id": 557,
     "name": "Dwebble",
     "isNfe": true,
-    "types": ["bug", "rock"],
+    "types": [
+      "bug",
+      "rock"
+    ],
     "desc": "Dwebble is a Bug/Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 558,
     "name": "Crustle",
-    "types": ["bug", "rock"],
+    "types": [
+      "bug",
+      "rock"
+    ],
     "desc": "Crustle is a Bug/Rock type Pokémon."
   },
   {
     "id": 559,
     "name": "Scraggy",
     "isNfe": true,
-    "types": ["dark", "fighting"],
+    "types": [
+      "dark",
+      "fighting"
+    ],
     "desc": "Scraggy is a Dark/Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 560,
     "name": "Scrafty",
-    "types": ["dark", "fighting"],
+    "types": [
+      "dark",
+      "fighting"
+    ],
     "desc": "Scrafty is a Dark/Fighting type Pokémon."
   },
   {
     "id": 561,
     "name": "Sigilyph",
-    "types": ["psychic", "flying"],
+    "types": [
+      "psychic",
+      "flying"
+    ],
     "desc": "Sigilyph is a Psychic/Flying type Pokémon."
   },
   {
     "id": 562,
     "name": "Yamask",
     "isNfe": true,
-    "types": ["ghost"],
+    "types": [
+      "ghost"
+    ],
     "desc": "Yamask is a Ghost type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 563,
     "name": "Cofagrigus",
-    "types": ["ghost"],
+    "types": [
+      "ghost"
+    ],
     "desc": "Cofagrigus is a Ghost type Pokémon."
   },
   {
     "id": 564,
     "name": "Tirtouga",
     "isNfe": true,
-    "types": ["water", "rock"],
+    "types": [
+      "water",
+      "rock"
+    ],
     "desc": "Tirtouga is a Water/Rock type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 565,
     "name": "Carracosta",
-    "types": ["water", "rock"],
+    "types": [
+      "water",
+      "rock"
+    ],
     "desc": "Carracosta is a Water/Rock type Pokémon."
   },
   {
     "id": 566,
     "name": "Archen",
     "isNfe": true,
-    "types": ["rock", "flying"],
+    "types": [
+      "rock",
+      "flying"
+    ],
     "desc": "Archen is a Rock/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 567,
     "name": "Archeops",
-    "types": ["rock", "flying"],
+    "types": [
+      "rock",
+      "flying"
+    ],
     "desc": "Archeops is a Rock/Flying type Pokémon."
   },
   {
     "id": 568,
     "name": "Trubbish",
     "isNfe": true,
-    "types": ["poison"],
+    "types": [
+      "poison"
+    ],
     "desc": "Trubbish is a Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 569,
     "name": "Garbodor",
-    "types": ["poison"],
+    "types": [
+      "poison"
+    ],
     "desc": "Garbodor is a Poison type Pokémon."
   },
   {
     "id": 570,
     "name": "Zorua",
     "isNfe": true,
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "desc": "Zorua is a Dark type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 571,
     "name": "Zoroark",
-    "types": ["dark"],
+    "types": [
+      "dark"
+    ],
     "desc": "Zoroark is a Dark type Pokémon."
   },
   {
     "id": 572,
     "name": "Minccino",
     "isNfe": true,
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Minccino is a Normal type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 573,
     "name": "Cinccino",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Cinccino is a Normal type Pokémon."
   },
   {
     "id": 574,
     "name": "Gothita",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Gothita is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 575,
     "name": "Gothorita",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Gothorita is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 576,
     "name": "Gothitelle",
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Gothitelle is a Psychic type Pokémon."
   },
   {
     "id": 577,
     "name": "Solosis",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Solosis is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 578,
     "name": "Duosion",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Duosion is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 579,
     "name": "Reuniclus",
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Reuniclus is a Psychic type Pokémon."
   },
   {
     "id": 580,
     "name": "Ducklett",
     "isNfe": true,
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Ducklett is a Water/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 581,
     "name": "Swanna",
-    "types": ["water", "flying"],
+    "types": [
+      "water",
+      "flying"
+    ],
     "desc": "Swanna is a Water/Flying type Pokémon."
   },
   {
     "id": 582,
     "name": "Vanillite",
     "isNfe": true,
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Vanillite is an Ice type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 583,
     "name": "Vanillish",
     "isNfe": true,
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Vanillish is an Ice type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 584,
     "name": "Vanilluxe",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Vanilluxe is an Ice type Pokémon."
   },
   {
     "id": 585,
     "name": "Deerling",
     "isNfe": true,
-    "types": ["normal", "grass"],
+    "types": [
+      "normal",
+      "grass"
+    ],
     "forms": [
       {
         "name": "Deerling",
         "isNfe": true,
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "desc": "Deerling is a Normal/Grass type Pokémon and is not fully evolved (NFE)."
       },
       {
         "name": "Deerling",
         "isNfe": true,
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "autumn",
         "desc": "Autumn Form: Deerling is a Normal/Grass type Pokémon and is not fully evolved (NFE)."
       },
       {
         "name": "Deerling",
         "isNfe": true,
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "summer",
         "desc": "Summer Form: Deerling is a Normal/Grass type Pokémon and is not fully evolved (NFE)."
       },
       {
         "name": "Deerling",
         "isNfe": true,
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "winter",
         "desc": "Winter Form: Deerling is a Normal/Grass type Pokémon and is not fully evolved (NFE)."
       }
@@ -1560,28 +2144,43 @@
   {
     "id": 586,
     "name": "Sawsbuck",
-    "types": ["normal", "grass"],
+    "types": [
+      "normal",
+      "grass"
+    ],
     "forms": [
       {
         "name": "Sawsbuck",
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "desc": "Sawsbuck is a Normal/Grass type Pokémon."
       },
       {
         "name": "Sawsbuck",
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "autumn",
         "desc": "Autumn Form: Sawsbuck is a Normal/Grass type Pokémon."
       },
       {
         "name": "Sawsbuck",
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "summer",
         "desc": "Summer Form: Sawsbuck is a Normal/Grass type Pokémon."
       },
       {
         "name": "Sawsbuck",
-        "types": ["normal", "grass"],
+        "types": [
+          "normal",
+          "grass"
+        ],
         "spriteSuffix": "winter",
         "desc": "Winter Form: Sawsbuck is a Normal/Grass type Pokémon."
       }
@@ -1590,51 +2189,74 @@
   {
     "id": 587,
     "name": "Emolga",
-    "types": ["electric", "flying"],
+    "types": [
+      "electric",
+      "flying"
+    ],
     "desc": "Emolga is an Electric/Flying type Pokémon."
   },
   {
     "id": 588,
     "name": "Karrablast",
     "isNfe": true,
-    "types": ["bug"],
+    "types": [
+      "bug"
+    ],
     "desc": "Karrablast is a Bug type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 589,
     "name": "Escavalier",
-    "types": ["bug", "steel"],
+    "types": [
+      "bug",
+      "steel"
+    ],
     "desc": "Escavalier is a Bug/Steel type Pokémon."
   },
   {
     "id": 590,
     "name": "Foongus",
     "isNfe": true,
-    "types": ["grass", "poison"],
+    "types": [
+      "grass",
+      "poison"
+    ],
     "desc": "Foongus is a Grass/Poison type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 591,
     "name": "Amoonguss",
-    "types": ["grass", "poison"],
+    "types": [
+      "grass",
+      "poison"
+    ],
     "desc": "Amoonguss is a Grass/Poison type Pokémon."
   },
   {
     "id": 592,
     "name": "Frillish",
     "isNfe": true,
-    "types": ["water", "ghost"],
+    "types": [
+      "water",
+      "ghost"
+    ],
     "forms": [
       {
         "name": "Frillish",
         "isNfe": true,
-        "types": ["water", "ghost"],
+        "types": [
+          "water",
+          "ghost"
+        ],
         "desc": "Frillish is a Water/Ghost type Pokémon and is not fully evolved (NFE)."
       },
       {
         "name": "Frillish",
         "isNfe": true,
-        "types": ["water", "ghost"],
+        "types": [
+          "water",
+          "ghost"
+        ],
         "spriteSuffix": "f",
         "desc": "Female Form: Frillish is a Water/Ghost type Pokémon and is not fully evolved (NFE)."
       }
@@ -1643,17 +2265,26 @@
   {
     "id": 593,
     "name": "Jellicent",
-    "types": ["water", "ghost"],
+    "types": [
+      "water",
+      "ghost"
+    ],
     "forms": [
       {
         "name": "Jellicent",
-        "types": ["water", "ghost"],
+        "types": [
+          "water",
+          "ghost"
+        ],
         "spriteSuffix": "f",
         "desc": "Female Form: Jellicent is a Water/Ghost type Pokémon."
       },
       {
         "name": "Jellicent",
-        "types": ["water", "ghost"],
+        "types": [
+          "water",
+          "ghost"
+        ],
         "desc": "Jellicent is a Water/Ghost type Pokémon."
       }
     ]
@@ -1661,557 +2292,668 @@
   {
     "id": 594,
     "name": "Alomomola",
-    "types": ["water"],
+    "types": [
+      "water"
+    ],
     "desc": "Alomomola is a Water type Pokémon."
   },
   {
     "id": 595,
     "name": "Joltik",
     "isNfe": true,
-    "types": ["bug", "electric"],
+    "types": [
+      "bug",
+      "electric"
+    ],
     "desc": "Joltik is a Bug/Electric type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 596,
     "name": "Galvantula",
-    "types": ["bug", "electric"],
+    "types": [
+      "bug",
+      "electric"
+    ],
     "desc": "Galvantula is a Bug/Electric type Pokémon."
   },
   {
     "id": 597,
     "name": "Ferroseed",
     "isNfe": true,
-    "types": ["grass", "steel"],
+    "types": [
+      "grass",
+      "steel"
+    ],
     "desc": "Ferroseed is a Grass/Steel type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 598,
     "name": "Ferrothorn",
-    "types": ["grass", "steel"],
+    "types": [
+      "grass",
+      "steel"
+    ],
     "desc": "Ferrothorn is a Grass/Steel type Pokémon."
   },
   {
     "id": 599,
     "name": "Klink",
     "isNfe": true,
-    "types": ["steel"],
+    "types": [
+      "steel"
+    ],
     "desc": "Klink is a Steel type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 600,
     "name": "Klang",
     "isNfe": true,
-    "types": ["steel"],
+    "types": [
+      "steel"
+    ],
     "desc": "Klang is a Steel type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 601,
     "name": "Klinklang",
-    "types": ["steel"],
+    "types": [
+      "steel"
+    ],
     "desc": "Klinklang is a Steel type Pokémon."
   },
   {
     "id": 602,
     "name": "Tynamo",
     "isNfe": true,
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Tynamo is an Electric type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 603,
     "name": "Eelektrik",
     "isNfe": true,
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Eelektrik is an Electric type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 604,
     "name": "Eelektross",
-    "types": ["electric"],
+    "types": [
+      "electric"
+    ],
     "desc": "Eelektross is an Electric type Pokémon."
   },
   {
     "id": 605,
     "name": "Elgyem",
     "isNfe": true,
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Elgyem is a Psychic type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 606,
     "name": "Beheeyem",
-    "types": ["psychic"],
+    "types": [
+      "psychic"
+    ],
     "desc": "Beheeyem is a Psychic type Pokémon."
   },
   {
     "id": 607,
     "name": "Litwick",
     "isNfe": true,
-    "types": ["ghost", "fire"],
+    "types": [
+      "ghost",
+      "fire"
+    ],
     "desc": "Litwick is a Ghost/Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 608,
     "name": "Lampent",
     "isNfe": true,
-    "types": ["ghost", "fire"],
+    "types": [
+      "ghost",
+      "fire"
+    ],
     "desc": "Lampent is a Ghost/Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 609,
     "name": "Chandelure",
-    "types": ["ghost", "fire"],
+    "types": [
+      "ghost",
+      "fire"
+    ],
     "desc": "Chandelure is a Ghost/Fire type Pokémon."
   },
   {
     "id": 610,
     "name": "Axew",
     "isNfe": true,
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "desc": "Axew is a Dragon type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 611,
     "name": "Fraxure",
     "isNfe": true,
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "desc": "Fraxure is a Dragon type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 612,
     "name": "Haxorus",
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "desc": "Haxorus is a Dragon type Pokémon."
   },
   {
     "id": 613,
     "name": "Cubchoo",
     "isNfe": true,
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Cubchoo is an Ice type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 614,
     "name": "Beartic",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Beartic is an Ice type Pokémon."
   },
   {
     "id": 615,
     "name": "Cryogonal",
-    "types": ["ice"],
+    "types": [
+      "ice"
+    ],
     "desc": "Cryogonal is an Ice type Pokémon."
   },
   {
     "id": 616,
     "name": "Shelmet",
     "isNfe": true,
-    "types": ["bug"],
+    "types": [
+      "bug"
+    ],
     "desc": "Shelmet is a Bug type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 617,
     "name": "Accelgor",
-    "types": ["bug"],
+    "types": [
+      "bug"
+    ],
     "desc": "Accelgor is a Bug type Pokémon."
   },
   {
     "id": 618,
     "name": "Stunfisk",
-    "types": ["ground", "electric"],
+    "types": [
+      "ground",
+      "electric"
+    ],
     "desc": "Stunfisk is a Ground/Electric type Pokémon."
   },
   {
     "id": 619,
     "name": "Mienfoo",
     "isNfe": true,
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Mienfoo is a Fighting type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 620,
     "name": "Mienshao",
-    "types": ["fighting"],
+    "types": [
+      "fighting"
+    ],
     "desc": "Mienshao is a Fighting type Pokémon."
   },
   {
     "id": 621,
     "name": "Druddigon",
-    "types": ["dragon"],
+    "types": [
+      "dragon"
+    ],
     "desc": "Druddigon is a Dragon type Pokémon."
   },
   {
     "id": 622,
     "name": "Golett",
     "isNfe": true,
-    "types": ["ground", "ghost"],
+    "types": [
+      "ground",
+      "ghost"
+    ],
     "desc": "Golett is a Ground/Ghost type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 623,
     "name": "Golurk",
-    "types": ["ground", "ghost"],
+    "types": [
+      "ground",
+      "ghost"
+    ],
     "desc": "Golurk is a Ground/Ghost type Pokémon."
   },
   {
     "id": 624,
     "name": "Pawniard",
     "isNfe": true,
-    "types": ["dark", "steel"],
+    "types": [
+      "dark",
+      "steel"
+    ],
     "desc": "Pawniard is a Dark/Steel type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 625,
     "name": "Bisharp",
-    "types": ["dark", "steel"],
+    "types": [
+      "dark",
+      "steel"
+    ],
     "desc": "Bisharp is a Dark/Steel type Pokémon."
   },
   {
     "id": 626,
     "name": "Bouffalant",
-    "types": ["normal"],
+    "types": [
+      "normal"
+    ],
     "desc": "Bouffalant is a Normal type Pokémon."
   },
   {
     "id": 627,
     "name": "Rufflet",
     "isNfe": true,
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Rufflet is a Normal/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 628,
     "name": "Braviary",
-    "types": ["normal", "flying"],
+    "types": [
+      "normal",
+      "flying"
+    ],
     "desc": "Braviary is a Normal/Flying type Pokémon."
   },
   {
     "id": 629,
     "name": "Vullaby",
     "isNfe": true,
-    "types": ["dark", "flying"],
+    "types": [
+      "dark",
+      "flying"
+    ],
     "desc": "Vullaby is a Dark/Flying type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 630,
     "name": "Mandibuzz",
-    "types": ["dark", "flying"],
+    "types": [
+      "dark",
+      "flying"
+    ],
     "desc": "Mandibuzz is a Dark/Flying type Pokémon."
   },
   {
     "id": 631,
     "name": "Heatmor",
-    "types": ["fire"],
+    "types": [
+      "fire"
+    ],
     "desc": "Heatmor is a Fire type Pokémon."
   },
   {
     "id": 632,
     "name": "Durant",
-    "types": ["bug", "steel"],
+    "types": [
+      "bug",
+      "steel"
+    ],
     "desc": "Durant is a Bug/Steel type Pokémon."
   },
   {
     "id": 633,
     "name": "Deino",
     "isNfe": true,
-    "types": ["dark", "dragon"],
+    "types": [
+      "dark",
+      "dragon"
+    ],
     "desc": "Deino is a Dark/Dragon type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 634,
     "name": "Zweilous",
     "isNfe": true,
-    "types": ["dark", "dragon"],
+    "types": [
+      "dark",
+      "dragon"
+    ],
     "desc": "Zweilous is a Dark/Dragon type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 635,
     "name": "Hydreigon",
-    "types": ["dark", "dragon"],
+    "types": [
+      "dark",
+      "dragon"
+    ],
     "desc": "Hydreigon is a Dark/Dragon type Pokémon."
   },
   {
     "id": 636,
     "name": "Larvesta",
     "isNfe": true,
-    "types": ["bug", "fire"],
+    "types": [
+      "bug",
+      "fire"
+    ],
     "desc": "Larvesta is a Bug/Fire type Pokémon and is not fully evolved (NFE)."
   },
   {
     "id": 637,
     "name": "Volcarona",
-    "types": ["bug", "fire"],
+    "types": [
+      "bug",
+      "fire"
+    ],
     "desc": "Volcarona is a Bug/Fire type Pokémon."
   },
   [
     {
-        "id": 638,
-        "name": "Cobalion",
-        "types": [
-            "steel",
-            "fighting"
-        ],
-        "isLegendary": true,
-        "desc": "Cobalion is a legendary Pokémon with Steel and Fighting types."
+      "id": 638,
+      "name": "Cobalion",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "isLegendary": true,
+      "desc": "Cobalion is a legendary Pokémon with Steel and Fighting types."
     },
     {
-        "id": 639,
-        "name": "Terrakion",
-        "types": [
-            "rock",
-            "fighting"
-        ],
-        "isLegendary": true,
-        "desc": "Terrakion is a legendary Pokémon with Rock and Fighting types."
+      "id": 639,
+      "name": "Terrakion",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "isLegendary": true,
+      "desc": "Terrakion is a legendary Pokémon with Rock and Fighting types."
     },
     {
-        "id": 640,
-        "name": "Virizion",
-        "types": [
-            "grass",
-            "fighting"
-        ],
-        "isLegendary": true,
-        "desc": "Virizion is a legendary Pokémon with Grass and Fighting types."
+      "id": 640,
+      "name": "Virizion",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "isLegendary": true,
+      "desc": "Virizion is a legendary Pokémon with Grass and Fighting types."
     },
     {
-        "id": 641,
-        "name": "Tornadus",
-        "types": [
+      "id": 641,
+      "name": "Tornadus",
+      "types": [
+        "flying"
+      ],
+      "forms": [
+        {
+          "name": "Tornadus",
+          "types": [
             "flying"
-        ],
-        "forms": [
-            {
-                "name": "Tornadus",
-                "types": [
-                    "flying"
-                ]
-            },
-            {
-                "name": "Tornadus Therian",
-                "types": [
-                    "flying"
-                ],
-                "spriteSuffix": "therian"
-            }
-        ],
-        "isLegendary": true,
-        "desc": "Tornadus is a legendary Pokémon with Flying type. It has two forms: Tornadus and Tornadus Therian."
+          ]
+        },
+        {
+          "name": "Tornadus Therian",
+          "types": [
+            "flying"
+          ],
+          "spriteSuffix": "therian"
+        }
+      ],
+      "isLegendary": true,
+      "desc": "Tornadus is a legendary Pokémon with Flying type. It has two forms: Tornadus and Tornadus Therian."
     },
     {
-        "id": 642,
-        "name": "Thundurus",
-        "types": [
+      "id": 642,
+      "name": "Thundurus",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "forms": [
+        {
+          "name": "Thundurus",
+          "types": [
             "electric",
             "flying"
-        ],
-        "forms": [
-            {
-                "name": "Thundurus",
-                "types": [
-                    "electric",
-                    "flying"
-                ],
-                "isUber": true
-            },
-            {
-                "name": "Thundurus Therian",
-                "types": [
-                    "electric",
-                    "flying"
-                ],
-                "spriteSuffix": "therian"
-            }
-        ],
-        "isLegendary": true,
-        "desc": "Thundurus is a legendary Pokémon with Electric and Flying types. It has two forms: Thundurus and Thundurus Therian. Thundurus is also in the Uber tier."
+          ],
+          "isUber": true
+        },
+        {
+          "name": "Thundurus Therian",
+          "types": [
+            "electric",
+            "flying"
+          ],
+          "spriteSuffix": "therian"
+        }
+      ],
+      "isLegendary": true,
+      "desc": "Thundurus is a legendary Pokémon with Electric and Flying types. It has two forms: Thundurus and Thundurus Therian. Thundurus is also in the Uber tier."
     },
     {
-        "id": 643,
-        "name": "Reshiram",
-        "types": [
-            "dragon",
-            "fire"
-        ],
-        "isLegendary": true,
-        "desc": "Reshiram is a legendary Pokémon with Dragon and Fire types."
+      "id": 643,
+      "name": "Reshiram",
+      "types": [
+        "dragon",
+        "fire"
+      ],
+      "isLegendary": true,
+      "desc": "Reshiram is a legendary Pokémon with Dragon and Fire types."
     },
     {
-        "id": 644,
-        "name": "Zekrom",
-        "types": [
-            "dragon",
-            "electric"
-        ],
-        "isLegendary": true,
-        "desc": "Zekrom is a legendary Pokémon with Dragon and Electric types."
+      "id": 644,
+      "name": "Zekrom",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "isLegendary": true,
+      "desc": "Zekrom is a legendary Pokémon with Dragon and Electric types."
     },
     {
-        "id": 645,
-        "name": "Landorus",
-        "types": [
+      "id": 645,
+      "name": "Landorus",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "forms": [
+        {
+          "name": "Landorus",
+          "types": [
             "ground",
             "flying"
-        ],
-        "forms": [
-            {
-                "name": "Landorus",
-                "types": [
-                    "ground",
-                    "flying"
-                ]
-            },
-            {
-                "name": "Landorus Therian",
-                "types": [
-                    "ground",
-                    "flying"
-                ],
-                "spriteSuffix": "therian"
-            }
-        ],
-        "isLegendary": true,
-        "desc": "Landorus is a legendary Pokémon with Ground and Flying types. It has two forms: Landorus and Landorus Therian."
+          ]
+        },
+        {
+          "name": "Landorus Therian",
+          "types": [
+            "ground",
+            "flying"
+          ],
+          "spriteSuffix": "therian"
+        }
+      ],
+      "isLegendary": true,
+      "desc": "Landorus is a legendary Pokémon with Ground and Flying types. It has two forms: Landorus and Landorus Therian."
     },
     {
-        "id": 646,
-        "name": "Kyurem",
-        "types": [
+      "id": 646,
+      "name": "Kyurem",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "forms": [
+        {
+          "name": "Kyurem",
+          "types": [
             "dragon",
             "ice"
-        ],
-        "forms": [
-            {
-                "name": "Kyurem",
-                "types": [
-                    "dragon",
-                    "ice"
-                ]
-            },
-            {
-                "name": "Kyurem Black",
-                "types": [
-                    "dragon",
-                    "ice"
-                ],
-                "spriteSuffix": "black"
-            },
-            {
-                "name": "Kyurem White",
-                "types": [
-                    "dragon",
-                    "ice"
-                ],
-                "spriteSuffix": "white"
-            }
-        ],
-        "isLegendary": true,
-        "desc": "Kyurem is a legendary Pokémon with Dragon and Ice types. It has three forms: Kyurem, Kyurem Black, and Kyurem White."
+          ]
+        },
+        {
+          "name": "Kyurem Black",
+          "types": [
+            "dragon",
+            "ice"
+          ],
+          "spriteSuffix": "black"
+        },
+        {
+          "name": "Kyurem White",
+          "types": [
+            "dragon",
+            "ice"
+          ],
+          "spriteSuffix": "white"
+        }
+      ],
+      "isLegendary": true,
+      "desc": "Kyurem is a legendary Pokémon with Dragon and Ice types. It has three forms: Kyurem, Kyurem Black, and Kyurem White."
     },
     [
-    {
+      {
         "id": 647,
         "name": "Keldeo",
         "types": [
-            "water",
-            "fighting"
+          "water",
+          "fighting"
         ],
         "forms": [
-            {
-                "name": "Keldeo",
-                "types": [
-                    "water",
-                    "fighting"
-                ]
-            },
-            {
-                "name": "Keldeo",
-                "types": [
-                    "water",
-                    "fighting"
-                ],
-                "spriteSuffix": "resolute"
-            }
+          {
+            "name": "Keldeo",
+            "types": [
+              "water",
+              "fighting"
+            ]
+          },
+          {
+            "name": "Keldeo",
+            "types": [
+              "water",
+              "fighting"
+            ],
+            "spriteSuffix": "resolute"
+          }
         ],
         "isLegendary": true,
         "desc": "Keldeo is a legendary Pokémon with Water and Fighting types. It has two forms: Keldeo and Keldeo Resolute."
-    },
-    {
+      },
+      {
         "id": 648,
         "name": "Meloetta",
         "types": [
-            "normal",
-            "psychic"
+          "normal",
+          "psychic"
         ],
         "forms": [
-            {
-                "name": "Meloetta",
-                "types": [
-                    "normal",
-                    "psychic"
-                ]
-            },
-            {
-                "name": "Meloetta Pirouette",
-                "types": [
-                    "normal",
-                    "fighting"
-                ],
-                "spriteSuffix": "pirouette"
-            }
+          {
+            "name": "Meloetta",
+            "types": [
+              "normal",
+              "psychic"
+            ]
+          },
+          {
+            "name": "Meloetta Pirouette",
+            "types": [
+              "normal",
+              "fighting"
+            ],
+            "spriteSuffix": "pirouette"
+          }
         ],
         "isLegendary": true,
         "desc": "Meloetta is a legendary Pokémon with Normal and Psychic types. It has two forms: Meloetta and Meloetta Pirouette."
-    },
-    {
+      },
+      {
         "id": 649,
         "name": "Genesect",
         "types": [
-            "bug",
-            "steel"
+          "bug",
+          "steel"
         ],
         "forms": [
-            {
-                "name": "Genesect",
-                "types": [
-                    "bug",
-                    "steel"
-                ]
-            },
-            {
-                "name": "Genesect",
-                "types": [
-                    "bug",
-                    "steel"
-                ],
-                "spriteSuffix": "burn"
-            },
-            {
-                "name": "Genesect",
-                "types": [
-                    "bug",
-                    "steel"
-                ],
-                "spriteSuffix": "chill"
-            },
-            {
-                "name": "Genesect",
-                "types": [
-                    "bug",
-                    "steel"
-                ],
-                "spriteSuffix": "douse"
-            },
-            {
-                "name": "Genesect",
-                "types": [
-                    "bug",
-                    "steel"
-                ],
-                "spriteSuffix": "shock"
-            }
+          {
+            "name": "Genesect",
+            "types": [
+              "bug",
+              "steel"
+            ]
+          },
+          {
+            "name": "Genesect",
+            "types": [
+              "bug",
+              "steel"
+            ],
+            "spriteSuffix": "burn"
+          },
+          {
+            "name": "Genesect",
+            "types": [
+              "bug",
+              "steel"
+            ],
+            "spriteSuffix": "chill"
+          },
+          {
+            "name": "Genesect",
+            "types": [
+              "bug",
+              "steel"
+            ],
+            "spriteSuffix": "douse"
+          },
+          {
+            "name": "Genesect",
+            "types": [
+              "bug",
+              "steel"
+            ],
+            "spriteSuffix": "shock"
+          }
         ],
         "isLegendary": true,
         "desc": "Genesect is a legendary Pokémon with Bug and Steel types. It has five forms: Genesect, Genesect Burn, Genesect Chill, Genesect Douse, and Genesect Shock."
-    }
-]
+      }
+    ]
+  ]
