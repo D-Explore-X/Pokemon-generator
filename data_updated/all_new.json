@@ -7786,14 +7786,235 @@
             "types": ["normal", "fighting"],
             "description": "Bewear is the evolved form of Stufful, now a dual-type Pokémon with Normal and Fighting attributes. It retains a cuddly but immensely strong appearance, often surprising trainers with its power."
         },
+        {
+            "id": 761,
+            "name": "Bounsweet",
+            "isNfe": true,
+            "types": ["grass"],
+            "description": "Bounsweet is a pure Grass-type Pokémon and is the first stage of its evolutionary line. It has a sweet and fruit-like appearance."
+        },
+        {
+            "id": 762,
+            "name": "Steenee",
+            "isNfe": true,
+            "types": ["grass"],
+            "description": "Steenee is the evolved form of Bounsweet, still a pure Grass-type Pokémon. It has a more vibrant and dance-like appearance."
+        },
+        {
+            "id": 763,
+            "name": "Tsareena",
+            "types": ["grass"],
+            "description": "Tsareena is the final form of the Bounsweet evolutionary line, still a pure Grass-type Pokémon. It has a regal and queenly appearance, often found in lush gardens."
+        },
+        {
+            "id": 764,
+            "name": "Comfey",
+            "types": ["fairy"],
+            "description": "Comfey is a Fairy-type Pokémon known for its floral appearance and its ability to create soothing and healing leis."
+        },
+        {
+            "id": 765,
+            "name": "Oranguru",
+            "types": ["normal", "psychic"],
+            "description": "Oranguru is a unique dual-type Pokémon with Normal and Psychic attributes. It is known for its wise and contemplative nature, often seen deep in thought."
+        },
+        {
+            "id": 766,
+            "name": "Passimian",
+            "types": ["fighting"],
+            "description": "Passimian is a pure Fighting-type Pokémon. It is known for its teamwork and is often seen playing a team-based sport."
+        },
+        {
+            "id": 767,
+            "name": "Wimpod",
+            "isNfe": true,
+            "types": ["bug", "water"],
+            "description": "Wimpod is a dual-type Pokémon with Bug and Water attributes, the first stage of its evolutionary line. It has a timid and aquatic appearance."
+        },
+        {
+            "id": 768,
+            "name": "Golisopod",
+            "types": ["bug", "water"],
+            "description": "Golisopod is the evolved form of Wimpod, now a dual-type Pokémon with Bug and Water attributes. It has a formidable and armored appearance, often found near water."
+        },
+        {
+            "id": 769,
+            "name": "Sandygast",
+            "isNfe": true,
+            "types": ["ghost", "ground"],
+            "description": "Sandygast is a dual-type Pokémon with Ghost and Ground attributes, the first stage of its evolutionary line. It resembles a sandcastle with a sinister side."
+        },
+        {
+            "id": 770,
+            "name": "Palossand",
+            "types": ["ghost", "ground"],
+            "description": "Palossand is the evolved form of Sandygast, now a dual-type Pokémon with Ghost and Ground attributes. It takes on the form of a massive and haunted sandcastle."
+        },
+        {
+            "id": 771,
+            "name": "Pyukumuku",
+            "types": ["water"],
+            "description": "Pyukumuku is a pure Water-type Pokémon known for its unique appearance. It has the ability to expel its internal organs as a defense mechanism."
+        },
+        {
+            "id": 772,
+            "name": "Type: Null",
+            "isNfe": true,
+            "types": ["normal"],
+            "isLegendary": true,
+            "description": "Type: Null is a unique and Legendary Pokémon of Normal type. It has a distinct appearance and is known for its powerful and adaptable capabilities."
+        },
+        {
+            "id": 773,
+            "name": "Silvally",
+            "types": ["normal"],
+            "forms": [
+                {
+                    "name": "Silvally",
+                    "types": ["bug"],
+                    "spriteSuffix": "bug"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["dark"],
+                    "spriteSuffix": "dark"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["dragon"],
+                    "spriteSuffix": "dragon"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["electric"],
+                    "spriteSuffix": "electric"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["fairy"],
+                    "spriteSuffix": "fairy"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["fighting"],
+                    "spriteSuffix": "fighting"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["fire"],
+                    "spriteSuffix": "fire"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["flying"],
+                    "spriteSuffix": "flying"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["ghost"],
+                    "spriteSuffix": "ghost"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["grass"],
+                    "spriteSuffix": "grass"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["ground"],
+                    "spriteSuffix": "ground"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["ice"],
+                    "spriteSuffix": "ice"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["normal"],
+                    "spriteSuffix": "normal"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["poison"],
+                    "spriteSuffix": "poison"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["psychic"],
+                    "spriteSuffix": "psychic"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["rock"],
+                    "spriteSuffix": "rock"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["steel"],
+                    "spriteSuffix": "steel"
+                },
+                {
+                    "name": "Silvally",
+                    "types": ["water"],
+                    "spriteSuffix": "water"
+                }
+            ],
+            "description": "Silvally is a versatile Pokémon that can change its type with various memory items. It is of Normal type but can adapt to different situations by changing its memory."
+        },
+        {
+            "id": 774,
+            "name": "Minior",
+            "types": ["rock", "flying"],
+            "forms": [
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "blue"
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "green"
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "indigo"
+                },
+                {
+                    "name": "Minior",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "meteor"
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "orange"
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"]
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "violet"
+                },
+                {
+                    "name": "Minior Core",
+                    "types": ["rock", "flying"],
+                    "spriteSuffix": "yellow"
+                }
+            ],
+            "description": "Minior is a dual-type Pokémon with Rock and Flying attributes. It has a unique ability to change forms based on its core color. It appears like a colorful meteor."
+        },
+        {
+            "id": 775,
+            "name": "Komala",
+            "types": ["normal"],
+            "description": "Komala is a pure Normal-type Pokémon known for its constant sleeping state. It clings to a log and is rarely seen awake."
+        }
         
         
-        
-                
-        
-        
-        
-        
-        
-      
 ]
