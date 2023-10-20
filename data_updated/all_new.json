@@ -7379,6 +7379,415 @@
             "types": ["flying", "dragon"],
             "description": "Noivern is the evolved form of Noibat, a powerful Flying and Dragon-type Pokémon. It is known for its echolocation abilities and swift flight."
         },
+        {
+            "id": 716,
+            "name": "Xerneas",
+            "types": ["fairy"],
+            "forms": [
+                {
+                    "name": "Xerneas",
+                    "types": ["fairy"]
+                },
+                {
+                    "name": "Xerneas",
+                    "types": ["fairy"],
+                    "spriteSuffix": "neutral"
+                }
+            ],
+            "isLegendary": true,
+            "description": "Xerneas is a Legendary Fairy-type Pokémon. It is known for its elegant and graceful appearance. Xerneas has a unique form known as the 'Neutral' form."
+        },
+        {
+            "id": 717,
+            "name": "Yveltal",
+            "types": ["dark", "flying"],
+            "isLegendary": true,
+            "description": "Yveltal is a Legendary Dark and Flying-type Pokémon. It is known for its imposing and ominous appearance, often associated with destruction and oblivion."
+        },
+        {
+            "id": 718,
+            "name": "Zygarde",
+            "types": ["dragon", "ground"],
+            "forms": [
+                {
+                    "name": "Zygarde Complete",
+                    "types": ["dragon", "ground"],
+                    "spriteSuffix": "complete"
+                },
+                {
+                    "name": "Zygarde 10%",
+                    "types": ["dragon", "ground"],
+                    "spriteSuffix": "10"
+                },
+                {
+                    "name": "Zygarde",
+                    "types": ["dragon", "ground"]
+                }
+            ],
+            "isLegendary": true,
+            "description": "Zygarde is a Legendary Dragon and Ground-type Pokémon. It has multiple forms, including the 'Complete' form, which is the most powerful, and the '10%' form, which resembles a cell."
+        },
+        {
+            "id": 719,
+            "name": "Diancie",
+            "types": ["rock", "fairy"],
+            "forms": [
+                {
+                    "name": "Diancie",
+                    "types": ["rock", "fairy"]
+                },
+                {
+                    "name": "Diancie Mega",
+                    "types": ["rock", "fairy"],
+                    "spriteSuffix": "mega",
+                    "isMega": true
+                }
+            ],
+            "isLegendary": true,
+            "description": "Diancie is a Legendary Rock and Fairy-type Pokémon. It has a crystalline appearance and is associated with the power of diamonds. Diancie can undergo a Mega Evolution to become even more powerful."
+        },
+        {
+            "id": 720,
+            "name": "Hoopa",
+            "types": ["psychic", "ghost"],
+            "forms": [
+                {
+                    "name": "Hoopa",
+                    "types": ["psychic", "ghost"]
+                },
+                {
+                    "name": "Hoopa Unbound",
+                    "types": ["psychic", "dark"],
+                    "spriteSuffix": "unbound"
+                }
+            ],
+            "isLegendary": true,
+            "description": "Hoopa is a Legendary Psychic and Ghost-type Pokémon. It has a unique ability to change forms, including the powerful 'Hoopa Unbound' form."
+        },
+        {
+            "id": 721,
+            "name": "Volcanion",
+            "types": ["fire", "water"],
+            "isLegendary": true,
+            "description": "Volcanion is a Legendary Fire and Water-type Pokémon. It is known for its steam-based abilities and is one of the few Pokémon with a dual Fire and Water typing."
+        },
+        {
+            "id": 722,
+            "name": "Rowlet",
+            "isNfe": true,
+            "types": ["grass", "flying"],
+            "description": "Rowlet is a dual-type Pokémon with Grass and Flying attributes, the first stage of its evolutionary line. It is an owl-like Pokémon known for its calm and observant nature."
+        },
+        {
+            "id": 723,
+            "name": "Dartrix",
+            "isNfe": true,
+            "types": ["grass", "flying"],
+            "description": "Dartrix is the evolved form of Rowlet, now a dual-type Pokémon with Grass and Flying attributes. It retains an elegant and avian appearance."
+        },
+        {
+            "id": 724,
+            "name": "Decidueye",
+            "types": ["grass", "ghost"],
+            "forms": [
+                {
+                    "name": "Decidueye",
+                    "types": ["grass", "ghost"]
+                },
+                {
+                    "name": "Decidueye Hisui",
+                    "types": ["grass", "fighting"],
+                    "spriteSuffix": "hisui"
+                }
+            ],
+            "description": "Decidueye is the final form of Rowlet's evolutionary line, now a dual-type Pokémon with Grass and Ghost attributes. In the Hisui region, it can take on a unique Fighting-type form."
+        },
+        {
+            "id": 725,
+            "name": "Litten",
+            "isNfe": true,
+            "types": ["fire"],
+            "description": "Litten is a Fire-type Pokémon, the first stage of its evolutionary line. It resembles a small and fiery cat and is known for its playful yet determined personality."
+        },
+        {
+            "id": 726,
+            "name": "Torracat",
+            "isNfe": true,
+            "types": ["fire"],
+            "description": "Torracat is the evolved form of Litten, now a Fire-type Pokémon. It has a more mature appearance and is known for its fiery spirit and strong paws."
+        },
+        {
+            "id": 727,
+            "name": "Incineroar",
+            "types": ["fire", "dark"],
+            "description": "Incineroar is the final form of Litten's evolutionary line, now a dual-type Pokémon with Fire and Dark attributes. It has a wrestler-like appearance and is known for its powerful and fiery attacks."
+        },
+        {
+            "id": 728,
+            "name": "Popplio",
+            "isNfe": true,
+            "types": ["water"],
+            "description": "Popplio is a Water-type Pokémon, the first stage of its evolutionary line. It has a playful and clown-like appearance and is known for its entertaining and acrobatic performances."
+        },
+        {
+            "id": 729,
+            "name": "Brionne",
+            "isNfe": true,
+            "types": ["water"],
+            "description": "Brionne is the evolved form of Popplio, now a Water-type Pokémon. It retains a graceful and theatrical appearance, often performing dance-like movements."
+        },
+        {
+            "id": 730,
+            "name": "Primarina",
+            "types": ["water", "fairy"],
+            "description": "Primarina is the final form of Popplio's evolutionary line, now a dual-type Pokémon with Water and Fairy attributes. It is known for its captivating songs and ocean-themed abilities."
+        },
+        {
+            "id": 731,
+            "name": "Pikipek",
+            "isNfe": true,
+            "types": ["normal", "flying"],
+            "description": "Pikipek is a dual-type Pokémon with Normal and Flying attributes, the first stage of its evolutionary line. It is a woodpecker-like Pokémon known for its pecking and drumming."
+        },
+        {
+            "id": 732,
+            "name": "Trumbeak",
+            "isNfe": true,
+            "types": ["normal", "flying"],
+            "description": "Trumbeak is the evolved form of Pikipek, now a dual-type Pokémon with Normal and Flying attributes. It retains a beak-like appearance and is known for its powerful pecking abilities."
+        },
+        {
+            "id": 733,
+            "name": "Toucannon",
+            "types": ["normal", "flying"],
+            "description": "Toucannon is the final form of Pikipek's evolutionary line, now a dual-type Pokémon with Normal and Flying attributes. It has a toucan-like appearance and is known for its powerful beak attacks and vibrant colors."
+        },
+        {
+            "id": 734,
+            "name": "Yungoos",
+            "isNfe": true,
+            "types": ["normal"],
+            "description": "Yungoos is a pure Normal-type Pokémon, the first stage of its evolutionary line. It resembles a mongoose and is known for its voracious appetite and hunting behavior."
+        },
+        {
+            "id": 735,
+            "name": "Gumshoos",
+            "types": ["normal"],
+            "description": "Gumshoos is the evolved form of Yungoos, now a pure Normal-type Pokémon. It has a more robust and detective-like appearance, often searching for clues and prey."
+        },
+        
+        {
+            "id": 736,
+            "name": "Grubbin",
+            "isNfe": true,
+            "types": ["bug"],
+            "description": "Grubbin is a Bug-type Pokémon and is the first stage of its evolutionary line. It has an appearance resembling a small larval insect."
+        },
+        {
+            "id": 737,
+            "name": "Charjabug",
+            "isNfe": true,
+            "types": ["bug", "electric"],
+            "description": "Charjabug is the evolved form of Grubbin, now a dual-type Pokémon with Bug and Electric attributes. It has a boxy appearance and is known for its ability to store and generate electricity."
+        },
+        {
+            "id": 738,
+            "name": "Vikavolt",
+            "types": ["bug", "electric"],
+            "description": "Vikavolt is the final form of Grubbin's evolutionary line, now a dual-type Pokémon with Bug and Electric attributes. It has a sleek and powerful appearance, resembling an electric beetle."
+        },
+        {
+            "id": 739,
+            "name": "Crabrawler",
+            "isNfe": true,
+            "types": ["fighting"],
+            "description": "Crabrawler is a Fighting-type Pokémon and is the first stage of its evolutionary line. It resembles a boxing crab and is known for its pugnacious nature."
+        },
+        {
+            "id": 740,
+            "name": "Crabominable",
+            "types": ["fighting", "ice"],
+            "description": "Crabominable is the evolved form of Crabrawler, now a dual-type Pokémon with Fighting and Ice attributes. It has a formidable appearance and packs powerful ice punches."
+        },
+        {
+            "id": 741,
+            "name": "Oricorio",
+            "types": ["fire", "flying"],
+            "forms": [
+                {
+                    "name": "Oricorio",
+                    "types": ["fire", "flying"]
+                },
+                {
+                    "name": "Oricorio",
+                    "types": ["electric", "flying"],
+                    "spriteSuffix": "pom-pom"
+                },
+                {
+                    "name": "Oricorio",
+                    "types": ["psychic", "flying"],
+                    "spriteSuffix": "pau"
+                },
+                {
+                    "name": "Oricorio",
+                    "types": ["ghost", "flying"],
+                    "spriteSuffix": "sensu"
+                }
+            ],
+            "description": "Oricorio is a unique Pokémon known for its different forms based on different dance styles. It has a Fire and Flying primary form but can take on various dancing forms, each with different types."
+        },
+        {
+            "id": 742,
+            "name": "Cutiefly",
+            "isNfe": true,
+            "types": ["bug", "fairy"],
+            "description": "Cutiefly is a dual-type Pokémon with Bug and Fairy attributes, the first stage of its evolutionary line. It has a cute and diminutive appearance."
+        },
+        {
+            "id": 743,
+            "name": "Ribombee",
+            "types": ["bug", "fairy"],
+            "description": "Ribombee is the evolved form of Cutiefly, now a dual-type Pokémon with Bug and Fairy attributes. It retains a cute and fairy-like appearance."
+        },
+        {
+            "id": 744,
+            "name": "Rockruff",
+            "isNfe": true,
+            "types": ["rock"],
+            "description": "Rockruff is a pure Rock-type Pokémon and is the first stage of its evolutionary line. It is known for its rocky appearance and loyal nature."
+        },
+        {
+            "id": 745,
+            "name": "Lycanroc",
+            "types": ["rock"],
+            "forms": [
+                {
+                    "name": "Lycanroc",
+                    "types": ["rock"],
+                    "spriteSuffix": "dusk"
+                },
+                {
+                    "name": "Lycanroc",
+                    "types": ["rock"]
+                },
+                {
+                    "name": "Lycanroc",
+                    "types": ["rock"],
+                    "spriteSuffix": "midnight"
+                }
+            ],
+            "description": "Lycanroc is a Rock-type Pokémon with several different forms. The 'Dusk,' 'Midnight,' and standard forms represent different times of the day and exhibit various abilities."
+        },
+        {
+            "id": 746,
+            "name": "Wishiwashi",
+            "types": ["water"],
+            "forms": [
+                {
+                    "name": "Wishiwashi School",
+                    "types": ["water"],
+                    "spriteSuffix": "school"
+                },
+                {
+                    "name": "Wishiwashi",
+                    "types": ["water"]
+                }
+            ],
+            "description": "Wishiwashi is a unique Pokémon that can change form as a 'School' when it comes together with other Wishiwashi. The School form is much larger and more powerful."
+        },
+        {
+            "id": 747,
+            "name": "Mareanie",
+            "isNfe": true,
+            "types": ["poison", "water"],
+            "description": "Mareanie is a dual-type Pokémon with Poison and Water attributes, the first stage of its evolutionary line. It is known for its spiky appearance and poisonous tentacles."
+        },
+        {
+            "id": 748,
+            "name": "Toxapex",
+            "types": ["poison", "water"],
+            "description": "Toxapex is the evolved form of Mareanie, now a dual-type Pokémon with Poison and Water attributes. It has a more formidable and intimidating appearance, often found in coral reefs."
+        },
+        {
+            "id": 749,
+            "name": "Mudbray",
+            "isNfe": true,
+            "types": ["ground"],
+            "description": "Mudbray is a pure Ground-type Pokémon and is the first stage of its evolutionary line. It resembles a young donkey and is known for its strong legs and ability to carry heavy loads."
+        },
+        {
+            "id": 750,
+            "name": "Mudsdale",
+            "types": ["ground"],
+            "description": "Mudsdale is the evolved form of Mudbray, now a pure Ground-type Pokémon. It has a robust and powerful appearance, often used for heavy-duty labor."
+        },
+        {
+            "id": 751,
+            "name": "Dewpider",
+            "isNfe": true,
+            "types": ["water", "bug"],
+            "description": "Dewpider is a dual-type Pokémon with Water and Bug attributes, the first stage of its evolutionary line. It has an aquatic spider-like appearance."
+        },
+        {
+            "id": 752,
+            "name": "Araquanid",
+            "types": ["water", "bug"],
+            "description": "Araquanid is the evolved form of Dewpider, now a dual-type Pokémon with Water and Bug attributes. It has a formidable and arachnid appearance."
+        },
+        {
+            "id": 753,
+            "name": "Fomantis",
+            "isNfe": true,
+            "types": ["grass"],
+            "description": "Fomantis is a pure Grass-type Pokémon and is the first stage of its evolutionary line. It is known for its leafy appearance and photosynthesis abilities."
+        },
+        {
+            "id": 754,
+            "name": "Lurantis",
+            "types": ["grass"],
+            "description": "Lurantis is the evolved form of Fomantis, now a pure Grass-type Pokémon. It has a graceful and flower-like appearance, often found in lush gardens."
+        },
+        {
+            "id": 755,
+            "name": "Morelull",
+            "isNfe": true,
+            "types": ["grass", "fairy"],
+            "description": "Morelull is a dual-type Pokémon with Grass and Fairy attributes, the first stage of its evolutionary line. It resembles a bioluminescent mushroom."
+        },
+        {
+            "id": 756,
+            "name": "Shiinotic",
+            "types": ["grass", "fairy"],
+            "description": "Shiinotic is the evolved form of Morelull, now a dual-type Pokémon with Grass and Fairy attributes. It has a mystical and magical appearance, often found in dark forests."
+        },
+        {
+            "id": 757,
+            "name": "Salandit",
+            "isNfe": true,
+            "types": ["poison", "fire"],
+            "description": "Salandit is a dual-type Pokémon with Poison and Fire attributes, the first stage of its evolutionary line. It is known for its toxic abilities and devious nature."
+        },
+        {
+            "id": 758,
+            "name": "Salazzle",
+            "types": ["poison", "fire"],
+            "description": "Salazzle is the evolved form of Salandit, now a dual-type Pokémon with Poison and Fire attributes. It has a sultry and alluring appearance, often found in volcanic areas."
+        },
+        {
+            "id": 759,
+            "name": "Stufful",
+            "isNfe": true,
+            "types": ["normal", "fighting"],
+            "description": "Stufful is a dual-type Pokémon with Normal and Fighting attributes, the first stage of its evolutionary line. It appears as a cute and stuffed animal but has great strength."
+        },
+        {
+            "id": 760,
+            "name": "Bewear",
+            "types": ["normal", "fighting"],
+            "description": "Bewear is the evolved form of Stufful, now a dual-type Pokémon with Normal and Fighting attributes. It retains a cuddly but immensely strong appearance, often surprising trainers with its power."
+        },
+        
+        
         
                 
         
