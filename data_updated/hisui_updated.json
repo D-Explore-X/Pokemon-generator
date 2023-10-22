@@ -366,7 +366,7 @@
           "types": ["bug", "grass"],
           "desc": "Paras, a Bug and Grass type Pokémon, has the ability 'Effect Spore.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, Poison, and Bug types."
         },
-        [
+        
             {
               "id": 47,
               "name": "Parasect",
@@ -759,7 +759,7 @@
                     "name": "Sliggoo",
                     "desc": "Sliggoo is a Dragon type Pokémon with a Hisui form that is Steel and Dragon type and not fully evolved (NFE)."
                 },
-                [
+                
                     {
                         "id": 706,
                         "name": "Goodra",
@@ -906,7 +906,6 @@
                         ],
                         "desc": "Grotle is a Grass type Pokémon. It is not fully evolved (NFE)."
                     },
-                    [
                         {
                             "id": 389,
                             "name": "Torterra",
@@ -1204,7 +1203,6 @@
                             ],
                             "desc": "Unown is a Psychic type Pokémon with multiple forms, each corresponding to a letter or symbol."
                         },
-                        [
                             {
                                 "id": 363,
                                 "name": "Spheal",
@@ -1865,7 +1863,7 @@
                                     "types": ["ice", "ghost"],
                                     "desc": "Froslass is an elegant and ghostly Pokémon that can freeze its foes with a breath of cold air."
                                 },
-                                [
+                                
                                     {
                                         "id": 408,
                                         "name": "Cranidos",
