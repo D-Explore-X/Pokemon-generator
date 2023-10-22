@@ -1234,79 +1234,79 @@
             "id": 368,
             "name": "Gorebyss",
             "types": ["Water"],
-            "description": "Gorebyss is a Water-type Pokémon known for its elegant and graceful appearance. It evolves from Clamperl when traded while holding a Deep Sea Tooth. This Pokémon has a long, tube-like mouth that it uses to swallow prey whole."
+            "desc": "Gorebyss is a Water-type Pokémon known for its elegant and graceful appearance. It evolves from Clamperl when traded while holding a Deep Sea Tooth. This Pokémon has a long, tube-like mouth that it uses to swallow prey whole."
         },
         {
             "id": 369,
             "name": "Relicanth",
             "types": ["Water", "Rock"],
-            "description": "Relicanth is a rare Water and Rock-type Pokémon that resembles a prehistoric fish. It has been around since ancient times and is often considered a living fossil. Its sturdy body allows it to withstand the intense pressures of the ocean's depths."
+            "desc": "Relicanth is a rare Water and Rock-type Pokémon that resembles a prehistoric fish. It has been around since ancient times and is often considered a living fossil. Its sturdy body allows it to withstand the intense pressures of the ocean's depths."
         },
         {
             "id": 370,
             "name": "Luvdisc",
             "types": ["Water"],
-            "description": "Luvdisc is a Water-type Pokémon known for its heart-shaped body. It is often associated with love and romance and is sometimes given as a gift to express affection. Luvdisc is known for its agility and graceful swimming."
+            "desc": "Luvdisc is a Water-type Pokémon known for its heart-shaped body. It is often associated with love and romance and is sometimes given as a gift to express affection. Luvdisc is known for its agility and graceful swimming."
         },
         {
             "id": 371,
             "name": "Bagon",
             "types": ["Dragon"],
-            "description": "Bagon is a Dragon-type Pokémon that has a strong desire to someday fly. It dreams of soaring through the sky and spends its time practicing by headbutting rocks. It is the first stage in its evolutionary line."
+            "desc": "Bagon is a Dragon-type Pokémon that has a strong desire to someday fly. It dreams of soaring through the sky and spends its time practicing by headbutting rocks. It is the first stage in its evolutionary line."
         },
         {
             "id": 372,
             "name": "Shelgon",
             "types": ["Dragon"],
-            "description": "Shelgon is a Dragon-type Pokémon that is the evolved form of Bagon. It wraps its body in a hard shell, which provides excellent protection. It remains in this stage until it matures and eventually evolves into Salamence."
+            "desc": "Shelgon is a Dragon-type Pokémon that is the evolved form of Bagon. It wraps its body in a hard shell, which provides excellent protection. It remains in this stage until it matures and eventually evolves into Salamence."
         },
         {
             "id": 373,
             "name": "Salamence",
             "types": ["Dragon", "Flying"],
-            "description": "Salamence is a powerful Dragon and Flying-type Pokémon known for its fearsome appearance. It evolves from Shelgon and is known for its incredible speed and strength. It can fly at high speeds and is a formidable aerial opponent."
+            "desc": "Salamence is a powerful Dragon and Flying-type Pokémon known for its fearsome appearance. It evolves from Shelgon and is known for its incredible speed and strength. It can fly at high speeds and is a formidable aerial opponent."
         },
         {
             "id": 374,
             "name": "Beldum",
             "types": ["Steel", "Psychic"],
-            "description": "Beldum is a unique Steel and Psychic-type Pokémon with a magnetic body. It has a single eye and is known for its tough exterior. Beldum's evolutionary line is notable for having the fewest weaknesses of any Pokémon type combination."
+            "desc": "Beldum is a unique Steel and Psychic-type Pokémon with a magnetic body. It has a single eye and is known for its tough exterior. Beldum's evolutionary line is notable for having the fewest weaknesses of any Pokémon type combination."
         },
         {
             "id": 375,
             "name": "Metang",
             "types": ["Steel", "Psychic"],
-            "description": "Metang is the evolved form of Beldum and retains its Steel and Psychic typing. It has two brains, one in each of its two metallic claws. This Pokémon is highly intelligent and possesses powerful psychic abilities."
+            "desc": "Metang is the evolved form of Beldum and retains its Steel and Psychic typing. It has two brains, one in each of its two metallic claws. This Pokémon is highly intelligent and possesses powerful psychic abilities."
         },
         {
             "id": 376,
             "name": "Metagross",
             "types": ["Steel", "Psychic"],
-            "description": "Metagross is the final evolution of Beldum and Metang. It is a massive and imposing Pokémon with four metallic legs and immense strength. Its intelligence and strategic thinking make it a formidable battler."
+            "desc": "Metagross is the final evolution of Beldum and Metang. It is a massive and imposing Pokémon with four metallic legs and immense strength. Its intelligence and strategic thinking make it a formidable battler."
         },
         {
             "id": 377,
             "name": "Regirock",
             "types": ["Rock"],
-            "description": "Regirock is a Legendary Pokémon known for its immense physical strength and durability. It is said to have been created by the Earth's crust and has a body made of extremely tough rocks. It is one of the three Legendary titans of Hoenn."
+            "desc": "Regirock is a Legendary Pokémon known for its immense physical strength and durability. It is said to have been created by the Earth's crust and has a body made of extremely tough rocks. It is one of the three Legendary titans of Hoenn."
         },
         {
             "id": 378,
             "name": "Regice",
             "types": ["Ice"],
-            "description": "Regice is a Legendary Pokémon associated with ice and cold. It is said to have been created during an ice age and has an icy body that is nearly impossible to melt. It is one of the three Legendary titans of Hoenn."
+            "desc": "Regice is a Legendary Pokémon associated with ice and cold. It is said to have been created during an ice age and has an icy body that is nearly impossible to melt. It is one of the three Legendary titans of Hoenn."
         },
         {
             "id": 379,
             "name": "Registeel",
             "types": ["Steel"],
-            "description": "Registeel is a Legendary Pokémon known for its metallic body and extreme durability. It is said to have been created by an ancient civilization and can withstand powerful attacks. It is one of the three Legendary titans of Hoenn."
+            "desc": "Registeel is a Legendary Pokémon known for its metallic body and extreme durability. It is said to have been created by an ancient civilization and can withstand powerful attacks. It is one of the three Legendary titans of Hoenn."
         },
         {
             "id": 380,
             "name": "Latias",
             "types": ["Dragon", "Psychic"],
-            "description": "Latias is a Legendary Pokémon that resembles a dragon and possesses psychic abilities. It is highly intelligent and has a gentle nature. Latias is known for its ability to communicate telepathically with humans and other Pokémon."
+            "desc": "Latias is a Legendary Pokémon that resembles a dragon and possesses psychic abilities. It is highly intelligent and has a gentle nature. Latias is known for its ability to communicate telepathically with humans and other Pokémon."
         },
         
             {

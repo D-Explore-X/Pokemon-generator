@@ -791,7 +791,7 @@
         "types": [
             "Ice"
         ],
-        "description": "Vanillish is an Ice-type Pokémon with the abilities Ice Body and Snow Cloak. It's strong against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
+        "desc": "Vanillish is an Ice-type Pokémon with the abilities Ice Body and Snow Cloak. It's strong against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
     },
     {
         "id": 584,
@@ -799,7 +799,7 @@
         "types": [
             "Ice"
         ],
-        "description": "Vanilluxe is an Ice-type Pokémon with the abilities Ice Body and Snow Warning. It's strong against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
+        "desc": "Vanilluxe is an Ice-type Pokémon with the abilities Ice Body and Snow Warning. It's strong against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
     },
     {
         "id": 220,
@@ -808,7 +808,7 @@
             "Ice",
             "Ground"
         ],
-        "description": "Swinub is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
+        "desc": "Swinub is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
     },
     {
         "id": 221,
@@ -817,7 +817,7 @@
             "Ice",
             "Ground"
         ],
-        "description": "Piloswine is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
+        "desc": "Piloswine is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
     },
     {
         "id": 473,
@@ -826,7 +826,7 @@
             "Ice",
             "Ground"
         ],
-        "description": "Mamoswine is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
+        "desc": "Mamoswine is a dual-type Ice and Ground Pokémon with the abilities Oblivious and Snow Cloak. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Ice, and Steel-type moves."
     },
     {
         "id": 225,
@@ -835,7 +835,7 @@
             "Ice",
             "Flying"
         ],
-        "description": "Delibird is a dual-type Ice and Flying Pokémon with the abilities Vital Spirit and Hustle. It excels against Bug, Fighting, and Grass-types but is weak to Electric, Fire, and Rock-type moves."
+        "desc": "Delibird is a dual-type Ice and Flying Pokémon with the abilities Vital Spirit and Hustle. It excels against Bug, Fighting, and Grass-types but is weak to Electric, Fire, and Rock-type moves."
     },
     {
         "id": 361,
@@ -843,7 +843,7 @@
         "types": [
             "Ice"
         ],
-        "description": "Snorunt is an Ice-type Pokémon with the abilities Inner Focus and Ice Body. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
+        "desc": "Snorunt is an Ice-type Pokémon with the abilities Inner Focus and Ice Body. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
     },
     {
         "id": 362,
@@ -851,7 +851,7 @@
         "types": [
             "Ice"
         ],
-        "description": "Glalie is an Ice-type Pokémon with the abilities Inner Focus and Ice Body. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
+        "desc": "Glalie is an Ice-type Pokémon with the abilities Inner Focus and Ice Body. It excels against Dragon, Flying, Grass, and Ground-types but is weak to Fighting, Fire, Rock, and Steel-type moves."
     },
     {
         "id": 478,
@@ -860,7 +860,7 @@
             "Ice",
             "Ghost"
         ],
-        "description": "Froslass is a dual-type Ice and Ghost Pokémon with the abilities Snow Cloak and Cursed Body. It excels against Dragon, Flying, Grass, Ground, and Psychic-types but is weak to Dark, Fire, Ghost, Rock, and Steel-type moves."
+        "desc": "Froslass is a dual-type Ice and Ghost Pokémon with the abilities Snow Cloak and Cursed Body. It excels against Dragon, Flying, Grass, Ground, and Psychic-types but is weak to Dark, Fire, Ghost, Rock, and Steel-type moves."
     },
     {
         "id": 343,
@@ -869,7 +869,7 @@
             "Ground",
             "Psychic"
         ],
-        "description": "Baltoy is a dual-type Ground and Psychic Pokémon with the abilities Levitate and Levitate. It excels against Electric, Fighting, Poison, and Rock-types but is weak to Bug, Dark, Ghost, Ice, and Water-type moves."
+        "desc": "Baltoy is a dual-type Ground and Psychic Pokémon with the abilities Levitate and Levitate. It excels against Electric, Fighting, Poison, and Rock-types but is weak to Bug, Dark, Ghost, Ice, and Water-type moves."
     },
     {
         "id": 344,
@@ -878,7 +878,7 @@
             "Ground",
             "Psychic"
         ],
-        "description": "Claydol is a dual-type Ground and Psychic Pokémon with the abilities Levitate and Levitate. It excels against Electric, Fighting, Poison, and Rock-types but is weak to Bug, Dark, Ghost, Ice, and Water-type moves."
+        "desc": "Claydol is a dual-type Ground and Psychic Pokémon with the abilities Levitate and Levitate. It excels against Electric, Fighting, Poison, and Rock-types but is weak to Bug, Dark, Ghost, Ice, and Water-type moves."
     },
     {
         "id": 749,
@@ -886,7 +886,7 @@
         "types": [
             "Ground"
         ],
-        "description": "Mudbray is a Ground-type Pokémon with the abilities Own Tempo and Stamina. It excels against Electric, Poison, Rock, and Steel-types but is weak to Grass and Ice-type moves."
+        "desc": "Mudbray is a Ground-type Pokémon with the abilities Own Tempo and Stamina. It excels against Electric, Poison, Rock, and Steel-types but is weak to Grass and Ice-type moves."
     },
     {
         "id": 750,
@@ -894,7 +894,7 @@
         "types": [
             "Ground"
         ],
-        "description": "Mudsdale is a Ground-type Pokémon with the abilities Own Tempo and Stamina. It excels against Electric, Poison, Rock, and Steel-types but is weak to Grass and Ice-type moves."
+        "desc": "Mudsdale is a Ground-type Pokémon with the abilities Own Tempo and Stamina. It excels against Electric, Poison, Rock, and Steel-types but is weak to Grass and Ice-type moves."
     },
     {
         "id": 557,
@@ -903,7 +903,7 @@
             "Bug",
             "Rock"
         ],
-        "description": "Dwebble is a dual-type Bug and Rock Pokémon with the abilities Sturdy and Shell Armor. It excels against Bug, Fire, Flying, Ice, and Poison-types but is vulnerable to Rock and Steel-type moves."
+        "desc": "Dwebble is a dual-type Bug and Rock Pokémon with the abilities Sturdy and Shell Armor. It excels against Bug, Fire, Flying, Ice, and Poison-types but is vulnerable to Rock and Steel-type moves."
     },
     {
         "id": 558,
@@ -912,7 +912,7 @@
             "Bug",
             "Rock"
         ],
-        "description": "Crustle is a dual-type Bug and Rock Pokémon with the abilities Sturdy and Shell Armor. It excels against Bug, Fire, Flying, Ice, and Poison-types but is vulnerable to Rock and Steel-type moves."
+        "desc": "Crustle is a dual-type Bug and Rock Pokémon with the abilities Sturdy and Shell Armor. It excels against Bug, Fire, Flying, Ice, and Poison-types but is vulnerable to Rock and Steel-type moves."
     },
     {
         "id": 622,
@@ -921,7 +921,7 @@
             "Ground",
             "Ghost"
         ],
-        "description": "Golett is a dual-type Ground and Ghost Pokémon with the abilities Iron Fist and Klutz. It excels against Electric, Fire, Poison, and Rock-types but is vulnerable to Dark, Ghost, Ice, and Water-type moves."
+        "desc": "Golett is a dual-type Ground and Ghost Pokémon with the abilities Iron Fist and Klutz. It excels against Electric, Fire, Poison, and Rock-types but is vulnerable to Dark, Ghost, Ice, and Water-type moves."
     },
     {
         "id": 623,
@@ -930,7 +930,7 @@
             "Ground",
             "Ghost"
         ],
-        "description": "Golurk is a dual-type Ground and Ghost Pokémon with the abilities Iron Fist and Klutz. It excels against Electric, Fire, Poison, and Rock-types but is vulnerable to Dark, Ghost, Ice, and Water-type moves."
+        "desc": "Golurk is a dual-type Ground and Ghost Pokémon with the abilities Iron Fist and Klutz. It excels against Electric, Fire, Poison, and Rock-types but is vulnerable to Dark, Ghost, Ice, and Water-type moves."
     },
     {
         "id": 517,
@@ -938,7 +938,7 @@
         "types": [
             "Psychic"
         ],
-        "description": "Munna is a Psychic-type Pokémon with the abilities Forewarn and Synchronize. It excels against Fighting and Poison-types but is vulnerable to Bug, Dark, and Ghost-type moves."
+        "desc": "Munna is a Psychic-type Pokémon with the abilities Forewarn and Synchronize. It excels against Fighting and Poison-types but is vulnerable to Bug, Dark, and Ghost-type moves."
     },
     {
         "id": 518,
@@ -946,7 +946,7 @@
         "types": [
             "Psychic"
         ],
-        "description": "Musharna is a Psychic-type Pokémon with the abilities Forewarn and Synchronize. It excels against Fighting and Poison-types but is vulnerable to Bug, Dark, and Ghost-type moves."
+        "desc": "Musharna is a Psychic-type Pokémon with the abilities Forewarn and Synchronize. It excels against Fighting and Poison-types but is vulnerable to Bug, Dark, and Ghost-type moves."
     },
     {
         "id": 177,
@@ -955,7 +955,7 @@
             "Psychic",
             "Flying"
         ],
-        "description": "Natu is a dual-type Psychic and Flying Pokémon with the abilities Synchronize and Early Bird. It excels against Fighting and Poison-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
+        "desc": "Natu is a dual-type Psychic and Flying Pokémon with the abilities Synchronize and Early Bird. It excels against Fighting and Poison-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
     },
     {
         "id": 178,
@@ -964,7 +964,7 @@
             "Psychic",
             "Flying"
         ],
-        "description": "Xatu is a dual-type Psychic and Flying Pokémon with the abilities Synchronize and Early Bird. It excels against Fighting and Poison-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
+        "desc": "Xatu is a dual-type Psychic and Flying Pokémon with the abilities Synchronize and Early Bird. It excels against Fighting and Poison-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
     },
     {
         "id": 759,
@@ -973,7 +973,7 @@
             "Normal",
             "Fighting"
         ],
-        "description": "Stufful is a dual-type Normal and Fighting Pokémon with the abilities Fluffy and Klutz. It excels against Rock, Steel, and Dark-types but is vulnerable to Fighting, Flying, and Psychic-type moves."
+        "desc": "Stufful is a dual-type Normal and Fighting Pokémon with the abilities Fluffy and Klutz. It excels against Rock, Steel, and Dark-types but is vulnerable to Fighting, Flying, and Psychic-type moves."
     },
     {
         "id": 760,
@@ -982,7 +982,7 @@
             "Normal",
             "Fighting"
         ],
-        "description": "Bewear is a dual-type Normal and Fighting Pokémon with the abilities Fluffy and Klutz. It excels against Rock, Steel, and Dark-types but is vulnerable to Fighting, Flying, and Psychic-type moves."
+        "desc": "Bewear is a dual-type Normal and Fighting Pokémon with the abilities Fluffy and Klutz. It excels against Rock, Steel, and Dark-types but is vulnerable to Fighting, Flying, and Psychic-type moves."
     },
     {
         "id": 459,
@@ -991,7 +991,7 @@
             "Grass",
             "Ice"
         ],
-        "description": "Snover is a dual-type Grass and Ice Pokémon with the abilities Snow Warning and Soundproof. It excels against Ground, Grass, and Electric-types but is vulnerable to Fire, Fighting, Rock, and Steel-type moves."
+        "desc": "Snover is a dual-type Grass and Ice Pokémon with the abilities Snow Warning and Soundproof. It excels against Ground, Grass, and Electric-types but is vulnerable to Fire, Fighting, Rock, and Steel-type moves."
     },
     {
         "id": 460,
@@ -1000,7 +1000,7 @@
             "Grass",
             "Ice"
         ],
-        "description": "Abomasnow is a dual-type Grass and Ice Pokémon with the abilities Snow Warning and Soundproof. It excels against Ground, Grass, and Electric-types but is vulnerable to Fire, Fighting, Rock, and Steel-type moves."
+        "desc": "Abomasnow is a dual-type Grass and Ice Pokémon with the abilities Snow Warning and Soundproof. It excels against Ground, Grass, and Electric-types but is vulnerable to Fire, Fighting, Rock, and Steel-type moves."
     },
     {
         "id": 98,
@@ -1009,7 +1009,7 @@
         "types": [
             "Water"
         ],
-        "description": "Krabby is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Krabby is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 99,
@@ -1033,7 +1033,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Kingler is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves. It also has a Gigantamax form."
+        "desc": "Kingler is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves. It also has a Gigantamax form."
     },
     {
         "id": 194,
@@ -1043,7 +1043,7 @@
             "Water",
             "Ground"
         ],
-        "description": "Wooper is a dual-type Water and Ground Pokémon with the abilities Damp and Water Absorb. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Grass-type moves."
+        "desc": "Wooper is a dual-type Water and Ground Pokémon with the abilities Damp and Water Absorb. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Grass-type moves."
     },
     {
         "id": 195,
@@ -1052,7 +1052,7 @@
             "Water",
             "Ground"
         ],
-        "description": "Quagsire is a dual-type Water and Ground Pokémon with the abilities Damp and Water Absorb. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Grass-type moves."
+        "desc": "Quagsire is a dual-type Water and Ground Pokémon with the abilities Damp and Water Absorb. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Grass-type moves."
     },
     {
         "id": 341,
@@ -1061,7 +1061,7 @@
         "types": [
             "Water"
         ],
-        "description": "Corphish is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Corphish is a Water-type Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 342,
@@ -1070,7 +1070,7 @@
             "Water",
             "Dark"
         ],
-        "description": "Crawdaunt is a dual-type Water and Dark Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric, Fairy, Fighting, and Grass-type moves."
+        "desc": "Crawdaunt is a dual-type Water and Dark Pokémon with the abilities Hyper Cutter and Shell Armor. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric, Fairy, Fighting, and Grass-type moves."
     },
     {
         "id": 290,
@@ -1080,7 +1080,7 @@
             "Bug",
             "Ground"
         ],
-        "description": "Nincada is a dual-type Bug and Ground Pokémon with the abilities Compound Eyes and Run Away. It excels against Electric, Poison, and Rock-types but is vulnerable to Ice and Water-type moves."
+        "desc": "Nincada is a dual-type Bug and Ground Pokémon with the abilities Compound Eyes and Run Away. It excels against Electric, Poison, and Rock-types but is vulnerable to Ice and Water-type moves."
     },
     {
         "id": 291,
@@ -1089,7 +1089,7 @@
             "Bug",
             "Flying"
         ],
-        "description": "Ninjask is a dual-type Bug and Flying Pokémon with the abilities Speed Boost and Infiltrator. It excels against Fighting, Grass, and Bug-types but is vulnerable to Electric, Fire, Flying, Ice, and Rock-type moves."
+        "desc": "Ninjask is a dual-type Bug and Flying Pokémon with the abilities Speed Boost and Infiltrator. It excels against Fighting, Grass, and Bug-types but is vulnerable to Electric, Fire, Flying, Ice, and Rock-type moves."
     },
     {
         "id": 292,
@@ -1098,7 +1098,7 @@
             "Bug",
             "Ghost"
         ],
-        "description": "Shedinja is a dual-type Bug and Ghost Pokémon with the abilities Wonder Guard. It has unique stats and abilities, making it immune to most moves but vulnerable to super-effective moves."
+        "desc": "Shedinja is a dual-type Bug and Ghost Pokémon with the abilities Wonder Guard. It has unique stats and abilities, making it immune to most moves but vulnerable to super-effective moves."
     },
     {
         "id": 236,
@@ -1107,7 +1107,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Tyrogue is a Fighting-type Pokémon with the abilities Guts and Steadfast. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Tyrogue is a Fighting-type Pokémon with the abilities Guts and Steadfast. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 106,
@@ -1115,7 +1115,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Hitmonlee is a Fighting-type Pokémon with the abilities Limber and Reckless. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Hitmonlee is a Fighting-type Pokémon with the abilities Limber and Reckless. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 107,
@@ -1123,7 +1123,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Hitmonchan is a Fighting-type Pokémon with the abilities Keen Eye and Iron Fist. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Hitmonchan is a Fighting-type Pokémon with the abilities Keen Eye and Iron Fist. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 237,
@@ -1131,7 +1131,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Hitmontop is a Fighting-type Pokémon with the abilities Intimidate and Technician. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Hitmontop is a Fighting-type Pokémon with the abilities Intimidate and Technician. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 674,
@@ -1140,7 +1140,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Pancham is a Fighting-type Pokémon with the abilities Iron Fist and Mold Breaker. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Pancham is a Fighting-type Pokémon with the abilities Iron Fist and Mold Breaker. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 675,
@@ -1149,7 +1149,7 @@
             "Fighting",
             "Dark"
         ],
-        "description": "Pangoro is a dual-type Fighting and Dark Pokémon with the abilities Iron Fist and Mold Breaker. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Pangoro is a dual-type Fighting and Dark Pokémon with the abilities Iron Fist and Mold Breaker. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 599,
@@ -1158,7 +1158,7 @@
         "types": [
             "Steel"
         ],
-        "description": "Klink is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
+        "desc": "Klink is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
     },
     {
         "id": 600,
@@ -1167,7 +1167,7 @@
         "types": [
             "Steel"
         ],
-        "description": "Klang is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
+        "desc": "Klang is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
     },
     {
         "id": 601,
@@ -1175,7 +1175,7 @@
         "types": [
             "Steel"
         ],
-        "description": "Klinklang is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
+        "desc": "Klinklang is a Steel-type Pokémon with the abilities Plus and Minus. It excels against Fairy, Ice, Rock, and Steel-types but is vulnerable to Electric, Fighting, and Ground-type moves."
     },
     {
         "id": 415,
@@ -1185,7 +1185,7 @@
             "Bug",
             "Flying"
         ],
-        "description": "Combee is a Bug and Flying-type Pokémon with the abilities Honey Gather and Hustle. It excels against Bug, Fighting, Grass, and Ground-types but is vulnerable to Electric, Fire, Ice, and Rock-type moves."
+        "desc": "Combee is a Bug and Flying-type Pokémon with the abilities Honey Gather and Hustle. It excels against Bug, Fighting, Grass, and Ground-types but is vulnerable to Electric, Fire, Ice, and Rock-type moves."
     },
     {
         "id": 416,
@@ -1194,7 +1194,7 @@
             "Bug",
             "Flying"
         ],
-        "description": "Vespiquen is a Bug and Flying-type Pokémon with the abilities Pressure and Unnerve. It excels against Bug, Fighting, Grass, and Ground-types but is vulnerable to Electric, Fire, Ice, and Rock-type moves."
+        "desc": "Vespiquen is a Bug and Flying-type Pokémon with the abilities Pressure and Unnerve. It excels against Bug, Fighting, Grass, and Ground-types but is vulnerable to Electric, Fire, Ice, and Rock-type moves."
     },
     {
         "id": 436,
@@ -1204,7 +1204,7 @@
             "Steel",
             "Psychic"
         ],
-        "description": "Bronzor is a dual-type Steel and Psychic Pokémon with the abilities Levitate and Heatproof. It excels against Fighting, Ice, Normal, Poison, and Rock-types but is vulnerable to Dark, Fire, Ghost, and Ground-type moves."
+        "desc": "Bronzor is a dual-type Steel and Psychic Pokémon with the abilities Levitate and Heatproof. It excels against Fighting, Ice, Normal, Poison, and Rock-types but is vulnerable to Dark, Fire, Ghost, and Ground-type moves."
     },
     {
         "id": 437,
@@ -1213,7 +1213,7 @@
             "Steel",
             "Psychic"
         ],
-        "description": "Bronzong is a dual-type Steel and Psychic Pokémon with the abilities Levitate and Heatproof. It excels against Fighting, Ice, Normal, Poison, and Rock-types but is vulnerable to Dark, Fire, Ghost, and Ground-type moves."
+        "desc": "Bronzong is a dual-type Steel and Psychic Pokémon with the abilities Levitate and Heatproof. It excels against Fighting, Ice, Normal, Poison, and Rock-types but is vulnerable to Dark, Fire, Ghost, and Ground-type moves."
     },
     {
         "id": 280,
@@ -1223,7 +1223,7 @@
             "Psychic",
             "Fairy"
         ],
-        "description": "Ralts is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
+        "desc": "Ralts is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
     },
     {
         "id": 281,
@@ -1233,7 +1233,7 @@
             "Psychic",
             "Fairy"
         ],
-        "description": "Kirlia is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
+        "desc": "Kirlia is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
     },
     {
         "id": 282,
@@ -1242,7 +1242,7 @@
             "Psychic",
             "Fairy"
         ],
-        "description": "Gardevoir is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
+        "desc": "Gardevoir is a dual-type Psychic and Fairy Pokémon with the abilities Synchronize and Trace. It excels against Fighting and Poison-types but is vulnerable to Ghost and Steel-type moves."
     },
     {
         "id": 475,
@@ -1251,7 +1251,7 @@
             "Psychic",
             "Fighting"
         ],
-        "description": "Gallade is a dual-type Psychic and Fighting Pokémon with the abilities Steadfast and Justified. It excels against Fighting and Poison-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Gallade is a dual-type Psychic and Fighting Pokémon with the abilities Steadfast and Justified. It excels against Fighting and Poison-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 425,
@@ -1261,7 +1261,7 @@
             "Ghost",
             "Flying"
         ],
-        "description": "Drifloon is a dual-type Ghost and Flying Pokémon with the abilities Aftermath and Unburden. It excels against Bug and Fighting-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
+        "desc": "Drifloon is a dual-type Ghost and Flying Pokémon with the abilities Aftermath and Unburden. It excels against Bug and Fighting-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
     },
     {
         "id": 426,
@@ -1270,7 +1270,7 @@
             "Ghost",
             "Flying"
         ],
-        "description": "Drifblim is a dual-type Ghost and Flying Pokémon with the abilities Aftermath and Unburden. It excels against Bug, Fighting, and Grass-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
+        "desc": "Drifblim is a dual-type Ghost and Flying Pokémon with the abilities Aftermath and Unburden. It excels against Bug, Fighting, and Grass-types but is vulnerable to Dark, Electric, Ghost, Ice, and Rock-type moves."
     },
     {
         "id": 829,
@@ -1279,7 +1279,7 @@
         "types": [
             "Grass"
         ],
-        "description": "Gossifleur is a Grass-type Pokémon with the abilities Cotton Down and Regenerator. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
+        "desc": "Gossifleur is a Grass-type Pokémon with the abilities Cotton Down and Regenerator. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
     },
     {
         "id": 830,
@@ -1287,7 +1287,7 @@
         "types": [
             "Grass"
         ],
-        "description": "Eldegoss is a Grass-type Pokémon with the abilities Cotton Down and Regenerator. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
+        "desc": "Eldegoss is a Grass-type Pokémon with the abilities Cotton Down and Regenerator. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
     },
     {
         "id": 420,
@@ -1296,7 +1296,7 @@
         "types": [
             "Grass"
         ],
-        "description": "Cherubi is a Grass-type Pokémon with the abilities Chlorophyll and Flower Gift. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
+        "desc": "Cherubi is a Grass-type Pokémon with the abilities Chlorophyll and Flower Gift. It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves."
     },
     {
         "id": 421,
@@ -1319,7 +1319,7 @@
                 "spriteSuffix": "sunshine"
             }
         ],
-        "description": "Cherrim is a Grass-type Pokémon with the abilities Flower Gift and Flower Gift (Sunshine Form). It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves. It has a Sunshine Form."
+        "desc": "Cherrim is a Grass-type Pokémon with the abilities Flower Gift and Flower Gift (Sunshine Form). It excels against Ground, Rock, and Water-types but is vulnerable to Bug, Fire, Flying, Ice, and Poison-type moves. It has a Sunshine Form."
     },
     {
         "id": 434,
@@ -1329,7 +1329,7 @@
             "Poison",
             "Dark"
         ],
-        "description": "Stunky is a dual-type Poison and Dark Pokémon with the abilities Stench and Aftermath. It excels against Fairy and Grass-types but is vulnerable to Ground-type moves."
+        "desc": "Stunky is a dual-type Poison and Dark Pokémon with the abilities Stench and Aftermath. It excels against Fairy and Grass-types but is vulnerable to Ground-type moves."
     },
     {
         "id": 435,
@@ -1338,7 +1338,7 @@
             "Poison",
             "Dark"
         ],
-        "description": "Skuntank is a dual-type Poison and Dark Pokémon with the abilities Stench and Aftermath. It excels against Fairy, Grass, and Psychic-types but is vulnerable to Ground-type moves."
+        "desc": "Skuntank is a dual-type Poison and Dark Pokémon with the abilities Stench and Aftermath. It excels against Fairy, Grass, and Psychic-types but is vulnerable to Ground-type moves."
     },
     {
         "id": 535,
@@ -1347,7 +1347,7 @@
         "types": [
             "Water"
         ],
-        "description": "Tympole is a Water-type Pokémon with the abilities Swift Swim and Hydration. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Tympole is a Water-type Pokémon with the abilities Swift Swim and Hydration. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 536,
@@ -1357,7 +1357,7 @@
             "Water",
             "Ground"
         ],
-        "description": "Palpitoad is a dual-type Water and Ground Pokémon with the abilities Swift Swim and Hydration. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass-type moves."
+        "desc": "Palpitoad is a dual-type Water and Ground Pokémon with the abilities Swift Swim and Hydration. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass-type moves."
     },
     {
         "id": 537,
@@ -1366,7 +1366,7 @@
             "Water",
             "Ground"
         ],
-        "description": "Seismitoad is a dual-type Water and Ground Pokémon with the abilities Swift Swim and Poison Touch. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass-type moves."
+        "desc": "Seismitoad is a dual-type Water and Ground Pokémon with the abilities Swift Swim and Poison Touch. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass-type moves."
     },
     {
         "id": 355,
@@ -1375,7 +1375,7 @@
         "types": [
             "Ghost"
         ],
-        "description": "Duskull is a Ghost-type Pokémon with the abilities Levitate and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
+        "desc": "Duskull is a Ghost-type Pokémon with the abilities Levitate and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
     },
     {
         "id": 356,
@@ -1384,7 +1384,7 @@
         "types": [
             "Ghost"
         ],
-        "description": "Dusclops is a Ghost-type Pokémon with the abilities Pressure and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
+        "desc": "Dusclops is a Ghost-type Pokémon with the abilities Pressure and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
     },
     {
         "id": 477,
@@ -1392,7 +1392,7 @@
         "types": [
             "Ghost"
         ],
-        "description": "Dusknoir is a Ghost-type Pokémon with the abilities Pressure and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
+        "desc": "Dusknoir is a Ghost-type Pokémon with the abilities Pressure and Frisk. It excels against Normal and Fighting-types but is vulnerable to Dark and Ghost-type moves."
     },
     {
         "id": 66,
@@ -1401,7 +1401,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Machop is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Machop is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 67,
@@ -1410,7 +1410,7 @@
         "types": [
             "Fighting"
         ],
-        "description": "Machoke is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
+        "desc": "Machoke is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves."
     },
     {
         "id": 68,
@@ -1434,7 +1434,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Machamp is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves. It also has a Gigantamax form."
+        "desc": "Machamp is a Fighting-type Pokémon with the abilities Guts and No Guard. It excels against Dark, Ice, Normal, Rock, and Steel-types but is vulnerable to Fairy and Flying-type moves. It also has a Gigantamax form."
     },
     {
         "id": 92,
@@ -1444,7 +1444,7 @@
             "Ghost",
             "Poison"
         ],
-        "description": "Gastly is a dual-type Ghost and Poison Pokémon with the abilities Levitate. It excels against Bug, Fairy, Fighting, Grass, and Poison-types but is vulnerable to Dark and Ground-type moves."
+        "desc": "Gastly is a dual-type Ghost and Poison Pokémon with the abilities Levitate. It excels against Bug, Fairy, Fighting, Grass, and Poison-types but is vulnerable to Dark and Ground-type moves."
     },
     {
         "id": 93,
@@ -1454,7 +1454,7 @@
             "Ghost",
             "Poison"
         ],
-        "description": "Haunter is a dual-type Ghost and Poison Pokémon with the abilities Levitate. It excels against Bug, Fairy, Fighting, Grass, and Poison-types but is vulnerable to Dark and Ground-type moves."
+        "desc": "Haunter is a dual-type Ghost and Poison Pokémon with the abilities Levitate. It excels against Bug, Fairy, Fighting, Grass, and Poison-types but is vulnerable to Dark and Ground-type moves."
     },
     {
         "id": 94,
@@ -1481,7 +1481,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Gengar is a dual-type Ghost and Poison Pokémon with the abilities Cursed Body. It excels against Bug, Fairy, Fighting, Grass, Poison, and Psychic-types but is vulnerable to Dark and Ground-type moves. It also has a Gigantamax form."
+        "desc": "Gengar is a dual-type Ghost and Poison Pokémon with the abilities Cursed Body. It excels against Bug, Fairy, Fighting, Grass, Poison, and Psychic-types but is vulnerable to Dark and Ground-type moves. It also has a Gigantamax form."
     },
     {
         "id": 129,
@@ -1490,7 +1490,7 @@
         "types": [
             "Water"
         ],
-        "description": "Magikarp is a Water-type Pokémon with the ability Swift Swim. It excels against Electric and Steel-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Magikarp is a Water-type Pokémon with the ability Swift Swim. It excels against Electric and Steel-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 130,
@@ -1499,7 +1499,7 @@
             "Water",
             "Flying"
         ],
-        "description": "Gyarados is a dual-type Water and Flying Pokémon with the abilities Intimidate and Moxie. It excels against Bug, Fighting, Fire, Ground, and Steel-types but is vulnerable to Electric and Rock-type moves."
+        "desc": "Gyarados is a dual-type Water and Flying Pokémon with the abilities Intimidate and Moxie. It excels against Bug, Fighting, Fire, Ground, and Steel-types but is vulnerable to Electric and Rock-type moves."
     },
     {
         "id": 118,
@@ -1508,7 +1508,7 @@
         "types": [
             "Water"
         ],
-        "description": "Goldeen is a Water-type Pokémon with the abilities Swift Swim and Water Veil. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Goldeen is a Water-type Pokémon with the abilities Swift Swim and Water Veil. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 119,
@@ -1516,7 +1516,7 @@
         "types": [
             "Water"
         ],
-        "description": "Seaking is a Water-type Pokémon with the abilities Swift Swim and Water Veil. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Seaking is a Water-type Pokémon with the abilities Swift Swim and Water Veil. It excels against Electric, Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 223,
@@ -1525,7 +1525,7 @@
         "types": [
             "Water"
         ],
-        "description": "Remoraid is a Water-type Pokémon with the abilities Hustle and Sniper. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Remoraid is a Water-type Pokémon with the abilities Hustle and Sniper. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 224,
@@ -1533,7 +1533,7 @@
         "types": [
             "Water"
         ],
-        "description": "Octillery is a Water-type Pokémon with the abilities Suction Cups and Sniper. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Octillery is a Water-type Pokémon with the abilities Suction Cups and Sniper. It excels against Fire, Ground, and Rock-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 90,
@@ -1542,7 +1542,7 @@
         "types": [
             "Water"
         ],
-        "description": "Shellder is a Water-type Pokémon with the ability Shell Armor. It excels against Fire, Ice, and Steel-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Shellder is a Water-type Pokémon with the ability Shell Armor. It excels against Fire, Ice, and Steel-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 91,
@@ -1551,7 +1551,7 @@
             "Water",
             "Ice"
         ],
-        "description": "Cloyster is a dual-type Water and Ice Pokémon with the abilities Shell Armor. It excels against Dragon, Flying, Grass, and Ground-types but is vulnerable to Electric, Fighting, Rock, and Steel-type moves."
+        "desc": "Cloyster is a dual-type Water and Ice Pokémon with the abilities Shell Armor. It excels against Dragon, Flying, Grass, and Ground-types but is vulnerable to Electric, Fighting, Rock, and Steel-type moves."
     },
     {
         "id": 349,
@@ -1560,7 +1560,7 @@
         "types": [
             "Water"
         ],
-        "description": "Feebas is a Water-type Pokémon with the abilities Swift Swim and Adaptability. It excels against Electric, Fire, and Steel-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Feebas is a Water-type Pokémon with the abilities Swift Swim and Adaptability. It excels against Electric, Fire, and Steel-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 350,
@@ -1568,7 +1568,7 @@
         "types": [
             "Water"
         ],
-        "description": "Milotic is a Water-type Pokémon with the abilities Marvel Scale and Competitive. It excels against Dragon, Grass, and Ground-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Milotic is a Water-type Pokémon with the abilities Marvel Scale and Competitive. It excels against Dragon, Grass, and Ground-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 550,
@@ -1591,7 +1591,7 @@
                 "spriteSuffix": "bluestriped"
             }
         ],
-        "description": "Basculin is a Water-type Pokémon with the abilities Reckless and Adaptability. It excels against Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves. It has a Blue-striped Form."
+        "desc": "Basculin is a Water-type Pokémon with the abilities Reckless and Adaptability. It excels against Fire, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves. It has a Blue-striped Form."
     },
     {
         "id": 746,
@@ -1614,7 +1614,7 @@
                 ]
             }
         ],
-        "description": "Wishiwashi is a Water-type Pokémon with the ability Schooling. In its School Form, it excels against Electric, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves. In its Solo Form, it has no specific strengths or weaknesses."
+        "desc": "Wishiwashi is a Water-type Pokémon with the ability Schooling. In its School Form, it excels against Electric, Rock, and Steel-types but is vulnerable to Electric and Grass-type moves. In its Solo Form, it has no specific strengths or weaknesses."
     },
     {
         "id": 771,
@@ -1622,7 +1622,7 @@
         "types": [
             "Water"
         ],
-        "description": "Pyukumuku is a Water-type Pokémon with the abilities Innards Out and Unaware. It excels against Ground, Rock, and Water-types but is vulnerable to Electric and Grass-type moves."
+        "desc": "Pyukumuku is a Water-type Pokémon with the abilities Innards Out and Unaware. It excels against Ground, Rock, and Water-types but is vulnerable to Electric and Grass-type moves."
     },
     {
         "id": 568,
@@ -1631,7 +1631,7 @@
         "types": [
             "Poison"
         ],
-        "description": "Trubbish is a Poison-type Pokémon with the abilities Stench and Sticky Hold. It excels against Fairy, Grass, and Bug-types but is vulnerable to Ground and Psychic-type moves."
+        "desc": "Trubbish is a Poison-type Pokémon with the abilities Stench and Sticky Hold. It excels against Fairy, Grass, and Bug-types but is vulnerable to Ground and Psychic-type moves."
     },
     {
         "id": 569,
@@ -1655,7 +1655,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Garbodor is a Poison-type Pokémon with the abilities Stench and Weak Armor. It excels against Fairy, Grass, and Bug-types but is vulnerable to Ground and Psychic-type moves. It also has a Gigantamax form."
+        "desc": "Garbodor is a Poison-type Pokémon with the abilities Stench and Weak Armor. It excels against Fairy, Grass, and Bug-types but is vulnerable to Ground and Psychic-type moves. It also has a Gigantamax form."
     },
     {
         "id": 850,
@@ -1665,7 +1665,7 @@
             "Fire",
             "Bug"
         ],
-        "description": "Sizzlipede is a dual-type Fire and Bug Pokémon with the abilities Flash Fire and White Smoke. It excels against Bug, Grass, Ice, and Steel-types but is vulnerable to Rock and Water-type moves."
+        "desc": "Sizzlipede is a dual-type Fire and Bug Pokémon with the abilities Flash Fire and White Smoke. It excels against Bug, Grass, Ice, and Steel-types but is vulnerable to Rock and Water-type moves."
     },
     {
         "id": 851,
@@ -1692,7 +1692,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Centiskorch is a dual-type Fire and Bug Pokémon with the abilities Flash Fire and White Smoke. It excels against Bug, Grass, Ice, and Steel-types but is vulnerable to Rock and Water-type moves. It also has a Gigantamax form."
+        "desc": "Centiskorch is a dual-type Fire and Bug Pokémon with the abilities Flash Fire and White Smoke. It excels against Bug, Grass, Ice, and Steel-types but is vulnerable to Rock and Water-type moves. It also has a Gigantamax form."
     },
     {
         "id": 837,
@@ -1701,7 +1701,7 @@
         "types": [
             "Rock"
         ],
-        "description": "Rolycoly is a Rock-type Pokémon with the abilities Steam Engine and Heatproof. It excels against Bug, Fire, Flying, Ice, and Normal-types but is vulnerable to Fighting, Ground, and Steel-type moves."
+        "desc": "Rolycoly is a Rock-type Pokémon with the abilities Steam Engine and Heatproof. It excels against Bug, Fire, Flying, Ice, and Normal-types but is vulnerable to Fighting, Ground, and Steel-type moves."
     },
     {
         "id": 838,
@@ -1711,7 +1711,7 @@
             "Rock",
             "Fire"
         ],
-        "description": "Carkol is a dual-type Rock and Fire Pokémon with the abilities Steam Engine and Flame Body. It excels against Bug, Grass, Ice, Steel, and Fairy-types but is vulnerable to Fighting, Ground, Rock, and Water-type moves."
+        "desc": "Carkol is a dual-type Rock and Fire Pokémon with the abilities Steam Engine and Flame Body. It excels against Bug, Grass, Ice, Steel, and Fairy-types but is vulnerable to Fighting, Ground, Rock, and Water-type moves."
     },
     {
         "id": 839,
@@ -1738,7 +1738,7 @@
                 "isGigantamax": true
             }
         ],
-        "description": "Coalossal is a dual-type Rock and Fire Pokémon with the abilities Steam Engine and Flame Body. It excels against Bug, Grass, Ice, Steel, and Fairy-types but is vulnerable to Fighting, Ground, Rock, and Water-type moves. It also has a Gigantamax form."
+        "desc": "Coalossal is a dual-type Rock and Fire Pokémon with the abilities Steam Engine and Flame Body. It excels against Bug, Grass, Ice, Steel, and Fairy-types but is vulnerable to Fighting, Ground, Rock, and Water-type moves. It also has a Gigantamax form."
     },
     {
         "id": 50,
@@ -1747,7 +1747,7 @@
         "types": [
             "Ground"
         ],
-        "description": "Diglett is a Ground-type Pokémon with the abilities Sand Veil and Arena Trap. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
+        "desc": "Diglett is a Ground-type Pokémon with the abilities Sand Veil and Arena Trap. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
     },
     {
         "id": 51,
@@ -1755,7 +1755,7 @@
         "types": [
             "Ground"
         ],
-        "description": "Dugtrio is a Ground-type Pokémon with the abilities Sand Veil and Arena Trap. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
+        "desc": "Dugtrio is a Ground-type Pokémon with the abilities Sand Veil and Arena Trap. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
     },
     {
         "id": 529,
@@ -1764,7 +1764,7 @@
         "types": [
             "Ground"
         ],
-        "description": "Drilbur is a Ground-type Pokémon with the abilities Sand Rush and Sand Force. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
+        "desc": "Drilbur is a Ground-type Pokémon with the abilities Sand Rush and Sand Force. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Grass and Ice-type moves."
     },
     {
         "id": 530,
@@ -1773,7 +1773,7 @@
             "Ground",
             "Steel"
         ],
-        "description": "Excadrill is a dual-type Ground and Steel Pokémon with the abilities Sand Rush and Mold Breaker. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Fighting, Ground, and Water-type moves."
+        "desc": "Excadrill is a dual-type Ground and Steel Pokémon with the abilities Sand Rush and Mold Breaker. It excels against Electric, Fire, Poison, Rock, and Steel-types but is vulnerable to Fighting, Ground, and Water-type moves."
     },
     {
         "id": 460,
