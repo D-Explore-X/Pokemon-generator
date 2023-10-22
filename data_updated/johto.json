@@ -7,7 +7,7 @@
       "grass",
       "poison"
     ],
-    "desc": "A dual-type Grass/Poison Pokémon. It is the first Pokémon in the National Pokédex."
+    "desc": "A dual-type Grass/Poison Pokemon. It is the first Pokemon in the National Pokédex."
   },
   {
     "id": 2,
@@ -35,7 +35,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A Fire-type Pokémon known for its flame-tipped tail. It evolves into Charmeleon."
+    "desc": "A Fire-type Pokemon known for its flame-tipped tail. It evolves into Charmeleon."
   },
   {
     "id": 5,
@@ -53,7 +53,7 @@
       "fire",
       "flying"
     ],
-    "desc": "The final evolved form of Charmander. It is a powerful Fire/Flying-type Pokémon."
+    "desc": "The final evolved form of Charmander. It is a powerful Fire/Flying-type Pokemon."
   },
   {
     "id": 7,
@@ -62,7 +62,7 @@
     "types": [
       "water"
     ],
-    "desc": "A Water-type Pokémon that resembles a turtle. It evolves into Wartortle."
+    "desc": "A Water-type Pokemon that resembles a turtle. It evolves into Wartortle."
   },
   {
     "id": 8,
@@ -79,7 +79,7 @@
     "types": [
       "water"
     ],
-    "desc": "The final evolved form of Squirtle. It is a Water-type Pokémon with powerful water cannons on its back."
+    "desc": "The final evolved form of Squirtle. It is a Water-type Pokemon with powerful water cannons on its back."
   },
   {
     "id": 10,
@@ -88,7 +88,7 @@
     "types": [
       "bug"
     ],
-    "desc": "A Bug-type Pokémon with a voracious appetite for leaves. It evolves into Metapod."
+    "desc": "A Bug-type Pokemon with a voracious appetite for leaves. It evolves into Metapod."
   },
   {
     "id": 11,
@@ -116,7 +116,7 @@
       "bug",
       "poison"
     ],
-    "desc": "A Bug/Poison-type Pokémon. It evolves into Kakuna and is known for its sharp stingers."
+    "desc": "A Bug/Poison-type Pokemon. It evolves into Kakuna and is known for its sharp stingers."
   },
   {
     "id": 14,
@@ -145,7 +145,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A common bird Pokémon. It is known for its gentle nature and often found in grassy areas."
+    "desc": "A common bird Pokemon. It is known for its gentle nature and often found in grassy areas."
   },
   {
     "id": 17,
@@ -173,7 +173,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A small and common Pokémon. It is known for its sharp teeth and love for scavenging."
+    "desc": "A small and common Pokemon. It is known for its sharp teeth and love for scavenging."
   },
   {
     "id": 20,
@@ -191,7 +191,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A bird Pokémon that hunts for insects. It is known for its keen eyesight."
+    "desc": "A bird Pokemon that hunts for insects. It is known for its keen eyesight."
   },
   {
     "id": 22,
@@ -209,7 +209,7 @@
     "types": [
       "poison"
     ],
-    "desc": "A snake Pokémon known for its serpentine body. It can be found in grassy areas."
+    "desc": "A snake Pokemon known for its serpentine body. It can be found in grassy areas."
   },
   {
     "id": 24,
@@ -226,7 +226,7 @@
     "types": [
       "electric"
     ],
-    "desc": "An Electric-type Pokémon known for its lightning bolt-shaped tail. It is the mascot of the Pokémon franchise."
+    "desc": "An Electric-type Pokemon known for its lightning bolt-shaped tail. It is the mascot of the Pokemon franchise."
   },
   {
     "id": 26,
@@ -243,7 +243,7 @@
     "types": [
       "ground"
     ],
-    "desc": "A small, ground-type Pokémon known for its tough skin and burrowing abilities."
+    "desc": "A small, ground-type Pokemon known for its tough skin and burrowing abilities."
   },
   {
     "id": 28,
@@ -260,7 +260,7 @@
     "types": [
       "poison"
     ],
-    "desc": "A female Nidoran Pokémon known for its gentle nature and sharp, toxic spines."
+    "desc": "A female Nidoran Pokemon known for its gentle nature and sharp, toxic spines."
   },
   {
     "id": 30,
@@ -278,7 +278,7 @@
       "poison",
       "ground"
     ],
-    "desc": "The final evolved form of Nidoran ♀. It is a powerful and imposing Pokémon."
+    "desc": "The final evolved form of Nidoran ♀. It is a powerful and imposing Pokemon."
   },
   {
     "id": 32,
@@ -287,7 +287,7 @@
     "types": [
       "poison"
     ],
-    "desc": "A male Nidoran Pokémon known for its aggressive nature and potent venom."
+    "desc": "A male Nidoran Pokemon known for its aggressive nature and potent venom."
   },
   {
     "id": 33,
@@ -305,7 +305,7 @@
       "poison",
       "ground"
     ],
-    "desc": "The final evolved form of Nidorino. It is a formidable and fearless Pokémon."
+    "desc": "The final evolved form of Nidorino. It is a formidable and fearless Pokemon."
   },
   {
     "id": 35,
@@ -314,7 +314,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A fairy-like Pokémon known for its moonlit dances and fondness for the moon."
+    "desc": "A fairy-like Pokemon known for its moonlit dances and fondness for the moon."
   },
   {
     "id": 36,
@@ -331,7 +331,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A fox-like Pokémon known for its six orange tails and fire-based abilities."
+    "desc": "A fox-like Pokemon known for its six orange tails and fire-based abilities."
   },
   {
     "id": 38,
@@ -348,7 +348,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A balloon-like Pokémon known for its soothing lullabies and ability to put others to sleep."
+    "desc": "A balloon-like Pokemon known for its soothing lullabies and ability to put others to sleep."
   },
   {
     "id": 40,
@@ -366,7 +366,7 @@
       "poison",
       "flying"
     ],
-    "desc": "A bat Pokémon known for its sharp fangs and ability to echolocate in the dark."
+    "desc": "A bat Pokemon known for its sharp fangs and ability to echolocate in the dark."
   },
   {
     "id": 42,
@@ -386,7 +386,7 @@
       "grass",
       "poison"
     ],
-    "desc": "A plant Pokémon known for its blue leaves and nocturnal behavior."
+    "desc": "A plant Pokemon known for its blue leaves and nocturnal behavior."
   },
   {
     "id": 44,
@@ -415,7 +415,7 @@
       "bug",
       "grass"
     ],
-    "desc": "A mushroom Pokémon. It forms a mutualistic relationship with the mushroom on its back."
+    "desc": "A mushroom Pokemon. It forms a mutualistic relationship with the mushroom on its back."
   },
   {
     "id": 47,
@@ -434,7 +434,7 @@
       "bug",
       "poison"
     ],
-    "desc": "A bug Pokémon known for its large eyes, which are sensitive to light and movement."
+    "desc": "A bug Pokemon known for its large eyes, which are sensitive to light and movement."
   },
   {
     "id": 49,
@@ -452,7 +452,7 @@
     "types": [
       "ground"
     ],
-    "desc": "A burrowing Pokémon known for its underground lifestyle and sensitivity to vibrations."
+    "desc": "A burrowing Pokemon known for its underground lifestyle and sensitivity to vibrations."
   },
   {
     "id": 51,
@@ -469,7 +469,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A cat-like Pokémon known for its love of coins and its ability to use Pay Day."
+    "desc": "A cat-like Pokemon known for its love of coins and its ability to use Pay Day."
   },
   {
     "id": 53,
@@ -486,7 +486,7 @@
     "types": [
       "water"
     ],
-    "desc": "A water-type Pokémon known for its chronic headaches that trigger psychic powers."
+    "desc": "A water-type Pokemon known for its chronic headaches that trigger psychic powers."
   },
   {
     "id": 55,
@@ -503,7 +503,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A monkey Pokémon known for its short temper and fiery fighting spirit."
+    "desc": "A monkey Pokemon known for its short temper and fiery fighting spirit."
   },
   {
     "id": 57,
@@ -520,7 +520,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A loyal and brave dog Pokémon known for its fiery mane and protective nature."
+    "desc": "A loyal and brave dog Pokemon known for its fiery mane and protective nature."
   },
   {
     "id": 59,
@@ -528,7 +528,7 @@
     "types": [
       "fire"
     ],
-    "desc": "The evolved form of Growlithe. It is a legendary and majestic fire-type Pokémon."
+    "desc": "The evolved form of Growlithe. It is a legendary and majestic fire-type Pokemon."
   },
   {
     "id": 60,
@@ -537,7 +537,7 @@
     "types": [
       "water"
     ],
-    "desc": "A tadpole Pokémon known for its spiral pattern on its belly and swift swimming."
+    "desc": "A tadpole Pokemon known for its spiral pattern on its belly and swift swimming."
   },
   {
     "id": 61,
@@ -564,7 +564,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "A psychic Pokémon known for its ability to teleport away from danger."
+    "desc": "A psychic Pokemon known for its ability to teleport away from danger."
   },
   {
     "id": 64,
@@ -590,7 +590,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A muscular Pokémon that trains rigorously to gain strength and become a formidable fighter."
+    "desc": "A muscular Pokemon that trains rigorously to gain strength and become a formidable fighter."
   },
   {
     "id": 67,
@@ -617,7 +617,7 @@
       "grass",
       "poison"
     ],
-    "desc": "A plant Pokémon with a large mouth at the end of its stalk. It ensnares prey with its vines."
+    "desc": "A plant Pokemon with a large mouth at the end of its stalk. It ensnares prey with its vines."
   },
   {
     "id": 70,
@@ -646,7 +646,7 @@
       "water",
       "poison"
     ],
-    "desc": "A jellyfish Pokémon known for its tentacles, which it uses to capture and sting prey."
+    "desc": "A jellyfish Pokemon known for its tentacles, which it uses to capture and sting prey."
   },
   {
     "id": 73,
@@ -665,7 +665,7 @@
       "rock",
       "ground"
     ],
-    "desc": "A rock Pokémon with arms. It rolls down mountains, smashing everything in its path."
+    "desc": "A rock Pokemon with arms. It rolls down mountains, smashing everything in its path."
   },
   {
     "id": 75,
@@ -693,7 +693,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A horse Pokémon with a fiery mane. It is known for its incredible speed and agility."
+    "desc": "A horse Pokemon with a fiery mane. It is known for its incredible speed and agility."
   },
   {
     "id": 78,
@@ -711,7 +711,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A slow-moving Pokémon known for its dreamy and absent-minded nature."
+    "desc": "A slow-moving Pokemon known for its dreamy and absent-minded nature."
   },
   {
     "id": 80,
@@ -730,7 +730,7 @@
       "electric",
       "steel"
     ],
-    "desc": "A magnet Pokémon that floats using electromagnetic waves. It can join together to form larger Magnemite."
+    "desc": "A magnet Pokemon that floats using electromagnetic waves. It can join together to form larger Magnemite."
   },
   {
     "id": 82,
@@ -748,7 +748,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A wild duck Pokémon that carries a leek stalk. It is a skilled swordsman."
+    "desc": "A wild duck Pokemon that carries a leek stalk. It is a skilled swordsman."
   },
   {
     "id": 84,
@@ -758,7 +758,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A two-headed bird Pokémon known for its fast running and ability to fly short distances."
+    "desc": "A two-headed bird Pokemon known for its fast running and ability to fly short distances."
   },
   {
     "id": 85,
@@ -776,7 +776,7 @@
     "types": [
       "water"
     ],
-    "desc": "A sea lion Pokémon that can swim gracefully and is often seen sunbathing on beaches."
+    "desc": "A sea lion Pokemon that can swim gracefully and is often seen sunbathing on beaches."
   },
   {
     "id": 87,
@@ -794,7 +794,7 @@
     "types": [
       "poison"
     ],
-    "desc": "A sludge Pokémon made of toxic substances. It gives off a horrendous stench."
+    "desc": "A sludge Pokemon made of toxic substances. It gives off a horrendous stench."
   },
   {
     "id": 89,
@@ -811,7 +811,7 @@
     "types": [
       "water"
     ],
-    "desc": "A bivalve Pokémon with a protective shell. It can clamp onto prey with its sharp tongue."
+    "desc": "A bivalve Pokemon with a protective shell. It can clamp onto prey with its sharp tongue."
   },
   {
     "id": 91,
@@ -830,7 +830,7 @@
       "ghost",
       "poison"
     ],
-    "desc": "A ghost Pokémon composed of toxic gases. It can render opponents unconscious."
+    "desc": "A ghost Pokemon composed of toxic gases. It can render opponents unconscious."
   },
   {
     "id": 93,
@@ -849,7 +849,7 @@
       "ghost",
       "poison"
     ],
-    "desc": "The final evolved form of Gastly. It is a shadowy and sinister Pokémon."
+    "desc": "The final evolved form of Gastly. It is a shadowy and sinister Pokemon."
   },
   {
     "id": 95,
@@ -859,7 +859,7 @@
       "rock",
       "ground"
     ],
-    "desc": "A serpentine Pokémon that tunnels underground. It is known for its immense size and strength."
+    "desc": "A serpentine Pokemon that tunnels underground. It is known for its immense size and strength."
   },
   {
     "id": 96,
@@ -868,7 +868,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "A psychic Pokémon that uses its pendulum-like arm to hypnotize and control others."
+    "desc": "A psychic Pokemon that uses its pendulum-like arm to hypnotize and control others."
   },
   {
     "id": 97,
@@ -885,7 +885,7 @@
     "types": [
       "water"
     ],
-    "desc": "A crab Pokémon with a fiery temperament. It is quick to anger and snap with its pincers."
+    "desc": "A crab Pokemon with a fiery temperament. It is quick to anger and snap with its pincers."
   },
   {
     "id": 99,
@@ -902,7 +902,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A spherical Pokémon that resembles a Poké Ball. It can explode with powerful electrical energy."
+    "desc": "A spherical Pokemon that resembles a Poké Ball. It can explode with powerful electrical energy."
   },
   {
     "id": 101,
@@ -910,7 +910,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A round Pokémon that stores electrical energy. It can explode if agitated or if its electric charge overflows."
+    "desc": "A round Pokemon that stores electrical energy. It can explode if agitated or if its electric charge overflows."
   },
   {
     "id": 102,
@@ -938,7 +938,7 @@
     "types": [
       "ground"
     ],
-    "desc": "A Pokémon that wears a skull helmet. It is said to be mourning its deceased mother."
+    "desc": "A Pokemon that wears a skull helmet. It is said to be mourning its deceased mother."
   },
   {
     "id": 105,
@@ -954,7 +954,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A kicking Pokémon with powerful legs. It is a master of martial arts and specializes in kicks."
+    "desc": "A kicking Pokemon with powerful legs. It is a master of martial arts and specializes in kicks."
   },
   {
     "id": 107,
@@ -962,7 +962,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A punching Pokémon that excels in punching techniques. It is known for its speed and agility."
+    "desc": "A punching Pokemon that excels in punching techniques. It is known for its speed and agility."
   },
   {
     "id": 108,
@@ -970,7 +970,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A Pokémon with an exceptionally long tongue. It uses its tongue to catch insects and gather food."
+    "desc": "A Pokemon with an exceptionally long tongue. It uses its tongue to catch insects and gather food."
   },
   {
     "id": 109,
@@ -979,7 +979,7 @@
     "types": [
       "poison"
     ],
-    "desc": "A gas Pokémon that emits toxic gases. It has a skull and crossbones pattern on its body."
+    "desc": "A gas Pokemon that emits toxic gases. It has a skull and crossbones pattern on its body."
   },
   {
     "id": 110,
@@ -997,7 +997,7 @@
       "ground",
       "rock"
     ],
-    "desc": "A powerful Pokémon with a horn that can pierce rocks. It is known for its charging attacks."
+    "desc": "A powerful Pokemon with a horn that can pierce rocks. It is known for its charging attacks."
   },
   {
     "id": 112,
@@ -1015,7 +1015,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A caring Pokémon that brings happiness to others. It is known for its exceptional egg-warming skills."
+    "desc": "A caring Pokemon that brings happiness to others. It is known for its exceptional egg-warming skills."
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "types": [
       "grass"
     ],
-    "desc": "A vine Pokémon that hides its body within a tangle of vines. It moves stealthily in the grass."
+    "desc": "A vine Pokemon that hides its body within a tangle of vines. It moves stealthily in the grass."
   },
   {
     "id": 115,
@@ -1031,7 +1031,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A maternal Pokémon that carries a baby Kangaskhan in its pouch. It is fiercely protective."
+    "desc": "A maternal Pokemon that carries a baby Kangaskhan in its pouch. It is fiercely protective."
   },
   {
     "id": 116,
@@ -1040,7 +1040,7 @@
     "types": [
       "water"
     ],
-    "desc": "A small, aquatic Pokémon that uses its fin to swim gracefully. It is known for its beauty."
+    "desc": "A small, aquatic Pokemon that uses its fin to swim gracefully. It is known for its beauty."
   },
   {
     "id": 117,
@@ -1058,7 +1058,7 @@
     "types": [
       "water"
     ],
-    "desc": "A graceful, fish Pokémon with a beautiful tail fin. It swims elegantly in water."
+    "desc": "A graceful, fish Pokemon with a beautiful tail fin. It swims elegantly in water."
   },
   {
     "id": 119,
@@ -1075,7 +1075,7 @@
     "types": [
       "water"
     ],
-    "desc": "A star-shaped Pokémon that regenerates lost limbs. It is said to come from the stars."
+    "desc": "A star-shaped Pokemon that regenerates lost limbs. It is said to come from the stars."
   },
   {
     "id": 121,
@@ -1092,7 +1092,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "A pantomime Pokémon that mimics human gestures. It creates invisible walls using its powers."
+    "desc": "A pantomime Pokemon that mimics human gestures. It creates invisible walls using its powers."
   },
   {
     "id": 123,
@@ -1102,7 +1102,7 @@
       "bug",
       "flying"
     ],
-    "desc": "A fast-flying Pokémon with scythe-like blades for arms. It is a skilled predator."
+    "desc": "A fast-flying Pokemon with scythe-like blades for arms. It is a skilled predator."
   },
   {
     "id": 124,
@@ -1111,7 +1111,7 @@
       "ice",
       "psychic"
     ],
-    "desc": "A Pokémon that uses its graceful movements to mesmerize and then kiss its prey to death."
+    "desc": "A Pokemon that uses its graceful movements to mesmerize and then kiss its prey to death."
   },
   {
     "id": 125,
@@ -1119,7 +1119,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A Pokémon that emits strong electrical currents. It is known for its speed and agility."
+    "desc": "A Pokemon that emits strong electrical currents. It is known for its speed and agility."
   },
   {
     "id": 126,
@@ -1127,7 +1127,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A fire-spewing Pokémon that lives in volcanic craters. It is known for its intense heat."
+    "desc": "A fire-spewing Pokemon that lives in volcanic craters. It is known for its intense heat."
   },
   {
     "id": 127,
@@ -1135,7 +1135,7 @@
     "types": [
       "bug"
     ],
-    "desc": "A formidable Pokémon with large pincers. It is known for its powerful grip."
+    "desc": "A formidable Pokemon with large pincers. It is known for its powerful grip."
   },
   {
     "id": 128,
@@ -1143,7 +1143,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A wild and untamed Pokémon known for its aggressive nature. It is a symbol of strength."
+    "desc": "A wild and untamed Pokemon known for its aggressive nature. It is a symbol of strength."
   },
   {
     "id": 129,
@@ -1152,7 +1152,7 @@
     "types": [
       "water"
     ],
-    "desc": "A weak and helpless Pokémon that can splash around. It evolves into Gyarados."
+    "desc": "A weak and helpless Pokemon that can splash around. It evolves into Gyarados."
   },
   {
     "id": 130,
@@ -1178,7 +1178,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Ditto is a unique Pokémon that can transform into any other Pokémon it sees. It has a friendly and adaptable nature."
+    "desc": "Ditto is a unique Pokemon that can transform into any other Pokemon it sees. It has a friendly and adaptable nature."
   },
   {
     "id": 133,
@@ -1187,7 +1187,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Eevee is a versatile Pokémon with the potential to evolve into various forms, depending on its environment and friendships."
+    "desc": "Eevee is a versatile Pokemon with the potential to evolve into various forms, depending on its environment and friendships."
   },
   {
     "id": 134,
@@ -1195,7 +1195,7 @@
     "types": [
       "water"
     ],
-    "desc": "Vaporeon is a Water-type Pokémon known for its graceful aquatic movements and its ability to manipulate water."
+    "desc": "Vaporeon is a Water-type Pokemon known for its graceful aquatic movements and its ability to manipulate water."
   },
   {
     "id": 135,
@@ -1203,7 +1203,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Jolteon is an Electric-type Pokémon with sharp spines on its body, capable of discharging powerful electrical shocks."
+    "desc": "Jolteon is an Electric-type Pokemon with sharp spines on its body, capable of discharging powerful electrical shocks."
   },
   {
     "id": 136,
@@ -1211,7 +1211,7 @@
     "types": [
       "fire"
     ],
-    "desc": "Flareon is a Fire-type Pokémon that can produce intense flames from its body, making it a fearsome opponent in battle."
+    "desc": "Flareon is a Fire-type Pokemon that can produce intense flames from its body, making it a fearsome opponent in battle."
   },
   {
     "id": 137,
@@ -1220,7 +1220,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Porygon is a virtual Pokémon created by humans. It can move freely in cyberspace and has a unique geometric appearance."
+    "desc": "Porygon is a virtual Pokemon created by humans. It can move freely in cyberspace and has a unique geometric appearance."
   },
   {
     "id": 138,
@@ -1230,7 +1230,7 @@
       "rock",
       "water"
     ],
-    "desc": "Omanyte is an ancient Water/Rock-type Pokémon that existed millions of years ago. It has a distinctive spiral shell."
+    "desc": "Omanyte is an ancient Water/Rock-type Pokemon that existed millions of years ago. It has a distinctive spiral shell."
   },
   {
     "id": 139,
@@ -1249,7 +1249,7 @@
       "rock",
       "water"
     ],
-    "desc": "Kabuto is a resurrected Pokémon from ancient times. It has a hard shell and is adapted to life in water."
+    "desc": "Kabuto is a resurrected Pokemon from ancient times. It has a hard shell and is adapted to life in water."
   },
   {
     "id": 141,
@@ -1267,7 +1267,7 @@
       "rock",
       "flying"
     ],
-    "desc": "Aerodactyl is a prehistoric Pokémon known for its impressive wingspan and its ability to soar through the skies."
+    "desc": "Aerodactyl is a prehistoric Pokemon known for its impressive wingspan and its ability to soar through the skies."
   },
   {
     "id": 143,
@@ -1275,7 +1275,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Snorlax is a massive and sleepy Pokémon that spends most of its time resting. It has an insatiable appetite."
+    "desc": "Snorlax is a massive and sleepy Pokemon that spends most of its time resting. It has an insatiable appetite."
   },
   {
     "id": 144,
@@ -1285,7 +1285,7 @@
       "flying"
     ],
     "isLegendary": true,
-    "desc": "Articuno is a legendary bird Pokémon known for its association with icy winds and its graceful appearance."
+    "desc": "Articuno is a legendary bird Pokemon known for its association with icy winds and its graceful appearance."
   },
   {
     "id": 145,
@@ -1295,7 +1295,7 @@
       "flying"
     ],
     "isLegendary": true,
-    "desc": "Zapdos is a legendary bird Pokémon that harnesses the power of electricity. It can create lightning storms."
+    "desc": "Zapdos is a legendary bird Pokemon that harnesses the power of electricity. It can create lightning storms."
   },
   {
     "id": 146,
@@ -1305,7 +1305,7 @@
       "flying"
     ],
     "isLegendary": true,
-    "desc": "Moltres is a legendary bird Pokémon that is said to be born from volcanic eruptions. It radiates intense heat."
+    "desc": "Moltres is a legendary bird Pokemon that is said to be born from volcanic eruptions. It radiates intense heat."
   },
   {
     "id": 147,
@@ -1314,7 +1314,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "Dratini is a Dragon-type Pokémon that is often found near bodies of water. It has a gentle and playful nature."
+    "desc": "Dratini is a Dragon-type Pokemon that is often found near bodies of water. It has a gentle and playful nature."
   },
   {
     "id": 148,
@@ -1323,7 +1323,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "Dragonair is the evolved form of Dratini. It is a serpentine Dragon-type Pokémon known for its elegance."
+    "desc": "Dragonair is the evolved form of Dratini. It is a serpentine Dragon-type Pokemon known for its elegance."
   },
   {
     "id": 149,
@@ -1332,7 +1332,7 @@
       "dragon",
       "flying"
     ],
-    "desc": "Dragonite is a powerful Dragon/Flying-type Pokémon. Despite its size, it is known for its kindness and helpfulness."
+    "desc": "Dragonite is a powerful Dragon/Flying-type Pokemon. Despite its size, it is known for its kindness and helpfulness."
   },
   {
     "id": 150,
@@ -1341,7 +1341,7 @@
       "psychic"
     ],
     "isLegendary": true,
-    "desc": "Mewtwo is a legendary Psychic-type Pokémon with incredible psychic powers. It is highly intelligent and formidable."
+    "desc": "Mewtwo is a legendary Psychic-type Pokemon with incredible psychic powers. It is highly intelligent and formidable."
   },
   {
     "id": 151,
@@ -1350,7 +1350,7 @@
       "psychic"
     ],
     "isLegendary": true,
-    "desc": "Mew is a mysterious and legendary Psychic-type Pokémon known for its ability to learn any move. It is said to contain the DNA of all Pokémon."
+    "desc": "Mew is a mysterious and legendary Psychic-type Pokemon known for its ability to learn any move. It is said to contain the DNA of all Pokemon."
   },
   {
     "id": 152,
@@ -1359,7 +1359,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Chikorita is a Grass-type Pokémon with a cheerful and friendly disposition. It often emits a pleasant aroma from the leaves on its neck."
+    "desc": "Chikorita is a Grass-type Pokemon with a cheerful and friendly disposition. It often emits a pleasant aroma from the leaves on its neck."
   },
   {
     "id": 153,
@@ -1385,7 +1385,7 @@
     "types": [
       "fire"
     ],
-    "desc": "Cyndaquil is a Fire-type Pokémon with a timid and defensive nature. It can release flames from its back when threatened."
+    "desc": "Cyndaquil is a Fire-type Pokemon with a timid and defensive nature. It can release flames from its back when threatened."
   },
   {
     "id": 156,
@@ -1411,7 +1411,7 @@
     "types": [
       "water"
     ],
-    "desc": "Totodile is a Water-type Pokémon with a playful and energetic demeanor. It has powerful jaws and enjoys chomping on things."
+    "desc": "Totodile is a Water-type Pokemon with a playful and energetic demeanor. It has powerful jaws and enjoys chomping on things."
   },
   {
     "id": 159,
@@ -1428,7 +1428,7 @@
     "types": [
       "water"
     ],
-    "desc": "Feraligatr is the final evolution of Totodile. It is a formidable Water-type Pokémon with powerful jaws and a fierce temperament."
+    "desc": "Feraligatr is the final evolution of Totodile. It is a formidable Water-type Pokemon with powerful jaws and a fierce temperament."
   },
   {
     "id": 161,
@@ -1437,7 +1437,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Sentret is a Normal-type Pokémon known for its curious and vigilant nature. It stands on its tail to get a better view of its surroundings."
+    "desc": "Sentret is a Normal-type Pokemon known for its curious and vigilant nature. It stands on its tail to get a better view of its surroundings."
   },
   {
     "id": 162,
@@ -1455,7 +1455,7 @@
       "normal",
       "flying"
     ],
-    "desc": "Hoothoot is a Normal/Flying-type Pokémon with a built-in internal clock. It hoots at precise intervals and is known for its punctuality."
+    "desc": "Hoothoot is a Normal/Flying-type Pokemon with a built-in internal clock. It hoots at precise intervals and is known for its punctuality."
   },
   {
     "id": 164,
@@ -1474,7 +1474,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Ledyba is a Bug/Flying-type Pokémon known for its red and black coloration. It is often seen in gardens and fields."
+    "desc": "Ledyba is a Bug/Flying-type Pokemon known for its red and black coloration. It is often seen in gardens and fields."
   },
   {
     "id": 166,
@@ -1493,7 +1493,7 @@
       "bug",
       "poison"
     ],
-    "desc": "Spinarak is a Bug/Poison-type Pokémon known for its silk-spinning abilities. It creates intricate webs to ensnare prey."
+    "desc": "Spinarak is a Bug/Poison-type Pokemon known for its silk-spinning abilities. It creates intricate webs to ensnare prey."
   },
   {
     "id": 168,
@@ -1511,7 +1511,7 @@
       "poison",
       "flying"
     ],
-    "desc": "Crobat is the final evolution of Zubat. It is a Poison/Flying-type Pokémon known for its speed and agility during flight."
+    "desc": "Crobat is the final evolution of Zubat. It is a Poison/Flying-type Pokemon known for its speed and agility during flight."
   },
   {
     "id": 170,
@@ -1521,7 +1521,7 @@
       "water",
       "electric"
     ],
-    "desc": "Chinchou is a Water/Electric-type Pokémon that inhabits the ocean floor. It has glowing antennae to attract prey."
+    "desc": "Chinchou is a Water/Electric-type Pokemon that inhabits the ocean floor. It has glowing antennae to attract prey."
   },
   {
     "id": 171,
@@ -1548,7 +1548,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Cleffa is a Fairy-type Pokémon known for its star-shaped appearance. It is said to bring joy and happiness to those it encounters."
+    "desc": "Cleffa is a Fairy-type Pokemon known for its star-shaped appearance. It is said to bring joy and happiness to those it encounters."
   },
   {
     "id": 174,
@@ -1557,7 +1557,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Igglybuff is a Normal/Fairy-type Pokémon that loves to sing. Its melodies have a soothing effect on both Pokémon and people."
+    "desc": "Igglybuff is a Normal/Fairy-type Pokemon that loves to sing. Its melodies have a soothing effect on both Pokemon and people."
   },
   {
     "id": 175,
@@ -1575,7 +1575,7 @@
       "normal",
       "flying"
     ],
-    "desc": "Togetic is the evolved form of Togepi. It is a kind-hearted and friendly Pokémon that spreads love and happiness."
+    "desc": "Togetic is the evolved form of Togepi. It is a kind-hearted and friendly Pokemon that spreads love and happiness."
   },
   {
     "id": 177,
@@ -1585,7 +1585,7 @@
       "psychic",
       "flying"
     ],
-    "desc": "Natu is a Psychic/Flying-type Pokémon known for its peculiar and mystical behavior. It can see the future by looking at the sun and moon."
+    "desc": "Natu is a Psychic/Flying-type Pokemon known for its peculiar and mystical behavior. It can see the future by looking at the sun and moon."
   },
   {
     "id": 178,
@@ -1594,7 +1594,7 @@
       "psychic",
       "flying"
     ],
-    "desc": "Xatu is the evolved form of Natu. It is a mystical and enigmatic Pokémon that stands still and gazes at the sun for extended periods."
+    "desc": "Xatu is the evolved form of Natu. It is a mystical and enigmatic Pokemon that stands still and gazes at the sun for extended periods."
   },
   {
     "id": 179,
@@ -1603,7 +1603,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Mareep is an Electric-type Pokémon covered in fluffy wool. It stores electricity in its fleece and can produce bright flashes of light."
+    "desc": "Mareep is an Electric-type Pokemon covered in fluffy wool. It stores electricity in its fleece and can produce bright flashes of light."
   },
   {
     "id": 180,
@@ -1637,7 +1637,7 @@
     "types": [
       "water"
     ],
-    "desc": "Marill is a Water-type Pokémon with a water-filled tail ball. It is known for its playful and joyful nature."
+    "desc": "Marill is a Water-type Pokemon with a water-filled tail ball. It is known for its playful and joyful nature."
   },
   {
     "id": 184,
@@ -1645,7 +1645,7 @@
     "types": [
       "water"
     ],
-    "desc": "Azumarill is the evolved form of Marill. It is a Water-type Pokémon that can use its flexible ears as a flotation device in the water."
+    "desc": "Azumarill is the evolved form of Marill. It is a Water-type Pokemon that can use its flexible ears as a flotation device in the water."
   },
   {
     "id": 185,
@@ -1653,7 +1653,7 @@
     "types": [
       "rock"
     ],
-    "desc": "Sudowoodo is known for its disguise as a tree. Despite its appearance, it is actually a Rock-type Pokémon that dislikes water."
+    "desc": "Sudowoodo is known for its disguise as a tree. Despite its appearance, it is actually a Rock-type Pokemon that dislikes water."
   },
   {
     "id": 186,
@@ -1671,7 +1671,7 @@
       "grass",
       "flying"
     ],
-    "desc": "Hoppip is a Grass/Flying-type Pokémon known for its lightweight and airy body. It can be carried away by even the gentlest breeze."
+    "desc": "Hoppip is a Grass/Flying-type Pokemon known for its lightweight and airy body. It can be carried away by even the gentlest breeze."
   },
   {
     "id": 188,
@@ -1698,7 +1698,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Aipom is a Normal-type Pokémon known for its dexterity and prehensile tail. It uses its tail to swing from tree branches."
+    "desc": "Aipom is a Normal-type Pokemon known for its dexterity and prehensile tail. It uses its tail to swing from tree branches."
   },
   {
     "id": 191,
@@ -1707,7 +1707,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Sunkern is a Grass-type Pokémon that relies on sunlight to grow and become stronger. It is often seen basking in the sun."
+    "desc": "Sunkern is a Grass-type Pokemon that relies on sunlight to grow and become stronger. It is often seen basking in the sun."
   },
   {
     "id": 192,
@@ -1724,7 +1724,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Yanma is a Bug/Flying-type Pokémon known for its incredible speed and agility in flight. Its large eyes provide excellent vision."
+    "desc": "Yanma is a Bug/Flying-type Pokemon known for its incredible speed and agility in flight. Its large eyes provide excellent vision."
   },
   {
     "id": 194,
@@ -1734,7 +1734,7 @@
       "water",
       "ground"
     ],
-    "desc": "Wooper is a Water/Ground-type Pokémon that lives near water bodies. It has a carefree and cheerful disposition."
+    "desc": "Wooper is a Water/Ground-type Pokemon that lives near water bodies. It has a carefree and cheerful disposition."
   },
   {
     "id": 195,
@@ -1743,7 +1743,7 @@
       "water",
       "ground"
     ],
-    "desc": "Quagsire is the evolved form of Wooper. It is a Water/Ground-type Pokémon known for its carefree attitude and love of swimming."
+    "desc": "Quagsire is the evolved form of Wooper. It is a Water/Ground-type Pokemon known for its carefree attitude and love of swimming."
   },
   {
     "id": 196,
@@ -1759,7 +1759,7 @@
     "types": [
       "dark"
     ],
-    "desc": "Umbreon is one of the evolved forms of Eevee when exposed to high friendship during the nighttime. It is a Dark-type Pokémon known for its mysterious aura."
+    "desc": "Umbreon is one of the evolved forms of Eevee when exposed to high friendship during the nighttime. It is a Dark-type Pokemon known for its mysterious aura."
   },
   {
     "id": 198,
@@ -1768,7 +1768,7 @@
       "dark",
       "flying"
     ],
-    "desc": "Murkrow is a Dark/Flying-type Pokémon known for its mischievous behavior. It is often associated with superstitions and omens."
+    "desc": "Murkrow is a Dark/Flying-type Pokemon known for its mischievous behavior. It is often associated with superstitions and omens."
   },
   {
     "id": 199,
@@ -1785,7 +1785,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "Misdreavus is a Ghost-type Pokémon known for its mischievous pranks and eerie cries. It enjoys playing tricks on unsuspecting travelers."
+    "desc": "Misdreavus is a Ghost-type Pokemon known for its mischievous pranks and eerie cries. It enjoys playing tricks on unsuspecting travelers."
   },
   {
     "id": 201,

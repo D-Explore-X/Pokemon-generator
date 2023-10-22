@@ -7,7 +7,7 @@
             "grass",
             "flying"
         ],
-        "desc": "Rowlet, a Grass and Flying type Pokémon, has the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, and Ground types but is weak to Fire, Ice, Flying, Poison, and Rock types."
+        "desc": "Rowlet, a Grass and Flying type Pokemon, has the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, and Ground types but is weak to Fire, Ice, Flying, Poison, and Rock types."
     },
     {
         "id": 723,
@@ -17,7 +17,7 @@
             "grass",
             "flying"
         ],
-        "desc": "Dartrix, a Grass and Flying type Pokémon, possesses the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, and Ground types but is weak to Fire, Ice, Flying, Poison, and Rock types."
+        "desc": "Dartrix, a Grass and Flying type Pokemon, possesses the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, and Ground types but is weak to Fire, Ice, Flying, Poison, and Rock types."
     },
     {
         "id": 724,
@@ -34,7 +34,7 @@
                     "fighting"
                 ],
                 "spriteSuffix": "hisui",
-                "desc": "Decidueye, in its Hisui Form, is a Grass and Fighting type Pokémon with the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, Dark, and Rock types but is weak to Fire, Ice, Flying, Psychic, Poison, Fairy, and Ghost types."
+                "desc": "Decidueye, in its Hisui Form, is a Grass and Fighting type Pokemon with the ability 'Overgrow.' It excels against Water, Electric, Grass, Fighting, Bug, Dark, and Rock types but is weak to Fire, Ice, Flying, Psychic, Poison, Fairy, and Ghost types."
             }
         ]
     },
@@ -45,7 +45,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Cyndaquil, a Fire type Pokémon, possesses the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Cyndaquil, a Fire type Pokemon, possesses the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 156,
@@ -54,7 +54,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Quilava, a Fire type Pokémon, comes with the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Quilava, a Fire type Pokemon, comes with the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 157,
@@ -70,7 +70,7 @@
                     "ghost"
                 ],
                 "spriteSuffix": "hisui",
-                "desc": "Typhlosion, in its Hisui Form, is a Fire and Ghost type Pokémon with the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Dark, Ghost, Psychic, and Bug types but is weak to Water, Rock, Ground, and Ghost types."
+                "desc": "Typhlosion, in its Hisui Form, is a Fire and Ghost type Pokemon with the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Dark, Ghost, Psychic, and Bug types but is weak to Water, Rock, Ground, and Ghost types."
             }
         ]
     },
@@ -81,7 +81,7 @@
         "types": [
             "water"
         ],
-        "desc": "Oshawott, a Water type Pokémon, has the ability 'Torrent.' It excels against Fire, Water, Ice, and Steel types but is weak to Grass and Electric types."
+        "desc": "Oshawott, a Water type Pokemon, has the ability 'Torrent.' It excels against Fire, Water, Ice, and Steel types but is weak to Grass and Electric types."
     },
     {
         "id": 502,
@@ -90,7 +90,7 @@
         "types": [
             "water"
         ],
-        "desc": "Dewott, a Water type Pokémon, possesses the ability 'Torrent.' It excels against Fire, Water, Ice, and Steel types but is weak to Grass and Electric types."
+        "desc": "Dewott, a Water type Pokemon, possesses the ability 'Torrent.' It excels against Fire, Water, Ice, and Steel types but is weak to Grass and Electric types."
     },
     {
         "id": 503,
@@ -106,7 +106,7 @@
                     "dark"
                 ],
                 "spriteSuffix": "hisui",
-                "desc": "Samurott, in its Hisui Form, is a Water and Dark type Pokémon with the ability 'Torrent.' It excels against Fire, Water, Ice, Steel, Dark, and Psychic types but is weak to Grass and Electric types."
+                "desc": "Samurott, in its Hisui Form, is a Water and Dark type Pokemon with the ability 'Torrent.' It excels against Fire, Water, Ice, Steel, Dark, and Psychic types but is weak to Grass and Electric types."
             }
         ]
     },
@@ -117,7 +117,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Bidoof, a Normal type Pokémon, possesses the ability 'Simple.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Bidoof, a Normal type Pokemon, possesses the ability 'Simple.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 400,
@@ -126,7 +126,7 @@
             "normal",
             "water"
         ],
-        "desc": "Bibarel, a Normal and Water type Pokémon, has the ability 'Simple.' It excels against none in particular but is weak to Electric and Grass types."
+        "desc": "Bibarel, a Normal and Water type Pokemon, has the ability 'Simple.' It excels against none in particular but is weak to Electric and Grass types."
     },
     {
         "id": 396,
@@ -136,7 +136,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Starly, a Normal and Flying type Pokémon, possesses the ability 'Keen Eye.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
+        "desc": "Starly, a Normal and Flying type Pokemon, possesses the ability 'Keen Eye.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
     },
     {
         "id": 397,
@@ -146,7 +146,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Staravia, a Normal and Flying type Pokémon, comes with the ability 'Intimidate.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
+        "desc": "Staravia, a Normal and Flying type Pokemon, comes with the ability 'Intimidate.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
     },
     {
         "id": 398,
@@ -155,7 +155,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Staraptor, a Normal and Flying type Pokémon, possesses the ability 'Intimidate.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
+        "desc": "Staraptor, a Normal and Flying type Pokemon, possesses the ability 'Intimidate.' It excels against none in particular but is weak to Electric, Ice, and Rock types."
     },
     {
         "id": 403,
@@ -164,7 +164,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Shinx, an Electric type Pokémon, has the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Shinx, an Electric type Pokemon, has the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 404,
@@ -173,7 +173,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Luxio, an Electric type Pokémon, comes with the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Luxio, an Electric type Pokemon, comes with the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 405,
@@ -181,7 +181,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Luxray, an Electric type Pokémon, possesses the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Luxray, an Electric type Pokemon, possesses the ability 'Rivalry.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 265,
@@ -190,7 +190,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Wurmple, a Bug type Pokémon, has the ability 'Shield Dust.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
+        "desc": "Wurmple, a Bug type Pokemon, has the ability 'Shield Dust.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
     },
     {
         "id": 266,
@@ -199,7 +199,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Silcoon, a Bug type Pokémon, possesses the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
+        "desc": "Silcoon, a Bug type Pokemon, possesses the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
     },
     {
         "id": 267,
@@ -208,7 +208,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Beautifly, a Bug and Flying type Pokémon, comes with the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
+        "desc": "Beautifly, a Bug and Flying type Pokemon, comes with the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
     },
     {
         "id": 268,
@@ -217,7 +217,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Cascoon, a Bug type Pokémon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
+        "desc": "Cascoon, a Bug type Pokemon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
     },
     {
         "id": 269,
@@ -226,7 +226,7 @@
             "bug",
             "poison"
         ],
-        "desc": "Dustox, a Bug and Poison type Pokémon, possesses the ability 'Shield Dust.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Flying, Rock, and Psychic types."
+        "desc": "Dustox, a Bug and Poison type Pokemon, possesses the ability 'Shield Dust.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Flying, Rock, and Psychic types."
     },
     {
         "id": 77,
@@ -235,7 +235,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Ponyta, a Fire type Pokémon, has the ability 'Run Away.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Ponyta, a Fire type Pokemon, has the ability 'Run Away.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 78,
@@ -243,7 +243,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Rapidash, a Fire type Pokémon, possesses the ability 'Run Away.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Rapidash, a Fire type Pokemon, possesses the ability 'Run Away.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 133,
@@ -252,7 +252,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Eevee, a Normal type Pokémon, has the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Eevee, a Normal type Pokemon, has the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 134,
@@ -260,7 +260,7 @@
         "types": [
             "water"
         ],
-        "desc": "Vaporeon, a Water type Pokémon, possesses the ability 'Water Absorb.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Vaporeon, a Water type Pokemon, possesses the ability 'Water Absorb.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 135,
@@ -268,7 +268,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Jolteon, an Electric type Pokémon, has the ability 'Volt Absorb.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Jolteon, an Electric type Pokemon, has the ability 'Volt Absorb.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 136,
@@ -276,7 +276,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Flareon, a Fire type Pokémon, possesses the ability 'Flash Fire.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Flareon, a Fire type Pokemon, possesses the ability 'Flash Fire.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 196,
@@ -284,7 +284,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Espeon, a Psychic type Pokémon, comes with the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
+        "desc": "Espeon, a Psychic type Pokemon, comes with the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
     },
     {
         "id": 197,
@@ -292,7 +292,7 @@
         "types": [
             "dark"
         ],
-        "desc": "Umbreon, a Dark type Pokémon, possesses the ability 'Synchronize.' It excels against Ghost and Psychic types but is weak to Bug and Fighting types."
+        "desc": "Umbreon, a Dark type Pokemon, possesses the ability 'Synchronize.' It excels against Ghost and Psychic types but is weak to Bug and Fighting types."
     },
     {
         "id": 470,
@@ -300,7 +300,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Leafeon, a Grass type Pokémon, has the ability 'Leaf Guard.' It excels against Water, Ground, and Rock types but is weak to Fire, Ice, Poison, and Flying types."
+        "desc": "Leafeon, a Grass type Pokemon, has the ability 'Leaf Guard.' It excels against Water, Ground, and Rock types but is weak to Fire, Ice, Poison, and Flying types."
     },
     {
         "id": 471,
@@ -308,7 +308,7 @@
         "types": [
             "ice"
         ],
-        "desc": "Glaceon, an Ice type Pokémon, possesses the ability 'Ice Body.' It excels against Ground and Flying types but is weak to Fire, Fighting, Rock, and Steel types."
+        "desc": "Glaceon, an Ice type Pokemon, possesses the ability 'Ice Body.' It excels against Ground and Flying types but is weak to Fire, Fighting, Rock, and Steel types."
     },
     {
         "id": 700,
@@ -316,7 +316,7 @@
         "types": [
             "fairy"
         ],
-        "desc": "Sylveon, a Fairy type Pokémon, comes with the ability 'Cute Charm.' It excels against Fighting and Dragon types but is weak to Steel and Poison types."
+        "desc": "Sylveon, a Fairy type Pokemon, comes with the ability 'Cute Charm.' It excels against Fighting and Dragon types but is weak to Steel and Poison types."
     },
     {
         "id": 41,
@@ -326,7 +326,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Zubat, a Poison and Flying type Pokémon, possesses the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
+        "desc": "Zubat, a Poison and Flying type Pokemon, possesses the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
     },
     {
         "id": 42,
@@ -336,7 +336,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Golbat, a Poison and Flying type Pokémon, has the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
+        "desc": "Golbat, a Poison and Flying type Pokemon, has the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
     },
     {
         "id": 169,
@@ -345,7 +345,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Crobat, a Poison and Flying type Pokémon, possesses the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
+        "desc": "Crobat, a Poison and Flying type Pokemon, possesses the ability 'Inner Focus.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Psychic, and Rock types."
     },
     {
         "id": 425,
@@ -355,7 +355,7 @@
             "ghost",
             "flying"
         ],
-        "desc": "Drifloon, a Ghost and Flying type Pokémon, has the ability 'Aftermath.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Rock, Dark, and Ghost types."
+        "desc": "Drifloon, a Ghost and Flying type Pokemon, has the ability 'Aftermath.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Rock, Dark, and Ghost types."
     },
     {
         "id": 426,
@@ -364,7 +364,7 @@
             "ghost",
             "flying"
         ],
-        "desc": "Drifblim, a Ghost and Flying type Pokémon, possesses the ability 'Aftermath.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Rock, Dark, and Ghost types."
+        "desc": "Drifblim, a Ghost and Flying type Pokemon, possesses the ability 'Aftermath.' It excels against Grass, Bug, and Fighting types but is weak to Electric, Ice, Rock, Dark, and Ghost types."
     },
     {
         "id": 401,
@@ -373,7 +373,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Kricketot, a Bug type Pokémon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
+        "desc": "Kricketot, a Bug type Pokemon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
     },
     {
         "id": 402,
@@ -381,7 +381,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Kricketune, a Bug type Pokémon, possesses the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Flying, Rock, and Fairy types."
+        "desc": "Kricketune, a Bug type Pokemon, possesses the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Flying, Rock, and Fairy types."
     },
     {
         "id": 418,
@@ -390,7 +390,7 @@
         "types": [
             "water"
         ],
-        "desc": "Buizel, a Water type Pokémon, comes with the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Buizel, a Water type Pokemon, comes with the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 419,
@@ -398,7 +398,7 @@
         "types": [
             "water"
         ],
-        "desc": "Floatzel, a Water type Pokémon, possesses the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Floatzel, a Water type Pokemon, possesses the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 412,
@@ -407,7 +407,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Burmy, a Bug type Pokémon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
+        "desc": "Burmy, a Bug type Pokemon, has the ability 'Shed Skin.' It excels against Grass, Psychic, and Dark types but is weak to Fire, Flying, and Rock types."
     },
     {
         "id": 413,
@@ -416,7 +416,7 @@
             "bug",
             "grass"
         ],
-        "desc": "Wormadam, a Bug and Grass type Pokémon, possesses the ability 'Anticipation.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Wormadam, a Bug and Grass type Pokemon, possesses the ability 'Anticipation.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 414,
@@ -425,7 +425,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Mothim, a Bug and Flying type Pokémon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
+        "desc": "Mothim, a Bug and Flying type Pokemon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
     },
     {
         "id": 74,
@@ -435,7 +435,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Geodude, a Rock and Ground type Pokémon, possesses the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
+        "desc": "Geodude, a Rock and Ground type Pokemon, possesses the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
     },
     {
         "id": 75,
@@ -445,7 +445,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Graveler, a Rock and Ground type Pokémon, comes with the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
+        "desc": "Graveler, a Rock and Ground type Pokemon, comes with the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
     },
     {
         "id": 76,
@@ -454,7 +454,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Golem, a Rock and Ground type Pokémon, possesses the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
+        "desc": "Golem, a Rock and Ground type Pokemon, possesses the ability 'Rock Head.' It excels against Fire, Electric, Poison, Normal, and Rock types but is weak to Water, Grass, Ice, Fighting, Ground, and Steel types."
     },
     {
         "id": 234,
@@ -463,7 +463,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Stantler, a Normal type Pokémon, has the ability 'Intimidate.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Stantler, a Normal type Pokemon, has the ability 'Intimidate.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 899,
@@ -472,7 +472,7 @@
             "normal",
             "psychic"
         ],
-        "desc": "Wyrdeer, a Normal and Psychic type Pokémon, comes with the ability 'Overcoat.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
+        "desc": "Wyrdeer, a Normal and Psychic type Pokemon, comes with the ability 'Overcoat.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
     },
     {
         "id": 446,
@@ -481,7 +481,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Munchlax, a Normal type Pokémon, has the ability 'Pickup.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Munchlax, a Normal type Pokemon, has the ability 'Pickup.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 143,
@@ -489,7 +489,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Snorlax, a Normal type Pokémon, comes with the ability 'Immunity.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Snorlax, a Normal type Pokemon, comes with the ability 'Immunity.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 46,
@@ -499,7 +499,7 @@
             "bug",
             "grass"
         ],
-        "desc": "Paras, a Bug and Grass type Pokémon, has the ability 'Effect Spore.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, Poison, and Bug types."
+        "desc": "Paras, a Bug and Grass type Pokemon, has the ability 'Effect Spore.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, Poison, and Bug types."
     },
     {
         "id": 47,
@@ -508,7 +508,7 @@
             "bug",
             "grass"
         ],
-        "desc": "Parasect, a Bug and Grass type Pokémon, has the ability 'Effect Spore.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, Poison, and Bug types."
+        "desc": "Parasect, a Bug and Grass type Pokemon, has the ability 'Effect Spore.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, Poison, and Bug types."
     },
     {
         "id": 172,
@@ -517,7 +517,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Pichu, an Electric type Pokémon, possesses the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Pichu, an Electric type Pokemon, possesses the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 25,
@@ -526,7 +526,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Pikachu, an Electric type Pokémon, has the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Pikachu, an Electric type Pokemon, has the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 26,
@@ -534,7 +534,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Raichu, an Electric type Pokémon, comes with the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
+        "desc": "Raichu, an Electric type Pokemon, comes with the ability 'Static.' It excels against Water and Flying types but is weak to Ground types."
     },
     {
         "id": 63,
@@ -543,7 +543,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Abra, a Psychic type Pokémon, possesses the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
+        "desc": "Abra, a Psychic type Pokemon, possesses the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
     },
     {
         "id": 64,
@@ -552,7 +552,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Kadabra, a Psychic type Pokémon, comes with the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
+        "desc": "Kadabra, a Psychic type Pokemon, comes with the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
     },
     {
         "id": 65,
@@ -560,7 +560,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Alakazam, a Psychic type Pokémon, possesses the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
+        "desc": "Alakazam, a Psychic type Pokemon, possesses the ability 'Synchronize.' It excels against Fighting and Poison types but is weak to Bug, Ghost, and Dark types."
     },
     {
         "id": 390,
@@ -569,7 +569,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Chimchar, a Fire type Pokémon, has the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
+        "desc": "Chimchar, a Fire type Pokemon, has the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, and Bug types but is weak to Water, Rock, and Ground types."
     },
     {
         "id": 391,
@@ -579,7 +579,7 @@
             "fire",
             "fighting"
         ],
-        "desc": "Monferno, a Fire and Fighting type Pokémon, possesses the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Rock, Dark, and Normal types but is weak to Water, Psychic, Ground, and Flying types."
+        "desc": "Monferno, a Fire and Fighting type Pokemon, possesses the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Rock, Dark, and Normal types but is weak to Water, Psychic, Ground, and Flying types."
     },
     {
         "id": 392,
@@ -588,7 +588,7 @@
             "fire",
             "fighting"
         ],
-        "desc": "Infernape, a Fire and Fighting type Pokémon, has the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Rock, Dark, and Normal types but is weak to Water, Psychic, Ground, and Flying types."
+        "desc": "Infernape, a Fire and Fighting type Pokemon, has the ability 'Blaze.' It excels against Bug, Steel, Grass, Ice, Rock, Dark, and Normal types but is weak to Water, Psychic, Ground, and Flying types."
     },
     {
         "id": 427,
@@ -597,7 +597,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Buneary, a Normal type Pokémon, has the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Buneary, a Normal type Pokemon, has the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 428,
@@ -605,7 +605,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Lopunny, a Normal type Pokémon, possesses the ability 'Cute Charm.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Lopunny, a Normal type Pokemon, possesses the ability 'Cute Charm.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 420,
@@ -614,7 +614,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Cherubi, a Grass type Pokémon, has the ability 'Chlorophyll.' It excels against Ground and Rock types but is weak to Fire, Ice, Poison, Flying, and Bug types."
+        "desc": "Cherubi, a Grass type Pokemon, has the ability 'Chlorophyll.' It excels against Ground and Rock types but is weak to Fire, Ice, Poison, Flying, and Bug types."
     },
     {
         "id": 421,
@@ -622,7 +622,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Cherrim, a Grass type Pokémon, possesses the ability 'Flower Gift.' It excels against Ground and Rock types but is weak to Fire, Ice, Poison, Flying, and Bug types."
+        "desc": "Cherrim, a Grass type Pokemon, possesses the ability 'Flower Gift.' It excels against Ground and Rock types but is weak to Fire, Ice, Poison, Flying, and Bug types."
     },
     {
         "id": 54,
@@ -631,7 +631,7 @@
         "types": [
             "water"
         ],
-        "desc": "Psyduck, a Water type Pokémon, has the ability 'Damp.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Psyduck, a Water type Pokemon, has the ability 'Damp.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 55,
@@ -639,7 +639,7 @@
         "types": [
             "water"
         ],
-        "desc": "Golduck, a Water type Pokémon, possesses the ability 'Damp.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Golduck, a Water type Pokemon, possesses the ability 'Damp.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 415,
@@ -649,7 +649,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Combee, a Bug and Flying type Pokémon, has the ability 'Honey Gather.' It excels against Grass, Fighting, Bug, and Fairy types but is weak to Electric, Ice, Rock, and Fire types."
+        "desc": "Combee, a Bug and Flying type Pokemon, has the ability 'Honey Gather.' It excels against Grass, Fighting, Bug, and Fairy types but is weak to Electric, Ice, Rock, and Fire types."
     },
     {
         "id": 416,
@@ -658,7 +658,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Vespiquen, a Bug and Flying type Pokémon, possesses the ability 'Pressure.' It excels against Grass, Fighting, Bug, and Fairy types but is weak to Electric, Ice, Rock, and Fire types."
+        "desc": "Vespiquen, a Bug and Flying type Pokemon, possesses the ability 'Pressure.' It excels against Grass, Fighting, Bug, and Fairy types but is weak to Electric, Ice, Rock, and Fire types."
     },
     {
         "id": 123,
@@ -668,7 +668,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Scyther, a Bug and Flying type Pokémon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
+        "desc": "Scyther, a Bug and Flying type Pokemon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, and Fighting types but is weak to Fire, Electric, Ice, Flying, and Rock types."
     },
     {
         "id": 900,
@@ -677,7 +677,7 @@
             "bug",
             "rock"
         ],
-        "desc": "Kleavor, a Bug and Rock type Pokémon, comes with the ability 'Levitate.' It excels against Normal, Fire, Ice, Poison, and Psychic types but is weak to Rock, Water, Steel, and Electric types."
+        "desc": "Kleavor, a Bug and Rock type Pokemon, comes with the ability 'Levitate.' It excels against Normal, Fire, Ice, Poison, and Psychic types but is weak to Rock, Water, Steel, and Electric types."
     },
     {
         "id": 212,
@@ -686,7 +686,7 @@
             "bug",
             "steel"
         ],
-        "desc": "Scizor, a Bug and Steel type Pokémon, possesses the ability 'Swarm.' It excels against Grass, Psychic, Dark, Ice, Normal, Steel, and Fairy types but is weak to Fire."
+        "desc": "Scizor, a Bug and Steel type Pokemon, possesses the ability 'Swarm.' It excels against Grass, Psychic, Dark, Ice, Normal, Steel, and Fairy types but is weak to Fire."
     },
     {
         "id": 214,
@@ -695,7 +695,7 @@
             "bug",
             "fighting"
         ],
-        "desc": "Heracross, a Bug and Fighting type Pokémon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, Ice, Rock, Normal, Steel, and Fairy types but is weak to Flying and Fire types."
+        "desc": "Heracross, a Bug and Fighting type Pokemon, has the ability 'Swarm.' It excels against Grass, Psychic, Dark, Ice, Rock, Normal, Steel, and Fairy types but is weak to Flying and Fire types."
     },
     {
         "id": 439,
@@ -705,7 +705,7 @@
             "psychic",
             "fairy"
         ],
-        "desc": "Mime Jr., a Psychic and Fairy type Pokémon, possesses the ability 'Soundproof.' It excels against Fighting, Dragon, and Dark types but is weak to Ghost, Steel, and Poison types."
+        "desc": "Mime Jr., a Psychic and Fairy type Pokemon, possesses the ability 'Soundproof.' It excels against Fighting, Dragon, and Dark types but is weak to Ghost, Steel, and Poison types."
     },
     {
         "id": 122,
@@ -714,7 +714,7 @@
             "psychic",
             "fairy"
         ],
-        "desc": "Mr. Mime, a Psychic and Fairy type Pokémon, has the ability 'Soundproof.' It excels against Fighting, Dragon, and Dark types but is weak to Ghost, Steel, and Poison types."
+        "desc": "Mr. Mime, a Psychic and Fairy type Pokemon, has the ability 'Soundproof.' It excels against Fighting, Dragon, and Dark types but is weak to Ghost, Steel, and Poison types."
     },
     {
         "id": 190,
@@ -723,7 +723,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Aipom, a Normal type Pokémon, possesses the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Aipom, a Normal type Pokemon, possesses the ability 'Run Away.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 424,
@@ -731,7 +731,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Ambipom, a Normal type Pokémon, comes with the ability 'Technician.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Ambipom, a Normal type Pokemon, comes with the ability 'Technician.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 129,
@@ -740,7 +740,7 @@
         "types": [
             "water"
         ],
-        "desc": "Magikarp, a Water type Pokémon, has the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Magikarp, a Water type Pokemon, has the ability 'Swift Swim.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 130,
@@ -749,7 +749,7 @@
             "water",
             "flying"
         ],
-        "desc": "Gyarados, a Water and Flying type Pokémon, possesses the ability 'Intimidate.' It excels against Fire, Water, Fighting, Ground, and Bug types but is weak to Electric and Rock types."
+        "desc": "Gyarados, a Water and Flying type Pokemon, possesses the ability 'Intimidate.' It excels against Fire, Water, Fighting, Ground, and Bug types but is weak to Electric and Rock types."
     },
     {
         "id": 422,
@@ -758,7 +758,7 @@
         "types": [
             "water"
         ],
-        "desc": "Shellos, a Water type Pokémon, has the ability 'Storm Drain.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
+        "desc": "Shellos, a Water type Pokemon, has the ability 'Storm Drain.' It excels against Fire, Water, Ice, and Steel types but is weak to Electric and Grass types."
     },
     {
         "id": 423,
@@ -767,7 +767,7 @@
             "water",
             "ground"
         ],
-        "desc": "Gastrodon, a Water and Ground type Pokémon, possesses the ability 'Storm Drain.' It excels against Fire, Water, Electric, Rock, Steel, and Poison types but is weak to Grass types."
+        "desc": "Gastrodon, a Water and Ground type Pokemon, possesses the ability 'Storm Drain.' It excels against Fire, Water, Electric, Rock, Steel, and Poison types but is weak to Grass types."
     },
     {
         "id": 211,
@@ -777,7 +777,7 @@
             "water",
             "poison"
         ],
-        "desc": "Qwilfish, a Water and Poison type Pokémon, has the ability 'Poison Point.' It excels against Ground, Rock, Fire, and Electric types but is weak to Psychic and Ground types."
+        "desc": "Qwilfish, a Water and Poison type Pokemon, has the ability 'Poison Point.' It excels against Ground, Rock, Fire, and Electric types but is weak to Psychic and Ground types."
     },
     {
         "id": 904,
@@ -786,7 +786,7 @@
             "dark",
             "poison"
         ],
-        "desc": "Overqwil, a Dark and Poison type Pokémon, comes with the ability 'Quick Draw.' It excels against Psychic and Grass types but is weak to Ground."
+        "desc": "Overqwil, a Dark and Poison type Pokemon, comes with the ability 'Quick Draw.' It excels against Psychic and Grass types but is weak to Ground."
     },
     {
         "id": 440,
@@ -795,7 +795,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Happiny, a Normal type Pokémon, has the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Happiny, a Normal type Pokemon, has the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 113,
@@ -804,7 +804,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Chansey, a Normal type Pokémon, possesses the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Chansey, a Normal type Pokemon, possesses the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 242,
@@ -812,7 +812,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Blissey, a Normal type Pokémon, comes with the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
+        "desc": "Blissey, a Normal type Pokemon, comes with the ability 'Natural Cure.' It excels against none in particular but is weak to Fighting types."
     },
     {
         "id": 406,
@@ -822,7 +822,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Budew, a Grass and Poison type Pokémon, has the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
+        "desc": "Budew, a Grass and Poison type Pokemon, has the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
     },
     {
         "id": 315,
@@ -832,7 +832,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Roselia, a Grass and Poison type Pokémon, possesses the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
+        "desc": "Roselia, a Grass and Poison type Pokemon, possesses the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
     },
     {
         "id": 407,
@@ -841,7 +841,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Roserade, a Grass and Poison type Pokémon, has the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
+        "desc": "Roserade, a Grass and Poison type Pokemon, has the ability 'Natural Cure.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Psychic types."
     },
     {
         "id": 455,
@@ -849,7 +849,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Carnivine, a Grass type Pokémon, possesses the ability 'Levitate.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Carnivine, a Grass type Pokemon, possesses the ability 'Levitate.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 548,
@@ -858,7 +858,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Petilil, a Grass type Pokémon, comes with the ability 'Own Tempo.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Petilil, a Grass type Pokemon, comes with the ability 'Own Tempo.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 549,
@@ -866,7 +866,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Lilligant, a Grass type Pokémon, has the ability 'Own Tempo.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Lilligant, a Grass type Pokemon, has the ability 'Own Tempo.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 114,
@@ -875,7 +875,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Tangela, a Grass type Pokémon, comes with the ability 'Chlorophyll.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Tangela, a Grass type Pokemon, comes with the ability 'Chlorophyll.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 465,
@@ -883,7 +883,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Tangrowth, a Grass type Pokémon, possesses the ability 'Chlorophyll.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
+        "desc": "Tangrowth, a Grass type Pokemon, possesses the ability 'Chlorophyll.' It excels against Ground, Rock, Water, and Electric types but is weak to Fire, Flying, Ice, and Bug types."
     },
     {
         "id": 339,
@@ -893,7 +893,7 @@
             "water",
             "ground"
         ],
-        "desc": "Barboach, a Water and Ground type Pokémon, has the ability 'Oblivious.' It excels against Fire, Steel, Poison, Rock, and Electric types but is weak to Grass."
+        "desc": "Barboach, a Water and Ground type Pokemon, has the ability 'Oblivious.' It excels against Fire, Steel, Poison, Rock, and Electric types but is weak to Grass."
     },
     {
         "id": 340,
@@ -902,7 +902,7 @@
             "water",
             "ground"
         ],
-        "desc": "Whiscash, a Water and Ground type Pokémon, possesses the ability 'Oblivious.' It excels against Fire, Steel, Poison, Rock, and Electric types but is weak to Grass."
+        "desc": "Whiscash, a Water and Ground type Pokemon, possesses the ability 'Oblivious.' It excels against Fire, Steel, Poison, Rock, and Electric types but is weak to Grass."
     },
     {
         "id": 453,
@@ -912,7 +912,7 @@
             "poison",
             "fighting"
         ],
-        "desc": "Croagunk, a Poison and Fighting type Pokémon, has the ability 'Anticipation.' It excels against Grass, Fighting, Poison, Ice, Dark, Normal, Rock, and Steel types but is weak to Psychic and Ground types."
+        "desc": "Croagunk, a Poison and Fighting type Pokemon, has the ability 'Anticipation.' It excels against Grass, Fighting, Poison, Ice, Dark, Normal, Rock, and Steel types but is weak to Psychic and Ground types."
     },
     {
         "id": 454,
@@ -921,7 +921,7 @@
             "poison",
             "fighting"
         ],
-        "desc": "Toxicroak, a Poison and Fighting type Pokémon, possesses the ability 'Anticipation.' It excels against Grass, Fighting, Poison, Ice, Dark, Normal, Rock, and Steel types but is weak to Psychic and Ground types."
+        "desc": "Toxicroak, a Poison and Fighting type Pokemon, possesses the ability 'Anticipation.' It excels against Grass, Fighting, Poison, Ice, Dark, Normal, Rock, and Steel types but is weak to Psychic and Ground types."
     },
     {
         "id": 280,
@@ -931,7 +931,7 @@
             "psychic",
             "fairy"
         ],
-        "desc": "Ralts, a Psychic and Fairy type Pokémon, has the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
+        "desc": "Ralts, a Psychic and Fairy type Pokemon, has the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
     },
     {
         "id": 281,
@@ -941,7 +941,7 @@
             "psychic",
             "fairy"
         ],
-        "desc": "Kirlia, a Psychic and Fairy type Pokémon, possesses the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
+        "desc": "Kirlia, a Psychic and Fairy type Pokemon, possesses the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
     },
     {
         "id": 282,
@@ -950,7 +950,7 @@
             "psychic",
             "fairy"
         ],
-        "desc": "Gardevoir, a Psychic and Fairy type Pokémon, comes with the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
+        "desc": "Gardevoir, a Psychic and Fairy type Pokemon, comes with the ability 'Synchronize.' It excels against Fighting, Dragon, Dark, and Bug types but is weak to Ghost and Steel types."
     },
     {
         "id": 475,
@@ -959,67 +959,67 @@
             "psychic",
             "fighting"
         ],
-        "desc": "Gallade, a Psychic and Fighting type Pokémon, possesses the ability 'Steadfast.' It excels against Fighting, Dragon, Dark, Normal, Rock, Steel, and Ice types but is weak to Flying and Ghost types."
+        "desc": "Gallade, a Psychic and Fighting type Pokemon, possesses the ability 'Steadfast.' It excels against Fighting, Dragon, Dark, Normal, Rock, Steel, and Ice types but is weak to Flying and Ghost types."
     },
     {
         "id": 193,
         "name": "Yanma",
-        "desc": "Yanma is a Bug and Flying type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Yanma is a Bug and Flying type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 469,
         "name": "Yanmega",
-        "desc": "Yanmega is a Bug and Flying type Pokémon."
+        "desc": "Yanmega is a Bug and Flying type Pokemon."
     },
     {
         "id": 449,
         "name": "Hippopotas",
-        "desc": "Hippopotas is a Ground type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Hippopotas is a Ground type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 450,
         "name": "Hippowdon",
-        "desc": "Hippowdon is a Ground type Pokémon with a female form."
+        "desc": "Hippowdon is a Ground type Pokemon with a female form."
     },
     {
         "id": 417,
         "name": "Pachirisu",
-        "desc": "Pachirisu is an Electric type Pokémon."
+        "desc": "Pachirisu is an Electric type Pokemon."
     },
     {
         "id": 434,
         "name": "Stunky",
-        "desc": "Stunky is a Poison and Dark type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Stunky is a Poison and Dark type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 435,
         "name": "Skuntank",
-        "desc": "Skuntank is a Poison and Dark type Pokémon."
+        "desc": "Skuntank is a Poison and Dark type Pokemon."
     },
     {
         "id": 216,
         "name": "Teddiursa",
-        "desc": "Teddiursa is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Teddiursa is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 217,
         "name": "Ursaring",
-        "desc": "Ursaring is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Ursaring is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 901,
         "name": "Ursaluna",
-        "desc": "Ursaluna is a Ground and Normal type Pokémon."
+        "desc": "Ursaluna is a Ground and Normal type Pokemon."
     },
     {
         "id": 704,
         "name": "Goomy",
-        "desc": "Goomy is a Dragon type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Goomy is a Dragon type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 705,
         "name": "Sliggoo",
-        "desc": "Sliggoo is a Dragon type Pokémon with a Hisui form that is Steel and Dragon type and not fully evolved (NFE)."
+        "desc": "Sliggoo is a Dragon type Pokemon with a Hisui form that is Steel and Dragon type and not fully evolved (NFE)."
     },
     {
         "id": 706,
@@ -1037,7 +1037,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Goodra is a Dragon type Pokémon with a Hisui form that is Steel and Dragon type. It is not fully evolved (NFE)."
+        "desc": "Goodra is a Dragon type Pokemon with a Hisui form that is Steel and Dragon type. It is not fully evolved (NFE)."
     },
     {
         "id": 95,
@@ -1047,7 +1047,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Onix is a Rock and Ground type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Onix is a Rock and Ground type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 208,
@@ -1056,7 +1056,7 @@
             "steel",
             "ground"
         ],
-        "desc": "Steelix is a Steel and Ground type Pokémon."
+        "desc": "Steelix is a Steel and Ground type Pokemon."
     },
     {
         "id": 111,
@@ -1066,7 +1066,7 @@
             "ground",
             "rock"
         ],
-        "desc": "Rhyhorn is a Ground and Rock type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Rhyhorn is a Ground and Rock type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 112,
@@ -1076,7 +1076,7 @@
             "ground",
             "rock"
         ],
-        "desc": "Rhydon is a Ground and Rock type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Rhydon is a Ground and Rock type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 464,
@@ -1085,7 +1085,7 @@
             "ground",
             "rock"
         ],
-        "desc": "Rhyperior is a Ground and Rock type Pokémon."
+        "desc": "Rhyperior is a Ground and Rock type Pokemon."
     },
     {
         "id": 438,
@@ -1094,7 +1094,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Bonsly is a Rock type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Bonsly is a Rock type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 185,
@@ -1102,7 +1102,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Sudowoodo is a Rock type Pokémon."
+        "desc": "Sudowoodo is a Rock type Pokemon."
     },
     {
         "id": 108,
@@ -1111,7 +1111,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Lickitung is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Lickitung is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 463,
@@ -1119,7 +1119,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Lickilicky is a Normal type Pokémon."
+        "desc": "Lickilicky is a Normal type Pokemon."
     },
     {
         "id": 175,
@@ -1128,7 +1128,7 @@
         "types": [
             "fairy"
         ],
-        "desc": "Togepi is a Fairy type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Togepi is a Fairy type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 176,
@@ -1138,7 +1138,7 @@
             "fairy",
             "flying"
         ],
-        "desc": "Togetic is a Fairy and Flying type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Togetic is a Fairy and Flying type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 468,
@@ -1147,7 +1147,7 @@
             "fairy",
             "flying"
         ],
-        "desc": "Togekiss is a Fairy and Flying type Pokémon."
+        "desc": "Togekiss is a Fairy and Flying type Pokemon."
     },
     {
         "id": 387,
@@ -1156,7 +1156,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Turtwig is a Grass type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Turtwig is a Grass type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 388,
@@ -1165,7 +1165,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Grotle is a Grass type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Grotle is a Grass type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 389,
@@ -1174,7 +1174,7 @@
             "grass",
             "ground"
         ],
-        "desc": "Torterra is a Grass and Ground type Pokémon."
+        "desc": "Torterra is a Grass and Ground type Pokemon."
     },
     {
         "id": 137,
@@ -1183,7 +1183,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Porygon is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Porygon is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 233,
@@ -1192,7 +1192,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Porygon2 is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Porygon2 is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 474,
@@ -1200,7 +1200,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Porygon-Z is a Normal type Pokémon."
+        "desc": "Porygon-Z is a Normal type Pokemon."
     },
     {
         "id": 92,
@@ -1210,7 +1210,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Gastly is a Ghost and Poison type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Gastly is a Ghost and Poison type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 93,
@@ -1220,7 +1220,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Haunter is a Ghost and Poison type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Haunter is a Ghost and Poison type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 94,
@@ -1229,7 +1229,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Gengar is a Ghost and Poison type Pokémon."
+        "desc": "Gengar is a Ghost and Poison type Pokemon."
     },
     {
         "id": 442,
@@ -1238,7 +1238,7 @@
             "ghost",
             "dark"
         ],
-        "desc": "Spiritomb is a Ghost and Dark type Pokémon."
+        "desc": "Spiritomb is a Ghost and Dark type Pokemon."
     },
     {
         "id": 198,
@@ -1248,7 +1248,7 @@
             "dark",
             "flying"
         ],
-        "desc": "Murkrow is a Dark and Flying type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Murkrow is a Dark and Flying type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 430,
@@ -1257,7 +1257,7 @@
             "dark",
             "flying"
         ],
-        "desc": "Honchkrow is a Dark and Flying type Pokémon."
+        "desc": "Honchkrow is a Dark and Flying type Pokemon."
     },
     {
         "id": 201,
@@ -1462,7 +1462,7 @@
                 "spriteSuffix": "question"
             }
         ],
-        "desc": "Unown is a Psychic type Pokémon with multiple forms, each corresponding to a letter or symbol."
+        "desc": "Unown is a Psychic type Pokemon with multiple forms, each corresponding to a letter or symbol."
     },
     {
         "id": 363,
@@ -1472,7 +1472,7 @@
             "ice",
             "water"
         ],
-        "desc": "Spheal is an Ice and Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Spheal is an Ice and Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 364,
@@ -1482,7 +1482,7 @@
             "ice",
             "water"
         ],
-        "desc": "Sealeo is an Ice and Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Sealeo is an Ice and Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 365,
@@ -1491,7 +1491,7 @@
             "ice",
             "water"
         ],
-        "desc": "Walrein is an Ice and Water type Pokémon."
+        "desc": "Walrein is an Ice and Water type Pokemon."
     },
     {
         "id": 223,
@@ -1500,7 +1500,7 @@
         "types": [
             "water"
         ],
-        "desc": "Remoraid is a Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Remoraid is a Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 224,
@@ -1508,7 +1508,7 @@
         "types": [
             "water"
         ],
-        "desc": "Octillery is a Water type Pokémon."
+        "desc": "Octillery is a Water type Pokemon."
     },
     {
         "id": 451,
@@ -1518,7 +1518,7 @@
             "poison",
             "bug"
         ],
-        "desc": "Skorupi is a Poison and Bug type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Skorupi is a Poison and Bug type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 452,
@@ -1527,7 +1527,7 @@
             "poison",
             "dark"
         ],
-        "desc": "Drapion is a Poison and Dark type Pokémon."
+        "desc": "Drapion is a Poison and Dark type Pokemon."
     },
     {
         "id": 58,
@@ -1547,7 +1547,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Growlithe is a Fire type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Growlithe is a Fire type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 59,
@@ -1565,7 +1565,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Arcanine is a Fire type Pokémon."
+        "desc": "Arcanine is a Fire type Pokemon."
     },
     {
         "id": 431,
@@ -1574,7 +1574,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Glameow is a Normal type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Glameow is a Normal type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 432,
@@ -1582,7 +1582,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Purugly is a Normal type Pokémon."
+        "desc": "Purugly is a Normal type Pokemon."
     },
     {
         "id": 66,
@@ -1591,7 +1591,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machop is a Fighting type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Machop is a Fighting type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 67,
@@ -1600,7 +1600,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machoke is a Fighting type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Machoke is a Fighting type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 68,
@@ -1608,7 +1608,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machamp is a Fighting type Pokémon."
+        "desc": "Machamp is a Fighting type Pokemon."
     },
     {
         "id": 441,
@@ -1617,7 +1617,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Chatot is a Normal and Flying type Pokémon."
+        "desc": "Chatot is a Normal and Flying type Pokemon."
     },
     {
         "id": 355,
@@ -1626,7 +1626,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Duskull is a Ghost type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Duskull is a Ghost type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 356,
@@ -1635,7 +1635,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Dusclops is a Ghost type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Dusclops is a Ghost type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 477,
@@ -1643,7 +1643,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Dusknoir is a Ghost type Pokémon."
+        "desc": "Dusknoir is a Ghost type Pokemon."
     },
     {
         "id": 393,
@@ -1652,7 +1652,7 @@
         "types": [
             "water"
         ],
-        "desc": "Piplup is a Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Piplup is a Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 394,
@@ -1661,7 +1661,7 @@
         "types": [
             "water"
         ],
-        "desc": "Prinplup is a Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Prinplup is a Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 395,
@@ -1670,7 +1670,7 @@
             "water",
             "steel"
         ],
-        "desc": "Empoleon is a Water and Steel type Pokémon."
+        "desc": "Empoleon is a Water and Steel type Pokemon."
     },
     {
         "id": 458,
@@ -1680,7 +1680,7 @@
             "water",
             "flying"
         ],
-        "desc": "Mantyke is a Water and Flying type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Mantyke is a Water and Flying type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 226,
@@ -1689,7 +1689,7 @@
             "water",
             "flying"
         ],
-        "desc": "Mantine is a Water and Flying type Pokémon."
+        "desc": "Mantine is a Water and Flying type Pokemon."
     },
     {
         "id": 550,
@@ -1720,7 +1720,7 @@
                 "spriteSuffix": "whitestriped"
             }
         ],
-        "desc": "Basculin is a Water type Pokémon with multiple forms."
+        "desc": "Basculin is a Water type Pokemon with multiple forms."
     },
     {
         "id": 902,
@@ -1746,7 +1746,7 @@
                 "spriteSuffix": "f"
             }
         ],
-        "desc": "Basculegion is a Water and Ghost type Pokémon with multiple forms."
+        "desc": "Basculegion is a Water and Ghost type Pokemon with multiple forms."
     },
     {
         "id": 37,
@@ -1755,7 +1755,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Vulpix is a Fire type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Vulpix is a Fire type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 38,
@@ -1763,7 +1763,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Ninetales is a Fire type Pokémon."
+        "desc": "Ninetales is a Fire type Pokemon."
     },
     {
         "id": 72,
@@ -1773,7 +1773,7 @@
             "water",
             "poison"
         ],
-        "desc": "Tentacool is a Water and Poison type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Tentacool is a Water and Poison type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 73,
@@ -1782,7 +1782,7 @@
             "water",
             "poison"
         ],
-        "desc": "Tentacruel is a Water and Poison type Pokémon."
+        "desc": "Tentacruel is a Water and Poison type Pokemon."
     },
     {
         "id": 456,
@@ -1791,7 +1791,7 @@
         "types": [
             "water"
         ],
-        "desc": "Finneon is a Water type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Finneon is a Water type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 457,
@@ -1799,7 +1799,7 @@
         "types": [
             "water"
         ],
-        "desc": "Lumineon is a Water type Pokémon."
+        "desc": "Lumineon is a Water type Pokemon."
     },
     {
         "id": 240,
@@ -1808,7 +1808,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Magby is a Fire type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Magby is a Fire type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 126,
@@ -1817,7 +1817,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Magmar is a Fire type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Magmar is a Fire type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 467,
@@ -1825,7 +1825,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Magmortar is a Fire type Pokémon."
+        "desc": "Magmortar is a Fire type Pokemon."
     },
     {
         "id": 81,
@@ -1835,7 +1835,7 @@
             "electric",
             "steel"
         ],
-        "desc": "Magnemite is an Electric and Steel type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Magnemite is an Electric and Steel type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 82,
@@ -1845,7 +1845,7 @@
             "electric",
             "steel"
         ],
-        "desc": "Magneton is an Electric and Steel type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Magneton is an Electric and Steel type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 462,
@@ -1854,7 +1854,7 @@
             "electric",
             "steel"
         ],
-        "desc": "Magnezone is an Electric and Steel type Pokémon."
+        "desc": "Magnezone is an Electric and Steel type Pokemon."
     },
     {
         "id": 436,
@@ -1864,7 +1864,7 @@
             "steel",
             "psychic"
         ],
-        "desc": "Bronzor is a Steel and Psychic type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Bronzor is a Steel and Psychic type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 437,
@@ -1873,7 +1873,7 @@
             "steel",
             "psychic"
         ],
-        "desc": "Bronzong is a Steel and Psychic type Pokémon."
+        "desc": "Bronzong is a Steel and Psychic type Pokemon."
     },
     {
         "id": 239,
@@ -1882,7 +1882,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Elekid is an Electric type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Elekid is an Electric type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 125,
@@ -1891,7 +1891,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Electabuzz is an Electric type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Electabuzz is an Electric type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 466,
@@ -1899,7 +1899,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Electivire is an Electric type Pokémon."
+        "desc": "Electivire is an Electric type Pokemon."
     },
     {
         "id": 207,
@@ -1909,7 +1909,7 @@
             "ground",
             "flying"
         ],
-        "desc": "Gligar is a Ground and Flying type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Gligar is a Ground and Flying type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 472,
@@ -1918,7 +1918,7 @@
             "ground",
             "flying"
         ],
-        "desc": "Gliscor is a Ground and Flying type Pokémon."
+        "desc": "Gliscor is a Ground and Flying type Pokemon."
     },
     {
         "id": 443,
@@ -1928,7 +1928,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Gible is a Dragon and Ground type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Gible is a Dragon and Ground type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 444,
@@ -1938,7 +1938,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Gabite is a Dragon and Ground type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Gabite is a Dragon and Ground type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 445,
@@ -1947,7 +1947,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Garchomp is a Dragon and Ground type Pokémon."
+        "desc": "Garchomp is a Dragon and Ground type Pokemon."
     },
     {
         "id": 299,
@@ -1956,7 +1956,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Nosepass is a Rock type Pokémon. It is not fully evolved (NFE)."
+        "desc": "Nosepass is a Rock type Pokemon. It is not fully evolved (NFE)."
     },
     {
         "id": 476,
@@ -1965,7 +1965,7 @@
             "rock",
             "steel"
         ],
-        "desc": "Probopass is a Rock and Steel type Pokémon."
+        "desc": "Probopass is a Rock and Steel type Pokemon."
     },
     {
         "id": 100,
@@ -1985,7 +1985,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Voltorb is an Electric-type Pokémon known for its round shape and explosive tendencies."
+        "desc": "Voltorb is an Electric-type Pokemon known for its round shape and explosive tendencies."
     },
     {
         "id": 101,
@@ -2061,7 +2061,7 @@
                 "spriteSuffix": "wash"
             }
         ],
-        "desc": "Rotom is a unique Pokémon that can possess household appliances and change its type accordingly."
+        "desc": "Rotom is a unique Pokemon that can possess household appliances and change its type accordingly."
     },
     {
         "id": 433,
@@ -2070,7 +2070,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Chingling is a Psychic-type Pokémon known for its soothing chime-like sounds."
+        "desc": "Chingling is a Psychic-type Pokemon known for its soothing chime-like sounds."
     },
     {
         "id": 358,
@@ -2087,7 +2087,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Misdreavus is a mischievous Ghost-type Pokémon that enjoys playing pranks on people."
+        "desc": "Misdreavus is a mischievous Ghost-type Pokemon that enjoys playing pranks on people."
     },
     {
         "id": 429,
@@ -2104,7 +2104,7 @@
         "types": [
             "fairy"
         ],
-        "desc": "Cleffa is a Fairy-type Pokémon that is often seen as a symbol of good luck and happiness."
+        "desc": "Cleffa is a Fairy-type Pokemon that is often seen as a symbol of good luck and happiness."
     },
     {
         "id": 35,
@@ -2113,7 +2113,7 @@
         "types": [
             "fairy"
         ],
-        "desc": "Clefairy is a Fairy-type Pokémon known for its ability to dance under the moonlight."
+        "desc": "Clefairy is a Fairy-type Pokemon known for its ability to dance under the moonlight."
     },
     {
         "id": 36,
@@ -2142,7 +2142,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Sneasel is a dual-type Pokémon known for its sharp claws and agile movements."
+        "desc": "Sneasel is a dual-type Pokemon known for its sharp claws and agile movements."
     },
     {
         "id": 903,
@@ -2160,7 +2160,7 @@
             "dark",
             "ice"
         ],
-        "desc": "Weavile is a cunning and swift Pokémon that uses its sharp claws to take down its prey."
+        "desc": "Weavile is a cunning and swift Pokemon that uses its sharp claws to take down its prey."
     },
     {
         "id": 361,
@@ -2169,7 +2169,7 @@
         "types": [
             "ice"
         ],
-        "desc": "Snorunt is an Ice-type Pokémon that is known for its love of cold and snowy environments."
+        "desc": "Snorunt is an Ice-type Pokemon that is known for its love of cold and snowy environments."
     },
     {
         "id": 362,
@@ -2186,7 +2186,7 @@
             "ice",
             "ghost"
         ],
-        "desc": "Froslass is an elegant and ghostly Pokémon that can freeze its foes with a breath of cold air."
+        "desc": "Froslass is an elegant and ghostly Pokemon that can freeze its foes with a breath of cold air."
     },
     {
         "id": 408,
@@ -2195,7 +2195,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Cranidos is a Rock-type Pokémon known for its powerful headbutting attacks."
+        "desc": "Cranidos is a Rock-type Pokemon known for its powerful headbutting attacks."
     },
     {
         "id": 409,
@@ -2213,7 +2213,7 @@
             "rock",
             "steel"
         ],
-        "desc": "Shieldon is a dual-type Pokémon with both Rock and Steel attributes, known for its defensive capabilities."
+        "desc": "Shieldon is a dual-type Pokemon with both Rock and Steel attributes, known for its defensive capabilities."
     },
     {
         "id": 411,
@@ -2222,7 +2222,7 @@
             "rock",
             "steel"
         ],
-        "desc": "Bastiodon is the evolved form of Shieldon and is a sturdy Rock and Steel-type Pokémon."
+        "desc": "Bastiodon is the evolved form of Shieldon and is a sturdy Rock and Steel-type Pokemon."
     },
     {
         "id": 220,
@@ -2232,7 +2232,7 @@
             "ice",
             "ground"
         ],
-        "desc": "Swinub is a dual-type Pokémon known for its love of digging in the ground and searching for food."
+        "desc": "Swinub is a dual-type Pokemon known for its love of digging in the ground and searching for food."
     },
     {
         "id": 221,
@@ -2242,7 +2242,7 @@
             "ice",
             "ground"
         ],
-        "desc": "Piloswine is the evolved form of Swinub and is a powerful Ice and Ground-type Pokémon."
+        "desc": "Piloswine is the evolved form of Swinub and is a powerful Ice and Ground-type Pokemon."
     },
     {
         "id": 473,
@@ -2251,7 +2251,7 @@
             "ice",
             "ground"
         ],
-        "desc": "Mamoswine is known for its formidable tusks and is a strong Ice and Ground-type Pokémon."
+        "desc": "Mamoswine is known for its formidable tusks and is a strong Ice and Ground-type Pokemon."
     },
     {
         "id": 712,
@@ -2260,7 +2260,7 @@
         "types": [
             "ice"
         ],
-        "desc": "Bergmite is an Ice-type Pokémon known for its icy body and ability to withstand freezing temperatures."
+        "desc": "Bergmite is an Ice-type Pokemon known for its icy body and ability to withstand freezing temperatures."
     },
     {
         "id": 713,
@@ -2278,7 +2278,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Avalugg is an Ice-type Pokémon that can take on the appearance of ancient ice formations in the Hisui region."
+        "desc": "Avalugg is an Ice-type Pokemon that can take on the appearance of ancient ice formations in the Hisui region."
     },
     {
         "id": 459,
@@ -2288,7 +2288,7 @@
             "grass",
             "ice"
         ],
-        "desc": "Snover is a unique dual-type Pokémon, combining Grass and Ice attributes, often found in snowy areas."
+        "desc": "Snover is a unique dual-type Pokemon, combining Grass and Ice attributes, often found in snowy areas."
     },
     {
         "id": 460,
@@ -2317,7 +2317,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Zorua is a Dark-type Pokémon with the ability to transform and deceive its opponents."
+        "desc": "Zorua is a Dark-type Pokemon with the ability to transform and deceive its opponents."
     },
     {
         "id": 571,
@@ -2335,7 +2335,7 @@
                 "spriteSuffix": "hisui"
             }
         ],
-        "desc": "Zoroark is known for its illusionary abilities, capable of taking on the appearance of other Pokémon."
+        "desc": "Zoroark is known for its illusionary abilities, capable of taking on the appearance of other Pokemon."
     },
     {
         "id": 627,
@@ -2345,7 +2345,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Rufflet is a dual-type Pokémon, combining Normal and Flying attributes, known for its courage and tenacity."
+        "desc": "Rufflet is a dual-type Pokemon, combining Normal and Flying attributes, known for its courage and tenacity."
     },
     {
         "id": 628,
@@ -2391,7 +2391,7 @@
             }
         ],
         "isLegendary": true,
-        "desc": "Enamorus is a Legendary Pokémon with the power of both Fairy and Flying types, known for its graceful and enchanting presence."
+        "desc": "Enamorus is a Legendary Pokemon with the power of both Fairy and Flying types, known for its graceful and enchanting presence."
     },
     {
         "id": 483,
@@ -2418,7 +2418,7 @@
                 "spriteSuffix": "origin"
             }
         ],
-        "desc": "Dialga is a Legendary Pokémon associated with time and steel, known for its control over time and temporal abilities."
+        "desc": "Dialga is a Legendary Pokemon associated with time and steel, known for its control over time and temporal abilities."
     },
     {
         "id": 484,
@@ -2445,7 +2445,7 @@
                 "spriteSuffix": "origin"
             }
         ],
-        "desc": "Palkia is a Legendary Pokémon associated with space and water, known for its ability to distort space and create alternate dimensions."
+        "desc": "Palkia is a Legendary Pokemon associated with space and water, known for its ability to distort space and create alternate dimensions."
     },
     {
         "id": 487,
@@ -2472,7 +2472,7 @@
             }
         ],
         "isLegendary": true,
-        "desc": "Giratina is a Legendary Pokémon known as the Renegade Pokémon, capable of traversing different dimensions and realms."
+        "desc": "Giratina is a Legendary Pokemon known as the Renegade Pokemon, capable of traversing different dimensions and realms."
     },
     {
         "id": 493,
@@ -2608,7 +2608,7 @@
             }
         ],
         "isLegendary": true,
-        "desc": "Arceus is a Legendary Pokémon known as the Original One, said to have shaped the Pokémon world and possesses the ability to change its type using different Plates."
+        "desc": "Arceus is a Legendary Pokemon known as the Original One, said to have shaped the Pokemon world and possesses the ability to change its type using different Plates."
     },
     {
         "id": 489,
@@ -2618,7 +2618,7 @@
             "water"
         ],
         "isLegendary": true,
-        "desc": "Phione is known as the Sea Drifter Pokémon and is said to be the child of Manaphy. It shares the same Water type as its parent."
+        "desc": "Phione is known as the Sea Drifter Pokemon and is said to be the child of Manaphy. It shares the same Water type as its parent."
     },
     {
         "id": 490,
@@ -2627,7 +2627,7 @@
             "water"
         ],
         "isLegendary": true,
-        "desc": "Manaphy is known as the Seafaring Pokémon and is said to be the parent of Phione. It possesses the power of the sea."
+        "desc": "Manaphy is known as the Seafaring Pokemon and is said to be the parent of Phione. It possesses the power of the sea."
     },
     {
         "id": 492,
@@ -2652,7 +2652,7 @@
             }
         ],
         "isLegendary": true,
-        "desc": "Shaymin is known as the Gratitude Pokémon and has a Sky Forme that allows it to take on a flying type. It's associated with flowers and nature."
+        "desc": "Shaymin is known as the Gratitude Pokemon and has a Sky Forme that allows it to take on a flying type. It's associated with flowers and nature."
     },
     {
         "id": 491,
@@ -2661,6 +2661,6 @@
             "dark"
         ],
         "isLegendary": true,
-        "desc": "Darkrai is known as the Pitch-Black Pokémon and is associated with nightmares and darkness. Its presence can induce terrifying dreams."
+        "desc": "Darkrai is known as the Pitch-Black Pokemon and is associated with nightmares and darkness. Its presence can induce terrifying dreams."
     }
 ]

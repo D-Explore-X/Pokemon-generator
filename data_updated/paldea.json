@@ -6,7 +6,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Sprigatito is a Grass-type Pokémon known for its cute and leafy appearance."
+    "desc": "Sprigatito is a Grass-type Pokemon known for its cute and leafy appearance."
   },
   {
     "id": 907,
@@ -15,7 +15,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Floragato is the evolved form of Sprigatito. It continues to be a Grass-type Pokémon."
+    "desc": "Floragato is the evolved form of Sprigatito. It continues to be a Grass-type Pokemon."
   },
   {
     "id": 908,
@@ -24,7 +24,7 @@
       "grass",
       "dark"
     ],
-    "desc": "Meowscarada is a dual-type Grass/Dark Pokémon known for its mysterious and masquerade-like appearance."
+    "desc": "Meowscarada is a dual-type Grass/Dark Pokemon known for its mysterious and masquerade-like appearance."
   },
   {
     "id": 909,
@@ -33,7 +33,7 @@
     "types": [
       "fire"
     ],
-    "desc": "Fuecoco is a Fire-type Pokémon known for its fiery and coconut-inspired design."
+    "desc": "Fuecoco is a Fire-type Pokemon known for its fiery and coconut-inspired design."
   },
   {
     "id": 910,
@@ -42,7 +42,7 @@
     "types": [
       "fire"
     ],
-    "desc": "Crocalor is the evolved form of Fuecoco. It continues to be a Fire-type Pokémon."
+    "desc": "Crocalor is the evolved form of Fuecoco. It continues to be a Fire-type Pokemon."
   },
   {
     "id": 911,
@@ -51,7 +51,7 @@
       "fire",
       "ghost"
     ],
-    "desc": "Skeledirge is a unique dual-type Fire/Ghost Pokémon with a skeletal and eerie appearance."
+    "desc": "Skeledirge is a unique dual-type Fire/Ghost Pokemon with a skeletal and eerie appearance."
   },
   {
     "id": 912,
@@ -60,7 +60,7 @@
     "types": [
       "water"
     ],
-    "desc": "Quaxly is a Water-type Pokémon known for its duck-like appearance."
+    "desc": "Quaxly is a Water-type Pokemon known for its duck-like appearance."
   },
   {
     "id": 913,
@@ -69,7 +69,7 @@
     "types": [
       "water"
     ],
-    "desc": "Quaxwell is the evolved form of Quaxly. It continues to be a Water-type Pokémon."
+    "desc": "Quaxwell is the evolved form of Quaxly. It continues to be a Water-type Pokemon."
   },
   {
     "id": 914,
@@ -78,7 +78,7 @@
       "water",
       "fighting"
     ],
-    "desc": "Quaquaval is a dual-type Water/Fighting Pokémon known for its martial arts skills."
+    "desc": "Quaquaval is a dual-type Water/Fighting Pokemon known for its martial arts skills."
   },
   {
     "id": 915,
@@ -87,7 +87,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Lechonk is a Normal-type Pokémon known for its chubby and playful appearance."
+    "desc": "Lechonk is a Normal-type Pokemon known for its chubby and playful appearance."
   },
   {
     "id": 916,
@@ -95,7 +95,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Oinkologne is the evolved form of Lechonk. It continues to be a Normal-type Pokémon."
+    "desc": "Oinkologne is the evolved form of Lechonk. It continues to be a Normal-type Pokemon."
   },
   {
     "id": 917,
@@ -104,7 +104,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Tarountula is a Bug-type Pokémon known for its tarantula-like appearance."
+    "desc": "Tarountula is a Bug-type Pokemon known for its tarantula-like appearance."
   },
   {
     "id": 918,
@@ -112,7 +112,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Spidops is the evolved form of Tarountula. It continues to be a Bug-type Pokémon."
+    "desc": "Spidops is the evolved form of Tarountula. It continues to be a Bug-type Pokemon."
   },
   {
     "id": 919,
@@ -121,7 +121,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Nymble is a Bug-type Pokémon known for its nimble and agile movements."
+    "desc": "Nymble is a Bug-type Pokemon known for its nimble and agile movements."
   },
   {
     "id": 920,
@@ -130,7 +130,7 @@
       "bug",
       "dark"
     ],
-    "desc": "Lokix is a dual-type Bug/Dark Pokémon with a mischievous and mysterious demeanor."
+    "desc": "Lokix is a dual-type Bug/Dark Pokemon with a mischievous and mysterious demeanor."
   },
   {
     "id": 187,
@@ -140,7 +140,7 @@
       "grass",
       "flying"
     ],
-    "desc": "Hoppip is a dual-type Grass/Flying Pokémon known for its lightweight and floating ability."
+    "desc": "Hoppip is a dual-type Grass/Flying Pokemon known for its lightweight and floating ability."
   },
   {
     "id": 188,
@@ -150,7 +150,7 @@
       "grass",
       "flying"
     ],
-    "desc": "Skiploom is the evolved form of Hoppip. It continues to be a Grass/Flying-type Pokémon."
+    "desc": "Skiploom is the evolved form of Hoppip. It continues to be a Grass/Flying-type Pokemon."
   },
   {
     "id": 189,
@@ -159,7 +159,7 @@
       "grass",
       "flying"
     ],
-    "desc": "Jumpluff is the final evolution of Hoppip. It's a Grass/Flying-type Pokémon known for its cotton-like seeds."
+    "desc": "Jumpluff is the final evolution of Hoppip. It's a Grass/Flying-type Pokemon known for its cotton-like seeds."
   },
   {
     "id": 661,
@@ -169,7 +169,7 @@
       "normal",
       "flying"
     ],
-    "desc": "Fletchling is a dual-type Normal/Flying Pokémon known for its small size and chirping voice."
+    "desc": "Fletchling is a dual-type Normal/Flying Pokemon known for its small size and chirping voice."
   },
   {
     "id": 662,
@@ -179,7 +179,7 @@
       "fire",
       "flying"
     ],
-    "desc": "Fletchinder is the evolved form of Fletchling. It becomes a dual-type Fire/Flying Pokémon."
+    "desc": "Fletchinder is the evolved form of Fletchling. It becomes a dual-type Fire/Flying Pokemon."
   },
   {
     "id": 663,
@@ -188,7 +188,7 @@
       "fire",
       "flying"
     ],
-    "desc": "Talonflame is the final evolution of Fletchling. It's a Fire/Flying-type Pokémon known for its speed and fiery wings."
+    "desc": "Talonflame is the final evolution of Fletchling. It's a Fire/Flying-type Pokemon known for its speed and fiery wings."
   },
   {
     "id": 921,
@@ -197,7 +197,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Pawmi is an Electric-type Pokémon known for its paw-like appearance and static electricity."
+    "desc": "Pawmi is an Electric-type Pokemon known for its paw-like appearance and static electricity."
   },
   {
     "id": 922,
@@ -207,7 +207,7 @@
       "electric",
       "fighting"
     ],
-    "desc": "Pawmo is the evolved form of Pawmi. It becomes a dual-type Electric/Fighting Pokémon."
+    "desc": "Pawmo is the evolved form of Pawmi. It becomes a dual-type Electric/Fighting Pokemon."
   },
   {
     "id": 923,
@@ -216,7 +216,7 @@
       "electric",
       "fighting"
     ],
-    "desc": "Pawmot is the final evolution of Pawmi. It's a dual-type Electric/Fighting Pokémon known for its powerful punches."
+    "desc": "Pawmot is the final evolution of Pawmi. It's a dual-type Electric/Fighting Pokemon known for its powerful punches."
   },
   {
     "id": 228,
@@ -226,7 +226,7 @@
       "dark",
       "fire"
     ],
-    "desc": "Houndour is a dual-type Dark/Fire Pokémon. It is not fully evolved (NFE)."
+    "desc": "Houndour is a dual-type Dark/Fire Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 229,
@@ -235,7 +235,7 @@
       "dark",
       "fire"
     ],
-    "desc": "Houndoom is a dual-type Dark/Fire Pokémon."
+    "desc": "Houndoom is a dual-type Dark/Fire Pokemon."
   },
   {
     "id": 734,
@@ -244,7 +244,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Yungoos is a Normal-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Yungoos is a Normal-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 735,
@@ -252,7 +252,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Gumshoos is a Normal-type Pokémon."
+    "desc": "Gumshoos is a Normal-type Pokemon."
   },
   {
     "id": 819,
@@ -261,7 +261,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Skwovet is a Normal-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Skwovet is a Normal-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 820,
@@ -269,7 +269,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Greedent is a Normal-type Pokémon."
+    "desc": "Greedent is a Normal-type Pokemon."
   },
   {
     "id": 191,
@@ -278,7 +278,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Sunkern is a Grass-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Sunkern is a Grass-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 192,
@@ -286,7 +286,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Sunflora is a Grass-type Pokémon."
+    "desc": "Sunflora is a Grass-type Pokemon."
   },
   {
     "id": 401,
@@ -295,7 +295,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Kricketot is a Bug-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Kricketot is a Bug-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 402,
@@ -303,7 +303,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Kricketune is a Bug-type Pokémon."
+    "desc": "Kricketune is a Bug-type Pokemon."
   },
   {
     "id": 664,
@@ -312,7 +312,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Scatterbug is a Bug-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Scatterbug is a Bug-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 665,
@@ -321,7 +321,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Spewpa is a Bug-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Spewpa is a Bug-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 666,
@@ -520,7 +520,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Combee is a Bug/Flying-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Combee is a Bug/Flying-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 416,
@@ -529,7 +529,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Vespiquen is a Bug/Flying-type Pokémon."
+    "desc": "Vespiquen is a Bug/Flying-type Pokemon."
   },
   {
     "id": 821,
@@ -538,7 +538,7 @@
     "types": [
       "flying"
     ],
-    "desc": "Rookidee is a Flying-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Rookidee is a Flying-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 822,
@@ -547,7 +547,7 @@
     "types": [
       "flying"
     ],
-    "desc": "Corvisquire is a Flying-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Corvisquire is a Flying-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 823,
@@ -556,7 +556,7 @@
       "flying",
       "steel"
     ],
-    "desc": "Corviknight is a Flying/Steel-type Pokémon."
+    "desc": "Corviknight is a Flying/Steel-type Pokemon."
   },
   {
     "id": 440,
@@ -565,7 +565,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Happiny is a Normal-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Happiny is a Normal-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 113,
@@ -574,7 +574,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Chansey is a Normal-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Chansey is a Normal-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 242,
@@ -582,7 +582,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Blissey is a Normal-type Pokémon."
+    "desc": "Blissey is a Normal-type Pokemon."
   },
   {
     "id": 298,
@@ -592,7 +592,7 @@
       "normal",
       "fairy"
     ],
-    "desc": "Azurill is a Normal/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Azurill is a Normal/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 183,
@@ -602,7 +602,7 @@
       "water",
       "fairy"
     ],
-    "desc": "Marill is a Water/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Marill is a Water/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 184,
@@ -611,7 +611,7 @@
       "water",
       "fairy"
     ],
-    "desc": "Azumarill is a Water/Fairy-type Pokémon."
+    "desc": "Azumarill is a Water/Fairy-type Pokemon."
   },
   {
     "id": 283,
@@ -621,7 +621,7 @@
       "bug",
       "water"
     ],
-    "desc": "Surskit is a Bug/Water-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Surskit is a Bug/Water-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 284,
@@ -630,7 +630,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Masquerain is a Bug/Flying-type Pokémon."
+    "desc": "Masquerain is a Bug/Flying-type Pokemon."
   },
   {
     "id": 418,
@@ -639,7 +639,7 @@
     "types": [
       "water"
     ],
-    "desc": "Buizel is a Water-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Buizel is a Water-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 419,
@@ -647,7 +647,7 @@
     "types": [
       "water"
     ],
-    "desc": "Floatzel is a Water-type Pokémon."
+    "desc": "Floatzel is a Water-type Pokemon."
   },
   {
     "id": 194,
@@ -657,7 +657,7 @@
       "water",
       "ground"
     ],
-    "desc": "Wooper is a Water/Ground-type Pokémon. It has an alternate form called Wooper Paldean, which is a Poison/Ground-type Pokémon with the sprite suffix 'paldean'."
+    "desc": "Wooper is a Water/Ground-type Pokemon. It has an alternate form called Wooper Paldean, which is a Poison/Ground-type Pokemon with the sprite suffix 'paldean'."
   },
   {
     "id": 195,
@@ -666,7 +666,7 @@
       "water",
       "ground"
     ],
-    "desc": "Quagsire is a Water/Ground-type Pokémon."
+    "desc": "Quagsire is a Water/Ground-type Pokemon."
   },
   {
     "id": 980,
@@ -675,7 +675,7 @@
       "poison",
       "ground"
     ],
-    "desc": "Clodsire is a Poison/Ground-type Pokémon."
+    "desc": "Clodsire is a Poison/Ground-type Pokemon."
   },
   {
     "id": 54,
@@ -684,7 +684,7 @@
     "types": [
       "water"
     ],
-    "desc": "Psyduck is a Water-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Psyduck is a Water-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 55,
@@ -692,7 +692,7 @@
     "types": [
       "water"
     ],
-    "desc": "Golduck is a Water-type Pokémon."
+    "desc": "Golduck is a Water-type Pokemon."
   },
   {
     "id": 833,
@@ -701,7 +701,7 @@
     "types": [
       "water"
     ],
-    "desc": "Chewtle is a Water-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Chewtle is a Water-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 834,
@@ -710,7 +710,7 @@
       "water",
       "rock"
     ],
-    "desc": "Drednaw is a Water/Rock-type Pokémon."
+    "desc": "Drednaw is a Water/Rock-type Pokemon."
   },
   {
     "id": 174,
@@ -720,7 +720,7 @@
       "normal",
       "fairy"
     ],
-    "desc": "Igglybuff is a Normal/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Igglybuff is a Normal/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 39,
@@ -730,7 +730,7 @@
       "normal",
       "fairy"
     ],
-    "desc": "Jigglypuff is a Normal/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Jigglypuff is a Normal/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 40,
@@ -739,7 +739,7 @@
       "normal",
       "fairy"
     ],
-    "desc": "Wigglytuff is a Normal/Fairy-type Pokémon."
+    "desc": "Wigglytuff is a Normal/Fairy-type Pokemon."
   },
   {
     "id": 280,
@@ -749,7 +749,7 @@
       "psychic",
       "fairy"
     ],
-    "desc": "Ralts is a Psychic/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Ralts is a Psychic/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 281,
@@ -759,7 +759,7 @@
       "psychic",
       "fairy"
     ],
-    "desc": "Kirlia is a Psychic/Fairy-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Kirlia is a Psychic/Fairy-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 282,
@@ -768,7 +768,7 @@
       "psychic",
       "fairy"
     ],
-    "desc": "Gardevoir is a Psychic/Fairy-type Pokémon."
+    "desc": "Gardevoir is a Psychic/Fairy-type Pokemon."
   },
   {
     "id": 475,
@@ -777,7 +777,7 @@
       "psychic",
       "fighting"
     ],
-    "desc": "Gallade is a Psychic/Fighting-type Pokémon."
+    "desc": "Gallade is a Psychic/Fighting-type Pokemon."
   },
   {
     "id": 96,
@@ -786,7 +786,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Drowzee is a Psychic-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Drowzee is a Psychic-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 97,
@@ -794,7 +794,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Hypno is a Psychic-type Pokémon."
+    "desc": "Hypno is a Psychic-type Pokemon."
   },
   {
     "id": 92,
@@ -804,7 +804,7 @@
       "ghost",
       "poison"
     ],
-    "desc": "Gastly is a Ghost/Poison-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Gastly is a Ghost/Poison-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 93,
@@ -814,7 +814,7 @@
       "ghost",
       "poison"
     ],
-    "desc": "Haunter is a Ghost/Poison-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Haunter is a Ghost/Poison-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 94,
@@ -823,7 +823,7 @@
       "ghost",
       "poison"
     ],
-    "desc": "Gengar is a Ghost/Poison-type Pokémon."
+    "desc": "Gengar is a Ghost/Poison-type Pokemon."
   },
   {
     "id": 924,
@@ -832,7 +832,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Tandemaus is a Normal-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Tandemaus is a Normal-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 925,
@@ -855,7 +855,7 @@
         "spriteSuffix": "four"
       }
     ],
-    "desc": "Maushold is a Normal-type Pokémon. It has an alternate form called Maushold Four, which is also a Normal-type Pokémon with the sprite suffix 'four'."
+    "desc": "Maushold is a Normal-type Pokemon. It has an alternate form called Maushold Four, which is also a Normal-type Pokemon with the sprite suffix 'four'."
   },
   {
     "id": 172,
@@ -864,7 +864,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Pichu is an Electric-type Pokémon. It is not fully evolved (NFE)."
+    "desc": "Pichu is an Electric-type Pokemon. It is not fully evolved (NFE)."
   },
   {
     "id": 25,
@@ -890,7 +890,7 @@
         "spriteSuffix": "hat"
       }
     ],
-    "desc": "Pikachu is an Electric-type Pokémon. It is not fully evolved (NFE). Pikachu also has a variant form called Pikachu with a Hat, which is an Electric-type Pokémon with the sprite suffix 'hat'."
+    "desc": "Pikachu is an Electric-type Pokemon. It is not fully evolved (NFE). Pikachu also has a variant form called Pikachu with a Hat, which is an Electric-type Pokemon with the sprite suffix 'hat'."
   },
   {
     "id": 26,
@@ -1152,7 +1152,7 @@
         "spriteSuffix": "sensu"
       }
     ],
-    "desc": "Oricorio is a Fire/Flying type Pokémon. It has multiple forms, including a Fire/Flying type with a pom-pom, an Electric/Flying type with a pom-pom, a Psychic/Flying type with a pau, and a Ghost/Flying type with a sensu."
+    "desc": "Oricorio is a Fire/Flying type Pokemon. It has multiple forms, including a Fire/Flying type with a pom-pom, an Electric/Flying type with a pom-pom, a Psychic/Flying type with a pau, and a Ghost/Flying type with a sensu."
   },
   {
     "id": 179,
@@ -1161,7 +1161,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Mareep is an Electric type Pokémon. It is not fully evolved."
+    "desc": "Mareep is an Electric type Pokemon. It is not fully evolved."
   },
   {
     "id": 180,
@@ -1170,7 +1170,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Flaaffy is an Electric type Pokémon. It is not fully evolved."
+    "desc": "Flaaffy is an Electric type Pokemon. It is not fully evolved."
   },
   {
     "id": 181,
@@ -1178,7 +1178,7 @@
     "types": [
       "electric"
     ],
-    "desc": "Ampharos is an Electric type Pokémon."
+    "desc": "Ampharos is an Electric type Pokemon."
   },
   {
     "id": 548,
@@ -1187,7 +1187,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Petilil is a Grass type Pokémon. It is not fully evolved."
+    "desc": "Petilil is a Grass type Pokemon. It is not fully evolved."
   },
   {
     "id": 549,
@@ -1195,7 +1195,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Lilligant is a Grass type Pokémon."
+    "desc": "Lilligant is a Grass type Pokemon."
   },
   {
     "id": 285,
@@ -1204,7 +1204,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Shroomish is a Grass type Pokémon. It is not fully evolved."
+    "desc": "Shroomish is a Grass type Pokemon. It is not fully evolved."
   },
   {
     "id": 286,
@@ -1213,7 +1213,7 @@
       "grass",
       "fighting"
     ],
-    "desc": "Breloom is a Grass/Fighting type Pokémon."
+    "desc": "Breloom is a Grass/Fighting type Pokemon."
   },
   {
     "id": 840,
@@ -1223,7 +1223,7 @@
       "grass",
       "dragon"
     ],
-    "desc": "Applin is a Grass/Dragon type Pokémon. It is not fully evolved."
+    "desc": "Applin is a Grass/Dragon type Pokemon. It is not fully evolved."
   },
   {
     "id": 841,
@@ -1232,7 +1232,7 @@
       "grass",
       "dragon"
     ],
-    "desc": "Flapple is a Grass/Dragon type Pokémon."
+    "desc": "Flapple is a Grass/Dragon type Pokemon."
   },
   {
     "id": 842,
@@ -1241,7 +1241,7 @@
       "grass",
       "dragon"
     ],
-    "desc": "Appletun is a Grass/Dragon type Pokémon."
+    "desc": "Appletun is a Grass/Dragon type Pokemon."
   },
   {
     "id": 325,
@@ -1250,7 +1250,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Spoink is a Psychic type Pokémon. It is not fully evolved."
+    "desc": "Spoink is a Psychic type Pokemon. It is not fully evolved."
   },
   {
     "id": 326,
@@ -1258,7 +1258,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Grumpig is a Psychic type Pokémon."
+    "desc": "Grumpig is a Psychic type Pokemon."
   },
   {
     "id": 931,
@@ -1300,7 +1300,7 @@
         "spriteSuffix": "white"
       }
     ],
-    "desc": "Squawkabilly is a Normal/Flying type Pokémon. It has multiple forms with different sprite suffixes."
+    "desc": "Squawkabilly is a Normal/Flying type Pokemon. It has multiple forms with different sprite suffixes."
   },
   {
     "id": 200,
@@ -1309,7 +1309,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "Misdreavus is a Ghost type Pokémon. It is not fully evolved."
+    "desc": "Misdreavus is a Ghost type Pokemon. It is not fully evolved."
   },
   {
     "id": 429,
@@ -1317,7 +1317,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "Mismagius is a Ghost type Pokémon."
+    "desc": "Mismagius is a Ghost type Pokemon."
   },
   {
     "id": 296,
@@ -1326,7 +1326,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "Makuhita is a Fighting type Pokémon. It is not fully evolved."
+    "desc": "Makuhita is a Fighting type Pokemon. It is not fully evolved."
   },
   {
     "id": 297,
@@ -1334,7 +1334,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "Hariyama is a Fighting type Pokémon."
+    "desc": "Hariyama is a Fighting type Pokemon."
   },
   {
     "id": 739,
@@ -1343,7 +1343,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "Crabrawler is a Fighting type Pokémon. It is not fully evolved."
+    "desc": "Crabrawler is a Fighting type Pokemon. It is not fully evolved."
   },
   {
     "id": 740,
@@ -1352,7 +1352,7 @@
       "fighting",
       "ice"
     ],
-    "desc": "Crabominable is a Fighting/Ice type Pokémon."
+    "desc": "Crabominable is a Fighting/Ice type Pokemon."
   },
   {
     "id": 757,
@@ -1362,7 +1362,7 @@
       "poison",
       "fire"
     ],
-    "desc": "Salandit is a Poison/Fire type Pokémon. It is not fully evolved."
+    "desc": "Salandit is a Poison/Fire type Pokemon. It is not fully evolved."
   },
   {
     "id": 758,
@@ -1371,7 +1371,7 @@
       "poison",
       "fire"
     ],
-    "desc": "Salazzle is a Poison/Fire type Pokémon."
+    "desc": "Salazzle is a Poison/Fire type Pokemon."
   },
   {
     "id": 231,
@@ -1380,7 +1380,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Phanpy is a Ground type Pokémon. It is not fully evolved."
+    "desc": "Phanpy is a Ground type Pokemon. It is not fully evolved."
   },
   {
     "id": 232,
@@ -1388,7 +1388,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Donphan is a Ground type Pokémon."
+    "desc": "Donphan is a Ground type Pokemon."
   },
   {
     "id": 878,
@@ -1397,7 +1397,7 @@
     "types": [
       "steel"
     ],
-    "desc": "Cufant is a Steel type Pokémon. It is not fully evolved."
+    "desc": "Cufant is a Steel type Pokemon. It is not fully evolved."
   },
   {
     "id": 879,
@@ -1405,7 +1405,7 @@
     "types": [
       "steel"
     ],
-    "desc": "Copperajah is a Steel type Pokémon."
+    "desc": "Copperajah is a Steel type Pokemon."
   },
   {
     "id": 443,
@@ -1415,7 +1415,7 @@
       "dragon",
       "ground"
     ],
-    "desc": "Gible is a Dragon/Ground type Pokémon. It is not fully evolved."
+    "desc": "Gible is a Dragon/Ground type Pokemon. It is not fully evolved."
   },
   {
     "id": 444,
@@ -1425,7 +1425,7 @@
       "dragon",
       "ground"
     ],
-    "desc": "Gabite is a Dragon/Ground type Pokémon. It is not fully evolved."
+    "desc": "Gabite is a Dragon/Ground type Pokemon. It is not fully evolved."
   },
   {
     "id": 445,
@@ -1434,7 +1434,7 @@
       "dragon",
       "ground"
     ],
-    "desc": "Garchomp is a Dragon/Ground type Pokémon."
+    "desc": "Garchomp is a Dragon/Ground type Pokemon."
   },
   {
     "id": 932,
@@ -1443,7 +1443,7 @@
     "types": [
       "rock"
     ],
-    "desc": "Nacli is a Rock type Pokémon. It is not fully evolved."
+    "desc": "Nacli is a Rock type Pokemon. It is not fully evolved."
   },
   {
     "id": 933,
@@ -1452,7 +1452,7 @@
     "types": [
       "rock"
     ],
-    "desc": "Naclstack is a Rock type Pokémon. It is not fully evolved."
+    "desc": "Naclstack is a Rock type Pokemon. It is not fully evolved."
   },
   {
     "id": 934,
@@ -1460,7 +1460,7 @@
     "types": [
       "rock"
     ],
-    "desc": "Garganacl is a Rock type Pokémon."
+    "desc": "Garganacl is a Rock type Pokemon."
   },
   {
     "id": 278,
@@ -1470,7 +1470,7 @@
       "water",
       "flying"
     ],
-    "desc": "Wingull is a Water/Flying type Pokémon. It is not fully evolved."
+    "desc": "Wingull is a Water/Flying type Pokemon. It is not fully evolved."
   },
   {
     "id": 279,
@@ -1479,7 +1479,7 @@
       "water",
       "flying"
     ],
-    "desc": "Pelipper is a Water/Flying type Pokémon."
+    "desc": "Pelipper is a Water/Flying type Pokemon."
   },
   {
     "id": 129,
@@ -1488,7 +1488,7 @@
     "types": [
       "water"
     ],
-    "desc": "Magikarp is a Water type Pokémon. It is not fully evolved."
+    "desc": "Magikarp is a Water type Pokemon. It is not fully evolved."
   },
   {
     "id": 130,
@@ -1497,7 +1497,7 @@
       "water",
       "flying"
     ],
-    "desc": "Gyarados is a Water/Flying type Pokémon."
+    "desc": "Gyarados is a Water/Flying type Pokemon."
   },
   {
     "id": 846,
@@ -1506,7 +1506,7 @@
     "types": [
       "water"
     ],
-    "desc": "Arrokuda is a Water type Pokémon. It is not fully evolved."
+    "desc": "Arrokuda is a Water type Pokemon. It is not fully evolved."
   },
   {
     "id": 847,
@@ -1514,7 +1514,7 @@
     "types": [
       "water"
     ],
-    "desc": "Barraskewda is a Water type Pokémon."
+    "desc": "Barraskewda is a Water type Pokemon."
   },
   {
     "id": 550,
@@ -1545,7 +1545,7 @@
         "spriteSuffix": "whitestriped"
       }
     ],
-    "desc": "Basculin is a Water type Pokémon. It has multiple forms, including a regular Water type, a blue-striped Water type, and a white-striped Water type."
+    "desc": "Basculin is a Water type Pokemon. It has multiple forms, including a regular Water type, a blue-striped Water type, and a white-striped Water type."
   },
   {
     "id": 316,
@@ -1554,7 +1554,7 @@
     "types": [
       "poison"
     ],
-    "desc": "Gulpin is a Poison type Pokémon. It is not fully evolved."
+    "desc": "Gulpin is a Poison type Pokemon. It is not fully evolved."
   },
   {
     "id": 317,
@@ -1562,7 +1562,7 @@
     "types": [
       "poison"
     ],
-    "desc": "Swalot is a Poison type Pokémon."
+    "desc": "Swalot is a Poison type Pokemon."
   },
   {
     "id": 52,
@@ -1571,7 +1571,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Meowth is a Normal type Pokémon. It is not fully evolved."
+    "desc": "Meowth is a Normal type Pokemon. It is not fully evolved."
   },
   {
     "id": 53,
@@ -1579,7 +1579,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Persian is a Normal type Pokémon."
+    "desc": "Persian is a Normal type Pokemon."
   },
   {
     "id": 425,
@@ -1589,7 +1589,7 @@
       "ghost",
       "flying"
     ],
-    "desc": "Drifloon is a Ghost/Flying type Pokémon. It is not fully evolved."
+    "desc": "Drifloon is a Ghost/Flying type Pokemon. It is not fully evolved."
   },
   {
     "id": 426,
@@ -1598,7 +1598,7 @@
       "ghost",
       "flying"
     ],
-    "desc": "Drifblim is a Ghost/Flying type Pokémon."
+    "desc": "Drifblim is a Ghost/Flying type Pokemon."
   },
   {
     "id": 669,
@@ -1648,7 +1648,7 @@
         "spriteSuffix": "yellow"
       }
     ],
-    "desc": "Flabébé is a Fairy type Pokémon. It has multiple forms with different sprite suffixes."
+    "desc": "Flabébé is a Fairy type Pokemon. It has multiple forms with different sprite suffixes."
   },
   {
     "id": 670,
@@ -1706,7 +1706,7 @@
         "spriteSuffix": "yellow"
       }
     ],
-    "desc": "Floette is a Fairy type Pokémon. It has multiple forms with different sprite suffixes."
+    "desc": "Floette is a Fairy type Pokemon. It has multiple forms with different sprite suffixes."
   },
   {
     "id": 671,
@@ -1750,7 +1750,7 @@
         "spriteSuffix": "yellow"
       }
     ],
-    "desc": "Florges is a Fairy type Pokémon. It has multiple forms with different sprite suffixes."
+    "desc": "Florges is a Fairy type Pokemon. It has multiple forms with different sprite suffixes."
   },
   {
     "id": 50,
@@ -1759,7 +1759,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Diglett is a Ground type Pokémon. It is not fully evolved."
+    "desc": "Diglett is a Ground type Pokemon. It is not fully evolved."
   },
   {
     "id": 51,
@@ -1794,7 +1794,7 @@
       "fire",
       "ground"
     ],
-    "desc": "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. If this Pokémon becomes angry, the magma cools and hardens. In its cooled state, it forms..."
+    "desc": "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. If this Pokemon becomes angry, the magma cools and hardens. In its cooled state, it forms..."
   },
   {
     "id": 436,
@@ -1804,7 +1804,7 @@
       "steel",
       "psychic"
     ],
-    "desc": "There is some debate about the origin of Bronzor. The foundation of many theories is that this Pokémon was first created as a guardian of ancient people by drawing a baneful pattern on it."
+    "desc": "There is some debate about the origin of Bronzor. The foundation of many theories is that this Pokemon was first created as a guardian of ancient people by drawing a baneful pattern on it."
   },
   {
     "id": 437,
@@ -1813,7 +1813,7 @@
       "steel",
       "psychic"
     ],
-    "desc": "One caused it to become a ferocious Pokémon that loves to battle, and the other caused it to become a more docile Pokémon that loves to eat."
+    "desc": "One caused it to become a ferocious Pokemon that loves to battle, and the other caused it to become a more docile Pokemon that loves to eat."
   },
   {
     "id": 610,
@@ -1866,7 +1866,7 @@
       "fighting",
       "ghost"
     ],
-    "desc": "Annihilape is known for its incredible anger and aggression. It is said that this Pokémon's spirit embodies intense rage and vengeful thoughts. Approach with caution."
+    "desc": "Annihilape is known for its incredible anger and aggression. It is said that this Pokemon's spirit embodies intense rage and vengeful thoughts. Approach with caution."
   },
   {
     "id": 307,
@@ -1940,7 +1940,7 @@
       "water",
       "ground"
     ],
-    "desc": "Barboach uses its whiskers to sense its surroundings in muddy water. It is known to be a very patient and calm Pokémon."
+    "desc": "Barboach uses its whiskers to sense its surroundings in muddy water. It is known to be a very patient and calm Pokemon."
   },
   {
     "id": 340,
@@ -2039,7 +2039,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Eevee is a unique Pokémon that is capable of evolving into several different forms, depending on its environment and friendship with its trainer."
+    "desc": "Eevee is a unique Pokemon that is capable of evolving into several different forms, depending on its environment and friendship with its trainer."
   },
   {
     "id": 134,
@@ -2112,7 +2112,7 @@
     "types": [
       "normal"
     ],
-    "desc": "Dunsparce is a serpent-like Pokémon that can glide through the air by flapping its wings."
+    "desc": "Dunsparce is a serpent-like Pokemon that can glide through the air by flapping its wings."
   },
   {
     "id": 982,
@@ -2565,7 +2565,7 @@
         "spriteSuffix": "aqua"
       }
     ],
-    "desc": "Tauros is a powerful Normal-type Pokémon known for its charging behavior."
+    "desc": "Tauros is a powerful Normal-type Pokemon known for its charging behavior."
   },
   {
     "id": 667,
@@ -2575,7 +2575,7 @@
       "fire",
       "normal"
     ],
-    "desc": "Litleo is a Fire/Normal-type Pokémon often resembling a lion cub."
+    "desc": "Litleo is a Fire/Normal-type Pokemon often resembling a lion cub."
   },
   {
     "id": 668,
@@ -2601,7 +2601,7 @@
         ]
       }
     ],
-    "desc": "Pyroar is an elegant Fire/Normal-type Pokémon known for its majestic appearance."
+    "desc": "Pyroar is an elegant Fire/Normal-type Pokemon known for its majestic appearance."
   },
   {
     "id": 434,
@@ -2611,7 +2611,7 @@
       "poison",
       "dark"
     ],
-    "desc": "Stunky is a Poison/Dark-type Pokémon with a distinctive skunk-like appearance."
+    "desc": "Stunky is a Poison/Dark-type Pokemon with a distinctive skunk-like appearance."
   },
   {
     "id": 435,
@@ -2629,7 +2629,7 @@
     "types": [
       "dark"
     ],
-    "desc": "Zorua is a mischievous Dark-type Pokémon often using its illusion abilities."
+    "desc": "Zorua is a mischievous Dark-type Pokemon often using its illusion abilities."
   },
   {
     "id": 571,
@@ -2653,7 +2653,7 @@
         "spriteSuffix": "hisui"
       }
     ],
-    "desc": "Zoroark is a master of illusions and can transform into other Pokémon."
+    "desc": "Zoroark is a master of illusions and can transform into other Pokemon."
   },
   {
     "id": 215,
@@ -2663,7 +2663,7 @@
       "dark",
       "ice"
     ],
-    "desc": "Sneasel is a Dark/Ice-type Pokémon known for its sharp claws and cunning nature."
+    "desc": "Sneasel is a Dark/Ice-type Pokemon known for its sharp claws and cunning nature."
   },
   {
     "id": 461,
@@ -2682,7 +2682,7 @@
       "dark",
       "flying"
     ],
-    "desc": "Murkrow is a Dark/Flying-type Pokémon associated with omens and mysteries."
+    "desc": "Murkrow is a Dark/Flying-type Pokemon associated with omens and mysteries."
   },
   {
     "id": 430,
@@ -2700,7 +2700,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Gothita is a Psychic-type Pokémon known for its gothic appearance and powers."
+    "desc": "Gothita is a Psychic-type Pokemon known for its gothic appearance and powers."
   },
   {
     "id": 575,
@@ -2726,7 +2726,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "Sinistea is a Ghost-type Pokémon often found in antique teacups."
+    "desc": "Sinistea is a Ghost-type Pokemon often found in antique teacups."
   },
   {
     "id": 855,
@@ -2743,7 +2743,7 @@
       "ghost",
       "fairy"
     ],
-    "desc": "Mimikyu is a Ghost/Fairy-type Pokémon known for its shy and hidden appearance."
+    "desc": "Mimikyu is a Ghost/Fairy-type Pokemon known for its shy and hidden appearance."
   },
   {
     "id": 707,
@@ -2752,7 +2752,7 @@
       "steel",
       "fairy"
     ],
-    "desc": "Klefki is a Steel/Fairy-type Pokémon often associated with keys."
+    "desc": "Klefki is a Steel/Fairy-type Pokemon often associated with keys."
   },
   {
     "id": 876,
@@ -2778,7 +2778,7 @@
         "spriteSuffix": "f"
       }
     ],
-    "desc": "Indeedee is a Psychic/Normal-type Pokémon known for its supportive abilities."
+    "desc": "Indeedee is a Psychic/Normal-type Pokemon known for its supportive abilities."
   },
   {
     "id": 946,
@@ -2788,7 +2788,7 @@
       "grass",
       "ghost"
     ],
-    "desc": "Bramblin is a Grass/Ghost-type Pokémon often found in overgrown areas."
+    "desc": "Bramblin is a Grass/Ghost-type Pokemon often found in overgrown areas."
   },
   {
     "id": 947,
@@ -2807,7 +2807,7 @@
       "ground",
       "grass"
     ],
-    "desc": "Toedscool is a Ground/Grass-type Pokémon often seen near water sources."
+    "desc": "Toedscool is a Ground/Grass-type Pokemon often seen near water sources."
   },
   {
     "id": 949,
@@ -2825,7 +2825,7 @@
       "grass",
       "flying"
     ],
-    "desc": "Tropius is a Grass/Flying-type Pokémon often seen flying with its banana-like wings."
+    "desc": "Tropius is a Grass/Flying-type Pokemon often seen flying with its banana-like wings."
   },
   {
     "id": 753,
@@ -2834,7 +2834,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Fomantis is a Grass-type Pokémon known for its bright green appearance."
+    "desc": "Fomantis is a Grass-type Pokemon known for its bright green appearance."
   },
   {
     "id": 754,
@@ -2850,7 +2850,7 @@
     "types": [
       "rock"
     ],
-    "desc": "Klawf is a Rock-type Pokémon known for its sharp claws and rugged appearance."
+    "desc": "Klawf is a Rock-type Pokemon known for its sharp claws and rugged appearance."
   },
   {
     "id": 951,
@@ -2859,7 +2859,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Capsakid is a Grass-type Pokémon often found in gardens and fields."
+    "desc": "Capsakid is a Grass-type Pokemon often found in gardens and fields."
   },
   {
     "id": 952,
@@ -2868,7 +2868,7 @@
       "grass",
       "fire"
     ],
-    "desc": "Scovillain is a Grass/Fire-type Pokémon known for its fiery and adventurous spirit."
+    "desc": "Scovillain is a Grass/Fire-type Pokemon known for its fiery and adventurous spirit."
   },
   {
     "id": 331,
@@ -2877,7 +2877,7 @@
     "types": [
       "grass"
     ],
-    "desc": "Cacnea is a Grass-type Pokémon with sharp spikes and a desert-dwelling nature."
+    "desc": "Cacnea is a Grass-type Pokemon with sharp spikes and a desert-dwelling nature."
   },
   {
     "id": 332,
@@ -2895,7 +2895,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Rellor is a Bug-type Pokémon known for its quick movements and agility."
+    "desc": "Rellor is a Bug-type Pokemon known for its quick movements and agility."
   },
   {
     "id": 954,
@@ -2904,7 +2904,7 @@
       "bug",
       "psychic"
     ],
-    "desc": "Rabsca is a Bug/Psychic-type Pokémon known for its psychic abilities and vibrant colors."
+    "desc": "Rabsca is a Bug/Psychic-type Pokemon known for its psychic abilities and vibrant colors."
   },
   {
     "id": 48,
@@ -2914,7 +2914,7 @@
       "bug",
       "poison"
     ],
-    "desc": "Venonat is a Bug/Poison-type Pokémon known for its large compound eyes."
+    "desc": "Venonat is a Bug/Poison-type Pokemon known for its large compound eyes."
   },
   {
     "id": 49,
@@ -2932,7 +2932,7 @@
     "types": [
       "bug"
     ],
-    "desc": "Pineco is a Bug-type Pokémon often found clinging to trees and emitting a sweet scent."
+    "desc": "Pineco is a Bug-type Pokemon often found clinging to trees and emitting a sweet scent."
   },
   {
     "id": 205,
@@ -2951,7 +2951,7 @@
       "bug",
       "flying"
     ],
-    "desc": "Scyther is a Bug/Flying-type Pokémon known for its lightning-fast speed and scythes for hands."
+    "desc": "Scyther is a Bug/Flying-type Pokemon known for its lightning-fast speed and scythes for hands."
   },
   {
     "id": 212,
@@ -2960,7 +2960,7 @@
       "bug",
       "steel"
     ],
-    "desc": "Scizor is the evolved form of Scyther, often seen as a formidable Steel-type Pokémon."
+    "desc": "Scizor is the evolved form of Scyther, often seen as a formidable Steel-type Pokemon."
   },
   {
     "id": 214,
@@ -2969,7 +2969,7 @@
       "bug",
       "fighting"
     ],
-    "desc": "Heracross is a Bug/Fighting-type Pokémon known for its strength and determination."
+    "desc": "Heracross is a Bug/Fighting-type Pokemon known for its strength and determination."
   },
   {
     "id": 955,
@@ -2978,7 +2978,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Flittle is a Psychic-type Pokémon often seen floating gracefully."
+    "desc": "Flittle is a Psychic-type Pokemon often seen floating gracefully."
   },
   {
     "id": 956,
@@ -2995,7 +2995,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Hippopotas is a Ground-type Pokémon known for its sandy appearances and digging habits."
+    "desc": "Hippopotas is a Ground-type Pokemon known for its sandy appearances and digging habits."
   },
   {
     "id": 450,
@@ -3018,7 +3018,7 @@
         "spriteSuffix": "f"
       }
     ],
-    "desc": "Hippowdon is a Ground-type Pokémon known for its immense size and the ability to create sandstorms."
+    "desc": "Hippowdon is a Ground-type Pokemon known for its immense size and the ability to create sandstorms."
   },
   {
     "id": 551,
@@ -3028,7 +3028,7 @@
       "ground",
       "dark"
     ],
-    "desc": "Sandile is a Ground/Dark-type Pokémon often found in arid environments and known for its cunning nature."
+    "desc": "Sandile is a Ground/Dark-type Pokemon often found in arid environments and known for its cunning nature."
   },
   {
     "id": 552,
@@ -3056,7 +3056,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Silicobra is a Ground-type Pokémon often found in desert regions, known for its burrowing ability."
+    "desc": "Silicobra is a Ground-type Pokemon often found in desert regions, known for its burrowing ability."
   },
   {
     "id": 844,
@@ -3073,7 +3073,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Mudbray is a Ground-type Pokémon often seen working hard, known for its determination and strength."
+    "desc": "Mudbray is a Ground-type Pokemon often seen working hard, known for its determination and strength."
   },
   {
     "id": 750,
@@ -3081,7 +3081,7 @@
     "types": [
       "ground"
     ],
-    "desc": "Mudsdale is the evolved form of Mudbray, a robust Ground-type Pokémon used for heavy labor."
+    "desc": "Mudsdale is the evolved form of Mudbray, a robust Ground-type Pokemon used for heavy labor."
   },
   {
     "id": 636,
@@ -3091,7 +3091,7 @@
       "bug",
       "fire"
     ],
-    "desc": "Larvesta is a Bug/Fire-type Pokémon known for its fiery appearance and potential to evolve into a majestic creature."
+    "desc": "Larvesta is a Bug/Fire-type Pokemon known for its fiery appearance and potential to evolve into a majestic creature."
   },
   {
     "id": 637,
@@ -3109,7 +3109,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "Bagon is a Dragon-type Pokémon with a strong desire to fly and evolve into a formidable dragon."
+    "desc": "Bagon is a Dragon-type Pokemon with a strong desire to fly and evolve into a formidable dragon."
   },
   {
     "id": 372,
@@ -3137,7 +3137,7 @@
       "fairy",
       "steel"
     ],
-    "desc": "Tinkatink is a Fairy/Steel-type Pokémon known for its tiny stature and sparkling appearance."
+    "desc": "Tinkatink is a Fairy/Steel-type Pokemon known for its tiny stature and sparkling appearance."
   },
   {
     "id": 958,
@@ -3165,7 +3165,7 @@
     "types": [
       "psychic"
     ],
-    "desc": "Hatenna is a Psychic-type Pokémon known for its psychic abilities and hat-like growth on its head."
+    "desc": "Hatenna is a Psychic-type Pokemon known for its psychic abilities and hat-like growth on its head."
   },
   {
     "id": 857,
@@ -3193,7 +3193,7 @@
       "dark",
       "fairy"
     ],
-    "desc": "Impidimp is a Dark/Fairy-type Pokémon known for its mischievous and playful behavior."
+    "desc": "Impidimp is a Dark/Fairy-type Pokemon known for its mischievous and playful behavior."
   },
   {
     "id": 860,
@@ -3221,7 +3221,7 @@
     "types": [
       "water"
     ],
-    "desc": "Wiglett is a Water-type Pokémon known for its small size and playful nature."
+    "desc": "Wiglett is a Water-type Pokemon known for its small size and playful nature."
   },
   {
     "id": 961,
@@ -3229,7 +3229,7 @@
     "types": [
       "water"
     ],
-    "desc": "Wugtrio is the evolved form of Wiglett, a Water-type Pokémon recognized for its teamwork and cooperation."
+    "desc": "Wugtrio is the evolved form of Wiglett, a Water-type Pokemon recognized for its teamwork and cooperation."
   },
   {
     "id": 962,
@@ -3238,7 +3238,7 @@
       "flying",
       "dark"
     ],
-    "desc": "Bombirdier is a Flying/Dark-type Pokémon known for its explosive personality and aerial acrobatics."
+    "desc": "Bombirdier is a Flying/Dark-type Pokemon known for its explosive personality and aerial acrobatics."
   },
   {
     "id": 963,
@@ -3247,7 +3247,7 @@
     "types": [
       "water"
     ],
-    "desc": "Finizen is a Water-type Pokémon known for its elegance and fin-like appendages."
+    "desc": "Finizen is a Water-type Pokemon known for its elegance and fin-like appendages."
   },
   {
     "id": 964,
@@ -3270,7 +3270,7 @@
         "spriteSuffix": "hero"
       }
     ],
-    "desc": "Palafin is a Water-type Pokémon known for its grace in water. Its Hero form is legendary for its heroic deeds."
+    "desc": "Palafin is a Water-type Pokemon known for its grace in water. Its Hero form is legendary for its heroic deeds."
   },
   {
     "id": 965,
@@ -3280,7 +3280,7 @@
       "steel",
       "poison"
     ],
-    "desc": "Varoom is a Steel/Poison-type Pokémon known for its speedy nature and toxic abilities."
+    "desc": "Varoom is a Steel/Poison-type Pokemon known for its speedy nature and toxic abilities."
   },
   {
     "id": 966,
@@ -3289,7 +3289,7 @@
       "steel",
       "poison"
     ],
-    "desc": "A metallic and poisonous Pokémon known for its powerful attacks."
+    "desc": "A metallic and poisonous Pokemon known for its powerful attacks."
   },
   {
     "id": 967,
@@ -3306,7 +3306,7 @@
     "types": [
       "steel"
     ],
-    "desc": "A tough and sturdy Pokémon known for its resilience in battles."
+    "desc": "A tough and sturdy Pokemon known for its resilience in battles."
   },
   {
     "id": 302,
@@ -3315,7 +3315,7 @@
       "dark",
       "ghost"
     ],
-    "desc": "A mischievous Pokémon that dwells in dark places and plays pranks on travelers."
+    "desc": "A mischievous Pokemon that dwells in dark places and plays pranks on travelers."
   },
   {
     "id": 353,
@@ -3324,7 +3324,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "A ghostly Pokémon that likes to hide in shadows and surprise unsuspecting victims."
+    "desc": "A ghostly Pokemon that likes to hide in shadows and surprise unsuspecting victims."
   },
   {
     "id": 354,
@@ -3332,7 +3332,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "An eerie and vengeful Pokémon that was once a discarded doll brought to life."
+    "desc": "An eerie and vengeful Pokemon that was once a discarded doll brought to life."
   },
   {
     "id": 870,
@@ -3340,7 +3340,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A disciplined group of fighting Pokémon that march in formation and fight as one."
+    "desc": "A disciplined group of fighting Pokemon that march in formation and fight as one."
   },
   {
     "id": 701,
@@ -3349,7 +3349,7 @@
       "fighting",
       "flying"
     ],
-    "desc": "A high-flying acrobatic Pokémon that combines fighting skills with graceful moves."
+    "desc": "A high-flying acrobatic Pokemon that combines fighting skills with graceful moves."
   },
   {
     "id": 442,
@@ -3358,7 +3358,7 @@
       "ghost",
       "dark"
     ],
-    "desc": "A mysterious Pokémon formed from 108 spirits, each bound to a stone."
+    "desc": "A mysterious Pokemon formed from 108 spirits, each bound to a stone."
   },
   {
     "id": 714,
@@ -3368,7 +3368,7 @@
       "flying",
       "dragon"
     ],
-    "desc": "A small and curious Pokémon with the potential to become a mighty dragon."
+    "desc": "A small and curious Pokemon with the potential to become a mighty dragon."
   },
   {
     "id": 715,
@@ -3377,7 +3377,7 @@
       "flying",
       "dragon"
     ],
-    "desc": "A fearsome dragon Pokémon known for its supersonic sound attacks."
+    "desc": "A fearsome dragon Pokemon known for its supersonic sound attacks."
   },
   {
     "id": 885,
@@ -3387,7 +3387,7 @@
       "dragon",
       "ghost"
     ],
-    "desc": "A timid and ghostly Pokémon that evolves into a powerful dragon."
+    "desc": "A timid and ghostly Pokemon that evolves into a powerful dragon."
   },
   {
     "id": 886,
@@ -3397,7 +3397,7 @@
       "dragon",
       "ghost"
     ],
-    "desc": "An elusive and stealthy Pokémon that hides in the shadows."
+    "desc": "An elusive and stealthy Pokemon that hides in the shadows."
   },
   {
     "id": 887,
@@ -3416,7 +3416,7 @@
       "rock",
       "poison"
     ],
-    "desc": "A rock and poison Pokémon known for its dazzling appearance and toxic abilities."
+    "desc": "A rock and poison Pokemon known for its dazzling appearance and toxic abilities."
   },
   {
     "id": 970,
@@ -3425,7 +3425,7 @@
       "rock",
       "poison"
     ],
-    "desc": "A mysterious rock and poison Pokémon that dwells in caves and emits a faint glow."
+    "desc": "A mysterious rock and poison Pokemon that dwells in caves and emits a faint glow."
   },
   {
     "id": 479,
@@ -3441,7 +3441,7 @@
           "electric",
           "ghost"
         ],
-        "desc": "A mischievous electric ghost Pokémon that can possess various appliances."
+        "desc": "A mischievous electric ghost Pokemon that can possess various appliances."
       },
       {
         "name": "Rotom Fan",
@@ -3450,7 +3450,7 @@
           "flying"
         ],
         "spriteSuffix": "fan",
-        "desc": "A fan-like electric ghost Pokémon that brings breezy winds."
+        "desc": "A fan-like electric ghost Pokemon that brings breezy winds."
       },
       {
         "name": "Rotom Frost",
@@ -3459,7 +3459,7 @@
           "ice"
         ],
         "spriteSuffix": "frost",
-        "desc": "A chilly electric ghost Pokémon that freezes its surroundings."
+        "desc": "A chilly electric ghost Pokemon that freezes its surroundings."
       },
       {
         "name": "Rotom Heat",
@@ -3468,7 +3468,7 @@
           "fire"
         ],
         "spriteSuffix": "heat",
-        "desc": "A fiery electric ghost Pokémon that can turn up the heat."
+        "desc": "A fiery electric ghost Pokemon that can turn up the heat."
       },
       {
         "name": "Rotom Mow",
@@ -3477,7 +3477,7 @@
           "grass"
         ],
         "spriteSuffix": "mow",
-        "desc": "A grassy electric ghost Pokémon with a green thumb."
+        "desc": "A grassy electric ghost Pokemon with a green thumb."
       },
       {
         "name": "Rotom Wash",
@@ -3486,7 +3486,7 @@
           "water"
         ],
         "spriteSuffix": "wash",
-        "desc": "A water-loving electric ghost Pokémon that keeps things clean."
+        "desc": "A water-loving electric ghost Pokemon that keeps things clean."
       }
     ]
   },
@@ -3497,7 +3497,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "A solemn ghost Pokémon that roams ancient ruins and protects them."
+    "desc": "A solemn ghost Pokemon that roams ancient ruins and protects them."
   },
   {
     "id": 972,
@@ -3505,7 +3505,7 @@
     "types": [
       "ghost"
     ],
-    "desc": "A phantom hound Pokémon that is said to guard the gates to the underworld."
+    "desc": "A phantom hound Pokemon that is said to guard the gates to the underworld."
   },
   {
     "id": 765,
@@ -3514,7 +3514,7 @@
       "normal",
       "psychic"
     ],
-    "desc": "A wise and scholarly Pokémon that possesses great knowledge and psychic powers."
+    "desc": "A wise and scholarly Pokemon that possesses great knowledge and psychic powers."
   },
   {
     "id": 766,
@@ -3522,7 +3522,7 @@
     "types": [
       "fighting"
     ],
-    "desc": "A tribal and teamwork-oriented Pokémon that excels in cooperative battles."
+    "desc": "A tribal and teamwork-oriented Pokemon that excels in cooperative battles."
   },
   {
     "id": 775,
@@ -3530,7 +3530,7 @@
     "types": [
       "normal"
     ],
-    "desc": "A drowsy and perpetually sleeping Pokémon that battles while asleep."
+    "desc": "A drowsy and perpetually sleeping Pokemon that battles while asleep."
   },
   {
     "id": 246,
@@ -3540,7 +3540,7 @@
       "rock",
       "ground"
     ],
-    "desc": "A rock and ground Pokémon known for its rugged nature and potential for evolution."
+    "desc": "A rock and ground Pokemon known for its rugged nature and potential for evolution."
   },
   {
     "id": 247,
@@ -3550,7 +3550,7 @@
       "rock",
       "ground"
     ],
-    "desc": "A pupal Pokémon that undergoes metamorphosis to become a powerful rock monster."
+    "desc": "A pupal Pokemon that undergoes metamorphosis to become a powerful rock monster."
   },
   {
     "id": 248,
@@ -3559,7 +3559,7 @@
       "rock",
       "dark"
     ],
-    "desc": "A colossal and fearsome Pokémon that can cause earthquakes with its movements."
+    "desc": "A colossal and fearsome Pokemon that can cause earthquakes with its movements."
   },
   {
     "id": 874,
@@ -3567,7 +3567,7 @@
     "types": [
       "rock"
     ],
-    "desc": "A massive and ancient stone Pokémon that stands as a guardian of history."
+    "desc": "A massive and ancient stone Pokemon that stands as a guardian of history."
   },
   {
     "id": 875,
@@ -3575,7 +3575,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A mysterious ice Pokémon that can change its appearance with the flip of its ice cube head."
+    "desc": "A mysterious ice Pokemon that can change its appearance with the flip of its ice cube head."
   },
   {
     "id": 871,
@@ -3583,7 +3583,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A spiky and electrifying Pokémon known for its thorny defenses."
+    "desc": "A spiky and electrifying Pokemon known for its thorny defenses."
   },
   {
     "id": 769,
@@ -3593,7 +3593,7 @@
       "ghost",
       "ground"
     ],
-    "desc": "A ghostly sand Pokémon that traps unsuspecting prey beneath its sandy surface."
+    "desc": "A ghostly sand Pokemon that traps unsuspecting prey beneath its sandy surface."
   },
   {
     "id": 770,
@@ -3602,7 +3602,7 @@
       "ghost",
       "ground"
     ],
-    "desc": "An ancient and haunted sandcastle Pokémon that commands the power of the desert."
+    "desc": "An ancient and haunted sandcastle Pokemon that commands the power of the desert."
   },
   {
     "id": 79,
@@ -3612,7 +3612,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A slow-witted yet friendly water and psychic Pokémon often found near water bodies."
+    "desc": "A slow-witted yet friendly water and psychic Pokemon often found near water bodies."
   },
   {
     "id": 80,
@@ -3621,7 +3621,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A water and psychic Pokémon that forms a symbiotic relationship with a sheltering Shellder."
+    "desc": "A water and psychic Pokemon that forms a symbiotic relationship with a sheltering Shellder."
   },
   {
     "id": 199,
@@ -3630,7 +3630,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A regal water and psychic Pokémon known for its intelligence and leadership abilities."
+    "desc": "A regal water and psychic Pokemon known for its intelligence and leadership abilities."
   },
   {
     "id": 422,
@@ -3639,7 +3639,7 @@
     "types": [
       "water"
     ],
-    "desc": "A blob-like water Pokémon with different forms depending on its habitat."
+    "desc": "A blob-like water Pokemon with different forms depending on its habitat."
   },
   {
     "id": 423,
@@ -3648,7 +3648,7 @@
       "water",
       "ground"
     ],
-    "desc": "A water and ground Pokémon with different forms based on its habitat, known for its adaptability."
+    "desc": "A water and ground Pokemon with different forms based on its habitat, known for its adaptability."
   },
   {
     "id": 90,
@@ -3657,7 +3657,7 @@
     "types": [
       "water"
     ],
-    "desc": "A clam-like water Pokémon that latches onto Slowpoke to evolve into Slowbro."
+    "desc": "A clam-like water Pokemon that latches onto Slowpoke to evolve into Slowbro."
   },
   {
     "id": 91,
@@ -3666,7 +3666,7 @@
       "water",
       "ice"
     ],
-    "desc": "A well-armored water and ice Pokémon with a powerful defense mechanism."
+    "desc": "A well-armored water and ice Pokemon with a powerful defense mechanism."
   },
   {
     "id": 211,
@@ -3676,7 +3676,7 @@
       "water",
       "poison"
     ],
-    "desc": "A water and poison Pokémon known for its ability to inflate its body with water."
+    "desc": "A water and poison Pokemon known for its ability to inflate its body with water."
   },
   {
     "id": 370,
@@ -3684,7 +3684,7 @@
     "types": [
       "water"
     ],
-    "desc": "A heart-shaped water Pokémon often associated with love and affection."
+    "desc": "A heart-shaped water Pokemon often associated with love and affection."
   },
   {
     "id": 456,
@@ -3693,7 +3693,7 @@
     "types": [
       "water"
     ],
-    "desc": "A small and colorful water Pokémon often found in schools swimming gracefully."
+    "desc": "A small and colorful water Pokemon often found in schools swimming gracefully."
   },
   {
     "id": 457,
@@ -3701,7 +3701,7 @@
     "types": [
       "water"
     ],
-    "desc": "A graceful and elegant water Pokémon that moves with beauty and grace."
+    "desc": "A graceful and elegant water Pokemon that moves with beauty and grace."
   },
   {
     "id": 779,
@@ -3710,7 +3710,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A brightly colored water and psychic Pokémon known for its vibrant appearance."
+    "desc": "A brightly colored water and psychic Pokemon known for its vibrant appearance."
   },
   {
     "id": 594,
@@ -3718,7 +3718,7 @@
     "types": [
       "water"
     ],
-    "desc": "A caring and nurturing water Pokémon often seen as a protector of injured Pokémon."
+    "desc": "A caring and nurturing water Pokemon often seen as a protector of injured Pokemon."
   },
   {
     "id": 690,
@@ -3728,7 +3728,7 @@
       "poison",
       "water"
     ],
-    "desc": "A small and toxic water Pokémon with the potential to become a formidable dragon."
+    "desc": "A small and toxic water Pokemon with the potential to become a formidable dragon."
   },
   {
     "id": 691,
@@ -3737,7 +3737,7 @@
       "poison",
       "dragon"
     ],
-    "desc": "A venomous and draconic Pokémon with a unique typing."
+    "desc": "A venomous and draconic Pokemon with a unique typing."
   },
   {
     "id": 692,
@@ -3746,7 +3746,7 @@
     "types": [
       "water"
     ],
-    "desc": "A crab-like water Pokémon known for its powerful claw attacks."
+    "desc": "A crab-like water Pokemon known for its powerful claw attacks."
   },
   {
     "id": 693,
@@ -3754,7 +3754,7 @@
     "types": [
       "water"
     ],
-    "desc": "A powerful and cannon-wielding water Pokémon known for its precision."
+    "desc": "A powerful and cannon-wielding water Pokemon known for its precision."
   },
   {
     "id": 602,
@@ -3763,7 +3763,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A tiny electric Pokémon that generates electrical energy."
+    "desc": "A tiny electric Pokemon that generates electrical energy."
   },
   {
     "id": 603,
@@ -3772,7 +3772,7 @@
     "types": [
       "electric"
     ],
-    "desc": "An electric Pokémon that uses its tail to make contact with electrical outlets."
+    "desc": "An electric Pokemon that uses its tail to make contact with electrical outlets."
   },
   {
     "id": 604,
@@ -3780,7 +3780,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A versatile electric Pokémon that can levitate and lacks traditional weaknesses."
+    "desc": "A versatile electric Pokemon that can levitate and lacks traditional weaknesses."
   },
   {
     "id": 747,
@@ -3790,7 +3790,7 @@
       "poison",
       "water"
     ],
-    "desc": "A venomous water and poison Pokémon often found near coral reefs."
+    "desc": "A venomous water and poison Pokemon often found near coral reefs."
   },
   {
     "id": 748,
@@ -3799,7 +3799,7 @@
       "poison",
       "water"
     ],
-    "desc": "A highly toxic and defensive water and poison Pokémon known for its sharp spikes."
+    "desc": "A highly toxic and defensive water and poison Pokemon known for its sharp spikes."
   },
   {
     "id": 973,
@@ -3808,7 +3808,7 @@
       "flying",
       "fighting"
     ],
-    "desc": "A vibrant and flamboyant bird Pokémon known for its graceful yet powerful moves."
+    "desc": "A vibrant and flamboyant bird Pokemon known for its graceful yet powerful moves."
   },
   {
     "id": 147,
@@ -3817,7 +3817,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "A serpentine dragon Pokémon with a gentle disposition."
+    "desc": "A serpentine dragon Pokemon with a gentle disposition."
   },
   {
     "id": 148,
@@ -3826,7 +3826,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "An elegant dragon Pokémon that glides through the air with grace."
+    "desc": "An elegant dragon Pokemon that glides through the air with grace."
   },
   {
     "id": 149,
@@ -3835,7 +3835,7 @@
       "dragon",
       "flying"
     ],
-    "desc": "A powerful and friendly dragon Pokémon known for its ability to fly at incredible speeds."
+    "desc": "A powerful and friendly dragon Pokemon known for its ability to fly at incredible speeds."
   },
   {
     "id": 872,
@@ -3845,7 +3845,7 @@
       "ice",
       "bug"
     ],
-    "desc": "A small and ice-bug Pokémon often found in snowy regions."
+    "desc": "A small and ice-bug Pokemon often found in snowy regions."
   },
   {
     "id": 873,
@@ -3854,7 +3854,7 @@
       "ice",
       "bug"
     ],
-    "desc": "A graceful and icy moth Pokémon that flies with an ethereal beauty."
+    "desc": "A graceful and icy moth Pokemon that flies with an ethereal beauty."
   },
   {
     "id": 459,
@@ -3864,7 +3864,7 @@
       "grass",
       "ice"
     ],
-    "desc": "A snowy tree Pokémon that thrives in cold and wintry environments."
+    "desc": "A snowy tree Pokemon that thrives in cold and wintry environments."
   },
   {
     "id": 875,
@@ -3872,7 +3872,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A mysterious ice Pokémon that can change its appearance with the flip of its ice cube head."
+    "desc": "A mysterious ice Pokemon that can change its appearance with the flip of its ice cube head."
   },
   {
     "id": 871,
@@ -3880,7 +3880,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A spiky and electrifying Pokémon known for its thorny defenses."
+    "desc": "A spiky and electrifying Pokemon known for its thorny defenses."
   },
   {
     "id": 769,
@@ -3890,7 +3890,7 @@
       "ghost",
       "ground"
     ],
-    "desc": "A ghostly sand Pokémon that traps unsuspecting prey beneath its sandy surface."
+    "desc": "A ghostly sand Pokemon that traps unsuspecting prey beneath its sandy surface."
   },
   {
     "id": 770,
@@ -3899,7 +3899,7 @@
       "ghost",
       "ground"
     ],
-    "desc": "An ancient and haunted sandcastle Pokémon that commands the power of the desert."
+    "desc": "An ancient and haunted sandcastle Pokemon that commands the power of the desert."
   },
   {
     "id": 79,
@@ -3909,7 +3909,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A slow-witted yet friendly water and psychic Pokémon often found near water bodies."
+    "desc": "A slow-witted yet friendly water and psychic Pokemon often found near water bodies."
   },
   {
     "id": 80,
@@ -3918,7 +3918,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A water and psychic Pokémon that forms a symbiotic relationship with a sheltering Shellder."
+    "desc": "A water and psychic Pokemon that forms a symbiotic relationship with a sheltering Shellder."
   },
   {
     "id": 199,
@@ -3927,7 +3927,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A regal water and psychic Pokémon known for its intelligence and leadership abilities."
+    "desc": "A regal water and psychic Pokemon known for its intelligence and leadership abilities."
   },
   {
     "id": 422,
@@ -3936,7 +3936,7 @@
     "types": [
       "water"
     ],
-    "desc": "A blob-like water Pokémon with different forms depending on its habitat."
+    "desc": "A blob-like water Pokemon with different forms depending on its habitat."
   },
   {
     "id": 423,
@@ -3945,7 +3945,7 @@
       "water",
       "ground"
     ],
-    "desc": "A water and ground Pokémon with different forms based on its habitat, known for its adaptability."
+    "desc": "A water and ground Pokemon with different forms based on its habitat, known for its adaptability."
   },
   {
     "id": 90,
@@ -3954,7 +3954,7 @@
     "types": [
       "water"
     ],
-    "desc": "A clam-like water Pokémon that latches onto Slowpoke to evolve into Slowbro."
+    "desc": "A clam-like water Pokemon that latches onto Slowpoke to evolve into Slowbro."
   },
   {
     "id": 91,
@@ -3963,7 +3963,7 @@
       "water",
       "ice"
     ],
-    "desc": "A well-armored water and ice Pokémon with a powerful defense mechanism."
+    "desc": "A well-armored water and ice Pokemon with a powerful defense mechanism."
   },
   {
     "id": 211,
@@ -3973,7 +3973,7 @@
       "water",
       "poison"
     ],
-    "desc": "A water and poison Pokémon known for its ability to inflate its body with water."
+    "desc": "A water and poison Pokemon known for its ability to inflate its body with water."
   },
   {
     "id": 370,
@@ -3981,7 +3981,7 @@
     "types": [
       "water"
     ],
-    "desc": "A heart-shaped water Pokémon often associated with love and affection."
+    "desc": "A heart-shaped water Pokemon often associated with love and affection."
   },
   {
     "id": 456,
@@ -3990,7 +3990,7 @@
     "types": [
       "water"
     ],
-    "desc": "A small and colorful water Pokémon often found in schools swimming gracefully."
+    "desc": "A small and colorful water Pokemon often found in schools swimming gracefully."
   },
   {
     "id": 457,
@@ -3998,7 +3998,7 @@
     "types": [
       "water"
     ],
-    "desc": "A graceful and elegant water Pokémon that moves with beauty and grace."
+    "desc": "A graceful and elegant water Pokemon that moves with beauty and grace."
   },
   {
     "id": 779,
@@ -4007,7 +4007,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A brightly colored water and psychic Pokémon known for its vibrant appearance."
+    "desc": "A brightly colored water and psychic Pokemon known for its vibrant appearance."
   },
   {
     "id": 594,
@@ -4015,7 +4015,7 @@
     "types": [
       "water"
     ],
-    "desc": "A caring and nurturing water Pokémon often seen as a protector of injured Pokémon."
+    "desc": "A caring and nurturing water Pokemon often seen as a protector of injured Pokemon."
   },
   {
     "id": 690,
@@ -4025,7 +4025,7 @@
       "poison",
       "water"
     ],
-    "desc": "A small and toxic water Pokémon with the potential to become a formidable dragon."
+    "desc": "A small and toxic water Pokemon with the potential to become a formidable dragon."
   },
   {
     "id": 691,
@@ -4034,7 +4034,7 @@
       "poison",
       "dragon"
     ],
-    "desc": "A venomous and draconic Pokémon with a unique typing."
+    "desc": "A venomous and draconic Pokemon with a unique typing."
   },
   {
     "id": 692,
@@ -4043,7 +4043,7 @@
     "types": [
       "water"
     ],
-    "desc": "A crab-like water Pokémon known for its powerful claw attacks."
+    "desc": "A crab-like water Pokemon known for its powerful claw attacks."
   },
   {
     "id": 693,
@@ -4051,7 +4051,7 @@
     "types": [
       "water"
     ],
-    "desc": "A powerful and cannon-wielding water Pokémon known for its precision."
+    "desc": "A powerful and cannon-wielding water Pokemon known for its precision."
   },
   {
     "id": 602,
@@ -4060,7 +4060,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A tiny electric Pokémon that generates electrical energy."
+    "desc": "A tiny electric Pokemon that generates electrical energy."
   },
   {
     "id": 603,
@@ -4069,7 +4069,7 @@
     "types": [
       "electric"
     ],
-    "desc": "An electric Pokémon that uses its tail to make contact with electrical outlets."
+    "desc": "An electric Pokemon that uses its tail to make contact with electrical outlets."
   },
   {
     "id": 604,
@@ -4077,7 +4077,7 @@
     "types": [
       "electric"
     ],
-    "desc": "A versatile electric Pokémon that can levitate and lacks traditional weaknesses."
+    "desc": "A versatile electric Pokemon that can levitate and lacks traditional weaknesses."
   },
   {
     "id": 747,
@@ -4087,7 +4087,7 @@
       "poison",
       "water"
     ],
-    "desc": "A venomous water and poison Pokémon often found near coral reefs."
+    "desc": "A venomous water and poison Pokemon often found near coral reefs."
   },
   {
     "id": 748,
@@ -4096,7 +4096,7 @@
       "poison",
       "water"
     ],
-    "desc": "A highly toxic and defensive water and poison Pokémon known for its sharp spikes."
+    "desc": "A highly toxic and defensive water and poison Pokemon known for its sharp spikes."
   },
   {
     "id": 973,
@@ -4105,7 +4105,7 @@
       "flying",
       "fighting"
     ],
-    "desc": "A vibrant and flamboyant bird Pokémon known for its graceful yet powerful moves."
+    "desc": "A vibrant and flamboyant bird Pokemon known for its graceful yet powerful moves."
   },
   {
     "id": 147,
@@ -4114,7 +4114,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "A serpentine dragon Pokémon with a gentle disposition."
+    "desc": "A serpentine dragon Pokemon with a gentle disposition."
   },
   {
     "id": 148,
@@ -4123,7 +4123,7 @@
     "types": [
       "dragon"
     ],
-    "desc": "An elegant dragon Pokémon that glides through the air with grace."
+    "desc": "An elegant dragon Pokemon that glides through the air with grace."
   },
   {
     "id": 149,
@@ -4132,7 +4132,7 @@
       "dragon",
       "flying"
     ],
-    "desc": "A powerful and friendly dragon Pokémon known for its ability to fly at incredible speeds."
+    "desc": "A powerful and friendly dragon Pokemon known for its ability to fly at incredible speeds."
   },
   {
     "id": 872,
@@ -4142,7 +4142,7 @@
       "ice",
       "bug"
     ],
-    "desc": "A small and ice-bug Pokémon often found in snowy regions."
+    "desc": "A small and ice-bug Pokemon often found in snowy regions."
   },
   {
     "id": 873,
@@ -4151,7 +4151,7 @@
       "ice",
       "bug"
     ],
-    "desc": "A graceful and icy moth Pokémon that flies with an ethereal beauty."
+    "desc": "A graceful and icy moth Pokemon that flies with an ethereal beauty."
   },
   {
     "id": 459,
@@ -4161,7 +4161,7 @@
       "grass",
       "ice"
     ],
-    "desc": "A snowy tree Pokémon that thrives in cold and wintry environments."
+    "desc": "A snowy tree Pokemon that thrives in cold and wintry environments."
   },
   {
     "id": 460,
@@ -4170,7 +4170,7 @@
       "grass",
       "ice"
     ],
-    "desc": "A towering and frosty grass and ice Pokémon that commands the power of blizzards."
+    "desc": "A towering and frosty grass and ice Pokemon that commands the power of blizzards."
   },
   {
     "id": 225,
@@ -4179,7 +4179,7 @@
       "ice",
       "flying"
     ],
-    "desc": "A delivery-themed ice and flying Pokémon known for its generous nature."
+    "desc": "A delivery-themed ice and flying Pokemon known for its generous nature."
   },
   {
     "id": 613,
@@ -4188,7 +4188,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A bear-like ice Pokémon that is often seen with a runny nose."
+    "desc": "A bear-like ice Pokemon that is often seen with a runny nose."
   },
   {
     "id": 614,
@@ -4196,7 +4196,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A powerful and imposing ice Pokémon known for its strength and frigid aura."
+    "desc": "A powerful and imposing ice Pokemon known for its strength and frigid aura."
   },
   {
     "id": 361,
@@ -4205,7 +4205,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A small and chilly ice Pokémon often associated with snowy weather."
+    "desc": "A small and chilly ice Pokemon often associated with snowy weather."
   },
   {
     "id": 362,
@@ -4213,7 +4213,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A menacing and ice Pokémon with a freezing gaze and powerful jaws."
+    "desc": "A menacing and ice Pokemon with a freezing gaze and powerful jaws."
   },
   {
     "id": 478,
@@ -4222,7 +4222,7 @@
       "ice",
       "ghost"
     ],
-    "desc": "A ghostly and alluring ice Pokémon known for its haunting beauty."
+    "desc": "A ghostly and alluring ice Pokemon known for its haunting beauty."
   },
   {
     "id": 615,
@@ -4230,7 +4230,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A crystalline and geometric ice Pokémon that can create freezing winds."
+    "desc": "A crystalline and geometric ice Pokemon that can create freezing winds."
   },
   {
     "id": 974,
@@ -4239,7 +4239,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A small and aquatic ice Pokémon that enjoys frolicking in icy waters."
+    "desc": "A small and aquatic ice Pokemon that enjoys frolicking in icy waters."
   },
   {
     "id": 975,
@@ -4256,7 +4256,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A mountain-like ice Pokémon that resembles a block of ice."
+    "desc": "A mountain-like ice Pokemon that resembles a block of ice."
   },
   {
     "id": 713,
@@ -4264,7 +4264,7 @@
     "types": [
       "ice"
     ],
-    "desc": "A behemoth of an ice Pokémon that carves out its territory with icy walls."
+    "desc": "A behemoth of an ice Pokemon that carves out its territory with icy walls."
   },
   {
     "id": 627,
@@ -4274,7 +4274,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A young and brave avian Pokémon often associated with the ideals of justice."
+    "desc": "A young and brave avian Pokemon often associated with the ideals of justice."
   },
   {
     "id": 628,
@@ -4283,7 +4283,7 @@
       "normal",
       "flying"
     ],
-    "desc": "A majestic and powerful avian Pokémon known for its sense of patriotism."
+    "desc": "A majestic and powerful avian Pokemon known for its sense of patriotism."
   },
   {
     "id": 624,
@@ -4293,7 +4293,7 @@
       "dark",
       "steel"
     ],
-    "desc": "A sharp and bladed Pokémon known for its precision in battle."
+    "desc": "A sharp and bladed Pokemon known for its precision in battle."
   },
   {
     "id": 625,
@@ -4303,7 +4303,7 @@
       "dark",
       "steel"
     ],
-    "desc": "A formidable and strategic Pokémon that rules over a group of Pawniard."
+    "desc": "A formidable and strategic Pokemon that rules over a group of Pawniard."
   },
   {
     "id": 983,
@@ -4312,7 +4312,7 @@
       "dark",
       "steel"
     ],
-    "desc": "A regal and cunning dark and steel Pokémon that is known for its calculated tactics."
+    "desc": "A regal and cunning dark and steel Pokemon that is known for its calculated tactics."
   },
   {
     "id": 633,
@@ -4322,7 +4322,7 @@
       "dark",
       "dragon"
     ],
-    "desc": "A blind and ferocious dragon Pokémon with the potential for great power."
+    "desc": "A blind and ferocious dragon Pokemon with the potential for great power."
   },
   {
     "id": 634,
@@ -4332,7 +4332,7 @@
       "dark",
       "dragon"
     ],
-    "desc": "A two-headed and relentless dragon Pokémon that craves destruction."
+    "desc": "A two-headed and relentless dragon Pokemon that craves destruction."
   },
   {
     "id": 635,
@@ -4341,7 +4341,7 @@
       "dark",
       "dragon"
     ],
-    "desc": "A brutal and tri-headed dragon Pokémon that is feared for its destructive capabilities."
+    "desc": "A brutal and tri-headed dragon Pokemon that is feared for its destructive capabilities."
   },
   {
     "id": 976,
@@ -4350,7 +4350,7 @@
       "water",
       "psychic"
     ],
-    "desc": "A serene and aquatic Pokémon that possesses psychic powers and grace in its movements."
+    "desc": "A serene and aquatic Pokemon that possesses psychic powers and grace in its movements."
   },
   {
     "id": 977,
@@ -4358,7 +4358,7 @@
     "types": [
       "water"
     ],
-    "desc": "A musical and water Pokémon known for the beautiful sounds it produces in water."
+    "desc": "A musical and water Pokemon known for the beautiful sounds it produces in water."
   },
   {
     "id": 978,
@@ -4392,7 +4392,7 @@
         "spriteSuffix": "stretch"
       }
     ],
-    "desc": "A versatile dragon and water Pokémon with the ability to stretch and change its form."
+    "desc": "A versatile dragon and water Pokemon with the ability to stretch and change its form."
   },
   {
     "id": 984,
@@ -4401,7 +4401,7 @@
       "ground",
       "fighting"
     ],
-    "desc": "A colossal and tusked Pokémon known for its incredible strength and durability."
+    "desc": "A colossal and tusked Pokemon known for its incredible strength and durability."
   },
   {
     "id": 985,
@@ -4410,7 +4410,7 @@
       "fairy",
       "psychic"
     ],
-    "desc": "A mysterious and spectral Pokémon with a tail that emits eerie sounds."
+    "desc": "A mysterious and spectral Pokemon with a tail that emits eerie sounds."
   },
   {
     "id": 986,
@@ -4419,7 +4419,7 @@
       "grass",
       "dark"
     ],
-    "desc": "A fierce and plant-based Pokémon known for its thorny exterior and aggressive nature."
+    "desc": "A fierce and plant-based Pokemon known for its thorny exterior and aggressive nature."
   },
   {
     "id": 987,
@@ -4428,7 +4428,7 @@
       "ghost",
       "fairy"
     ],
-    "desc": "A graceful and ethereal Pokémon known for its fluttering and spectral appearance."
+    "desc": "A graceful and ethereal Pokemon known for its fluttering and spectral appearance."
   },
   {
     "id": 988,
@@ -4437,7 +4437,7 @@
       "bug",
       "fighting"
     ],
-    "desc": "A nimble and serpentine Pokémon with wings that allow it to glide gracefully."
+    "desc": "A nimble and serpentine Pokemon with wings that allow it to glide gracefully."
   },
   {
     "id": 989,
@@ -4446,7 +4446,7 @@
       "electric",
       "ground"
     ],
-    "desc": "A shocking and ground Pokémon known for its ability to generate electricity in sandy terrain."
+    "desc": "A shocking and ground Pokemon known for its ability to generate electricity in sandy terrain."
   },
   {
     "id": 990,
@@ -4455,7 +4455,7 @@
       "ground",
       "steel"
     ],
-    "desc": "A heavy and metallic Pokémon with treads that allow it to traverse challenging terrains."
+    "desc": "A heavy and metallic Pokemon with treads that allow it to traverse challenging terrains."
   },
   {
     "id": 991,
@@ -4464,7 +4464,7 @@
       "ice",
       "water"
     ],
-    "desc": "A bundle-like Pokémon known for its icy exterior and resilience in cold environments."
+    "desc": "A bundle-like Pokemon known for its icy exterior and resilience in cold environments."
   },
   {
     "id": 992,
@@ -4473,7 +4473,7 @@
       "fighting",
       "electric"
     ],
-    "desc": "A powerful and electrifying Pokémon with hands capable of crushing rocks."
+    "desc": "A powerful and electrifying Pokemon with hands capable of crushing rocks."
   },
   {
     "id": 993,
@@ -4482,7 +4482,7 @@
       "dark",
       "flying"
     ],
-    "desc": "A dark and flying Pokémon known for its menacing presence in the night sky."
+    "desc": "A dark and flying Pokemon known for its menacing presence in the night sky."
   },
   {
     "id": 994,
@@ -4491,7 +4491,7 @@
       "fire",
       "poison"
     ],
-    "desc": "A fiery and venomous Pokémon with wings that resemble a moth's."
+    "desc": "A fiery and venomous Pokemon with wings that resemble a moth's."
   },
   {
     "id": 995,
@@ -4500,7 +4500,7 @@
       "rock",
       "electric"
     ],
-    "desc": "A rock and electric Pokémon covered in thorny protrusions."
+    "desc": "A rock and electric Pokemon covered in thorny protrusions."
   },
   {
     "id": 996,
@@ -4510,7 +4510,7 @@
       "dragon",
       "ice"
     ],
-    "desc": "A young and frosty dragon and ice Pokémon with an icy breath."
+    "desc": "A young and frosty dragon and ice Pokemon with an icy breath."
   },
   {
     "id": 997,
@@ -4520,7 +4520,7 @@
       "dragon",
       "ice"
     ],
-    "desc": "An icy and formidable dragon and ice Pokémon known for its strength in battle."
+    "desc": "An icy and formidable dragon and ice Pokemon known for its strength in battle."
   },
   {
     "id": 998,
@@ -4529,7 +4529,7 @@
       "dragon",
       "ice"
     ],
-    "desc": "A legendary and mythical dragon and ice Pokémon with a powerful and majestic presence."
+    "desc": "A legendary and mythical dragon and ice Pokemon with a powerful and majestic presence."
   },
   {
     "id": 999,
@@ -4554,7 +4554,7 @@
         "spriteSuffix": "roaming"
       }
     ],
-    "desc": "A mischievous and ghostly Pokémon known for its eerie pranks and tricks."
+    "desc": "A mischievous and ghostly Pokemon known for its eerie pranks and tricks."
   },
   {
     "id": 1000,
@@ -4563,7 +4563,7 @@
       "steel",
       "ghost"
     ],
-    "desc": "A spectral and metallic Pokémon known for its ghostly powers and haunting presence."
+    "desc": "A spectral and metallic Pokemon known for its ghostly powers and haunting presence."
   },
   {
     "id": 1001,
@@ -4573,7 +4573,7 @@
       "dark",
       "grass"
     ],
-    "desc": "A legendary and ancient Pokémon that embodies the essence of darkness and nature."
+    "desc": "A legendary and ancient Pokemon that embodies the essence of darkness and nature."
   },
   {
     "id": 1002,
@@ -4583,7 +4583,7 @@
       "dark",
       "ice"
     ],
-    "desc": "A legendary and icy Pokémon that commands the power of darkness and frost."
+    "desc": "A legendary and icy Pokemon that commands the power of darkness and frost."
   },
   {
     "id": 1003,
@@ -4593,7 +4593,7 @@
       "dark",
       "ground"
     ],
-    "desc": "A legendary and earthy Pokémon that embodies the essence of darkness and the earth."
+    "desc": "A legendary and earthy Pokemon that embodies the essence of darkness and the earth."
   },
   {
     "id": 1004,
@@ -4603,7 +4603,7 @@
       "dark",
       "fire"
     ],
-    "desc": "A legendary and fiery Pokémon that wields the power of darkness and flames."
+    "desc": "A legendary and fiery Pokemon that wields the power of darkness and flames."
   },
   {
     "id": 1005,
@@ -4612,7 +4612,7 @@
       "dragon",
       "dark"
     ],
-    "desc": "A legendary and lunar Pokémon known for its connection to the dark side of the moon."
+    "desc": "A legendary and lunar Pokemon known for its connection to the dark side of the moon."
   },
   {
     "id": 1006,
@@ -4621,7 +4621,7 @@
       "fairy",
       "fighting"
     ],
-    "desc": "A valiant and warrior-like Pokémon with a strong sense of justice."
+    "desc": "A valiant and warrior-like Pokemon with a strong sense of justice."
   },
   {
     "id": 1007,
@@ -4631,7 +4631,7 @@
       "fighting",
       "dragon"
     ],
-    "desc": "A legendary and draconic Pokémon known for its martial arts prowess."
+    "desc": "A legendary and draconic Pokemon known for its martial arts prowess."
   },
   {
     "id": 1008,
@@ -4641,7 +4641,7 @@
       "electric",
       "dragon"
     ],
-    "desc": "A legendary and electrifying Pokémon with power over time and space."
+    "desc": "A legendary and electrifying Pokemon with power over time and space."
   },
   {
     "id": 6,
@@ -4650,7 +4650,7 @@
       "fire",
       "flying"
     ],
-    "desc": "A powerful and fiery lizard Pokémon known for its ability to breathe intense flames."
+    "desc": "A powerful and fiery lizard Pokemon known for its ability to breathe intense flames."
   },
   {
     "id": 815,
@@ -4658,7 +4658,7 @@
     "types": [
       "fire"
     ],
-    "desc": "A swift and agile fire Pokémon that excels in soccer-like battles."
+    "desc": "A swift and agile fire Pokemon that excels in soccer-like battles."
   },
   {
     "id": 1009,
@@ -4667,7 +4667,7 @@
       "water",
       "dragon"
     ],
-    "desc": "A water and dragon Pokémon known for its ability to control tides and waves."
+    "desc": "A water and dragon Pokemon known for its ability to control tides and waves."
   },
   {
     "id": 1010,
@@ -4676,7 +4676,7 @@
       "grass",
       "psychic"
     ],
-    "desc": "A mystical and plant-based Pokémon with the power to manipulate nature and the mind."
+    "desc": "A mystical and plant-based Pokemon with the power to manipulate nature and the mind."
   },
   {
     "id": 658,
@@ -4692,7 +4692,7 @@
           "water",
           "dark"
         ],
-        "desc": "Greninja is a Water/Dark type Pokémon."
+        "desc": "Greninja is a Water/Dark type Pokemon."
       },
       {
         "name": "Ash's Greninja",
@@ -4701,7 +4701,7 @@
           "dark"
         ],
         "spriteSuffix": "ash",
-        "desc": "Ash's Greninja is a special Water/Dark type Pokémon."
+        "desc": "Ash's Greninja is a special Water/Dark type Pokemon."
       }
     ]
   },
@@ -4712,7 +4712,7 @@
       "grass",
       "ghost"
     ],
-    "desc": "Decidueye is a Grass/Ghost type Pokémon."
+    "desc": "Decidueye is a Grass/Ghost type Pokemon."
   },
   {
     "id": 503,
@@ -4720,7 +4720,7 @@
     "types": [
       "water"
     ],
-    "desc": "Samurott is a Water type Pokémon."
+    "desc": "Samurott is a Water type Pokemon."
   },
   {
     "id": 157,
@@ -4728,6 +4728,6 @@
     "types": [
       "fire"
     ],
-    "desc": "Typhlosion is a Fire type Pokémon."
+    "desc": "Typhlosion is a Fire type Pokemon."
   }
 ]

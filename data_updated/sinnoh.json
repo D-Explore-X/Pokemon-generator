@@ -6,7 +6,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Pikachu is a famous Electric-type Pokémon known for its cuteness and evolution into Raichu."
+        "desc": "Pikachu is a famous Electric-type Pokemon known for its cuteness and evolution into Raichu."
     },
     {
         "id": 26,
@@ -14,7 +14,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Raichu is an Electric-type Pokémon that evolves from Pikachu. It has a more mature appearance and enhanced electric powers."
+        "desc": "Raichu is an Electric-type Pokemon that evolves from Pikachu. It has a more mature appearance and enhanced electric powers."
     },
     {
         "id": 35,
@@ -23,7 +23,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Clefairy is a Normal-type Pokémon known for its fairy-like appearance and its evolution into Clefable."
+        "desc": "Clefairy is a Normal-type Pokemon known for its fairy-like appearance and its evolution into Clefable."
     },
     {
         "id": 36,
@@ -31,7 +31,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Clefable is a Normal-type Pokémon known for its magical and fairy-like characteristics. It evolves from Clefairy."
+        "desc": "Clefable is a Normal-type Pokemon known for its magical and fairy-like characteristics. It evolves from Clefairy."
     },
     {
         "id": 41,
@@ -41,7 +41,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Zubat is a Poison/Flying-type Pokémon known for its cave-dwelling habits and evolution into Golbat."
+        "desc": "Zubat is a Poison/Flying-type Pokemon known for its cave-dwelling habits and evolution into Golbat."
     },
     {
         "id": 42,
@@ -51,7 +51,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Golbat is a Poison/Flying-type Pokémon known for its large wingspan and ability to evolve from Zubat."
+        "desc": "Golbat is a Poison/Flying-type Pokemon known for its large wingspan and ability to evolve from Zubat."
     },
     {
         "id": 54,
@@ -60,7 +60,7 @@
         "types": [
             "water"
         ],
-        "desc": "Psyduck is a Water-type Pokémon known for its psychic headaches and its evolution into Golduck."
+        "desc": "Psyduck is a Water-type Pokemon known for its psychic headaches and its evolution into Golduck."
     },
     {
         "id": 55,
@@ -68,7 +68,7 @@
         "types": [
             "water"
         ],
-        "desc": "Golduck is a Water-type Pokémon known for its graceful swimming and powerful aquatic abilities. It evolves from Psyduck."
+        "desc": "Golduck is a Water-type Pokemon known for its graceful swimming and powerful aquatic abilities. It evolves from Psyduck."
     },
     {
         "id": 63,
@@ -77,7 +77,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Abra is a Psychic-type Pokémon known for its teleportation abilities and its evolution into Kadabra."
+        "desc": "Abra is a Psychic-type Pokemon known for its teleportation abilities and its evolution into Kadabra."
     },
     {
         "id": 64,
@@ -86,7 +86,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Kadabra is a Psychic-type Pokémon known for its psychic powers and its evolution from Abra."
+        "desc": "Kadabra is a Psychic-type Pokemon known for its psychic powers and its evolution from Abra."
     },
     {
         "id": 65,
@@ -94,7 +94,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Alakazam is a Psychic-type Pokémon known for its extraordinary intelligence and its evolution from Kadabra."
+        "desc": "Alakazam is a Psychic-type Pokemon known for its extraordinary intelligence and its evolution from Kadabra."
     },
     {
         "id": 66,
@@ -103,7 +103,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machop is a Fighting-type Pokémon known for its muscular build and its evolution into Machoke."
+        "desc": "Machop is a Fighting-type Pokemon known for its muscular build and its evolution into Machoke."
     },
     {
         "id": 67,
@@ -112,7 +112,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machoke is a Fighting-type Pokémon known for its formidable strength and its evolution from Machop."
+        "desc": "Machoke is a Fighting-type Pokemon known for its formidable strength and its evolution from Machop."
     },
     {
         "id": 68,
@@ -120,7 +120,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Machamp is a Fighting-type Pokémon known for its four powerful arms and its evolution from Machoke."
+        "desc": "Machamp is a Fighting-type Pokemon known for its four powerful arms and its evolution from Machoke."
     },
     {
         "id": 72,
@@ -130,7 +130,7 @@
             "water",
             "poison"
         ],
-        "desc": "Tentacool is a Water/Poison-type Pokémon known for its tentacles and its evolution into Tentacruel."
+        "desc": "Tentacool is a Water/Poison-type Pokemon known for its tentacles and its evolution into Tentacruel."
     },
     {
         "id": 73,
@@ -139,7 +139,7 @@
             "water",
             "poison"
         ],
-        "desc": "Tentacruel is a Water/Poison-type Pokémon known for its highly venomous tentacles. It evolves from Tentacool."
+        "desc": "Tentacruel is a Water/Poison-type Pokemon known for its highly venomous tentacles. It evolves from Tentacool."
     },
     {
         "id": 74,
@@ -149,7 +149,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Geodude is a Rock/Ground-type Pokémon known for its rocky appearance and its evolution into Graveler."
+        "desc": "Geodude is a Rock/Ground-type Pokemon known for its rocky appearance and its evolution into Graveler."
     },
     {
         "id": 75,
@@ -159,7 +159,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Graveler is a Rock/Ground-type Pokémon known for its boulder-like body and its evolution from Geodude."
+        "desc": "Graveler is a Rock/Ground-type Pokemon known for its boulder-like body and its evolution from Geodude."
     },
     {
         "id": 76,
@@ -168,7 +168,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Golem is a Rock/Ground-type Pokémon known for its incredible physical strength and its evolution from Graveler."
+        "desc": "Golem is a Rock/Ground-type Pokemon known for its incredible physical strength and its evolution from Graveler."
     },
     {
         "id": 77,
@@ -177,7 +177,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Ponyta is a Fire-type Pokémon known for its fiery mane and its evolution into Rapidash."
+        "desc": "Ponyta is a Fire-type Pokemon known for its fiery mane and its evolution into Rapidash."
     },
     {
         "id": 78,
@@ -185,7 +185,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Rapidash is a Fire-type Pokémon known for its incredible speed and grace. It evolves from Ponyta."
+        "desc": "Rapidash is a Fire-type Pokemon known for its incredible speed and grace. It evolves from Ponyta."
     },
     {
         "id": 92,
@@ -195,7 +195,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Gastly is a Ghost/Poison-type Pokémon known for its gaseous form and its evolution into Haunter."
+        "desc": "Gastly is a Ghost/Poison-type Pokemon known for its gaseous form and its evolution into Haunter."
     },
     {
         "id": 93,
@@ -205,7 +205,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Haunter is a Ghost/Poison-type Pokémon known for its mischievous nature and its evolution from Gastly."
+        "desc": "Haunter is a Ghost/Poison-type Pokemon known for its mischievous nature and its evolution from Gastly."
     },
     {
         "id": 94,
@@ -214,7 +214,7 @@
             "ghost",
             "poison"
         ],
-        "desc": "Gengar is a Ghost/Poison-type Pokémon known for its sinister appearance and its evolution from Haunter."
+        "desc": "Gengar is a Ghost/Poison-type Pokemon known for its sinister appearance and its evolution from Haunter."
     },
     {
         "id": 95,
@@ -224,7 +224,7 @@
             "rock",
             "ground"
         ],
-        "desc": "Onix is a Rock/Ground-type Pokémon known for its massive size and its evolution into Steelix through trading."
+        "desc": "Onix is a Rock/Ground-type Pokemon known for its massive size and its evolution into Steelix through trading."
     },
     {
         "id": 113,
@@ -233,7 +233,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Chansey is a Normal-type Pokémon known for its incredible ability to heal and nurture others."
+        "desc": "Chansey is a Normal-type Pokemon known for its incredible ability to heal and nurture others."
     },
     {
         "id": 118,
@@ -242,7 +242,7 @@
         "types": [
             "water"
         ],
-        "desc": "Goldeen is a Water-type Pokémon known for its elegant appearance and its evolution into Seaking."
+        "desc": "Goldeen is a Water-type Pokemon known for its elegant appearance and its evolution into Seaking."
     },
     {
         "id": 119,
@@ -250,7 +250,7 @@
         "types": [
             "water"
         ],
-        "desc": "Seaking is a Water-type Pokémon known for its impressive horn and powerful swimming abilities. It evolves from Goldeen."
+        "desc": "Seaking is a Water-type Pokemon known for its impressive horn and powerful swimming abilities. It evolves from Goldeen."
     },
     {
         "id": 122,
@@ -258,7 +258,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Mr. Mime is a Psychic-type Pokémon known for its playful and mime-like nature. It is recognized for its unique appearance."
+        "desc": "Mr. Mime is a Psychic-type Pokemon known for its playful and mime-like nature. It is recognized for its unique appearance."
     },
     {
         "id": 129,
@@ -267,7 +267,7 @@
         "types": [
             "water"
         ],
-        "desc": "Magikarp is a Water-type Pokémon infamous for its weakness but can evolve into the mighty Gyarados."
+        "desc": "Magikarp is a Water-type Pokemon infamous for its weakness but can evolve into the mighty Gyarados."
     },
     {
         "id": 130,
@@ -276,7 +276,7 @@
             "water",
             "flying"
         ],
-        "desc": "Gyarados is a fearsome Water/Flying-type Pokémon that evolves from Magikarp. It is known for its destructive power."
+        "desc": "Gyarados is a fearsome Water/Flying-type Pokemon that evolves from Magikarp. It is known for its destructive power."
     },
     {
         "id": 143,
@@ -284,7 +284,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Snorlax is a massive Normal-type Pokémon known for its incredible bulk and love of sleep."
+        "desc": "Snorlax is a massive Normal-type Pokemon known for its incredible bulk and love of sleep."
     },
     {
         "id": 163,
@@ -294,7 +294,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Hoothoot is a Normal/Flying-type Pokémon known for its observant eyes and its evolution into Noctowl."
+        "desc": "Hoothoot is a Normal/Flying-type Pokemon known for its observant eyes and its evolution into Noctowl."
     },
     {
         "id": 164,
@@ -303,7 +303,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Noctowl is a Normal/Flying-type Pokémon known for its nocturnal habits and keen senses. It evolves from Hoothoot."
+        "desc": "Noctowl is a Normal/Flying-type Pokemon known for its nocturnal habits and keen senses. It evolves from Hoothoot."
     },
     {
         "id": 169,
@@ -312,7 +312,7 @@
             "poison",
             "flying"
         ],
-        "desc": "Crobat is a Poison/Flying-type Pokémon known for its speed and maneuverability. It evolves from Golbat."
+        "desc": "Crobat is a Poison/Flying-type Pokemon known for its speed and maneuverability. It evolves from Golbat."
     },
     {
         "id": 172,
@@ -321,7 +321,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Pichu is an Electric-type Pokémon known for its tiny size and its evolution into Pikachu."
+        "desc": "Pichu is an Electric-type Pokemon known for its tiny size and its evolution into Pikachu."
     },
     {
         "id": 173,
@@ -330,7 +330,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Cleffa is a Normal-type Pokémon known for its cuteness and its evolution into Clefairy."
+        "desc": "Cleffa is a Normal-type Pokemon known for its cuteness and its evolution into Clefairy."
     },
     {
         "id": 183,
@@ -339,7 +339,7 @@
         "types": [
             "water"
         ],
-        "desc": "Marill is a Water-type Pokémon known for its round, blue body and its evolution into Azumarill."
+        "desc": "Marill is a Water-type Pokemon known for its round, blue body and its evolution into Azumarill."
     },
     {
         "id": 184,
@@ -347,7 +347,7 @@
         "types": [
             "water"
         ],
-        "desc": "Azumarill is a Water-type Pokémon known for its water fairy abilities. It evolves from Marill."
+        "desc": "Azumarill is a Water-type Pokemon known for its water fairy abilities. It evolves from Marill."
     },
     {
         "id": 185,
@@ -355,7 +355,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Sudowoodo is a Rock-type Pokémon known for its resemblance to a tree and its signature move Mimic."
+        "desc": "Sudowoodo is a Rock-type Pokemon known for its resemblance to a tree and its signature move Mimic."
     },
     {
         "id": 190,
@@ -364,7 +364,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Aipom is a Normal-type Pokémon known for its prehensile tail and its evolution into Ambipom."
+        "desc": "Aipom is a Normal-type Pokemon known for its prehensile tail and its evolution into Ambipom."
     },
     {
         "id": 194,
@@ -374,7 +374,7 @@
             "water",
             "ground"
         ],
-        "desc": "Wooper is a Water/Ground-type Pokémon known for its dual typing and carefree nature. It evolves into Quagsire."
+        "desc": "Wooper is a Water/Ground-type Pokemon known for its dual typing and carefree nature. It evolves into Quagsire."
     },
     {
         "id": 195,
@@ -383,7 +383,7 @@
             "water",
             "ground"
         ],
-        "desc": "Quagsire is a Water/Ground-type Pokémon known for its relaxed demeanor and excellent swimming abilities. It evolves from Wooper."
+        "desc": "Quagsire is a Water/Ground-type Pokemon known for its relaxed demeanor and excellent swimming abilities. It evolves from Wooper."
     },
     {
         "id": 198,
@@ -393,7 +393,7 @@
             "dark",
             "flying"
         ],
-        "desc": "Murkrow is a Dark/Flying-type Pokémon known for its association with omens and its evolution into Honchkrow."
+        "desc": "Murkrow is a Dark/Flying-type Pokemon known for its association with omens and its evolution into Honchkrow."
     },
     {
         "id": 200,
@@ -402,7 +402,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Misdreavus is a Ghost-type Pokémon known for its mischievous and playful nature. It is the pre-evolution of Mismagius."
+        "desc": "Misdreavus is a Ghost-type Pokemon known for its mischievous and playful nature. It is the pre-evolution of Mismagius."
     },
     {
         "id": 201,
@@ -607,7 +607,7 @@
                 "spriteSuffix": "question"
             }
         ],
-        "desc": "Unown is a Psychic-type Pokémon known for its mysterious and enigmatic nature. It comes in various forms representing different letters and symbols."
+        "desc": "Unown is a Psychic-type Pokemon known for its mysterious and enigmatic nature. It comes in various forms representing different letters and symbols."
     },
     {
         "id": 203,
@@ -616,7 +616,7 @@
             "normal",
             "psychic"
         ],
-        "desc": "Girafarig is a dual-type Normal/Psychic Pokémon known for its unique design with a second face on its tail."
+        "desc": "Girafarig is a dual-type Normal/Psychic Pokemon known for its unique design with a second face on its tail."
     },
     {
         "id": 208,
@@ -625,7 +625,7 @@
             "steel",
             "ground"
         ],
-        "desc": "Steelix is a Steel/Ground-type Pokémon known for its incredible durability and resistance. It evolves from Onix."
+        "desc": "Steelix is a Steel/Ground-type Pokemon known for its incredible durability and resistance. It evolves from Onix."
     },
     {
         "id": 214,
@@ -634,7 +634,7 @@
             "bug",
             "fighting"
         ],
-        "desc": "Heracross is a dual-type Bug/Fighting Pokémon known for its strength and horn as well as its Mega Evolution."
+        "desc": "Heracross is a dual-type Bug/Fighting Pokemon known for its strength and horn as well as its Mega Evolution."
     },
     {
         "id": 215,
@@ -644,7 +644,7 @@
             "dark",
             "ice"
         ],
-        "desc": "Sneasel is a dual-type Dark/Ice Pokémon known for its agility and sharp claws. It evolves into Weavile."
+        "desc": "Sneasel is a dual-type Dark/Ice Pokemon known for its agility and sharp claws. It evolves into Weavile."
     },
     {
         "id": 223,
@@ -653,7 +653,7 @@
         "types": [
             "water"
         ],
-        "desc": "Remoraid is a Water-type Pokémon known for its appearance resembling a fish. It evolves into Octillery."
+        "desc": "Remoraid is a Water-type Pokemon known for its appearance resembling a fish. It evolves into Octillery."
     },
     {
         "id": 224,
@@ -661,7 +661,7 @@
         "types": [
             "water"
         ],
-        "desc": "Octillery is a Water-type Pokémon known for its long, flexible tentacles and its ability to shoot ink."
+        "desc": "Octillery is a Water-type Pokemon known for its long, flexible tentacles and its ability to shoot ink."
     },
     {
         "id": 226,
@@ -670,7 +670,7 @@
             "water",
             "flying"
         ],
-        "desc": "Mantine is a dual-type Water/Flying Pokémon known for its graceful swimming and large, wing-like fins."
+        "desc": "Mantine is a dual-type Water/Flying Pokemon known for its graceful swimming and large, wing-like fins."
     },
     {
         "id": 242,
@@ -678,7 +678,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Blissey is a Normal-type Pokémon known for its incredible Special Defense and its role as a caring healer in battles."
+        "desc": "Blissey is a Normal-type Pokemon known for its incredible Special Defense and its role as a caring healer in battles."
     },
     {
         "id": 265,
@@ -687,7 +687,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Wurmple is a Bug-type Pokémon that is known for its early evolutionary stage and simple appearance."
+        "desc": "Wurmple is a Bug-type Pokemon that is known for its early evolutionary stage and simple appearance."
     },
     {
         "id": 266,
@@ -696,7 +696,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Silcoon is a Bug-type Pokémon that undergoes metamorphosis on its way to becoming a Beautifly."
+        "desc": "Silcoon is a Bug-type Pokemon that undergoes metamorphosis on its way to becoming a Beautifly."
     },
     {
         "id": 267,
@@ -705,7 +705,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Beautifly is a Bug/Flying-type Pokémon known for its graceful and colorful appearance."
+        "desc": "Beautifly is a Bug/Flying-type Pokemon known for its graceful and colorful appearance."
     },
     {
         "id": 268,
@@ -714,7 +714,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Cascoon is a Bug-type Pokémon that undergoes metamorphosis on its way to becoming a Dustox."
+        "desc": "Cascoon is a Bug-type Pokemon that undergoes metamorphosis on its way to becoming a Dustox."
     },
     {
         "id": 269,
@@ -723,7 +723,7 @@
             "bug",
             "poison"
         ],
-        "desc": "Dustox is a Bug/Poison-type Pokémon known for its toxic dust and unique appearance."
+        "desc": "Dustox is a Bug/Poison-type Pokemon known for its toxic dust and unique appearance."
     },
     {
         "id": 278,
@@ -733,7 +733,7 @@
             "water",
             "flying"
         ],
-        "desc": "Wingull is a Water/Flying-type Pokémon that's often seen near bodies of water."
+        "desc": "Wingull is a Water/Flying-type Pokemon that's often seen near bodies of water."
     },
     {
         "id": 279,
@@ -742,7 +742,7 @@
             "water",
             "flying"
         ],
-        "desc": "Pelipper is a Water/Flying-type Pokémon known for its role in carrying small Pokémon or items in its beak."
+        "desc": "Pelipper is a Water/Flying-type Pokemon known for its role in carrying small Pokemon or items in its beak."
     },
     {
         "id": 298,
@@ -751,7 +751,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Azurill is a Normal-type Pokémon with a round, blue appearance and a distinctive zigzag tail."
+        "desc": "Azurill is a Normal-type Pokemon with a round, blue appearance and a distinctive zigzag tail."
     },
     {
         "id": 307,
@@ -761,7 +761,7 @@
             "fighting",
             "psychic"
         ],
-        "desc": "Meditite is a Fighting/Psychic-type Pokémon known for its meditation and focus in battles."
+        "desc": "Meditite is a Fighting/Psychic-type Pokemon known for its meditation and focus in battles."
     },
     {
         "id": 308,
@@ -770,7 +770,7 @@
             "fighting",
             "psychic"
         ],
-        "desc": "Medicham is a Fighting/Psychic-type Pokémon that excels in martial arts and psychic abilities."
+        "desc": "Medicham is a Fighting/Psychic-type Pokemon that excels in martial arts and psychic abilities."
     },
     {
         "id": 315,
@@ -780,7 +780,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Roselia is a Grass/Poison-type Pokémon known for its beautiful and toxic rose-like appearance."
+        "desc": "Roselia is a Grass/Poison-type Pokemon known for its beautiful and toxic rose-like appearance."
     },
     {
         "id": 339,
@@ -790,7 +790,7 @@
             "water",
             "ground"
         ],
-        "desc": "Barboach is a Water/Ground-type Pokémon that's often found in mud and wetlands."
+        "desc": "Barboach is a Water/Ground-type Pokemon that's often found in mud and wetlands."
     },
     {
         "id": 340,
@@ -799,7 +799,7 @@
             "water",
             "ground"
         ],
-        "desc": "Whiscash is a Water/Ground-type Pokémon known for its large, catfish-like appearance and affinity for muddy waters."
+        "desc": "Whiscash is a Water/Ground-type Pokemon known for its large, catfish-like appearance and affinity for muddy waters."
     },
     {
         "id": 349,
@@ -808,7 +808,7 @@
         "types": [
             "water"
         ],
-        "desc": "Feebas is a Water-type Pokémon known for its plain appearance and potential to evolve into the elegant Milotic."
+        "desc": "Feebas is a Water-type Pokemon known for its plain appearance and potential to evolve into the elegant Milotic."
     },
     {
         "id": 350,
@@ -816,7 +816,7 @@
         "types": [
             "water"
         ],
-        "desc": "Milotic is a Water-type Pokémon that's celebrated for its stunning and graceful appearance."
+        "desc": "Milotic is a Water-type Pokemon that's celebrated for its stunning and graceful appearance."
     },
     {
         "id": 358,
@@ -824,7 +824,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Chimecho is a Psychic-type Pokémon known for its wind chime-like appearance and soothing chime sounds."
+        "desc": "Chimecho is a Psychic-type Pokemon known for its wind chime-like appearance and soothing chime sounds."
     },
     {
         "id": 387,
@@ -833,7 +833,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Turtwig is a Grass-type Pokémon with a small, turtle-like appearance, known for its affinity with the earth."
+        "desc": "Turtwig is a Grass-type Pokemon with a small, turtle-like appearance, known for its affinity with the earth."
     },
     {
         "id": 388,
@@ -842,7 +842,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Grotle is a Grass-type Pokémon that resembles a small, land-based turtle."
+        "desc": "Grotle is a Grass-type Pokemon that resembles a small, land-based turtle."
     },
     {
         "id": 389,
@@ -851,7 +851,7 @@
             "grass",
             "ground"
         ],
-        "desc": "Torterra is a Grass/Ground-type Pokémon known for its large and imposing appearance, resembling a turtle."
+        "desc": "Torterra is a Grass/Ground-type Pokemon known for its large and imposing appearance, resembling a turtle."
     },
     {
         "id": 390,
@@ -860,7 +860,7 @@
         "types": [
             "fire"
         ],
-        "desc": "Chimchar is a Fire-type Pokémon with a mischievous and agile nature."
+        "desc": "Chimchar is a Fire-type Pokemon with a mischievous and agile nature."
     },
     {
         "id": 391,
@@ -870,7 +870,7 @@
             "fire",
             "fighting"
         ],
-        "desc": "Monferno is a Fire/Fighting-type Pokémon known for its martial arts skills and playful demeanor."
+        "desc": "Monferno is a Fire/Fighting-type Pokemon known for its martial arts skills and playful demeanor."
     },
     {
         "id": 392,
@@ -879,7 +879,7 @@
             "fire",
             "fighting"
         ],
-        "desc": "Infernape is a Fire/Fighting-type Pokémon, combining fire and fighting abilities into a powerful package."
+        "desc": "Infernape is a Fire/Fighting-type Pokemon, combining fire and fighting abilities into a powerful package."
     },
     {
         "id": 393,
@@ -888,7 +888,7 @@
         "types": [
             "water"
         ],
-        "desc": "Piplup is a Water-type Pokémon with a penguin-like appearance, known for its aquatic lifestyle."
+        "desc": "Piplup is a Water-type Pokemon with a penguin-like appearance, known for its aquatic lifestyle."
     },
     {
         "id": 394,
@@ -897,7 +897,7 @@
         "types": [
             "water"
         ],
-        "desc": "Prinplup is a Water-type Pokémon known for its regal appearance and growing leadership."
+        "desc": "Prinplup is a Water-type Pokemon known for its regal appearance and growing leadership."
     },
     {
         "id": 395,
@@ -906,7 +906,7 @@
             "water",
             "steel"
         ],
-        "desc": "Empoleon is a Water/Steel-type Pokémon known for its royal and commanding presence, resembling an emperor."
+        "desc": "Empoleon is a Water/Steel-type Pokemon known for its royal and commanding presence, resembling an emperor."
     },
     {
         "id": 396,
@@ -916,7 +916,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Starly is a Normal/Flying-type Pokémon known for its small size and early avian form."
+        "desc": "Starly is a Normal/Flying-type Pokemon known for its small size and early avian form."
     },
     {
         "id": 397,
@@ -926,7 +926,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Staravia is a Normal/Flying-type Pokémon with a more developed avian appearance and abilities."
+        "desc": "Staravia is a Normal/Flying-type Pokemon with a more developed avian appearance and abilities."
     },
     {
         "id": 398,
@@ -935,7 +935,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Staraptor is a Normal/Flying-type Pokémon known for its powerful aerial and hunting abilities."
+        "desc": "Staraptor is a Normal/Flying-type Pokemon known for its powerful aerial and hunting abilities."
     },
     {
         "id": 399,
@@ -944,7 +944,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Bidoof is a Normal-type Pokémon known for its simple and cheerful nature."
+        "desc": "Bidoof is a Normal-type Pokemon known for its simple and cheerful nature."
     },
     {
         "id": 400,
@@ -953,7 +953,7 @@
             "normal",
             "water"
         ],
-        "desc": "Bibarel is a Normal/Water-type Pokémon known for its beaver-like appearance and aquatic abilities."
+        "desc": "Bibarel is a Normal/Water-type Pokemon known for its beaver-like appearance and aquatic abilities."
     },
     {
         "id": 401,
@@ -962,7 +962,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Kricketot is a Bug-type Pokémon that produces chirping sounds by rubbing its wings together."
+        "desc": "Kricketot is a Bug-type Pokemon that produces chirping sounds by rubbing its wings together."
     },
     {
         "id": 402,
@@ -970,7 +970,7 @@
         "types": [
             "bug"
         ],
-        "desc": "Kricketune is a Bug-type Pokémon known for its musical abilities and violin-like appearance."
+        "desc": "Kricketune is a Bug-type Pokemon known for its musical abilities and violin-like appearance."
     },
     {
         "id": 403,
@@ -979,7 +979,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Shinx is an Electric-type Pokémon with a playful and energetic demeanor."
+        "desc": "Shinx is an Electric-type Pokemon with a playful and energetic demeanor."
     },
     {
         "id": 404,
@@ -988,7 +988,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Luxio is an Electric-type Pokémon known for its sharp claws and intermediate stage of evolution."
+        "desc": "Luxio is an Electric-type Pokemon known for its sharp claws and intermediate stage of evolution."
     },
     {
         "id": 405,
@@ -996,7 +996,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Luxray is an Electric-type Pokémon with keen senses and a majestic appearance."
+        "desc": "Luxray is an Electric-type Pokemon with keen senses and a majestic appearance."
     },
     {
         "id": 406,
@@ -1006,7 +1006,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Budew is a Grass/Poison-type Pokémon known for the small bud on its head that blooms into a flower."
+        "desc": "Budew is a Grass/Poison-type Pokemon known for the small bud on its head that blooms into a flower."
     },
     {
         "id": 407,
@@ -1015,7 +1015,7 @@
             "grass",
             "poison"
         ],
-        "desc": "Roserade is a Grass/Poison-type Pokémon known for its elegant and rose-inspired appearance."
+        "desc": "Roserade is a Grass/Poison-type Pokemon known for its elegant and rose-inspired appearance."
     },
     {
         "id": 408,
@@ -1024,7 +1024,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Cranidos is a Rock-type Pokémon known for its tough head and powerful charging attacks."
+        "desc": "Cranidos is a Rock-type Pokemon known for its tough head and powerful charging attacks."
     },
     {
         "id": 409,
@@ -1032,7 +1032,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Rampardos is a Rock-type Pokémon with an impressive crest and powerful headbutt attacks."
+        "desc": "Rampardos is a Rock-type Pokemon with an impressive crest and powerful headbutt attacks."
     },
     {
         "id": 410,
@@ -1042,7 +1042,7 @@
             "rock",
             "steel"
         ],
-        "desc": "Shieldon is a Rock/Steel-type Pokémon known for its shield-like face and defensive capabilities."
+        "desc": "Shieldon is a Rock/Steel-type Pokemon known for its shield-like face and defensive capabilities."
     },
     {
         "id": 411,
@@ -1051,7 +1051,7 @@
             "rock",
             "steel"
         ],
-        "desc": "Bastiodon is a Rock/Steel-type Pokémon known for its massive shield face and sturdy defenses."
+        "desc": "Bastiodon is a Rock/Steel-type Pokemon known for its massive shield face and sturdy defenses."
     },
     {
         "id": 412,
@@ -1085,7 +1085,7 @@
                 "spriteSuffix": "trash"
             }
         ],
-        "desc": "Burmy is a Bug-type Pokémon known for its ability to take on different forms based on its surroundings."
+        "desc": "Burmy is a Bug-type Pokemon known for its ability to take on different forms based on its surroundings."
     },
     {
         "id": 413,
@@ -1119,7 +1119,7 @@
                 "spriteSuffix": "trash"
             }
         ],
-        "desc": "Wormadam is a Bug/Grass-type Pokémon known for its unique forms that are influenced by its surroundings."
+        "desc": "Wormadam is a Bug/Grass-type Pokemon known for its unique forms that are influenced by its surroundings."
     },
     {
         "id": 414,
@@ -1128,7 +1128,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Mothim is a Bug/Flying-type Pokémon known for its moth-like appearance and agility in the air."
+        "desc": "Mothim is a Bug/Flying-type Pokemon known for its moth-like appearance and agility in the air."
     },
     {
         "id": 415,
@@ -1138,7 +1138,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Combee is a Bug/Flying-type Pokémon known for its beehive-like appearance and collective behavior."
+        "desc": "Combee is a Bug/Flying-type Pokemon known for its beehive-like appearance and collective behavior."
     },
     {
         "id": 416,
@@ -1147,7 +1147,7 @@
             "bug",
             "flying"
         ],
-        "desc": "Vespiquen is a Bug/Flying-type Pokémon that resembles a queen bee, known for its leadership in bee colonies."
+        "desc": "Vespiquen is a Bug/Flying-type Pokemon that resembles a queen bee, known for its leadership in bee colonies."
     },
     {
         "id": 417,
@@ -1155,7 +1155,7 @@
         "types": [
             "electric"
         ],
-        "desc": "Pachirisu is an Electric-type Pokémon known for its cheerful and energetic nature."
+        "desc": "Pachirisu is an Electric-type Pokemon known for its cheerful and energetic nature."
     },
     {
         "id": 418,
@@ -1164,7 +1164,7 @@
         "types": [
             "water"
         ],
-        "desc": "Buizel is a Water-type Pokémon known for its playful and otter-like appearance."
+        "desc": "Buizel is a Water-type Pokemon known for its playful and otter-like appearance."
     },
     {
         "id": 419,
@@ -1172,7 +1172,7 @@
         "types": [
             "water"
         ],
-        "desc": "Floatzel is a Water-type Pokémon with a sleek and streamlined design, known for its swiftness in the water."
+        "desc": "Floatzel is a Water-type Pokemon with a sleek and streamlined design, known for its swiftness in the water."
     },
     {
         "id": 420,
@@ -1181,7 +1181,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Cherubi is a Grass-type Pokémon known for its cherry-like appearance and the small bud on its head."
+        "desc": "Cherubi is a Grass-type Pokemon known for its cherry-like appearance and the small bud on its head."
     },
     {
         "id": 421,
@@ -1195,7 +1195,7 @@
                 "types": [
                     "grass"
                 ],
-                "desc": "Cherrim is a Grass-type Pokémon known for its ability to change forms based on the weather, becoming more cheerful in the sunshine."
+                "desc": "Cherrim is a Grass-type Pokemon known for its ability to change forms based on the weather, becoming more cheerful in the sunshine."
             },
             {
                 "name": "Cherrim",
@@ -1221,7 +1221,7 @@
                 "types": [
                     "water"
                 ],
-                "desc": "Shellos is a Water-type Pokémon known for its gelatinous appearance and regional variations."
+                "desc": "Shellos is a Water-type Pokemon known for its gelatinous appearance and regional variations."
             },
             {
                 "name": "Shellos",
@@ -1248,7 +1248,7 @@
                     "water",
                     "ground"
                 ],
-                "desc": "Gastrodon is a Water/Ground-type Pokémon known for its adaptability to different environments and regional variations."
+                "desc": "Gastrodon is a Water/Ground-type Pokemon known for its adaptability to different environments and regional variations."
             },
             {
                 "name": "Gastrodon",
@@ -1267,7 +1267,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Ambipom is a Normal-type Pokémon known for its dexterous hand-like tails and playful antics."
+        "desc": "Ambipom is a Normal-type Pokemon known for its dexterous hand-like tails and playful antics."
     },
     {
         "id": 425,
@@ -1277,7 +1277,7 @@
             "ghost",
             "flying"
         ],
-        "desc": "Drifloon is a Ghost/Flying-type Pokémon known for its balloon-like appearance and tendency to carry away children."
+        "desc": "Drifloon is a Ghost/Flying-type Pokemon known for its balloon-like appearance and tendency to carry away children."
     },
     {
         "id": 426,
@@ -1286,7 +1286,7 @@
             "ghost",
             "flying"
         ],
-        "desc": "Drifblim is a Ghost/Flying-type Pokémon known for its ability to carry passengers into the sky and its gentle demeanor."
+        "desc": "Drifblim is a Ghost/Flying-type Pokemon known for its ability to carry passengers into the sky and its gentle demeanor."
     },
     {
         "id": 427,
@@ -1295,7 +1295,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Buneary is a Normal-type Pokémon known for its fluffy and rabbit-like appearance."
+        "desc": "Buneary is a Normal-type Pokemon known for its fluffy and rabbit-like appearance."
     },
     {
         "id": 428,
@@ -1303,7 +1303,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Lopunny is a Normal-type Pokémon known for its graceful and elegant appearance, often admired for its beauty."
+        "desc": "Lopunny is a Normal-type Pokemon known for its graceful and elegant appearance, often admired for its beauty."
     },
     {
         "id": 429,
@@ -1311,7 +1311,7 @@
         "types": [
             "ghost"
         ],
-        "desc": "Mismagius is a Ghost-type Pokémon known for its magical and mysterious abilities, often associated with witches and the supernatural."
+        "desc": "Mismagius is a Ghost-type Pokemon known for its magical and mysterious abilities, often associated with witches and the supernatural."
     },
     {
         "id": 430,
@@ -1320,7 +1320,7 @@
             "dark",
             "flying"
         ],
-        "desc": "Honchkrow is a Dark/Flying-type Pokémon known for its intelligent and cunning nature, often seen as a leader among Murkrow."
+        "desc": "Honchkrow is a Dark/Flying-type Pokemon known for its intelligent and cunning nature, often seen as a leader among Murkrow."
     },
     {
         "id": 431,
@@ -1329,7 +1329,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Glameow is a Normal-type Pokémon known for its sleek and feline appearance, often admired for its elegance."
+        "desc": "Glameow is a Normal-type Pokemon known for its sleek and feline appearance, often admired for its elegance."
     },
     {
         "id": 432,
@@ -1337,7 +1337,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Purugly is a Normal-type Pokémon with a robust and plump appearance, known for its formidable strength and intimidating demeanor."
+        "desc": "Purugly is a Normal-type Pokemon with a robust and plump appearance, known for its formidable strength and intimidating demeanor."
     },
     {
         "id": 433,
@@ -1346,7 +1346,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Chingling is a Psychic-type Pokémon known for its bell-like appearance and the soothing sounds it creates."
+        "desc": "Chingling is a Psychic-type Pokemon known for its bell-like appearance and the soothing sounds it creates."
     },
     {
         "id": 434,
@@ -1356,7 +1356,7 @@
             "poison",
             "dark"
         ],
-        "desc": "Stunky is a Poison/Dark-type Pokémon known for its skunk-like appearance and the foul odor it emits as a defense mechanism."
+        "desc": "Stunky is a Poison/Dark-type Pokemon known for its skunk-like appearance and the foul odor it emits as a defense mechanism."
     },
     {
         "id": 435,
@@ -1365,7 +1365,7 @@
             "poison",
             "dark"
         ],
-        "desc": "Skuntank is a Poison/Dark-type Pokémon known for its ferocious nature and the ability to spray a noxious fluid for protection."
+        "desc": "Skuntank is a Poison/Dark-type Pokemon known for its ferocious nature and the ability to spray a noxious fluid for protection."
     },
     {
         "id": 436,
@@ -1375,7 +1375,7 @@
             "steel",
             "psychic"
         ],
-        "desc": "Bronzor is a Steel/Psychic-type Pokémon known for its metallic appearance and psychic abilities, often used as a protective charm."
+        "desc": "Bronzor is a Steel/Psychic-type Pokemon known for its metallic appearance and psychic abilities, often used as a protective charm."
     },
     {
         "id": 437,
@@ -1384,7 +1384,7 @@
             "steel",
             "psychic"
         ],
-        "desc": "Bronzong is a Steel/Psychic-type Pokémon known for its gong-like appearance and the ability to communicate with the spirit world."
+        "desc": "Bronzong is a Steel/Psychic-type Pokemon known for its gong-like appearance and the ability to communicate with the spirit world."
     },
     {
         "id": 438,
@@ -1393,7 +1393,7 @@
         "types": [
             "rock"
         ],
-        "desc": "Bonsly is a Rock-type Pokémon known for its rock-hard appearance and the ability to mimic the appearance of a bonsai tree."
+        "desc": "Bonsly is a Rock-type Pokemon known for its rock-hard appearance and the ability to mimic the appearance of a bonsai tree."
     },
     {
         "id": 439,
@@ -1402,7 +1402,7 @@
         "types": [
             "psychic"
         ],
-        "desc": "Mime Jr. is a Psychic-type Pokémon known for its mimicry abilities and its playful nature."
+        "desc": "Mime Jr. is a Psychic-type Pokemon known for its mimicry abilities and its playful nature."
     },
     {
         "id": 440,
@@ -1411,7 +1411,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Happiny is a Normal-type Pokémon known for its nurturing instincts and the egg-shaped pouch it carries."
+        "desc": "Happiny is a Normal-type Pokemon known for its nurturing instincts and the egg-shaped pouch it carries."
     },
     {
         "id": 441,
@@ -1420,7 +1420,7 @@
             "normal",
             "flying"
         ],
-        "desc": "Chatot is a Normal/Flying-type Pokémon known for its colorful appearance and its ability to mimic and repeat sounds and speech."
+        "desc": "Chatot is a Normal/Flying-type Pokemon known for its colorful appearance and its ability to mimic and repeat sounds and speech."
     },
     {
         "id": 442,
@@ -1429,7 +1429,7 @@
             "ghost",
             "dark"
         ],
-        "desc": "Spiritomb is a Ghost/Dark-type Pokémon known for its enigmatic and sealed nature, often associated with curses and dark mysteries."
+        "desc": "Spiritomb is a Ghost/Dark-type Pokemon known for its enigmatic and sealed nature, often associated with curses and dark mysteries."
     },
     {
         "id": 443,
@@ -1439,7 +1439,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Gible is a Dragon/Ground-type Pokémon known for its shark-like appearance and the sharp fin on its head."
+        "desc": "Gible is a Dragon/Ground-type Pokemon known for its shark-like appearance and the sharp fin on its head."
     },
     {
         "id": 444,
@@ -1449,7 +1449,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Gabite is a Dragon/Ground-type Pokémon known for its swift and agile nature, often seen burrowing in the ground."
+        "desc": "Gabite is a Dragon/Ground-type Pokemon known for its swift and agile nature, often seen burrowing in the ground."
     },
     {
         "id": 445,
@@ -1458,7 +1458,7 @@
             "dragon",
             "ground"
         ],
-        "desc": "Garchomp is a Dragon/Ground-type Pokémon known for its powerful and fearsome appearance, often admired for its speed and strength."
+        "desc": "Garchomp is a Dragon/Ground-type Pokemon known for its powerful and fearsome appearance, often admired for its speed and strength."
     },
     {
         "id": 446,
@@ -1467,7 +1467,7 @@
         "types": [
             "normal"
         ],
-        "desc": "Munchlax is a Normal-type Pokémon known for its voracious appetite and its tendency to eat almost anything it encounters."
+        "desc": "Munchlax is a Normal-type Pokemon known for its voracious appetite and its tendency to eat almost anything it encounters."
     },
     {
         "id": 447,
@@ -1476,7 +1476,7 @@
         "types": [
             "fighting"
         ],
-        "desc": "Riolu is a Fighting-type Pokémon known for its determination and the ability to sense and control aura energy."
+        "desc": "Riolu is a Fighting-type Pokemon known for its determination and the ability to sense and control aura energy."
     },
     {
         "id": 448,
@@ -1485,7 +1485,7 @@
             "fighting",
             "steel"
         ],
-        "desc": "Lucario is a Fighting/Steel-type Pokémon known for its mastery of aura, combat skills, and its wise and noble nature."
+        "desc": "Lucario is a Fighting/Steel-type Pokemon known for its mastery of aura, combat skills, and its wise and noble nature."
     },
     {
         "id": 449,
@@ -1494,7 +1494,7 @@
         "types": [
             "ground"
         ],
-        "desc": "Hippopotas is a Ground-type Pokémon known for its sandy appearance and its ability to create sandstorms."
+        "desc": "Hippopotas is a Ground-type Pokemon known for its sandy appearance and its ability to create sandstorms."
     },
     {
         "id": 450,
@@ -1508,7 +1508,7 @@
                 "types": [
                     "ground"
                 ],
-                "desc": "Hippowdon is a Ground-type Pokémon known for its massive and imposing presence, often associated with desert environments."
+                "desc": "Hippowdon is a Ground-type Pokemon known for its massive and imposing presence, often associated with desert environments."
             },
             {
                 "name": "Hippowdon",
@@ -1528,7 +1528,7 @@
             "poison",
             "bug"
         ],
-        "desc": "Skorupi is a Poison/Bug-type Pokémon known for its scorpion-like appearance and its powerful stinger."
+        "desc": "Skorupi is a Poison/Bug-type Pokemon known for its scorpion-like appearance and its powerful stinger."
     },
     {
         "id": 452,
@@ -1537,7 +1537,7 @@
             "poison",
             "dark"
         ],
-        "desc": "Drapion is a Poison/Dark-type Pokémon known for its formidable and predatory nature, often seen as a formidable scorpion-like creature."
+        "desc": "Drapion is a Poison/Dark-type Pokemon known for its formidable and predatory nature, often seen as a formidable scorpion-like creature."
     },
     {
         "id": 453,
@@ -1547,7 +1547,7 @@
             "poison",
             "fighting"
         ],
-        "desc": "Croagunk is a Poison/Fighting-type Pokémon known for its toxic skin secretions and its ability to deliver potent poison through its punches."
+        "desc": "Croagunk is a Poison/Fighting-type Pokemon known for its toxic skin secretions and its ability to deliver potent poison through its punches."
     },
     {
         "id": 454,
@@ -1556,7 +1556,7 @@
             "poison",
             "fighting"
         ],
-        "desc": "Toxicroak is a Poison/Fighting-type Pokémon known for its menacing appearance and the deadly toxins it can release from its fingertips."
+        "desc": "Toxicroak is a Poison/Fighting-type Pokemon known for its menacing appearance and the deadly toxins it can release from its fingertips."
     },
     {
         "id": 455,
@@ -1564,7 +1564,7 @@
         "types": [
             "grass"
         ],
-        "desc": "Carnivine is a Grass-type Pokémon known for its carnivorous nature and the vine-like appendages it uses to ensnare prey."
+        "desc": "Carnivine is a Grass-type Pokemon known for its carnivorous nature and the vine-like appendages it uses to ensnare prey."
     },
     {
         "id": 456,
@@ -1573,7 +1573,7 @@
         "types": [
             "water"
         ],
-        "desc": "Finneon is a Water-type Pokémon known for its sleek and streamlined appearance, often found in shoals and schools in the ocean."
+        "desc": "Finneon is a Water-type Pokemon known for its sleek and streamlined appearance, often found in shoals and schools in the ocean."
     },
     {
         "id": 457,
@@ -1581,7 +1581,7 @@
         "types": [
             "water"
         ],
-        "desc": "Lumineon is a Water-type Pokémon known for its vibrant colors and the ability to create beautiful patterns of light in the water."
+        "desc": "Lumineon is a Water-type Pokemon known for its vibrant colors and the ability to create beautiful patterns of light in the water."
     },
     {
         "id": 458,
@@ -1591,7 +1591,7 @@
             "water",
             "flying"
         ],
-        "desc": "Mantyke is a Water/Flying-type Pokémon known for its graceful gliding in the sky and its caring nature, often seen carrying Remoraid."
+        "desc": "Mantyke is a Water/Flying-type Pokemon known for its graceful gliding in the sky and its caring nature, often seen carrying Remoraid."
     },
     {
         "id": 459,
@@ -1601,7 +1601,7 @@
             "grass",
             "ice"
         ],
-        "desc": "Snover is a Grass/Ice-type Pokémon known for its snow-covered appearance and the ability to summon hailstorms in snowy regions."
+        "desc": "Snover is a Grass/Ice-type Pokemon known for its snow-covered appearance and the ability to summon hailstorms in snowy regions."
     },
     {
         "id": 460,
@@ -1610,7 +1610,7 @@
             "grass",
             "ice"
         ],
-        "desc": "Abomasnow is a Grass/Ice-type Pokémon known for its intimidating yet majestic snow-covered form, often associated with snowy mountains."
+        "desc": "Abomasnow is a Grass/Ice-type Pokemon known for its intimidating yet majestic snow-covered form, often associated with snowy mountains."
     },
     {
         "id": 461,
@@ -1619,7 +1619,7 @@
             "dark",
             "ice"
         ],
-        "desc": "Weavile is a Dark/Ice-type Pokémon known for its agility and cunning nature, often working in groups to hunt prey and protect its territory."
+        "desc": "Weavile is a Dark/Ice-type Pokemon known for its agility and cunning nature, often working in groups to hunt prey and protect its territory."
     },
     {
         "id": 480,
@@ -1628,7 +1628,7 @@
             "psychic"
         ],
         "isLegendary": true,
-        "desc": "Uxie is a Psychic-type Legendary Pokémon known for its role in safeguarding knowledge and memory, often associated with wisdom and tranquility."
+        "desc": "Uxie is a Psychic-type Legendary Pokemon known for its role in safeguarding knowledge and memory, often associated with wisdom and tranquility."
     },
     {
         "id": 481,
@@ -1637,7 +1637,7 @@
             "psychic"
         ],
         "isLegendary": true,
-        "desc": "Mesprit is a Psychic-type Legendary Pokémon known for its emotional influence and the ability to bring joy, sorrow, and emotion to the world."
+        "desc": "Mesprit is a Psychic-type Legendary Pokemon known for its emotional influence and the ability to bring joy, sorrow, and emotion to the world."
     },
     {
         "id": 482,
@@ -1646,7 +1646,7 @@
             "psychic"
         ],
         "isLegendary": true,
-        "desc": "Azelf is a Psychic-type Legendary Pokémon known for its willpower and the ability to instill determination and strength in individuals."
+        "desc": "Azelf is a Psychic-type Legendary Pokemon known for its willpower and the ability to instill determination and strength in individuals."
     },
     {
         "id": 483,
@@ -1656,7 +1656,7 @@
             "dragon"
         ],
         "isLegendary": true,
-        "desc": "Dialga is a Steel/Dragon-type Legendary Pokémon known for its control over time and the ability to maintain balance in the universe."
+        "desc": "Dialga is a Steel/Dragon-type Legendary Pokemon known for its control over time and the ability to maintain balance in the universe."
     },
     {
         "id": 484,
@@ -1666,7 +1666,7 @@
             "dragon"
         ],
         "isLegendary": true,
-        "desc": "Palkia is a Water/Dragon-type Legendary Pokémon known for its control over space and the ability to shape dimensions in the universe."
+        "desc": "Palkia is a Water/Dragon-type Legendary Pokemon known for its control over space and the ability to shape dimensions in the universe."
     },
     {
         "id": 485,
@@ -1676,7 +1676,7 @@
             "steel"
         ],
         "isLegendary": true,
-        "desc": "Heatran is a Fire/Steel-type Legendary Pokémon known for its association with volcanic activity and the ability to control the heat of the earth."
+        "desc": "Heatran is a Fire/Steel-type Legendary Pokemon known for its association with volcanic activity and the ability to control the heat of the earth."
     },
     {
         "id": 486,
@@ -1685,7 +1685,7 @@
             "normal"
         ],
         "isLegendary": true,
-        "desc": "Regigigas is a Normal-type Legendary Pokémon known for its colossal strength and the power to move continents, often seen as a guardian of the Regi trio."
+        "desc": "Regigigas is a Normal-type Legendary Pokemon known for its colossal strength and the power to move continents, often seen as a guardian of the Regi trio."
     },
     {
         "id": 488,
@@ -1694,7 +1694,7 @@
             "psychic"
         ],
         "isLegendary": true,
-        "desc": "Cresselia is a Psychic-type Legendary Pokémon known for its connection to dreams and the ability to bring peaceful sleep and pleasant dreams to those it encounters."
+        "desc": "Cresselia is a Psychic-type Legendary Pokemon known for its connection to dreams and the ability to bring peaceful sleep and pleasant dreams to those it encounters."
     },
     {
         "id": 489,
@@ -1704,7 +1704,7 @@
             "water"
         ],
         "isLegendary": true,
-        "desc": "Phione is a Water-type Legendary Pokémon known for its connection to the sea and its gentle and compassionate nature."
+        "desc": "Phione is a Water-type Legendary Pokemon known for its connection to the sea and its gentle and compassionate nature."
     },
     {
         "id": 490,
@@ -1713,7 +1713,7 @@
             "water"
         ],
         "isLegendary": true,
-        "desc": "Manaphy is a Water-type Legendary Pokémon known for its connection to the oceans and the ability to bond with people and Pokémon."
+        "desc": "Manaphy is a Water-type Legendary Pokemon known for its connection to the oceans and the ability to bond with people and Pokemon."
     },
     {
         "id": 491,
@@ -1722,7 +1722,7 @@
             "dark"
         ],
         "isLegendary": true,
-        "desc": "Darkrai is a Dark-type Legendary Pokémon known for its association with nightmares and the power to induce deep, terrifying dreams."
+        "desc": "Darkrai is a Dark-type Legendary Pokemon known for its association with nightmares and the power to induce deep, terrifying dreams."
     },
     {
         "id": 492,
@@ -1736,7 +1736,7 @@
                 "types": [
                     "grass"
                 ],
-                "desc": "Shaymin is a Grass-type Legendary Pokémon known for its association with flowers and the ability to transform into its Sky Form under certain conditions."
+                "desc": "Shaymin is a Grass-type Legendary Pokemon known for its association with flowers and the ability to transform into its Sky Form under certain conditions."
             },
             {
                 "name": "Shaymin Sky",
@@ -1762,7 +1762,7 @@
                 "types": [
                     "normal"
                 ],
-                "desc": "Arceus is a Legendary Pokémon known as the 'Original One' and is said to have shaped the Pokémon universe. Its Normal-type form is considered the default form."
+                "desc": "Arceus is a Legendary Pokemon known as the 'Original One' and is said to have shaped the Pokemon universe. Its Normal-type form is considered the default form."
             },
             {
                 "name": "Arceus",
@@ -1786,7 +1786,7 @@
                     "dragon"
                 ],
                 "spriteSuffix": "dragon",
-                "desc": "Arceus (Dragon Form) is a unique form with Dragon-type characteristics, showcasing its connection to legendary and powerful Dragon-type Pokémon."
+                "desc": "Arceus (Dragon Form) is a unique form with Dragon-type characteristics, showcasing its connection to legendary and powerful Dragon-type Pokemon."
             },
             {
                 "name": "Arceus",

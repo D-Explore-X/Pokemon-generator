@@ -4,7 +4,7 @@
     "name": "Bulbasaur",
     "isNfe": true,
     "types": ["grass", "poison"],
-    "desc": "A dual-type Grass/Poison Pokémon. It's known for the plant bulb on its back."
+    "desc": "A dual-type Grass/Poison Pokemon. It's known for the plant bulb on its back."
   },
   {
     "id": 2,
@@ -24,7 +24,7 @@
     "name": "Charmander",
     "isNfe": true,
     "types": ["fire"],
-    "desc": "A Fire-type Pokémon with a flame at the tip of its tail."
+    "desc": "A Fire-type Pokemon with a flame at the tip of its tail."
   },
   {
     "id": 5,
@@ -44,7 +44,7 @@
     "name": "Squirtle",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water-type Pokémon. Known for its water-filled shell."
+    "desc": "A Water-type Pokemon. Known for its water-filled shell."
   },
   {
     "id": 8,
@@ -64,7 +64,7 @@
     "name": "Caterpie",
     "isNfe": true,
     "types": ["bug"],
-    "desc": "A Bug-type Pokémon. Known for its silk-producing capabilities."
+    "desc": "A Bug-type Pokemon. Known for its silk-producing capabilities."
   },
   {
     "id": 11,
@@ -143,14 +143,14 @@
     "id": 53,
     "name": "Persian",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Known for its elegant and aloof demeanor."
+    "desc": "A Normal type Pokemon. Known for its elegant and aloof demeanor."
   },
   {
     "id": 54,
     "name": "Psyduck",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Often suffers from intense headaches."
+    "desc": "A Water type Pokemon. Often suffers from intense headaches."
   },
   {
     "id": 55,
@@ -163,7 +163,7 @@
     "name": "Mankey",
     "isNfe": true,
     "types": ["fighting"],
-    "desc": "A Fighting type Pokémon. Quick to anger and very energetic."
+    "desc": "A Fighting type Pokemon. Quick to anger and very energetic."
   },
   {
     "id": 57,
@@ -176,7 +176,7 @@
     "name": "Growlithe",
     "isNfe": true,
     "types": ["fire"],
-    "desc": "A Fire type Pokémon. Known for its loyalty and courage."
+    "desc": "A Fire type Pokemon. Known for its loyalty and courage."
   },
   {
     "id": 59,
@@ -189,7 +189,7 @@
     "name": "Poliwag",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Has a swirl pattern on its belly."
+    "desc": "A Water type Pokemon. Has a swirl pattern on its belly."
   },
   {
     "id": 61,
@@ -209,7 +209,7 @@
     "name": "Abra",
     "isNfe": true,
     "types": ["psychic"],
-    "desc": "A Psychic type Pokémon. Has strong psychic abilities but low stamina."
+    "desc": "A Psychic type Pokemon. Has strong psychic abilities but low stamina."
   },
   {
     "id": 64,
@@ -229,7 +229,7 @@
     "name": "Machop",
     "isNfe": true,
     "types": ["fighting"],
-    "desc": "A Fighting type Pokémon. Gains strength as it trains and evolves."
+    "desc": "A Fighting type Pokemon. Gains strength as it trains and evolves."
   },
   {
     "id": 67,
@@ -249,7 +249,7 @@
     "name": "Bellsprout",
     "isNfe": true,
     "types": ["grass", "poison"],
-    "desc": "A Grass/Poison type Pokémon. Has a plant-like appearance."
+    "desc": "A Grass/Poison type Pokemon. Has a plant-like appearance."
   },
   {
     "id": 70,
@@ -262,14 +262,14 @@
     "id": 71,
     "name": "Victreebel",
     "types": ["grass", "poison"],
-    "desc": "The final evolution of Weepinbell. A carnivorous plant Pokémon."
+    "desc": "The final evolution of Weepinbell. A carnivorous plant Pokemon."
   },
   {
     "id": 72,
     "name": "Tentacool",
     "isNfe": true,
     "types": ["water", "poison"],
-    "desc": "A Water/Poison type Pokémon. Known for its tentacle stingers."
+    "desc": "A Water/Poison type Pokemon. Known for its tentacle stingers."
   },
   {
     "id": 73,
@@ -282,7 +282,7 @@
     "name": "Geodude",
     "isNfe": true,
     "types": ["rock", "ground"],
-    "desc": "A Rock/Ground type Pokémon. Often found in mountainous areas."
+    "desc": "A Rock/Ground type Pokemon. Often found in mountainous areas."
   },
   {
     "id": 75,
@@ -302,7 +302,7 @@
     "name": "Ponyta",
     "isNfe": true,
     "types": ["fire"],
-    "desc": "A Fire type Pokémon. Known for its fiery mane and speed."
+    "desc": "A Fire type Pokemon. Known for its fiery mane and speed."
   },
   {
     "id": 78,
@@ -315,7 +315,7 @@
     "name": "Slowpoke",
     "isNfe": true,
     "types": ["water", "psychic"],
-    "desc": "A Water/Psychic type Pokémon. Known for its slow and absent-minded nature."
+    "desc": "A Water/Psychic type Pokemon. Known for its slow and absent-minded nature."
   },
   {
     "id": 80,
@@ -328,7 +328,7 @@
     "name": "Magnemite",
     "isNfe": true,
     "types": ["electric", "steel"],
-    "desc": "An Electric/Steel type Pokémon. Magnetically attracted to metal objects."
+    "desc": "An Electric/Steel type Pokemon. Magnetically attracted to metal objects."
   },
   {
     "id": 82,
@@ -340,14 +340,14 @@
     "id": 83,
     "name": "Farfetch'd",
     "types": ["normal", "flying"],
-    "desc": "A Normal/Flying type Pokémon. Rare and known for carrying a leek."
+    "desc": "A Normal/Flying type Pokemon. Rare and known for carrying a leek."
   },
   {
     "id": 84,
     "name": "Doduo",
     "isNfe": true,
     "types": ["normal", "flying"],
-    "desc": "A Normal/Flying type Pokémon. Has two heads and runs at high speeds."
+    "desc": "A Normal/Flying type Pokemon. Has two heads and runs at high speeds."
   },
   {
     "id": 85,
@@ -360,7 +360,7 @@
     "name": "Seel",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Often seen basking on icebergs."
+    "desc": "A Water type Pokemon. Often seen basking on icebergs."
   },
   {
     "id": 87,
@@ -373,7 +373,7 @@
     "name": "Grimer",
     "isNfe": true,
     "types": ["poison"],
-    "desc": "A Poison type Pokémon. Appears slimy and is known for its stench."
+    "desc": "A Poison type Pokemon. Appears slimy and is known for its stench."
   },
   {
     "id": 89,
@@ -386,7 +386,7 @@
     "name": "Shellder",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Resembles a bivalve shell."
+    "desc": "A Water type Pokemon. Resembles a bivalve shell."
   },
   {
     "id": 91,
@@ -399,7 +399,7 @@
     "name": "Gastly",
     "isNfe": true,
     "types": ["ghost", "poison"],
-    "desc": "A Ghost/Poison type Pokémon. Appears as a shadowy, gaseous figure."
+    "desc": "A Ghost/Poison type Pokemon. Appears as a shadowy, gaseous figure."
   },
   {
     "id": 93,
@@ -418,14 +418,14 @@
     "id": 95,
     "name": "Onix",
     "types": ["rock", "ground"],
-    "desc": "A Rock/Ground type Pokémon. Known for its massive size and burrowing abilities."
+    "desc": "A Rock/Ground type Pokemon. Known for its massive size and burrowing abilities."
   },
   {
     "id": 96,
     "name": "Drowzee",
     "isNfe": true,
     "types": ["psychic"],
-    "desc": "A Psychic type Pokémon. Induces sleep in others with its pendulum."
+    "desc": "A Psychic type Pokemon. Induces sleep in others with its pendulum."
   },
   {
     "id": 97,
@@ -438,7 +438,7 @@
     "name": "Krabby",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Known for its large, powerful pincers."
+    "desc": "A Water type Pokemon. Known for its large, powerful pincers."
   },
   {
     "id": 99,
@@ -451,7 +451,7 @@
     "name": "Voltorb",
     "isNfe": true,
     "types": ["electric"],
-    "desc": "An Electric type Pokémon. Resembles a Poké Ball and can explode."
+    "desc": "An Electric type Pokemon. Resembles a Poké Ball and can explode."
   },
   {
     "id": 101,
@@ -464,7 +464,7 @@
     "name": "Exeggcute",
     "isNfe": true,
     "types": ["grass", "psychic"],
-    "desc": "A Grass/Psychic type Pokémon. Composed of multiple eggs."
+    "desc": "A Grass/Psychic type Pokemon. Composed of multiple eggs."
   },
   {
     "id": 103,
@@ -477,7 +477,7 @@
     "name": "Cubone",
     "isNfe": true,
     "types": ["ground"],
-    "desc": "A Ground type Pokémon. Wears the skull of its deceased mother."
+    "desc": "A Ground type Pokemon. Wears the skull of its deceased mother."
   },
   {
     "id": 105,
@@ -489,26 +489,26 @@
     "id": 106,
     "name": "Hitmonlee",
     "types": ["fighting"],
-    "desc": "A Fighting type Pokémon. Known for its powerful kicking techniques."
+    "desc": "A Fighting type Pokemon. Known for its powerful kicking techniques."
   },
   {
     "id": 107,
     "name": "Hitmonchan",
     "types": ["fighting"],
-    "desc": "A Fighting type Pokémon. Throws punches at the speed of sound."
+    "desc": "A Fighting type Pokemon. Throws punches at the speed of sound."
   },
   {
     "id": 108,
     "name": "Lickitung",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Has a long, stretchy tongue."
+    "desc": "A Normal type Pokemon. Has a long, stretchy tongue."
   },
   {
     "id": 109,
     "name": "Koffing",
     "isNfe": true,
     "types": ["poison"],
-    "desc": "A Poison type Pokémon. Emits toxic gases and floats in the air."
+    "desc": "A Poison type Pokemon. Emits toxic gases and floats in the air."
   },
   {
     "id": 110,
@@ -521,38 +521,38 @@
     "name": "Rhyhorn",
     "isNfe": true,
     "types": ["ground", "rock"],
-    "desc": "A Ground/Rock type Pokémon. Covered in rocky armor."
+    "desc": "A Ground/Rock type Pokemon. Covered in rocky armor."
   },
   {
     "id": 112,
     "name": "Rhydon",
     "types": ["ground", "rock"],
-    "desc": "The evolved form of Rhyhorn. A powerful and imposing Pokémon."
+    "desc": "The evolved form of Rhyhorn. A powerful and imposing Pokemon."
   },
   {
     "id": 113,
     "name": "Chansey",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Known for its incredible egg-bearing pouch."
+    "desc": "A Normal type Pokemon. Known for its incredible egg-bearing pouch."
   },
   {
     "id": 114,
     "name": "Tangela",
     "types": ["grass"],
-    "desc": "A Grass type Pokémon. Covered in tangled vines."
+    "desc": "A Grass type Pokemon. Covered in tangled vines."
   },
   {
     "id": 115,
     "name": "Kangaskhan",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Protects its young in its pouch."
+    "desc": "A Normal type Pokemon. Protects its young in its pouch."
   },
   {
     "id": 116,
     "name": "Horsea",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Known for its seahorse-like appearance."
+    "desc": "A Water type Pokemon. Known for its seahorse-like appearance."
   },
   {
     "id": 117,
@@ -565,7 +565,7 @@
     "name": "Goldeen",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Has a golden body and is skilled at leaping."
+    "desc": "A Water type Pokemon. Has a golden body and is skilled at leaping."
   },
   {
     "id": 119,
@@ -578,7 +578,7 @@
     "name": "Staryu",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Resembles a star-shaped jewel."
+    "desc": "A Water type Pokemon. Resembles a star-shaped jewel."
   },
   {
     "id": 121,
@@ -590,50 +590,50 @@
     "id": 122,
     "name": "Mr. Mime",
     "types": ["psychic"],
-    "desc": "A Psychic type Pokémon. Known for its miming and barrier abilities."
+    "desc": "A Psychic type Pokemon. Known for its miming and barrier abilities."
   },
   {
     "id": 123,
     "name": "Scyther",
     "types": ["bug", "flying"],
-    "desc": "A Bug/Flying type Pokémon. Has scythe-like blades for hands."
+    "desc": "A Bug/Flying type Pokemon. Has scythe-like blades for hands."
   },
   {
     "id": 124,
     "name": "Jynx",
     "types": ["ice", "psychic"],
-    "desc": "An Ice/Psychic type Pokémon. Uses seductive dancing in battle."
+    "desc": "An Ice/Psychic type Pokemon. Uses seductive dancing in battle."
   },
   {
     "id": 125,
     "name": "Electabuzz",
     "types": ["electric"],
-    "desc": "An Electric type Pokémon. Stores electricity in its body."
+    "desc": "An Electric type Pokemon. Stores electricity in its body."
   },
   {
     "id": 126,
     "name": "Magmar",
     "types": ["fire"],
-    "desc": "A Fire type Pokémon. Emits intense flames and heat."
+    "desc": "A Fire type Pokemon. Emits intense flames and heat."
   },
   {
     "id": 127,
     "name": "Pinsir",
     "types": ["bug"],
-    "desc": "A Bug type Pokémon. Known for its powerful pincers."
+    "desc": "A Bug type Pokemon. Known for its powerful pincers."
   },
   {
     "id": 128,
     "name": "Tauros",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Highly aggressive and difficult to tame."
+    "desc": "A Normal type Pokemon. Highly aggressive and difficult to tame."
   },
   {
     "id": 129,
     "name": "Magikarp",
     "isNfe": true,
     "types": ["water"],
-    "desc": "A Water type Pokémon. Considered one of the weakest Pokémon."
+    "desc": "A Water type Pokemon. Considered one of the weakest Pokemon."
   },
   {
     "id": 130,
@@ -645,20 +645,20 @@
     "id": 131,
     "name": "Lapras",
     "types": ["water", "ice"],
-    "desc": "A Water/Ice type Pokémon. Known for its serene and gentle nature."
+    "desc": "A Water/Ice type Pokemon. Known for its serene and gentle nature."
   },
   {
     "id": 132,
     "name": "Ditto",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Can transform into any other Pokémon."
+    "desc": "A Normal type Pokemon. Can transform into any other Pokemon."
   },
   {
     "id": 133,
     "name": "Eevee",
     "isNfe": true,
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Known for its many evolution possibilities."
+    "desc": "A Normal type Pokemon. Known for its many evolution possibilities."
   },
   {
     "id": 134,
@@ -682,14 +682,14 @@
     "id": 137,
     "name": "Porygon",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Composed of computer data."
+    "desc": "A Normal type Pokemon. Composed of computer data."
   },
   {
     "id": 138,
     "name": "Omanyte",
     "isNfe": true,
     "types": ["rock", "water"],
-    "desc": "A Rock/Water type Pokémon. Resembles a prehistoric mollusk."
+    "desc": "A Rock/Water type Pokemon. Resembles a prehistoric mollusk."
   },
   {
     "id": 139,
@@ -702,7 +702,7 @@
     "name": "Kabuto",
     "isNfe": true,
     "types": ["rock", "water"],
-    "desc": "A Rock/Water type Pokémon. Resembles a prehistoric arthropod."
+    "desc": "A Rock/Water type Pokemon. Resembles a prehistoric arthropod."
   },
   {
     "id": 141,
@@ -714,41 +714,41 @@
     "id": 142,
     "name": "Aerodactyl",
     "types": ["rock", "flying"],
-    "desc": "A Rock/Flying type Pokémon. Resembles a prehistoric reptile."
+    "desc": "A Rock/Flying type Pokemon. Resembles a prehistoric reptile."
   },
   {
     "id": 143,
     "name": "Snorlax",
     "types": ["normal"],
-    "desc": "A Normal type Pokémon. Enormous and known for blocking paths."
+    "desc": "A Normal type Pokemon. Enormous and known for blocking paths."
   },
   {
     "id": 144,
     "name": "Articuno",
     "types": ["ice", "flying"],
     "isLegendary": true,
-    "desc": "A Legendary Ice/Flying type Pokémon. Known for its icy wings."
+    "desc": "A Legendary Ice/Flying type Pokemon. Known for its icy wings."
   },
   {
     "id": 145,
     "name": "Zapdos",
     "types": ["electric", "flying"],
     "isLegendary": true,
-    "desc": "A Legendary Electric/Flying type Pokémon. Emits powerful electricity."
+    "desc": "A Legendary Electric/Flying type Pokemon. Emits powerful electricity."
   },
   {
     "id": 146,
     "name": "Moltres",
     "types": ["fire", "flying"],
     "isLegendary": true,
-    "desc": "A Legendary Fire/Flying type Pokémon. Produces intense flames."
+    "desc": "A Legendary Fire/Flying type Pokemon. Produces intense flames."
   },
   {
     "id": 147,
     "name": "Dratini",
     "isNfe": true,
     "types": ["dragon"],
-    "desc": "A Dragon type Pokémon. Known for its serpentine body."
+    "desc": "A Dragon type Pokemon. Known for its serpentine body."
   },
   {
     "id": 148,
@@ -768,14 +768,14 @@
     "name": "Mewtwo",
     "types": ["psychic"],
     "isLegendary": true,
-    "desc": "A Legendary Psychic type Pokémon. One of the most powerful."
+    "desc": "A Legendary Psychic type Pokemon. One of the most powerful."
   },
   {
     "id": 151,
     "name": "Mew",
     "types": ["psychic"],
     "isLegendary": true,
-    "desc": "A Mythical Psychic type Pokémon. Said to contain the DNA of all Pokémon."
+    "desc": "A Mythical Psychic type Pokemon. Said to contain the DNA of all Pokemon."
   }
 ]
 
