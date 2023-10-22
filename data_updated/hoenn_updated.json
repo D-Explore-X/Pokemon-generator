@@ -1,17 +1,19 @@
-{
+
+[
+    {
     "id": 25,
     "name": "Pikachu",
     "isNfe": true,
     "types": ["electric"],
     "desc": "Pikachu is one of the most iconic Pokémon and is known for its cute and electrifying appearance. It's an Electric type Pokémon that evolves from Pichu and later evolves into Raichu when exposed to a Thunder Stone."
 },
-
+{
 
     "id": 26,
     "name": "Raichu",
     "types": ["electric"],
     "desc": "Raichu is the evolved form of Pikachu. It retains its Electric type and becomes even more powerful. Unlike Pikachu, Raichu cannot evolve further. It's known for its speed and electrical abilities, capable of generating and discharging high-voltage electricity."
-
+},
 {
     "id": 27,
     "name": "Sandshrew",
@@ -1221,13 +1223,13 @@
     "types": ["ice", "water"],
     "desc": "Spheal is a dual-type Ice/Water Pokémon known for its round body and playful nature. It is often found sliding on ice and playing in the snow. Spheal evolves into Sealeo starting at level 32."
 },
-
+{
     "id": 364,
     "name": "Sealeo",
     "isNfe": true,
-    "types": ["ice", "water"],
-    "desc
-    [
+    "types": ["ice", "water"]
+},
+    
         {
             "id": 368,
             "name": "Gorebyss",
@@ -1306,7 +1308,7 @@
             "types": ["Dragon", "Psychic"],
             "description": "Latias is a Legendary Pokémon that resembles a dragon and possesses psychic abilities. It is highly intelligent and has a gentle nature. Latias is known for its ability to communicate telepathically with humans and other Pokémon."
         },
-        [
+        
             {
               "id": 381,
               "name": "Latios",
@@ -1365,5 +1367,4 @@
               "isLegendary": true
             }
 
-
-
+        ]

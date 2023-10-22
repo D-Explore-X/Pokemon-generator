@@ -2684,276 +2684,275 @@
     ],
     "desc": "Volcarona is a Bug/Fire type Pokémon."
   },
+  {
+    "id": 638,
+    "name": "Cobalion",
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "isLegendary": true,
+    "desc": "Cobalion is a legendary Pokémon with Steel and Fighting types."
+  },
+  {
+    "id": 639,
+    "name": "Terrakion",
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "isLegendary": true,
+    "desc": "Terrakion is a legendary Pokémon with Rock and Fighting types."
+  },
+  {
+    "id": 640,
+    "name": "Virizion",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "isLegendary": true,
+    "desc": "Virizion is a legendary Pokémon with Grass and Fighting types."
+  },
+  {
+    "id": 641,
+    "name": "Tornadus",
+    "types": [
+      "flying"
+    ],
+    "forms": [
+      {
+        "name": "Tornadus",
+        "types": [
+          "flying"
+        ]
+      },
+      {
+        "name": "Tornadus Therian",
+        "types": [
+          "flying"
+        ],
+        "spriteSuffix": "therian"
+      }
+    ],
+    "isLegendary": true,
+    "desc": "Tornadus is a legendary Pokémon with Flying type. It has two forms: Tornadus and Tornadus Therian."
+  },
+  {
+    "id": 642,
+    "name": "Thundurus",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "forms": [
+      {
+        "name": "Thundurus",
+        "types": [
+          "electric",
+          "flying"
+        ],
+        "isUber": true
+      },
+      {
+        "name": "Thundurus Therian",
+        "types": [
+          "electric",
+          "flying"
+        ],
+        "spriteSuffix": "therian"
+      }
+    ],
+    "isLegendary": true,
+    "desc": "Thundurus is a legendary Pokémon with Electric and Flying types. It has two forms: Thundurus and Thundurus Therian. Thundurus is also in the Uber tier."
+  },
+  {
+    "id": 643,
+    "name": "Reshiram",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "isLegendary": true,
+    "desc": "Reshiram is a legendary Pokémon with Dragon and Fire types."
+  },
+  {
+    "id": 644,
+    "name": "Zekrom",
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "isLegendary": true,
+    "desc": "Zekrom is a legendary Pokémon with Dragon and Electric types."
+  },
+  {
+    "id": 645,
+    "name": "Landorus",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "forms": [
+      {
+        "name": "Landorus",
+        "types": [
+          "ground",
+          "flying"
+        ]
+      },
+      {
+        "name": "Landorus Therian",
+        "types": [
+          "ground",
+          "flying"
+        ],
+        "spriteSuffix": "therian"
+      }
+    ],
+    "isLegendary": true,
+    "desc": "Landorus is a legendary Pokémon with Ground and Flying types. It has two forms: Landorus and Landorus Therian."
+  },
+  {
+    "id": 646,
+    "name": "Kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "forms": [
+      {
+        "name": "Kyurem",
+        "types": [
+          "dragon",
+          "ice"
+        ]
+      },
+      {
+        "name": "Kyurem Black",
+        "types": [
+          "dragon",
+          "ice"
+        ],
+        "spriteSuffix": "black"
+      },
+      {
+        "name": "Kyurem White",
+        "types": [
+          "dragon",
+          "ice"
+        ],
+        "spriteSuffix": "white"
+      }
+    ],
+    "isLegendary": true,
+    "desc": "Kyurem is a legendary Pokémon with Dragon and Ice types. It has three forms: Kyurem, Kyurem Black, and Kyurem White."
+  },
   [
     {
-      "id": 638,
-      "name": "Cobalion",
+      "id": 647,
+      "name": "Keldeo",
       "types": [
-        "steel",
+        "water",
         "fighting"
-      ],
-      "isLegendary": true,
-      "desc": "Cobalion is a legendary Pokémon with Steel and Fighting types."
-    },
-    {
-      "id": 639,
-      "name": "Terrakion",
-      "types": [
-        "rock",
-        "fighting"
-      ],
-      "isLegendary": true,
-      "desc": "Terrakion is a legendary Pokémon with Rock and Fighting types."
-    },
-    {
-      "id": 640,
-      "name": "Virizion",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "isLegendary": true,
-      "desc": "Virizion is a legendary Pokémon with Grass and Fighting types."
-    },
-    {
-      "id": 641,
-      "name": "Tornadus",
-      "types": [
-        "flying"
       ],
       "forms": [
         {
-          "name": "Tornadus",
+          "name": "Keldeo",
           "types": [
-            "flying"
+            "water",
+            "fighting"
           ]
         },
         {
-          "name": "Tornadus Therian",
+          "name": "Keldeo",
           "types": [
-            "flying"
+            "water",
+            "fighting"
           ],
-          "spriteSuffix": "therian"
+          "spriteSuffix": "resolute"
         }
       ],
       "isLegendary": true,
-      "desc": "Tornadus is a legendary Pokémon with Flying type. It has two forms: Tornadus and Tornadus Therian."
+      "desc": "Keldeo is a legendary Pokémon with Water and Fighting types. It has two forms: Keldeo and Keldeo Resolute."
     },
     {
-      "id": 642,
-      "name": "Thundurus",
+      "id": 648,
+      "name": "Meloetta",
       "types": [
-        "electric",
-        "flying"
+        "normal",
+        "psychic"
       ],
       "forms": [
         {
-          "name": "Thundurus",
+          "name": "Meloetta",
           "types": [
-            "electric",
-            "flying"
-          ],
-          "isUber": true
-        },
-        {
-          "name": "Thundurus Therian",
-          "types": [
-            "electric",
-            "flying"
-          ],
-          "spriteSuffix": "therian"
-        }
-      ],
-      "isLegendary": true,
-      "desc": "Thundurus is a legendary Pokémon with Electric and Flying types. It has two forms: Thundurus and Thundurus Therian. Thundurus is also in the Uber tier."
-    },
-    {
-      "id": 643,
-      "name": "Reshiram",
-      "types": [
-        "dragon",
-        "fire"
-      ],
-      "isLegendary": true,
-      "desc": "Reshiram is a legendary Pokémon with Dragon and Fire types."
-    },
-    {
-      "id": 644,
-      "name": "Zekrom",
-      "types": [
-        "dragon",
-        "electric"
-      ],
-      "isLegendary": true,
-      "desc": "Zekrom is a legendary Pokémon with Dragon and Electric types."
-    },
-    {
-      "id": 645,
-      "name": "Landorus",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "forms": [
-        {
-          "name": "Landorus",
-          "types": [
-            "ground",
-            "flying"
+            "normal",
+            "psychic"
           ]
         },
         {
-          "name": "Landorus Therian",
+          "name": "Meloetta Pirouette",
           "types": [
-            "ground",
-            "flying"
+            "normal",
+            "fighting"
           ],
-          "spriteSuffix": "therian"
+          "spriteSuffix": "pirouette"
         }
       ],
       "isLegendary": true,
-      "desc": "Landorus is a legendary Pokémon with Ground and Flying types. It has two forms: Landorus and Landorus Therian."
+      "desc": "Meloetta is a legendary Pokémon with Normal and Psychic types. It has two forms: Meloetta and Meloetta Pirouette."
     },
     {
-      "id": 646,
-      "name": "Kyurem",
+      "id": 649,
+      "name": "Genesect",
       "types": [
-        "dragon",
-        "ice"
+        "bug",
+        "steel"
       ],
       "forms": [
         {
-          "name": "Kyurem",
+          "name": "Genesect",
           "types": [
-            "dragon",
-            "ice"
+            "bug",
+            "steel"
           ]
         },
         {
-          "name": "Kyurem Black",
+          "name": "Genesect",
           "types": [
-            "dragon",
-            "ice"
+            "bug",
+            "steel"
           ],
-          "spriteSuffix": "black"
+          "spriteSuffix": "burn"
         },
         {
-          "name": "Kyurem White",
+          "name": "Genesect",
           "types": [
-            "dragon",
-            "ice"
+            "bug",
+            "steel"
           ],
-          "spriteSuffix": "white"
+          "spriteSuffix": "chill"
+        },
+        {
+          "name": "Genesect",
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "spriteSuffix": "douse"
+        },
+        {
+          "name": "Genesect",
+          "types": [
+            "bug",
+            "steel"
+          ],
+          "spriteSuffix": "shock"
         }
       ],
       "isLegendary": true,
-      "desc": "Kyurem is a legendary Pokémon with Dragon and Ice types. It has three forms: Kyurem, Kyurem Black, and Kyurem White."
-    },
-    [
-      {
-        "id": 647,
-        "name": "Keldeo",
-        "types": [
-          "water",
-          "fighting"
-        ],
-        "forms": [
-          {
-            "name": "Keldeo",
-            "types": [
-              "water",
-              "fighting"
-            ]
-          },
-          {
-            "name": "Keldeo",
-            "types": [
-              "water",
-              "fighting"
-            ],
-            "spriteSuffix": "resolute"
-          }
-        ],
-        "isLegendary": true,
-        "desc": "Keldeo is a legendary Pokémon with Water and Fighting types. It has two forms: Keldeo and Keldeo Resolute."
-      },
-      {
-        "id": 648,
-        "name": "Meloetta",
-        "types": [
-          "normal",
-          "psychic"
-        ],
-        "forms": [
-          {
-            "name": "Meloetta",
-            "types": [
-              "normal",
-              "psychic"
-            ]
-          },
-          {
-            "name": "Meloetta Pirouette",
-            "types": [
-              "normal",
-              "fighting"
-            ],
-            "spriteSuffix": "pirouette"
-          }
-        ],
-        "isLegendary": true,
-        "desc": "Meloetta is a legendary Pokémon with Normal and Psychic types. It has two forms: Meloetta and Meloetta Pirouette."
-      },
-      {
-        "id": 649,
-        "name": "Genesect",
-        "types": [
-          "bug",
-          "steel"
-        ],
-        "forms": [
-          {
-            "name": "Genesect",
-            "types": [
-              "bug",
-              "steel"
-            ]
-          },
-          {
-            "name": "Genesect",
-            "types": [
-              "bug",
-              "steel"
-            ],
-            "spriteSuffix": "burn"
-          },
-          {
-            "name": "Genesect",
-            "types": [
-              "bug",
-              "steel"
-            ],
-            "spriteSuffix": "chill"
-          },
-          {
-            "name": "Genesect",
-            "types": [
-              "bug",
-              "steel"
-            ],
-            "spriteSuffix": "douse"
-          },
-          {
-            "name": "Genesect",
-            "types": [
-              "bug",
-              "steel"
-            ],
-            "spriteSuffix": "shock"
-          }
-        ],
-        "isLegendary": true,
-        "desc": "Genesect is a legendary Pokémon with Bug and Steel types. It has five forms: Genesect, Genesect Burn, Genesect Chill, Genesect Douse, and Genesect Shock."
-      }
-    ]
+      "desc": "Genesect is a legendary Pokémon with Bug and Steel types. It has five forms: Genesect, Genesect Burn, Genesect Chill, Genesect Douse, and Genesect Shock."
+    }
   ]
+]

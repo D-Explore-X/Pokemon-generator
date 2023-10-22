@@ -166,7 +166,7 @@
           "types": ["electric"],
           "desc": "An Electric-type Pokémon known for its lightning bolt-shaped tail. It is the mascot of the Pokémon franchise."
         },
-        [
+        
             {
               "id": 26,
               "name": "Raichu",
@@ -325,7 +325,7 @@
               "types": ["bug", "poison"],
               "desc": "The final evolved form of Venonat. It releases poisonous scales when threatened."
             },
-            [
+            
                 {
                   "id": 50,
                   "name": "Diglett",
@@ -431,7 +431,7 @@
                   "types": ["psychic"],
                   "desc": "The final evolved form of Kadabra. It has an IQ of over 5,000 and formidable psychic abilities."
                 },
-                [
+                
                     {
                       "id": 66,
                       "name": "Machop",
@@ -662,7 +662,7 @@
                       "types": ["electric"],
                       "desc": "A spherical Pokémon that resembles a Poké Ball. It can explode with powerful electrical energy."
                     },
-                    [
+                    
                         {
                           "id": 101,
                           "name": "Electrode",
@@ -854,7 +854,7 @@
                           "types": ["water", "flying"],
                           "desc": "The evolved form of Magikarp. It is a powerful and ferocious sea serpent."
                         },
-                        [
+                        
                             {
                               "id": 131,
                               "name": "Lapras",
@@ -985,7 +985,7 @@
                               "isLegendary": true,
                               "desc": "Mewtwo is a legendary Psychic-type Pokémon with incredible psychic powers. It is highly intelligent and formidable."
                             },
-                            [
+                            
                                 {
                                   "id": 151,
                                   "name": "Mew",
@@ -1481,8 +1481,9 @@
                                         "types": ["Psychic"],
                                         "spriteSuffix": "question",
                                         "desc": "A form of Unown representing a question mark."
-                                      },
-                                      [
+                                      }
+                                    ]
+                                    },
                                         {
                                           "id": 202,
                                           "name": "Wobbuffet",
