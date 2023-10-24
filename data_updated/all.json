@@ -3117,6 +3117,7 @@
             "steel",
             "fairy"
         ],
+        "desc": "Mawile is a Steel/Fairy-type Pokemon with a distinctive jaw-like appendage. It uses its jaw to defend itself and can Mega Evolve for added power.",
         "forms": [
             {
                 "name": "Mawile",
@@ -3505,6 +3506,7 @@
             "dragon",
             "flying"
         ],
+        "desc": "Altaria is a Dragon/Flying-type Pokemon known for its gentle and soothing demeanor. It can Mega Evolve into a Dragon/Fairy-type for added charm.",
         "forms": [
             {
                 "name": "Altaria",
@@ -4164,6 +4166,7 @@
             "dragon",
             "flying"
         ],
+        "desc": "Rayquaza is a Legendary Dragon/Flying-type Pokemon known as the Sky High Pokemon. It is said to quell the clash between Kyogre and Groudon.",
         "forms": [
             {
                 "name": "Rayquaza",

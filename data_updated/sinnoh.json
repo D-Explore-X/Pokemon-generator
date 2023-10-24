@@ -1189,6 +1189,8 @@
         "types": [
             "grass"
         ],
+        "desc": "Cherrim is a Grass-type Pokemon known for its ability to change forms based on the weather, becoming more cheerful in the sunshine.",
+
         "forms": [
             {
                 "name": "Cherrim",
