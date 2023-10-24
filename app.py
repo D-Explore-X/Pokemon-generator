@@ -1,13 +1,14 @@
 from flask import Flask, render_template, request, jsonify
 import json
 import random
+
 import os
 
 app = Flask(__name__)
 
 # Load Pokémon data from JSON files
 
-data_dir = "data/"
+data_dir = "data_updated/"
 regions = [
     "all.json",
     "alola_usum.json",
@@ -27,7 +28,7 @@ regions = [
 
 pokemon_data = {}
 for region in regions:
-    with open(os.path.join(data_dir, region), "r") as json_file:
+    with open(data_dir + region, "r") as json_file:
         region_data = json.load(json_file)
         pokemon_data[region.split(".")[0]] = region_data
 
@@ -50,6 +51,8 @@ current_options = DEFAULT_OPTIONS
 def index():
     return render_template('index.html', options=current_options)
 
+# ...
+
 @app.route('/generate', methods=['POST'])
 def generate_pokemon():
     global current_options
@@ -62,8 +65,15 @@ def generate_pokemon():
     # Filter Pokémon based on options
     eligible_pokemon = []
     for pokemon in selected_region:
-        if (current_options["legendaries"] or not pokemon["isLegendary"]) \
-            and (current_options["nfes"] or not pokemon["isNfe"]):
+        # Check if the 'types' key exists in the pokemon dictionary
+        if (
+            (current_options["legendaries"] or not pokemon.get("isLegendary", False)) and
+            (current_options["nfes"] or not pokemon.get("isNfe", False)) and
+            (
+                current_options["type"] == "all" or
+                ("types" in pokemon and current_options["type"] in pokemon["types"])
+            )
+        ):
             eligible_pokemon.append(pokemon)
 
     # Randomly select N Pokémon
@@ -77,11 +87,24 @@ def generate_pokemon():
     if current_options["sprites"]:
         sprite_urls = [get_sprite_url(pokemon) for pokemon in selected_pokemon]
 
-    return jsonify({
+    # Prepare data to send to the client
+    response_data = {
         "pokemon": selected_pokemon,
-        "sprite_urls": sprite_urls
-    })
+        "sprite_urls": sprite_urls,
+    }
 
+    # If "forms" option is selected, include forms data in the response
+    if current_options["forms"]:
+        forms = []
+        for pokemon in selected_pokemon:
+            if "forms" in pokemon:
+                forms.extend(pokemon["forms"])
+        response_data["forms"] = forms
+    for pokemon in selected_pokemon:
+        if "desc" in pokemon:
+            response_data.setdefault("desc", []).append(pokemon["desc"])
+
+    return jsonify(response_data)
 def get_sprite_url(pokemon):
     sprite_dir = "static/pokemon_sprites"
     sprite_type = "normal"
