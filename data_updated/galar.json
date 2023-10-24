@@ -4816,15 +4816,6 @@
         ]
     },
     {
-        "id": 866,
-        "name": "Mr. Rime",
-        "types": [
-            "psychic",
-            "ice"
-        ],
-        "desc": "Mr. Rime is the evolved form of Mr. Mime, known for its sophisticated dancing and icy abilities."
-    },
-    {
         "id": 554,
         "name": "Darumaka",
         "isNfe": true,

@@ -10364,15 +10364,6 @@
         "desc": "Sirfetch'd is the evolved form of Farfetch'd, a Fighting-type Pokemon. It is known for its chivalrous and knight-like appearance."
     },
     {
-        "id": 866,
-        "name": "Mr. Rime",
-        "types": [
-            "psychic",
-            "ice"
-        ],
-        "desc": "Mr. Rime is a dual-type Pokemon with Psychic and Ice attributes. It is known for its elegant and clown-like appearance, often used for entertainment."
-    },
-    {
         "id": 867,
         "name": "Runerigus",
         "types": [

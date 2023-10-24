@@ -37,6 +37,19 @@ h1 {
     margin: 0;
     font-size: 24px;
 }
+/* Increase the size of the sprite images */
+.pokemon-result img {
+    width: 500px; /* Set your desired width */
+    height: auto; /* This will maintain the aspect ratio */
+    image-rendering: pixelated; /* Prevent smoothing/interpolation */
+}
+
+/* Style the "Download" button */
+.pokemon-result a {
+    display: block; /* Display the button as a block element to separate it from the image */
+    text-align: center; /* Center-align the button text */
+    margin-top: 10px; /* Add some space between the image and the button */
+}
 
 
 /* Add more CSS styles for form elements and results as needed */
