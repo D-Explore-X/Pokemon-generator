@@ -1309,62 +1309,72 @@
             "desc": "Latias is a Legendary Pokemon that resembles a dragon and possesses psychic abilities. It is highly intelligent and has a gentle nature. Latias is known for its ability to communicate telepathically with humans and other Pokemon."
         },
         
-            {
-              "id": 381,
-              "name": "Latios",
-              "types": ["dragon", "psychic"],
-              "isLegendary": true
-            },
-            {
-              "id": 382,
-              "name": "Kyogre",
-              "types": ["water"],
-              "isLegendary": true
-            },
-            {
-              "id": 383,
-              "name": "Groudon",
-              "types": ["ground"],
-              "isLegendary": true
-            },
-            {
-              "id": 384,
-              "name": "Rayquaza",
-              "types": ["dragon", "flying"],
-              "isLegendary": true
-            },
-            {
-              "id": 385,
-              "name": "Jirachi",
-              "types": ["steel", "psychic"],
-              "isLegendary": true
-            },
-            {
-              "id": 386,
-              "name": "Deoxys",
-              "types": ["psychic"],
-              "forms": [
-                {
-                  "name": "Deoxys",
-                  "types": ["psychic"]
-                },
-                {
-                  "name": "Deoxys Attack",
-                  "types": ["psychic"],
-                  "spriteSuffix": "attack"
-                },
-                {
-                  "name": "Deoxys Defense",
-                  "types": ["psychic"],
-                  "spriteSuffix": "defense"
-                },
-                {
-                  "name": "Deoxys Speed",
-                  "types": ["psychic"],
-                  "spriteSuffix": "speed"
-                }
-              ],
-              "isLegendary": true
-            }
+        {
+            "id": 381,
+            "name": "Latios",
+            "types": ["dragon", "psychic"],
+            "isLegendary": true,
+            "desc": "Latios is a Dragon/Psychic-type Legendary Pokémon. It has strengths against Fighting, Bug, Grass, and Psychic types but is weak to Ice, Dragon, Fairy, Dark, and Ghost types. Latios has the ability Levitate."
+          },
+          {
+            "id": 382,
+            "name": "Kyogre",
+            "types": ["water"],
+            "isLegendary": true,
+            "desc": "Kyogre is a Water-type Legendary Pokémon. It excels against Fire, Ground, and Rock types but is vulnerable to Electric and Grass types. Kyogre possesses the ability Drizzle."
+          },
+          {
+            "id": 383,
+            "name": "Groudon",
+            "types": ["ground"],
+            "isLegendary": true,
+            "desc": "Groudon is a Ground-type Legendary Pokémon. It is strong against Fire, Electric, Rock, Poison, and Steel types but weak to Water, Grass, and Ice types. Groudon's ability is Drought."
+          },
+          {
+            "id": 384,
+            "name": "Rayquaza",
+            "types": ["dragon", "flying"],
+            "isLegendary": true,
+            "desc": "Rayquaza is a Dragon/Flying-type Legendary Pokémon. It is effective against Grass, Fighting, Bug, and Ground types but has vulnerabilities to Ice, Dragon, Rock, Electric, and Fairy types. Rayquaza has the ability Air Lock."
+          },
+          {
+            "id": 385,
+            "name": "Jirachi",
+            "types": ["steel", "psychic"],
+            "isLegendary": true,
+            "desc": "Jirachi is a Steel/Psychic-type Legendary Pokémon. It shines against Rock, Ice, Fairy, Psychic, and Steel types but is weak to Fire, Ground, Dark, and Ghost types. Jirachi's ability is Serene Grace."
+          },
+          {
+            "id": 386,
+            "name": "Deoxys",
+            "types": ["psychic"],
+            "forms": [
+              {
+                "name": "Deoxys",
+                "types": ["psychic"],
+                "desc": "Deoxys is a Psychic-type Legendary Pokémon with strengths against Fighting, Poison, and Psychic types. Its weaknesses include Bug, Dark, and Ghost types. Deoxys has the ability Pressure."
+              },
+              {
+                "name": "Deoxys Attack",
+                "types": ["psychic"],
+                "spriteSuffix": "attack",
+                "desc": "Deoxys Attack form shares the strengths and weaknesses of the standard Deoxys form. It also has the ability Pressure."
+              },
+              {
+                "name": "Deoxys Defense",
+                "types": ["psychic"],
+                "spriteSuffix": "defense",
+                "desc": "Deoxys Defense form shares the strengths and weaknesses of the standard Deoxys form. It also has the ability Pressure."
+              },
+              {
+                "name": "Deoxys Speed",
+                "types": ["psychic"],
+                "spriteSuffix": "speed",
+                "desc": "Deoxys Speed form shares the strengths and weaknesses of the standard Deoxys form. It also has the ability Pressure."
+              }
+            ],
+            "isLegendary": true
+          }
+          
 
         ]
