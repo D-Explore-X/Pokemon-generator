@@ -110,19 +110,24 @@ def get_sprite_url(pokemon):
     sprite_type = "normal"
     sprite_suffix = ""
     
-    if current_options["sprites"]:
+    # Check if "sprites" option is selected
+    if current_options["sprites"]: 
         sprite_type = "shiny" if "shiny" in current_options else "normal"
     
-    # Construct the sprite file name based on Pokémon name
-    sprite_filename = f"{pokemon['name'].lower()}{sprite_suffix}.png"
+        # Construct the sprite file name based on Pokémon name
+        sprite_filename = f"{pokemon['name'].lower()}{sprite_suffix}.png"
     
-    # Define the sprite path relative to the "static" folder
-    sprite_path = os.path.join(sprite_dir, sprite_type, sprite_filename)
+        # Define the sprite path relative to the "static" folder
+        sprite_path = os.path.join(sprite_dir, sprite_type, sprite_filename)
     
-    # Construct the URL using Flask's send_from_directory
-    sprite_url = sprite_path
+        # Construct the URL using Flask's send_from_directory
+        sprite_url = sprite_path
+    else:
+        # If "sprites" option is not selected, set sprite_url to an empty string
+        sprite_url = ""
     
     return sprite_url
+
 
 if __name__ == '__main__':
     app.config['SITE_URL'] = "http://localhost:5000"
