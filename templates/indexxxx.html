@@ -188,16 +188,25 @@
                             spriteImg.alt = pokemon.name;
                             resultDiv.appendChild(spriteImg);
                             // Add a "Download" button for the image
-                            const downloadButton = document.createElement("a");
+                            const downloadButton = document.createElement("button");
                             downloadButton.textContent = "Download";
-                            downloadButton.href = spriteImg.src;
-                            downloadButton.download = `${pokemon.name.toLowerCase()}_sprite.png`;
+                            downloadButton.onclick = function() {
+                            downloadSprite(spriteImg.src, `${pokemon.name.toLowerCase()}_sprite.png`);
+                            };
                             resultDiv.appendChild(downloadButton);
                         }
+                        // Function to trigger the download
+                       function downloadSprite(url, filename) {
+                       const link = document.createElement("a");
+                       link.href = url;
+                       link.download = filename;
+                       link.click();
+                       }
 
                         // Append the resultDiv to the main results section
                         resultsSection.appendChild(resultDiv);
                     });
+                    
                 })
                 .catch(error => {
                     console.error("Error:", error);
