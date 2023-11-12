@@ -111,7 +111,7 @@ def get_sprite_url(pokemon):
     sprite_suffix = ""
     
     # Check if "sprites" option is selected
-    if current_options["sprites"]:
+    if current_options["sprites"]: 
         sprite_type = "shiny" if "shiny" in current_options else "normal"
     
         # Construct the sprite file name based on Pokémon name
