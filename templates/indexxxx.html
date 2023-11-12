@@ -135,7 +135,7 @@
                             formsElement.textContent = `Forms: ${pokemon.forms.map(form => form.name).join(', ')}`;
                             resultDiv.appendChild(formsElement);
                         }
-
+ 
                         // If "sprites" option is selected, display the sprite
                         if (data.sprite_urls && data.sprite_urls.length > 0) {
                             const spriteImg = document.createElement("img");
