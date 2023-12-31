@@ -14,7 +14,7 @@ regions = [
     "alola_usum.json",
     "alola.json",
     "galar.json",
-    "hisui.json",
+    "hisui.json", 
     "hoenn.json",
     "johto.json",
     "kalos.json",
